@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De Christianis malis</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De Christianis malis</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e3386">
+        <head xml:id="UUyf3f-d1e3386-Hd1e99" type="question-title">De Christianis malis</head>
+        <p xml:id="UUyf3f-d1e3386-d1e102">
+          <ref corresp="#UUyf3f-d1e3386-Qd1e112" xml:id="UUyf3f-d1e3386-Rd1e104">Gregorius, <title>in Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3386-Qd1e112">Multos peste propriae pravitatis obsessos; sub
+              christiano nomine ipsa tranquillitas ecclesiastice pacis abscondit: quos tamen si
+              levis persecutionis aura pulsaverit, mox extra aream velut paleas tollit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3386-d1e117">
+          <ref corresp="#UUyf3f-d1e3386-Qd1e127" xml:id="UUyf3f-d1e3386-Rd1e119">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3386-Qd1e127">Si veraciter Christianus esses, plus Dei judicium
+              quam voces hominum timeres.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3386-d1e132">
+          <ref corresp="#UUyf3f-d1e3386-Qd1e142" xml:id="UUyf3f-d1e3386-Rd1e134">Augustinus, <title>de decem chordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3386-Qd1e142">Qui non de futuro saeculo cogitat, nec propterea
+              Christianus est, ut id, quod in fine Deus promittit, accipiat, nondum Christianus
+              est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3386-d1e147">
+          <ref corresp="#UUyf3f-d1e3386-Qd1e157" xml:id="UUyf3f-d1e3386-Rd1e149">Augustinus, <title>de Vita christiana</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3386-Qd1e157">Christi ille non famulus, sed subsannator et
+              irrisor est, qui ejus se servum dicit, cui servire dissimulat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3386-d1e163">
+          <ref corresp="#UUyf3f-d1e3386-Qd1e173" xml:id="UUyf3f-d1e3386-Rd1e165">Augustinus, <title>de Vita christiana</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3386-Qd1e173">Non in hoc nobis nomen tantum quod Christiani
+              dicimur, blandiamur; sed propter hoc etiam nos judicandos credamus, si nomen nobis
+              frustra vendicemus alienum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3386-d1e178">
+          <ref corresp="#UUyf3f-d1e3386-Qd1e188" xml:id="UUyf3f-d1e3386-Rd1e180">Isidorus, <title>de summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3386-Qd1e188">Christianus malus secundum Evangelii doctrinam
+              non vivit, et ipsam fidem, quam verbo colit, adorta tentatione, facile perdit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3386-d1e193">
+          <ref corresp="#UUyf3f-d1e3386-Qd1e203" xml:id="UUyf3f-d1e3386-Rd1e195">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3386-Qd1e203">Intestina et insanabilis est plaga Ecclesiae, et
+              ideo <!--<i>-->in pace amaritudo ejus amarissima<!--</i>-->. Sed in qua pace pax est,
+              et non est: pax a paganis, pax ab haereticis, sed non profecto a filiis. Vox
+              plangentis Ecclesiae etiam tempore isto: <!--<i>-->Filios enutrivi et exaltavi; ipsi
+              autem spreverunt me, spreverunt et maculaverunt me<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3386-d1e216">
+          <ref corresp="#UUyf3f-d1e3386-Qd1e223" xml:id="UUyf3f-d1e3386-Rd1e218">Bernardus, in sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3386-Qd1e223">Nunc frustra clamat Christus de levitate oneris
+              sui, sine causa jugum suum suave praedicat: quandoquidem et ab ipsis, qui christiano
+              censentur nomine, onus diaboli, et jugum carnis atque saeculi hujus delectabilius
+              reputatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3386-d1e228">
+          <ref corresp="#UUyf3f-d1e3386-Qd1e235" xml:id="UUyf3f-d1e3386-Rd1e230">Bernardus, in sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3386-Qd1e235">Sicut ipsi Christum persequuntur, qui ab eo
+              utique Christiani dicuntur <title>amici</title> tui, Deus, <!--<i>-->et proximi
+              adversum te appropinguaverunt et steterunt<!--</i>-->, conjurasse videtur contra te
+              universitas populi christiani a minimo usque ad maximum.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

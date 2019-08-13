@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De dijudicatione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De dijudicatione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e30620">
+        <head xml:id="UUyf3f-d1e30620-Hd1e99" type="question-title">De dijudicatione</head>
+        <p xml:id="UUyf3f-d1e30620-d1e102">
+          <ref corresp="#UUyf3f-d1e30620-Qd1e112" xml:id="UUyf3f-d1e30620-Rd1e104">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30620-Qd1e112">Grave est satis et indecens, ut in re dubia
+              certa dicatur sententia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30620-d1e117">
+          <ref corresp="#UUyf3f-d1e30620-Qd1e127" xml:id="UUyf3f-d1e30620-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30620-Qd1e127">Fit ut, dum ad aliena dijudicanda mens ducitur,
+              proprii judicii lumine privetur; et eo durius contra aliena superbiat, quo sua
+              negligentius ignorat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30620-d1e132">
+          <ref corresp="#UUyf3f-d1e30620-Qd1e142" xml:id="UUyf3f-d1e30620-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30620-Qd1e142">Quisquis superbiae, vel invidiae in se
+              tyrannidem captiva mente susceperit, hoc primum damnum patitur, quod, clauso cordis
+              oculo, judicii aequitatem perdit. Nam cuncta quae ab aliis bene geruntur, displicent;
+              et sola ei, quae ipse vel prave egerit, placent.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30620-d1e147">
+          <ref corresp="#UUyf3f-d1e30620-Qd1e157" xml:id="UUyf3f-d1e30620-Rd1e149">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30620-Qd1e157">Cuncti vanae gloriae sectatores, dum se omnibus
+              praeferunt, alios quidem de fatuis sensibus, alios autem de indignis meritis
+              reprehendunt, alios enim censent nihil scire, alios non bene vivere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30620-d1e163">
+          <ref corresp="#UUyf3f-d1e30620-Qd1e173" xml:id="UUyf3f-d1e30620-Rd1e165">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30620-Qd1e173">Sancti viri aliena opera etiam prava mirantur;
+              sua vero etiam magna despiciunt. Reprobi vero sua, vel quae parva sunt, admirantur; et
+              plerumque de suis malis bona aestimant, de alienis autem bonis male sentire non
+              cessant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30620-d1e178">
+          <ref corresp="#UUyf3f-d1e30620-Qd1e188" xml:id="UUyf3f-d1e30620-Rd1e180">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30620-Qd1e188">Periculosum est de servo alterius judicare, et
+              non facilis venia, prava dixisse de rectis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30620-d1e193">
+          <ref corresp="#UUyf3f-d1e30620-Qd1e203" xml:id="UUyf3f-d1e30620-Rd1e195">Joannes Chrysostomus, <title>de Compunctione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30620-Qd1e203">In alienis delictis severi et amarissimi judices
+              residemus; nostras autem trabes oculis infixas propriis non videmus, qui aliena etiam
+              minima sollicite perscrutamur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30620-d1e208">
+          <ref corresp="#UUyf3f-d1e30620-Qd1e218" xml:id="UUyf3f-d1e30620-Rd1e210">Joannes Chrysostomus, <title>de
+            Compunctione</title>)</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30620-Qd1e218">Judicare de alterius mente, summa difficultas
+              est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30620-d1e223">
+          <ref corresp="#UUyf3f-d1e30620-Qd1e233" xml:id="UUyf3f-d1e30620-Rd1e225">Augustinus, <title>de Sermone Domini in
+              monte</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30620-Qd1e233">Maxime hi temere judicant de meritis alienis, et
+              aliorum facta facile reprehendunt, qui magis amant vituperare et damnare, quam
+              emendare et corrigere. Quod quidem vitium, vel superbiae est, vel invidentiae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30620-d1e238">
+          <ref corresp="#UUyf3f-d1e30620-Qd1e248" xml:id="UUyf3f-d1e30620-Rd1e240">Bernardus, <title>de Contemptu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30620-Qd1e248">Judicent tunc, et praejudicent superbiae filii,
+              et cum rege suo sedeant, qui sibi latera aquilonis elegit. Exaltentur et eleventur
+              sicut cedrus Libani: transibimus, et ecce non erunt. Opprimant tunc quos possunt,
+              blasphement, congerant maledicta; veniant super nos opprobria exprobrantium Christo,
+              quoniam merces nostra copiosa est in coelo.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

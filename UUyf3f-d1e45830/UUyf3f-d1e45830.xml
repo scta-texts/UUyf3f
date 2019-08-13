@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De zelo (in De gratiosis)</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De zelo (in De gratiosis)</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e45830">
+        <head xml:id="UUyf3f-d1e45830-Hd1e99" type="question-title">De zelo (in De gratiosis)</head>
+        <p xml:id="UUyf3f-d1e45830-d1e102">
+          <ref corresp="#UUyf3f-d1e45830-Qd1e112" xml:id="UUyf3f-d1e45830-Rd1e104">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45830-Qd1e112">Nullum omnipotenti Deo tale est sacrificium,
+              quale est zelus animarum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45830-d1e117">
+          <ref corresp="#UUyf3f-d1e45830-Qd1e127" xml:id="UUyf3f-d1e45830-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45830-Qd1e127">Si nulla ira ex virtute surgeret, divinae
+              animadversionis impetum Phinees per gladium non placasset.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45830-d1e132">
+          <ref corresp="#UUyf3f-d1e45830-Qd1e142" xml:id="UUyf3f-d1e45830-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45830-Qd1e142">Aliquando necesse est ut pravis mentibus, quae
+              humana praedicatione corrigi nequeunt, divina flagella optari benigne debeant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45830-d1e147">
+          <ref corresp="#UUyf3f-d1e45830-Qd1e157" xml:id="UUyf3f-d1e45830-Rd1e149">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45830-Qd1e157">Si sic proximos ut nos amare praecipimur, restat
+              ut sic eorum erratibus sicut nostris vitiis irascamur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45830-d1e163">
+          <ref corresp="#UUyf3f-d1e45830-Qd1e173" xml:id="UUyf3f-d1e45830-Rd1e165">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45830-Qd1e173">Erga errata proximorum sic mansuetudo zelum
+              temperet, quatenus a justitiae studio non enervet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45830-d1e178">
+          <ref corresp="#UUyf3f-d1e45830-Qd1e188" xml:id="UUyf3f-d1e45830-Rd1e180">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45830-Qd1e188">Quid hic magis persequitur vitam bonorum, quam
+              vita iniquorum; non cum cogit imitari quod displicet, sed cum cogit dolere quod videt?
+              Quoniam coram pio vivens impie, etsi non obligat consentientem, cruciat
+              sentientem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45830-d1e193">
+          <ref corresp="#UUyf3f-d1e45830-Qd1e203" xml:id="UUyf3f-d1e45830-Rd1e195">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45830-Qd1e203">Zelum tuum inflammet charitas, informet
+              scientia, firmet constantia: sit fervidus, sit circumspectus, sit invictus, nec
+              teporem habeat, nec discretione careat, nec timidus sit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45830-d1e208">
+          <ref corresp="#UUyf3f-d1e45830-Qd1e218" xml:id="UUyf3f-d1e45830-Rd1e210">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45830-Qd1e218">Habeat charitas zelum; sed adhibeat pro tempore
+              modum: severitas nunquam remissa; intermissa tamen plus proficit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45830-d1e223">
+          <ref corresp="#UUyf3f-d1e45830-Qd1e233" xml:id="UUyf3f-d1e45830-Rd1e225">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45830-Qd1e233">Hoc vera et casta contemplatio habet, ut mentem
+              quanto divino igne vehementer succenderit, tanto interdum repleat zelo, et desiderio
+              acquirendi Deo qui eum similiter diligant, ut otium contemplationis pro studio
+              praedicationis libentissime intermittat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45830-d1e238">
+          <ref corresp="#UUyf3f-d1e45830-Qd1e245" xml:id="UUyf3f-d1e45830-Rd1e240">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45830-Qd1e245">Ira justa est, qua irascitur quis suis et
+              alienis peccatis, videns homines confitentes Deum ore, et negantes moribus;
+              renuntiantes saeculo verbis, et non factis; et videns fratres fratribus detrahentes,
+              osculum dantes, et fidem non servantes.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45830-d1e251">
+          <ref corresp="#UUyf3f-d1e45830-Qd1e258" xml:id="UUyf3f-d1e45830-Rd1e253">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45830-Qd1e258">Bonus zelus est fervor animi, quo mens, abjecto
+              humano timore, pro defensione veritatis accenditur, et eo magis commendabilis, quo
+              quaelibet prava, quae viderit, corrigere satagit; si nequit, tolerat et gemit.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

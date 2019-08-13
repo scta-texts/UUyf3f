@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De regratiatione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De regratiatione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e44360">
+        <head xml:id="UUyf3f-d1e44360-Hd1e99" type="question-title">De regratiatione</head>
+        <p xml:id="UUyf3f-d1e44360-d1e102">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e112" xml:id="UUyf3f-d1e44360-Rd1e104">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e112">Rectae mentis est, Deum non solum in prosperis
+              benedicere, sed etiam in adversitatibus collaudare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e117">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e127" xml:id="UUyf3f-d1e44360-Rd1e119">Gregorius, in <title>Registro</title> ad Episcopum
+            exponentem grammaticam</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e127">In uno se ore cum Jovis laudibus Christi laudes
+              non capiunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e132">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e142" xml:id="UUyf3f-d1e44360-Rd1e134">Augustinus, in <title>Enchiridion</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e142">
+              <!--<i>-->Misericordiam et judicium cantabo, tibi Domine<!--</i>-->, quia nisi per
+              indebitam misericordiam nemo liberatur, et nisi per debitum judicium nemo
+              condemnatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e151">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e161" xml:id="UUyf3f-d1e44360-Rd1e153">Augustinus, <title>de Verbis Domini</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e161">Felix sit mundus, evertatur mundus; benedicam
+              Dominum, qui fecit mundum: secundum carnem bene sit, secundum carnem male sit;
+              benedicam Dominum in omni tempore.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e167">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e177" xml:id="UUyf3f-d1e44360-Rd1e169">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e177">Qui est orandus ut faciat, illi est actio
+              gratiarum reddenda, cum fecerit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e182">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e192" xml:id="UUyf3f-d1e44360-Rd1e184">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e192">Ex his quae habes, gratias age Deo, tanquam
+              fonti bonitatis, unde habes; atque in omnibus bonis actibus tuis illi da claritatem,
+              tibi autem humilitatem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e197">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e207" xml:id="UUyf3f-d1e44360-Rd1e199">Augustinus, <title>de Confessionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e207">Tu, Domine, excitas, ut laudare te delectet,
+              quia fecisti nos ad te, et inquietum est cor nostrum, donec requiescat in te.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e212">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e222" xml:id="UUyf3f-d1e44360-Rd1e214">Augustinus, <title>de Spiritu et littera</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e222">Illa est sapientia, quae pietas vocatur, qua
+              colitur <!--<i>-->Pater luminum<!--</i>-->, a quo est <!--<i>-->omne datum optimum et
+              omne donum perfectum<!--</i>-->: colitur autem sacrificio laudis actionisque
+              gratiarum, et cultor ejus non in semetipso, sed in illo glorietur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e235">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e245" xml:id="UUyf3f-d1e44360-Rd1e237">Augustinus, <title>de Meditationibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e245">Gratias agamus de acceptis; et quod nondum
+              accepimus, eo ipso quod de acceptis ingrati non sumus, nos accepturos esse
+              confidamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e250">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e260" xml:id="UUyf3f-d1e44360-Rd1e252">Augustinus, <title>de Catechizandis Rudibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e260">Quidquid homo fecerit, laudabilem in suis factis
+              invenit Deum. Si recte egerit, laudabilem invenit per justitiam praemiorum; si
+              peccaverit, laudabilem invenit per justitiam suppliciorum; si peccata confessus ad
+              recte vivendum redierit, laudabilem invenit per misericordiam indulgentiarum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e266">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e276" xml:id="UUyf3f-d1e44360-Rd1e268">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e276">Cum psalmum dicis, cujus verba loqueris,
+              agnosce: et in compunctione magis animi, quam in tinnulae vocis dulcedine delectare;
+              lacrymas psallentis Deus magis, quam vocis gratia comprobat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e281">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e291" xml:id="UUyf3f-d1e44360-Rd1e283">Joannes Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e291">Glorificemus Deum, et per fidem, et per opera:
+              nulla enim utilitas nobis in salutem dogmatum sanorum, corrupta nobis vita.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e296">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e306" xml:id="UUyf3f-d1e44360-Rd1e298">Joannes Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e306">Rapuit ille, gratias egisti tu pro injustitia?
+              et glorificasti Deum, et finitas per gratiarum actiones multas fructificasti
+              mercedes.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e311">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e321" xml:id="UUyf3f-d1e44360-Rd1e313">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e321">Nil aliud, dum psallitis, quem quod psallitis,
+              cogitetis: nec solas dico vitandas cogitationes vanas et otiosas, vitandae sunt et
+              illae duntaxat, illa hora, et illo loco, quas officiales fratres, pro communi
+              necessitate, quasi necessario frequenter admittere compelluntur: sed ne illa quidem
+              profecto recipere consuluerim, quae forte paulo ante in codicibus legeratis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e326">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e336" xml:id="UUyf3f-d1e44360-Rd1e328">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e336">Moneo vos, dilectissimi, pure ac strenue divinis
+              interesse laudibus: strenue quidem, ut sicut reverenter, ita et alacriter Domino
+              assistatis; non pigri, non somnolenti, non oscitantes, non parcentes vocibus, non
+              praecidentes verba dimidia, non integra transilientes, non fractis et remissis
+              vocibus, muliebre quiddam balba de nare sonantes; sed virili, ut dignum est, sonitu et
+              affectu voces sancti Spiritus depromentes.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e341">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e351" xml:id="UUyf3f-d1e44360-Rd1e343">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e351">Disce, in referendo gratias, non esse tardus,
+              aut segnis: disce ad singula dona gratias agere: <!--<i>-->Diligenter<!--</i>-->,
+              inquit, <!--<i>-->considera, quae tibi apponuntur<!--</i>-->, ut nulla videlicet Dei
+              dona debita gratiarum actione frustrentur, non grandia, non mediocria, non pusilla:
+              denique jubemur colligere fragmenta, ne pereant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e365">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e375" xml:id="UUyf3f-d1e44360-Rd1e367">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e375">Omnis de bonis multiformis gratiae apparentis in
+              vobis, referatur ad ipsum laus, laudabilium siquidem universorum auctorem et
+              largitorem; idque non ficte, quemadmodum ab hypocritis, nec sola consuetudine, sicut a
+              saecularibus, sed nec necessitate quidem, ut jumenta ferendis oneribus applicantur:
+              sed, sicut decet sanctos, sinceritate fida, devotione sollicita, hilaritate grata, non
+              tamen dissoluta.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e380">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e390" xml:id="UUyf3f-d1e44360-Rd1e382">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e390">Immolantes hostias laudis, et reddentes vota
+              nostra de die in diem, curemus omni vigilantia jungere sensum usui, affectum sensui,
+              exultationem affectui, gravitatem exultationi, humilitatem gravitati, libertatem
+              humilitati, quo interim liberis purgatae mentis passibus procedamus, et excedamus per
+              inusitatas quasdam affectiones, spiritales laetitias, invisibiles amoenitates in
+              lumine Dei, in suavitate, in Spiritu sancto.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e395">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e405" xml:id="UUyf3f-d1e44360-Rd1e397">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e405">In quotidianis exercitiis et bellis, quae nulla
+              hora pie in Christo viventibus desunt a carne, a mundo, a diabolo, sicut militiam
+              vitam hominis esse super terram incessanter experimini in vobismetipsis, quotidiana
+              necesse est cantica pro assecutis victoriis immolari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e410">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e420" xml:id="UUyf3f-d1e44360-Rd1e412">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e420">Non tantum verbo, et lingua, sed opere, et
+              veritate, exhibeamus nos non ingratos: non enim gratiarum dictionem, sed gratiarum
+              actionem exigit a nobis Dominus Deus noster.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44360-d1e425">
+          <ref corresp="#UUyf3f-d1e44360-Qd1e435" xml:id="UUyf3f-d1e44360-Rd1e427">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44360-Qd1e435">Oportet hominem gratiosum et devotum esse: quia
+              libenter dona multiplicantur, si priora bene salva videntur.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

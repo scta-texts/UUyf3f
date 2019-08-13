@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De concordia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De concordia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e40620">
+        <head xml:id="UUyf3f-d1e40620-Hd1e99" type="question-title">De concordia</head>
+        <p xml:id="UUyf3f-d1e40620-d1e102">
+          <ref corresp="#UUyf3f-d1e40620-Qd1e112" xml:id="UUyf3f-d1e40620-Rd1e104">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40620-Qd1e112">Quisquis patris heres esse desiderat, filius
+              existere pacem custodiendo non renuat. Nam qui locum praebet discordiae, ipse profecto
+              tanti se muneris exortem esse constituit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40620-d1e117">
+          <ref corresp="#UUyf3f-d1e40620-Qd1e127" xml:id="UUyf3f-d1e40620-Rd1e119">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40620-Qd1e127">Pacem tunc veraciter tenemus, cum superborum
+              culpas charitate et justitia simul insistente persequimur; cum eos diligimus, et eorum
+              vitia odio habemus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40620-d1e132">
+          <ref corresp="#UUyf3f-d1e40620-Qd1e142" xml:id="UUyf3f-d1e40620-Rd1e134">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40620-Qd1e142">Manifestum bonitatis esse liquet indicium, in
+              unius electione cunctorum convenire consensum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40620-d1e147">
+          <ref corresp="#UUyf3f-d1e40620-Qd1e157" xml:id="UUyf3f-d1e40620-Rd1e149">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40620-Qd1e157">Laudabile et studio est religioso conveniens,
+              terrenis gratam Deo pacem praeferre compendiis, et ex rebus transitoriis mansura
+              charitatis semper lucra mercari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40620-d1e163">
+          <ref corresp="#UUyf3f-d1e40620-Qd1e173" xml:id="UUyf3f-d1e40620-Rd1e165">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40620-Qd1e173">Sicut noxium esse solet, si unitas desit bonis;
+              ita perniciosum est, si non desit malis. Perversos quippe unitas corroborat, dum
+              concordat; et tanto magis incorrigibiles, quanto unanimes facit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40620-d1e178">
+          <ref corresp="#UUyf3f-d1e40620-Qd1e188" xml:id="UUyf3f-d1e40620-Rd1e180">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40620-Qd1e188">Ita bona facere opera debemus, ut per haec
+              quoque cum his, cura quibus vivimus, unanimitatem, in quantum recte possumus,
+              conservemus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40620-d1e193">
+          <ref corresp="#UUyf3f-d1e40620-Qd1e203" xml:id="UUyf3f-d1e40620-Rd1e195">Augustinus, <title>de verbis Domini</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40620-Qd1e203">Pax est serenitas mentis, tranquillitas animi,
+              simplicitas cordis, vinculum amoris, consortium charitatis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40620-d1e208">
+          <ref corresp="#UUyf3f-d1e40620-Qd1e218" xml:id="UUyf3f-d1e40620-Rd1e210">Augustinus, <title>de verbis Domini</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40620-Qd1e218">Pax cunctis est placida, non quaerit alienum,
+              nihil deputat suum, docet amare, quae odisse non novit, nescit inflari. Hanc ergo qui
+              accepit, teneat; qui perdidit, repetat; qui amisit, requirat: quoniam qui in ea non
+              fuerit inventus, abdicatur a Patre, exheredatur a Filio, nihilominus a Spiritu sancto
+              efficitur alienus. Respuit enim munus oblatum, qui datae legis contempserit bonum; nec
+              poterit ad hereditatem Domini pervenire, qui testamentum noluerit observare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40620-d1e223">
+          <ref corresp="#UUyf3f-d1e40620-Qd1e233" xml:id="UUyf3f-d1e40620-Rd1e225">Augustinus, <title>de Ovibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40620-Qd1e233">Testamentum Dei et hereditas pax est, ut a
+              concordibus consortibus possideatur, non a litigantibus dividatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40620-d1e238">
+          <ref corresp="#UUyf3f-d1e40620-Qd1e248" xml:id="UUyf3f-d1e40620-Rd1e240">Augustinus, <title>de Quaestionibus Veteris ac Novi
+              Testamenti</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40620-Qd1e248">Qui pacem suscipit Salvatoris, inimicitiam
+              contrahit mundi. Nisi enim discordaverit a Diabolo, pacem non habebit cum
+              Christo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40620-d1e254">
+          <ref corresp="#UUyf3f-d1e40620-Qd1e264" xml:id="UUyf3f-d1e40620-Rd1e256">Augustinus, <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40620-Qd1e264" source="http://scta.info/resource/adcd-l19-d1e3108">Tantum est pacis bonum, ut etiam
+              in rebus terrenis atque mortalibus nihil gratius soleat audiri, nihil desiderabilius
+              concupisci, nihil postremo possit melius inveniri.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40620-d1e269">
+          <ref corresp="#UUyf3f-d1e40620-Qd1e279" xml:id="UUyf3f-d1e40620-Rd1e271">Augustinus, <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40620-Qd1e279" source="http://scta.info/resource/adcd-l19-d1e3112">Pacem constat belli esse optabilem
+              finem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40620-d1e284">
+          <ref corresp="#UUyf3f-d1e40620-Qd1e294" xml:id="UUyf3f-d1e40620-Rd1e286">Joannes Chrysostomus, <title>de Compunctione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40620-Qd1e294">Ubi pax est, ibi omnia prosperabuntur; ubi
+              sobrietas lucet, ubi unanimitas, abstinentia coronatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40620-d1e299">
+          <ref corresp="#UUyf3f-d1e40620-Qd1e309" xml:id="UUyf3f-d1e40620-Rd1e301">Joannes Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40620-Qd1e309">Est et mala concordia; est et bona
+              dissonantia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40620-d1e314">
+          <ref corresp="#UUyf3f-d1e40620-Qd1e324" xml:id="UUyf3f-d1e40620-Rd1e316">Ambrosius, <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40620-Qd1e324">Fuge contentiones, dissensiones, strepitus,
+              tumultus discordiae, ne per portas mortis ingressus intereas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40620-d1e329">
+          <ref corresp="#UUyf3f-d1e40620-Qd1e339" xml:id="UUyf3f-d1e40620-Rd1e331">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40620-Qd1e339">Pax plebis sanitas, gloria sacerdotis, et
+              patriae laetitia, et terror hostium, sive visibilium, sive invisibilium.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40620-d1e345">
+          <ref corresp="#UUyf3f-d1e40620-Qd1e355" xml:id="UUyf3f-d1e40620-Rd1e347">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40620-Qd1e355">Pax cum bonis, et bellum cum vitiis semper
+              habendum est: mala siquidem hominum impiorum odio habenda.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40620-d1e360">
+          <ref corresp="#UUyf3f-d1e40620-Qd1e370" xml:id="UUyf3f-d1e40620-Rd1e362">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40620-Qd1e370">Pacem habete, et vos nolite laedere invicem, non
+              facto, non verbo, non signo qualicumque: ne quis forte exacerbatus, et praeoccupatus a
+              pusillanimitate spiritus et tempestate, Deum interpellare cogatur adversus eos qui se
+              laeserint et contristaverint, et prorumpere in verbum grave contingat: <!--<i>-->Filii
+              matris meae pugnaverunt contra me<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40620-d1e379">
+          <ref corresp="#UUyf3f-d1e40620-Qd1e389" xml:id="UUyf3f-d1e40620-Rd1e381">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40620-Qd1e389">Nisi in unitate opus tuum feceris, Deo, qui unus
+              est, acceptus esse non poteris. Scriptum quippe est: <!--<i>-->Non est qui faciat
+              bonum, non est usque ad unum<!--</i>-->.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

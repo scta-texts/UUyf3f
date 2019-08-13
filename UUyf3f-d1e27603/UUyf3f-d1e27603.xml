@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De remorsu conscientiae</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De remorsu conscientiae</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e27603">
+        <head xml:id="UUyf3f-d1e27603-Hd1e99" type="question-title">De remorsu conscientiae</head>
+        <p xml:id="UUyf3f-d1e27603-d1e102">
+          <ref corresp="#UUyf3f-d1e27603-Qd1e112" xml:id="UUyf3f-d1e27603-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27603-Qd1e112">Dum nulla bonorum operum confidentia fulcitur,
+              intueri summa mens trepidat, quia ipsa se conscientia accusat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27603-d1e117">
+          <ref corresp="#UUyf3f-d1e27603-Qd1e127" xml:id="UUyf3f-d1e27603-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27603-Qd1e127">Quisquis а praeceptis dominicis discordat opere,
+              quoties ea audit, vel legit, corde suo reprehenditur atque confunditur, quia id, quod
+              non fecit, memoratur: nam in quo se errasse considerat, ipsa se latenter conscientia
+              accusat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27603-d1e132">
+          <ref corresp="#UUyf3f-d1e27603-Qd1e142" xml:id="UUyf3f-d1e27603-Rd1e134">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27603-Qd1e142">Scriptura sacra ei suavis est ad loquendum, cui
+              interius impressa ad vivendum fuerit. Nam sermo dulcedinem non habet, quem vita
+              reproba intra conscientiam remordet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27603-d1e147">
+          <ref corresp="#UUyf3f-d1e27603-Qd1e157" xml:id="UUyf3f-d1e27603-Rd1e149">Isidorus, in
+              <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27603-Qd1e157">Nulla poena gravior mala conscientia. Vis autem
+              nunquam esse tristis? bene vive.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27603-d1e163">
+          <ref corresp="#UUyf3f-d1e27603-Qd1e173" xml:id="UUyf3f-d1e27603-Rd1e165">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27603-Qd1e173">Omnia fugere poterit homo, praeter cor suum: non
+              enim potest a se quisquam recedere. Ubicumque enim abierit, reatus sui conscientia
+              illum non derelinquit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27603-d1e178">
+          <ref corresp="#UUyf3f-d1e27603-Qd1e188" xml:id="UUyf3f-d1e27603-Rd1e180">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27603-Qd1e188">Abyssus abyssum invocare, est de judicio suae
+              conscientiae ire ad judicium damnationis aeternae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27603-d1e193">
+          <ref corresp="#UUyf3f-d1e27603-Qd1e203" xml:id="UUyf3f-d1e27603-Rd1e195">Ambrosius,
+              <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27603-Qd1e203">Quae poena gravior, quam interioris vulnus
+              conscientiae? Nonne hoc magis fugiendum, quam mors, quam dispendium, quam exilium,
+              quam debilitas, quam dolor est?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27603-d1e208">
+          <ref corresp="#UUyf3f-d1e27603-Qd1e218" xml:id="UUyf3f-d1e27603-Rd1e210">Bernardus,
+              <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27603-Qd1e218">Vitiosus vitiosorum conscientias non refugit; et
+              ubi omnes sordent, unius foetor minime sentitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27603-d1e223">
+          <ref corresp="#UUyf3f-d1e27603-Qd1e233" xml:id="UUyf3f-d1e27603-Rd1e225">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27603-Qd1e233">Quis magis mortuus eo, qui portat ignem in sinu,
+              peccatum in conscientia, nec sentit, nec excutit, nec expavescit?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27603-d1e238">
+          <ref corresp="#UUyf3f-d1e27603-Qd1e248" xml:id="UUyf3f-d1e27603-Rd1e240">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27603-Qd1e248">Quid prodest recondere se, et oculos hominum
+              auresque vitare? Bona conscientia turbam advocat, mala, etiam in solitudine, anxia
+              atque sollicita est. Si honesta quae facis, omnes sciant; si turpia, quid refert
+              neminem scire, cum tu scias? O te miserum, si contemnis hunc testem!</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

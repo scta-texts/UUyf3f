@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De properitate</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De properitate</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e32055">
+        <head xml:id="UUyf3f-d1e32055-Hd1e99" type="question-title">De properitate</head>
+        <p xml:id="UUyf3f-d1e32055-d1e102">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e112" xml:id="UUyf3f-d1e32055-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e112">Sancti viri omnem praesentis vitae copiam,
+              inopiam deputant: quia videlicet nil extra Deum sufficit menti, quae veraciter Deum
+              quaerit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e117">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e127" xml:id="UUyf3f-d1e32055-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e127">Quamvis quolibet in loco positi, cogitando,
+              loquendo, agendo peccemus; tunc tamen per tria haec animus effraenatius rapitur, cum
+              mundi hujus sublevatur prosperitate.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e132">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e142" xml:id="UUyf3f-d1e32055-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e142">Non est census in crimine, sed affectus. Cuncta
+              enim quae Deus condidit, bona sunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e147">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e157" xml:id="UUyf3f-d1e32055-Rd1e149">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e157">Solet rerum abundantia tanto magis a divino
+              timore mentem solvere, quanto magis hanc exigit diversa cogitare. Nam dum foris per
+              multa spargitur, stare in intimis fixa prohibetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e163">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e173" xml:id="UUyf3f-d1e32055-Rd1e165">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e173">Qui transeuntia amplectitur, eo ipso ad decursum
+              ducitur, quo decurrentibus implicatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e178">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e188" xml:id="UUyf3f-d1e32055-Rd1e180">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e188">Multos sua pejus felicitas stravit, multos
+              diuturna pax inertes reddidit; eoque illos inopinatus hostis gravius percutit, quo
+              longo quietis usu negligentes invenit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e193">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e203" xml:id="UUyf3f-d1e32055-Rd1e195">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e203">Abundantia superbiae vicina est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e208">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e218" xml:id="UUyf3f-d1e32055-Rd1e210">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e218">Qui a Deo avertitur, et prosperatur, tanto
+              perditioni fit proximus, quanto a zelo disciplinae invenitur alienus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e223">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e233" xml:id="UUyf3f-d1e32055-Rd1e225">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e233">Libere nobis non debet dari donum Dei, quod per
+              delectationem sui separat ab amore Dei, ne data danti praeferamus; et dum bona
+              percipimus etiam mali, unde crescere in ejus amore debuimus, inde a timore illius
+              disjungamur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e238">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e248" xml:id="UUyf3f-d1e32055-Rd1e240">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e248">Ipsa felicitas mundialium rerum, satis magnum
+              impedimentum est animae ad justitiam faciendam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e254">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e264" xml:id="UUyf3f-d1e32055-Rd1e256">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e264">Qui vult Deum amare, necesse est ut odiat
+              divitias; qui autem voluerit amare divitias, necesse est ut odiat Deum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e269">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e279" xml:id="UUyf3f-d1e32055-Rd1e271">Joannes Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e279">Non accuso domos habentes, et agros, et
+              pecunias, et mancipia; sed cum cautela haec possideri volo, et cum decentia. Quid est
+              <!--<i>-->cum decentia<!--</i>-->, nisi ut more dominorum, et non servorum, possideant
+              ea, et non possideantur ab eis; ut utantur eis, et non abutantur?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e288">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e298" xml:id="UUyf3f-d1e32055-Rd1e290">Isidorus, in <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e298">Divitiae nunquam sine peccato acquiruntur;
+              nullus res terrenas sine peccato administrat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e303">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e313" xml:id="UUyf3f-d1e32055-Rd1e305">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e313">Fallax in transitoriis suavitas, et infructuosus
+              labor, et perpetuus timor, et periculosa sublimitas: initium sine providentia, et
+              finis cum poenitentia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e318">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e328" xml:id="UUyf3f-d1e32055-Rd1e320">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e328">Utaris hoc mundo tanquam non utens, ut ex bonis
+              ejus bona facias, et non malus fias; quia et ipsa bona sunt, et a Deo bona sunt; nec
+              dantur hominibus nisi ab illo, qui omnium coelestium atque terrestrium potestatem. Sed
+              ne putentur mala, dantur et bonis; ne putentur magna, vel summa bona, dantur et malis.
+              Itemque auferuntur et ista bonis, ut probentur; et malis, ut crucientur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e333">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e343" xml:id="UUyf3f-d1e32055-Rd1e335">Augustinus, <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e343">Amor rerum terrenarum viscus est pennarum
+              spiritualium.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e349">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e359" xml:id="UUyf3f-d1e32055-Rd1e351">Augustinus, <title>de verbis Apostoli</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e359">Aurum materia laborum, periculum possidentium,
+              enervatio virtutum, malus dominus, proditor servus. Aurum nemo tutus habet, nisi qui
+              semper abscondit: in perniciem domini fulget, per tenebras quaeritur, per tenebras
+              custoditur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e364">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e374" xml:id="UUyf3f-d1e32055-Rd1e366">Augustinus, <title>de verbis Apostoli</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e374">Aurum praebet misericordiae materiam apud bonos
+              animos, et novo genere lucri tunc magis prodest, quando contemnitur: ut scilicet ipsa
+              sui conditione testetur, quoniam mala est ejus rei possessio, cujus abdicatio
+              fructuosa.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e379">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e389" xml:id="UUyf3f-d1e32055-Rd1e381">Augustinus, <title>de Moribus Ecclesiae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e389">Multo enim mirabilius non inhaerere divitiis,
+              quamvis possideas, quam omnino eas non possidere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e394">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e404" xml:id="UUyf3f-d1e32055-Rd1e396">Ambrosius, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e404">Merito clamat Propheta: <!--<i>-->Divitiae si
+              affluant, nolite cor apponere<!--</i>-->. Quid enim prosunt, si mecum esse post mortem
+              non possunt? Hic acquiruntur; hic relinquuntur. Somnium igitur loquimur, non
+              patrimonium. Unde bene ait Propheta: <!--<i>-->Dormierunt somnum suum, et nihil
+              invenerunt omnes viri divitiarum in manibus suis<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e417">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e427" xml:id="UUyf3f-d1e32055-Rd1e419">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e427">Bona temporalia sunt, si non amantur ut
+              illicita: sive autem amentur, sive non amentur, non multum expediunt, quia quadam sui
+              dulcedine cor possidentis cito subvertunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e432">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e442" xml:id="UUyf3f-d1e32055-Rd1e434">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e442">Divitiarum amor insatiabilis. Longe enim amplius
+              desiderio torquet animam, quam refrigeret usu suo: utpote quarum acquisitio quidem
+              laboris, possessio vero timoris, amissio plena doloris invenitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e448">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e458" xml:id="UUyf3f-d1e32055-Rd1e450">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e458">Filii Adam, genus avarum et ambitiosum, audite.
+              Quid vobis cum terrenis divitiis, et gloria temporali, quae nec verae, nec vestrae
+              sunt? Aurum enim et argentum nonne terra est rubra et alba, quam solus error hominum
+              facit, magis reputat pretiosam? Denique si vestra sunt haec, tollite ea vobiscum. Sed
+              <!--<i>-->homo, cum interierit, non sumet omnia, neque descendet cum eo gloria
+              ejus<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e467">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e477" xml:id="UUyf3f-d1e32055-Rd1e469">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e477">Fallax felicitas est major infelicitas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32055-d1e482">
+          <ref corresp="#UUyf3f-d1e32055-Qd1e492" xml:id="UUyf3f-d1e32055-Rd1e484">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32055-Qd1e492">Res est inquieta felicitas.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

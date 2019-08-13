@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De modestia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De modestia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e24629">
+        <head xml:id="UUyf3f-d1e24629-Hd1e99" type="question-title">De modestia</head>
+        <p xml:id="UUyf3f-d1e24629-d1e102">
+          <ref corresp="#UUyf3f-d1e24629-Qd1e112" xml:id="UUyf3f-d1e24629-Rd1e104">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24629-Qd1e112">Sic ea, quae sunt justitiae, foris exequor, ut
+              ea, quae intus amoris et dilectionis sunt, minime postponam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24629-d1e117">
+          <ref corresp="#UUyf3f-d1e24629-Qd1e127" xml:id="UUyf3f-d1e24629-Rd1e119">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24629-Qd1e127">Omnia age blande et dulciter, ut et actio tua
+              discreta sit, et lingua mitis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24629-d1e132">
+          <ref corresp="#UUyf3f-d1e24629-Qd1e142" xml:id="UUyf3f-d1e24629-Rd1e134">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24629-Qd1e142">Cum curam rerum nobis necessitas imponit, quidam
+              dum eas rapiunt solummodo tolerandi sunt: quidam vero servata charitate prohibendi
+              sunt: non tamen sola cura debet esse ne nostra subtrahant, sed ne, rapientes non sua,
+              semetipsos perdant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24629-d1e147">
+          <ref corresp="#UUyf3f-d1e24629-Qd1e157" xml:id="UUyf3f-d1e24629-Rd1e149">Ambrosius,
+              <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24629-Qd1e157">Nec cursim ambulare honestum arbitror, nisi cum
+              causa exigit alicujus periculi, vel justa necessitas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24629-d1e163">
+          <ref corresp="#UUyf3f-d1e24629-Qd1e173" xml:id="UUyf3f-d1e24629-Rd1e165">Ambrosius,
+              <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24629-Qd1e173">Magna virtus modestia, quae cum sit etiam sui
+              juris remissior, nihil sibi usurpans, nihil sibi vendicans, et quodam modo intra suas
+              vires contractior, dives est apud Deum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24629-d1e178">
+          <ref corresp="#UUyf3f-d1e24629-Qd1e188" xml:id="UUyf3f-d1e24629-Rd1e180">Ambrosius,
+              <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24629-Qd1e188">In modestia maxime tranquillitas animi, studium
+              mansuetudinis, moderationis gratia, honestatis cura, decoris consideratio spectatur et
+              quaeritur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24629-d1e193">
+          <ref corresp="#UUyf3f-d1e24629-Qd1e203" xml:id="UUyf3f-d1e24629-Rd1e195">Augustinus, in
+              <title>Regula</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24629-Qd1e203">In incessu, statu, habitu, et in omnibus motibus
+              vestris nihil fiat, quod cujusquam offendat aspectum, sed quod vestram deceat
+              sanctitatem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24629-d1e208">
+          <ref corresp="#UUyf3f-d1e24629-Qd1e218" xml:id="UUyf3f-d1e24629-Rd1e210">Augustinus,
+              <title>de Vita beata</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24629-Qd1e218">Modestia dicta est a <!--<i>-->modo<!--</i>-->,
+              sicut a <!--<i>-->temperie<!--</i>--> temperantia: ubi autem modus est atque
+              temperies, nec plus est quidquam, nec minus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24629-d1e231">
+          <ref corresp="#UUyf3f-d1e24629-Qd1e241" xml:id="UUyf3f-d1e24629-Rd1e233">Augustinus,
+              <title>de Vita beata</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24629-Qd1e241">Illud praeclarum est, et non immerito
+              diffamatur, ut hoc primum in vita esse utile, ut ne quid nimis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24629-d1e246">
+          <ref corresp="#UUyf3f-d1e24629-Qd1e256" xml:id="UUyf3f-d1e24629-Rd1e248">Isidorus, in
+              <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24629-Qd1e256">Professionem tuam et habitu et incessu
+              demonstra. Sit in gressu tuo simplicitas, in motu puritas, in gestu gravitas, in
+              incessu honestas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24629-d1e262">
+          <ref corresp="#UUyf3f-d1e24629-Qd1e272" xml:id="UUyf3f-d1e24629-Rd1e264">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24629-Qd1e272">Honestum, in quo animae decorem locandum
+              censuimus, diffiniatur: Mentis ingenuitas, sollicita servare cum conscientia bona
+              famae integritatem, vel juxta Apostolum, <!--<i>-->providere bona non tantum coram
+              Deo, sed etiam coram hominibus<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24629-d1e281">
+          <ref corresp="#UUyf3f-d1e24629-Qd1e291" xml:id="UUyf3f-d1e24629-Rd1e283">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24629-Qd1e291">Vita non est imperfecta, si est honesta.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24629-d1e296">
+          <ref corresp="#UUyf3f-d1e24629-Qd1e306" xml:id="UUyf3f-d1e24629-Rd1e298">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24629-Qd1e306">Nihil honestum est, quod ab invito coactoque
+              fit. Omne honestum voluntarium est. Admisce illi pigritiam, querelam,
+              tergiversationem, metum; quod habet in se optimum, perdit totum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24629-d1e311">
+          <ref corresp="#UUyf3f-d1e24629-Qd1e321" xml:id="UUyf3f-d1e24629-Rd1e313">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24629-Qd1e321">Omne honestum injussum incoactumque est,
+              sincerum, et nullo modo mixtum.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

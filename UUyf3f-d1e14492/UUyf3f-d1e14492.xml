@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De vana gloria</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De vana gloria</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e14492">
+        <head xml:id="UUyf3f-d1e14492-Hd1e99" type="question-title">De vana gloria</head>
+        <p xml:id="UUyf3f-d1e14492-d1e102">
+          <ref corresp="#UUyf3f-d1e14492-Qd1e112" xml:id="UUyf3f-d1e14492-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14492-Qd1e112">Inobedientia, jactantia, hypocrisis,
+              contentationes, pertinaciae, discordiae, et novitatum praesumptiones oriuntur de inani
+              gloria.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14492-d1e117">
+          <ref corresp="#UUyf3f-d1e14492-Qd1e127" xml:id="UUyf3f-d1e14492-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14492-Qd1e127">Quatuor sunt species, quibus omnis tumor
+              arrogantium demonstratur: cum bonum aut a semetipsis habere se aestimant; aut, si
+              datum desuper credant, pro suis se hoc accepisse meritis putant; aut certe cum jactant
+              se habere, quod non habent; aut, despectis caeteris, singulariter videri appetunt
+              habere, quod habent.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14492-d1e132">
+          <ref corresp="#UUyf3f-d1e14492-Qd1e142" xml:id="UUyf3f-d1e14492-Rd1e134">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14492-Qd1e142">Qui accepta bona sibi arrogat, suis contra Deum
+              donis pugnat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14492-d1e147">
+          <ref corresp="#UUyf3f-d1e14492-Qd1e157" xml:id="UUyf3f-d1e14492-Rd1e149">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14492-Qd1e157">In cogitatione tumidi proprii favores oriuntur,
+              sibique de singularitate sapientiae blanditur ipsa fatuitas. Pensat ea quae audierit,
+              ac verba quae profert; et miratur sua, et deridet aliena.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14492-d1e163">
+          <ref corresp="#UUyf3f-d1e14492-Qd1e173" xml:id="UUyf3f-d1e14492-Rd1e165">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14492-Qd1e173">Sicut labor justorum est videre prava, nec
+              corrigere; ita gravis est labor arrogantium, si, quod sapiunt, non ostendunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14492-d1e178">
+          <ref corresp="#UUyf3f-d1e14492-Qd1e188" xml:id="UUyf3f-d1e14492-Rd1e180">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14492-Qd1e188">Quasi latrunculus est appetitus laudis humanae:
+              qui recto itinere gradientibus ex latere jungitur, ut ex occultis educto gladio,
+              gradientium vita trucidetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14492-d1e193">
+          <ref corresp="#UUyf3f-d1e14492-Qd1e203" xml:id="UUyf3f-d1e14492-Rd1e195">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14492-Qd1e203">Agitur ut ante justi judicis oculos fovea mentis
+              sit memoria virtutis, quia reminiscendo quod gessit, dum se apud se erigit, apud
+              humilitatis auctorem cadit. </quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14492-d1e208">
+          <ref corresp="#UUyf3f-d1e14492-Qd1e218" xml:id="UUyf3f-d1e14492-Rd1e210">Joannes
+            Chrysostomus, <title>super Joannnem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14492-Qd1e218">Gloriam vanam cupere, ingloriatio est; gloria
+              autem vera est hanc despicere, et nullam ejus curam facere, sed ad id quod Deo placet,
+              omnia et dicere et facere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14492-d1e223">
+          <ref corresp="#UUyf3f-d1e14492-Qd1e233" xml:id="UUyf3f-d1e14492-Rd1e225">Joannes
+            Chrysostomus, <title>super Joannnem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14492-Qd1e233">Qui omnium contemptum pecuniarum habuerunt, et
+              nulli hujusmodi imaginationi se immiscuerunt, et magis tyrannicas corporum
+              concupiscentias domuerunt, hi multoties capti a vana gloria omnia perdiderunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14492-d1e238">
+          <ref corresp="#UUyf3f-d1e14492-Qd1e248" xml:id="UUyf3f-d1e14492-Rd1e240">Joannes
+            Chrysostomus, <title>super Joannnem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14492-Qd1e248">Si laudes amamus, eas quae a Deo sunt
+              diligentius quaeramus. Nam, quae quidem ab hominibus est laus, qualiscumque fuerit,
+              simul ut apparuit, periit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14492-d1e254">
+          <ref corresp="#UUyf3f-d1e14492-Qd1e264" xml:id="UUyf3f-d1e14492-Rd1e256">Augustinus,
+              <title>de Confessionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14492-Qd1e264">Domine, gloria nostra tu es; propter te amemur,
+              et verbum tuum et nomen tuum timeatur a nobis. Qui enim laudari vult ab hominibus,
+              vituperante te, non defendetur ab hominibus, judicante te; non eripietur, damnante
+              te.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14492-d1e269">
+          <ref corresp="#UUyf3f-d1e14492-Qd1e279" xml:id="UUyf3f-d1e14492-Rd1e271">Ambrosius,
+              <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14492-Qd1e279">Fortitudo gloriae caveat appetentiam, quae
+              frequenter nocuit immoderatius appetita, semper autem nocuit usurpata.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14492-d1e284">
+          <ref corresp="#UUyf3f-d1e14492-Qd1e294" xml:id="UUyf3f-d1e14492-Rd1e286">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14492-Qd1e294">O stulti filii Adam, qui contemnentes pacem, et
+              gloriam appetentes, et pacem perdunt et gloriam.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

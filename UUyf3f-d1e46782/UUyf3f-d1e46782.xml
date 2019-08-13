@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De quatuor affectionibus</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De quatuor affectionibus</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e46782">
+        <head xml:id="UUyf3f-d1e46782-Hd1e99" type="question-title">De quatuor affectionibus</head>
+        <p xml:id="UUyf3f-d1e46782-d1e102">
+          <ref corresp="#UUyf3f-d1e46782-Qd1e112" xml:id="UUyf3f-d1e46782-Rd1e104">Augustinus, <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46782-Qd1e112" source="http://scta.info/resource/adcd-l14-d1e2006">Recta voluntas est bonus amor; et
+              voluntas perversa, malus amor. Amor ergo inhians habere quod amatur, cupiditas est; id
+              autem habens, eoque fruens, laetitia est; fugiens quod ei adversatur, timor est; idque
+              si acciderit sentiens, tristitia est: proinde mala sunt ista, si malus est amor; bona,
+              si bonus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46782-d1e117">
+          <ref corresp="#UUyf3f-d1e46782-Qd1e127" xml:id="UUyf3f-d1e46782-Rd1e119">Augustinus, <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46782-Qd1e127" source="http://scta.info/resource/adcd-l14-d1e2044">Apud nos, juxta Scripturam
+              sanamque doctrinam, cives sanctae civitatis Dei, in hujus vitae peregrinatione,
+              secundum Deum viventes, metuunt, cupiuntque, dolent, gaudentque; et quia rectus est
+              amor eorum, istas omnes affectiones rectas habent.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46782-d1e132">
+          <ref corresp="#UUyf3f-d1e46782-Qd1e142" xml:id="UUyf3f-d1e46782-Rd1e134">Augustinus, <title>de Patientia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46782-Qd1e142">Voluntas bona, id est, voluntas Deo fideliter
+              subdita, voluntas sanctitate superni amoris accensa, voluntas quae diligit Deum, et
+              proximum propter Deum: sive amore, de quo respondet apostolus Petrus:
+              <!--<i>-->Domine, tu scis, quia amo te<!--</i>-->; sive timore, de quo dicit
+              Apostolus: <!--<i>-->In timore et tremore vestram ipsorum salutem
+              operamini<!--</i>-->; sive gaudio, de quo dicit idem: <!--<i>-->Spe gaudentes, in
+              tribulatione patientes<!--</i>-->; sive tristitia, qualem idem apostolus se dicit
+              habuisse magnam pro fratribus suis: quaecumque amara et aspera sufferat, charitas Dei
+              est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46782-d1e159">
+          <ref corresp="#UUyf3f-d1e46782-Qd1e169" xml:id="UUyf3f-d1e46782-Rd1e161">Isidorus, <title>de Summo bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46782-Qd1e169">Quatuor sunt qualitates affectionum, quibus mens
+              justi taedio salubri compungitur, hoc est, memoria praeteritorum facinorum, recordatio
+              futurarum poenarum, consideratio peregrinationis in hujus vitae longinquitate,
+              desiderium supernae patriae, quo quantocius ad eam valeat pervenire.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46782-d1e175">
+          <ref corresp="#UUyf3f-d1e46782-Qd1e185" xml:id="UUyf3f-d1e46782-Rd1e177">Auctor <title>de Spiritu et anima</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46782-Qd1e185">Habet anima affectiones, quibus exercetur ad
+              virtutes. Dolor namque de peccatis, timor de poenis, desiderium de promissis, gaudium
+              de praemiis, quaedam exercitia sunt virtutum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46782-d1e190">
+          <ref corresp="#UUyf3f-d1e46782-Qd1e200" xml:id="UUyf3f-d1e46782-Rd1e192">Auctor <title>de Spiritu et anima</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46782-Qd1e200">Affectus quadripartitus esse dignoscitur, dum de
+              eo quod amamus jam gaudemus, vel gaudendum speramus, et de eo quod odimus, jam
+              dolemus, vel dolendum metuimus; et ab hac concupiscibilitate gaudium et spes, de
+              irascibilitate dolor et metus oriuntur. Qui quidem quatuor affectus animae, omnium
+              sunt vitiorum, atque virtutum quasi quaedam principia, et communis materia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46782-d1e205">
+          <ref corresp="#UUyf3f-d1e46782-Qd1e215" xml:id="UUyf3f-d1e46782-Rd1e207">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46782-Qd1e215">Habent voces suas affectus, per quas se etiam,
+              cum volunt, produnt: timor, verbi causa, meticulosas; dolor, gemebundas; amor
+              jucundas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46782-d1e220">
+          <ref corresp="#UUyf3f-d1e46782-Qd1e230" xml:id="UUyf3f-d1e46782-Rd1e222">Bernardus, in <title>Sermone</title>, loquens de
+            illo verbo Joel II</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46782-Qd1e230">
+              <!--<i>-->Convertimini ad me in toto corde vestro<!--</i>-->: Convertatur amor tuus,
+              ut omnino nihil diligas nisi Deum, aut certe propter ipsum. Convertatur etiam ad ipsum
+              timor tuus, quia perversus est timor omnis, quo metuis aliquid praeter eum, aut non
+              propter eum. Sic et gaudium tuum et tristitia aeque convertantur ad ipsum: hoc autem
+              ita fiet, si non nisi secundum eum doleas, aut laeteris. Quid enim perversum magis,
+              quam laetari, cum malefeceris, et in rebus pessimis exultare? Sed et ea quoque, quae
+              secundum saeculum est, tristitia mortem operatur.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

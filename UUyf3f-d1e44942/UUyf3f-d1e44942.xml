@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De sapientia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De sapientia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e44942">
+        <head xml:id="UUyf3f-d1e44942-Hd1e99" type="question-title">De sapientia</head>
+        <p xml:id="UUyf3f-d1e44942-d1e102">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e112" xml:id="UUyf3f-d1e44942-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e112">Neque hoc est sapere, quod intelligere, quia
+              multi aeterna quidem sapiunt, sed haec intelligere nequaquam possunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e117">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e127" xml:id="UUyf3f-d1e44942-Rd1e119">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e127">Sapienter illicita superat, qui didicerit etiam
+              non uti concessis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e132">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e142" xml:id="UUyf3f-d1e44942-Rd1e134">Augustinus, <title>de Libero arbitrio</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e142">Nemo sine sapientia beatus est: nemo enim beatus
+              est nisi summo bono, quod in ea veritate, quam sapientiam vocamus, cernitur et
+              tenetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e147">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e157" xml:id="UUyf3f-d1e44942-Rd1e149">Augustinus, <title>de Ordine disciplinae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e157">Quisquis omnem philosophiam fugiendam putat,
+              nihil nos vult aliud, quam non amare sapientiam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e163">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e173" xml:id="UUyf3f-d1e44942-Rd1e165">Augustinus, <title>de Ordine disciplinae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e173">Duplex est via quam sequimur: cum rerum nos
+              obscuritas movet, aut ratione, aut certe auctoritate. Philosophia rationem
+              promittit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e178">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e188" xml:id="UUyf3f-d1e44942-Rd1e180">Augustinus, <title>de Ordine disciplinae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e188">Tria sunt genera rerum, in quibus rationabile
+              apparet; unum est in factis ad aliquem finem relatis; alterum in discendo; tertium in
+              delectando. Primum nos admonet nihil temere facere; secundum, recte docere; ultimum,
+              beate contemplari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e193">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e203" xml:id="UUyf3f-d1e44942-Rd1e195">Augustinus, <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e203" source="http://scta.info/resource/adcd-l19-d1e3152">Non est vera sapientia, quae
+              intentionem suam, in his quae prudenter discernit, gerit fortiter, cohibet
+              temperanter, justeque distribuit, non ad illum dirigit finem, ubi erit Deus omnia in
+              omnibus, aeternitate certa, et pace perfecta.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e208">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e218" xml:id="UUyf3f-d1e44942-Rd1e210">Isidorus, in <title>Etymologiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e218">Sapiens dictus est a
+              <!--<i>-->sapore<!--</i>-->, quia sicut aptus est gustus ad discretionem saporis
+              ciborum, sic sapiens ad dignoscentiam rerum atque causarum, quo unumquodque dignoscat,
+              atque sensu veritatis discernat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e227">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e237" xml:id="UUyf3f-d1e44942-Rd1e229">Isidorus, <title>de Summo bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e237">Nullus sapientiam Dei plene recipit, nisi qui se
+              ab omnium abstrahere actionum cura contendit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e242">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e252" xml:id="UUyf3f-d1e44942-Rd1e244">Ambrosius, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e252">Nihil peccare solius Dei est; sapientis est, et
+              corrigere erratum, et poenitentiam agere peccati.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e258">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e268" xml:id="UUyf3f-d1e44942-Rd1e260">Ambrosius, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e268">Sola est sapientia libera, quae divitibus
+              pauperes praeficit, et quae servos propriis foenerari dominis facit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e273">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e283" xml:id="UUyf3f-d1e44942-Rd1e275">Ambrosius, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e283">Ille vere sapit, cujus animus in Christo est, et
+              cujus interior oculus erigitur ad superna.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e288">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e298" xml:id="UUyf3f-d1e44942-Rd1e290">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e298">Quid prodest, si universum mundum lucreris, te
+              unum perdens? Etsi sapiens aliis sis, deest tibi sapientia, si tibi non
+              fueris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e303">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e313" xml:id="UUyf3f-d1e44942-Rd1e305">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e313">Nescitis, quia angelus satanae multoties
+              transfigurat se in angelum lucis? Sapientia est Deus, et vult se amari non solum
+              dulciter, sed et sapienter.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e318">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e328" xml:id="UUyf3f-d1e44942-Rd1e320">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e328">Sapiens videbit ubi victurus sit, cum quibus,
+              quo, quid acturus: cogitat semper qualis vita, non quanta sit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e333">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e343" xml:id="UUyf3f-d1e44942-Rd1e335">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e343">Sapiens omnia examinabit secum, quid acceperit,
+              a quo, quantum, ubi, quemadmodum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e349">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e359" xml:id="UUyf3f-d1e44942-Rd1e351">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e359">Sapiens bonorum rector, est malorum
+              victor.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e364">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e374" xml:id="UUyf3f-d1e44942-Rd1e366">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e374">Facere docet Philosophia, non dicere; et hoc
+              exigit, ut ad legem suam quisque vivat, ne orationi vita dissentiat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e379">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e389" xml:id="UUyf3f-d1e44942-Rd1e381">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e389">Rogo atque hortor, ut philosophiam in praecordia
+              ima demittas, et experimentum profectus tui capias, non oratione, nec scripto, sed
+              animi firmitate, cupiditatum diminutione, verba rebus proba.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e394">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e404" xml:id="UUyf3f-d1e44942-Rd1e396">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e404">Affectator sapientiae adhaeret quidem in corpore
+              suo; sed optima sui parte abest, et cogitationes suas ad sublimia intendit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e409">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e419" xml:id="UUyf3f-d1e44942-Rd1e411">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e419">Ad philosophiam te confer, si vis salvus esse,
+              si securus, si beatus, denique si vis esse, quod maximum est, liber.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44942-d1e424">
+          <ref corresp="#UUyf3f-d1e44942-Qd1e434" xml:id="UUyf3f-d1e44942-Rd1e426">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44942-Qd1e434">Non est philosophia populare artificium, nec
+              ostentatione paratum; nec in verbis, sed in rebus est; nec ad hoc adhibetur, ut cum
+              aliqua oblectatione consumatur dies, ut dematur otio nausea: animum format et
+              fabricat, vitam disponit, actiones regit, agenda et omittenda demonstrat.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

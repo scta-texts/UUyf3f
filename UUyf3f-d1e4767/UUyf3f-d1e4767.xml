@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De praedicatoribus malis</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De praedicatoribus malis</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e4767">
+        <head xml:id="UUyf3f-d1e4767-Hd1e99" type="question-title">De praedicatoribus malis</head>
+        <p xml:id="UUyf3f-d1e4767-d1e102">
+          <ref corresp="#UUyf3f-d1e4767-Qd1e112" xml:id="UUyf3f-d1e4767-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e4767-Qd1e112">Mens concupiscentiis exterioribus occupata,
+              divini amoris igne non caret: et idcirco ad supernum desiderium inflammare auditores
+              suos nequeunt verba, quae frigido corpore рrоferuntur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e4767-d1e117">
+          <ref corresp="#UUyf3f-d1e4767-Qd1e127" xml:id="UUyf3f-d1e4767-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e4767-Qd1e127">Qui mandata Dei in memoria retinet, sed nequaquam
+              facit, is in doctrinae suae verbis sententias, quibus damnetur, tenet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e4767-d1e132">
+          <ref corresp="#UUyf3f-d1e4767-Qd1e142" xml:id="UUyf3f-d1e4767-Rd1e134">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e4767-Qd1e142">Turpe est nimis ibi nos negligendo cadere, unde
+              praedicando conati sumus alios levare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e4767-d1e147">
+          <ref corresp="#UUyf3f-d1e4767-Qd1e157" xml:id="UUyf3f-d1e4767-Rd1e149">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e4767-Qd1e157">Non facile praedicatio praedicatoris accipitur,
+              si levis in moribus esse videatur. Et nulla erit maturitatis ostensio, si contra
+              adversa non affuerit operis fortitudo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e4767-d1e163">
+          <ref corresp="#UUyf3f-d1e4767-Qd1e173" xml:id="UUyf3f-d1e4767-Rd1e165">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e4767-Qd1e173">Nimis iniquum est, si hi, qui praedicatores
+              humilitatis facti sunt, de vani nominis elatione gloriantur, cum verus Praedicator
+              dicat: <!--<i>-->Mihi autem absit gloriari<!--</i>-->, etc.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e4767-d1e182">
+          <ref corresp="#UUyf3f-d1e4767-Qd1e192" xml:id="UUyf3f-d1e4767-Rd1e184">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e4767-Qd1e192">Quod per linguam praedicamus, per exempla
+              destruimus, dum iniqua docemus operibus, et sola voce ea, quae sunt justa,
+              praetendimus. Ossa jejuniis atterimus, et mente turgemus: corpus despectis vestibus
+              regimus, et elatione cordis purpuram superamus: jacemus in cinere, et excelsa
+              suscipimus. Doctores humilitatis, duces superbiae, ovina facie, lupinos dentes
+              abscondimus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e4767-d1e197">
+          <ref corresp="#UUyf3f-d1e4767-Qd1e207" xml:id="UUyf3f-d1e4767-Rd1e199">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e4767-Qd1e207">Delicatus est magister, qui pleno ventre de
+              jejuniis disputat. Accusare avaritiam et latro potest; sacerdotis Christi os cum mente
+              concordet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e4767-d1e212">
+          <ref corresp="#UUyf3f-d1e4767-Qd1e222" xml:id="UUyf3f-d1e4767-Rd1e214">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e4767-Qd1e222">Nec rusticus, nec simplex frater ideo se sanctum
+              putet, si nihil noverit; nec peritus et eloquens lingua existimet sanctitatem.
+              Multoque melius est ex duobus imperfectis, rusticitatem habere sanctam, quam
+              eloquentiam peccatricem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e4767-d1e227">
+          <ref corresp="#UUyf3f-d1e4767-Qd1e237" xml:id="UUyf3f-d1e4767-Rd1e229">Hieronymus, in originali super
+              <title>Michaeam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e4767-Qd1e237">An non confusionis et ignominiae est, Jesum
+              crucifixum, magistrum pauperem atque esurientem, fartis praedicare corporibus, et
+              jejuniorum doctrinam rubente bucea tumentique ore proferre? Si in apostolorum loco et
+              ordine sumus, non solum sermonem eorum imitemur, sed et conversationem quoque et
+              abstinentiam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e4767-d1e242">
+          <ref corresp="#UUyf3f-d1e4767-Qd1e252" xml:id="UUyf3f-d1e4767-Rd1e244">Isidorus, <title>de summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e4767-Qd1e252">Ad majoris culpae cumulum pertinet, scire
+              quemquam quod sequi oporteat, et sequi nolle quod sciat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e4767-d1e258">
+          <ref corresp="#UUyf3f-d1e4767-Qd1e268" xml:id="UUyf3f-d1e4767-Rd1e260">Isidorus, <title>de summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e4767-Qd1e268">Qui non vivit sicut docet, ipsam, quam praedicat,
+              veritatem contemptibilem facit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e4767-d1e273">
+          <ref corresp="#UUyf3f-d1e4767-Qd1e283" xml:id="UUyf3f-d1e4767-Rd1e275">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e4767-Qd1e283">Non poterit excusari doctor, cujus verba aliud
+              sonant, aliud facta demonstrant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e4767-d1e288">
+          <ref corresp="#UUyf3f-d1e4767-Qd1e298" xml:id="UUyf3f-d1e4767-Rd1e290">Joannes Chrysostomus, <title>de Compunctione
+              cordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e4767-Qd1e298">Docere, et non facere, non solum nihil lucri, sed
+              etiam damni plurimum confert. Grandis enim condemnatio est componenti quidem sermonem
+              suum, vitam vero suam atque operam negligenti.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e4767-d1e303">
+          <ref corresp="#UUyf3f-d1e4767-Qd1e313" xml:id="UUyf3f-d1e4767-Rd1e305">Augustinus, in <title>Epistolis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e4767-Qd1e313">Exaudi teipsum, durissime, immanissime,
+              surdissime doctor; quid mihi lingua aurea, et cor ferreum?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e4767-d1e318">
+          <ref corresp="#UUyf3f-d1e4767-Qd1e328" xml:id="UUyf3f-d1e4767-Rd1e320">Augustinus, <title>de Divinatione daemonum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e4767-Qd1e328">In hominibus etiam vitae bonae praecepta videmus
+              pariter a justis perversisque doceri. Nec obesse aliquid, imo et prodesse ad majorem
+              notitiam famamque veritatis, cum de illa etiam hi, quidquid noverint, dicunt, qui et
+              perversis moribus contradicunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e4767-d1e333">
+          <ref corresp="#UUyf3f-d1e4767-Qd1e343" xml:id="UUyf3f-d1e4767-Rd1e335">Bernardus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e4767-Qd1e343">
+              <!--<i>-->Beati<!--</i>-->, inquit, <!--<i>-->pacifici, quoniam filii Dei
+              vocabuntur<!--</i>-->. Considerate diligenter non pacidicos, sed
+              <!--<i>-->pacificos<!--</i>--> commendari: sunt enim qui dicunt, et non faciunt. Sane
+              quemadmodum non auditores legis justi sunt, sed factores; sic non annuntiatores pacis,
+              sed actores beatificantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e4767-d1e361">
+          <ref corresp="#UUyf3f-d1e4767-Qd1e371" xml:id="UUyf3f-d1e4767-Rd1e363">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e4767-Qd1e371">Hoc turpissimum est, quod nobis objici solet,
+              verba nos fari, non opera tractari.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

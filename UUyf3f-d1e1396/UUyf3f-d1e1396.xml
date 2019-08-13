@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De cruce</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De cruce</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e1396">
+        <head xml:id="UUyf3f-d1e1396-Hd1e99" type="question-title">De cruce</head>
+        <p xml:id="UUyf3f-d1e1396-d1e102">
+          <ref corresp="#UUyf3f-d1e1396-Qd1e112" xml:id="UUyf3f-d1e1396-Rd1e104">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1396-Qd1e112">Redemptor noster, ad passionem ductus, lignum
+              sibi crucis ipse portavit. Et sic in sacrificio pro nobis ex humanitate est mortuus,
+              ut tamen immortalis maneret ex divinitate.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1396-d1e117">
+          <ref corresp="#UUyf3f-d1e1396-Qd1e127" xml:id="UUyf3f-d1e1396-Rd1e119">Ambrosius, super
+              <title>Beati immaculati</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1396-Qd1e127">Crux est opprobrium perfido, fideli autem gloria,
+              redempto resurrectio est; quia pro nobis passus est Dominus, illo nos redemit
+              sanguine, illa ad paradisum resurrectione vocavit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1396-d1e132">
+          <ref corresp="#UUyf3f-d1e1396-Qd1e139" xml:id="UUyf3f-d1e1396-Rd1e134">Joannes
+            Chrysostomus, in sermonibus</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1396-Qd1e139">Crux nobis totius beatitudinis causa est; haec
+              nos a caecitate liberavit erroris; haec e tenebris reddidit luci; haec debellatis
+              inimicis quieti perpetuae nos sociavit; haec alienatos Deo conjunxit; haec nos
+              peregrinos existentes coelorum cives ostendit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1396-d1e144">
+          <ref corresp="#UUyf3f-d1e1396-Qd1e151" xml:id="UUyf3f-d1e1396-Rd1e146">Joannes
+            Chrysostomus, in sermonibus</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1396-Qd1e151">Crux spes Christianorum: crux resurrectio
+              mortuorum: crux caecorum dux; crux desperatorum vita; crux claudorum baculus; crux
+              consolatio pauperum. </quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1396-d1e157">
+          <ref corresp="#UUyf3f-d1e1396-Qd1e164" xml:id="UUyf3f-d1e1396-Rd1e159">Joannes
+            Chrysostomus, in sermonibus et post</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1396-Qd1e164">Crux adolescentium paedagogus, crux sustentatio
+              inopum, crux spes desperatorum, crux navigantium gubernator, crux periclitantium
+              portus, crux obsessorum murus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1396-d1e169">
+          <ref corresp="#UUyf3f-d1e1396-Qd1e176" xml:id="UUyf3f-d1e1396-Rd1e171">Joannes
+            Chrysostomus, in sermonibus et infra</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1396-Qd1e176">Crux insensatorum sapientia, crux libertas
+              servorum, crux imperitorum philosophia, crux lex impiorum, crux prophetarum
+              praeconizatio, crux annuntiatio apostolorum, crux martyrum gloriatio, crux monachorum
+              abstinentia, crux virginum castitas, crux gaudium sacerdotum, crux Ecclesiae
+              fundamentum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1396-d1e181">
+          <ref corresp="#UUyf3f-d1e1396-Qd1e191" xml:id="UUyf3f-d1e1396-Rd1e183">Augustinus,
+              <title>super Psalmos</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1396-Qd1e191">Crux finita est in poena, sed infinita semper
+              manet in gloria, a locis suppliciorum fecit transitum ad frontes imperatorum. Qui
+              tantum honorem dedit poenis suis, quid servat fidelibus suis?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1396-d1e196">
+          <ref corresp="#UUyf3f-d1e1396-Qd1e206" xml:id="UUyf3f-d1e1396-Rd1e198">Isidorus, <title>de
+              Summo bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1396-Qd1e206">Quocumque, о mens, procellis mundi involveris,
+              lignum conscende crucis, ut a mari, id est a tempestate hujus saeculi,
+              libereris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1396-d1e211">
+          <ref corresp="#UUyf3f-d1e1396-Qd1e221" xml:id="UUyf3f-d1e1396-Rd1e213">Bernardus, in
+              <title>Floribus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1396-Qd1e221">In cruce pendet omnis fructus vitae, quia ipse
+              est arbor vitae, quae est in medio paradisi, ipsa est longitudo et latitudo,
+              sublimitas et profundum. Ipsa bonos colligit et remunerat: ipsa malos dispergit et
+              condemnat: ipsa est moestorum consolatio, esurientium refectio, perfectorum
+              gloriatio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1396-d1e226">
+          <ref corresp="#UUyf3f-d1e1396-Qd1e236" xml:id="UUyf3f-d1e1396-Rd1e228">Rabanus, <title>de
+              Laude Crucis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1396-Qd1e236">In cruce insinuatur a morte redemptio,
+              demonstratur sancta morum conversatio, intimatur omnium virtutum perfectio,
+              promittitur ad aeternam vitam ingressio, aeternae beatitudinis speratur adeptio, et
+              verae felicitatis acquisitio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1396-d1e242">
+          <ref corresp="#UUyf3f-d1e1396-Qd1e252" xml:id="UUyf3f-d1e1396-Rd1e244">Rabanus, <title>de
+              Laude Crucis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1396-Qd1e252">In te, Crux, sancti angeli gaudia sua accumulata
+              conspiciunt; in te homines jura salutis suae cognoscunt; in te inferi justam
+              retributionem fraudis suae percipiunt. Omnibus es aequa, omnibus justa. Praeterita
+              renovas, praesentia illustras, futura praemonstras, perdita requiris, quaesita
+              invenis, inventa custodis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1396-d1e257">
+          <ref corresp="#UUyf3f-d1e1396-Qd1e267" xml:id="UUyf3f-d1e1396-Rd1e259">Rabanus, <title>de
+              Laude Crucis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1396-Qd1e267">Tu, sancta Crux, peccatorum remissio, pietatis
+              exhibitio, meritorum augmentatio, infirmorum remedium, laborantium auxilium, et
+              lassorum refrigerium, sanorum incolumitas, quietorum serenitas, fortunatorum
+              felicitas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1396-d1e272">
+          <ref corresp="#UUyf3f-d1e1396-Qd1e282" xml:id="UUyf3f-d1e1396-Rd1e274">Rabanus, <title>de
+              Laude Crucis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1396-Qd1e282">Tu, sancta Crux, cura aegrotos medicans; tu
+              gaudium moestos consolans; tu sanitas dolentes laetificans; tu status credentium
+              recte; tu firmitas operantium bene; tu beatitudo perseverantium rite, sancta, pia,
+              bona, justa.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1396-d1e287">
+          <ref corresp="#UUyf3f-d1e1396-Qd1e297" xml:id="UUyf3f-d1e1396-Rd1e289">Cassiodorus,
+              <title>super Psalterium</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1396-Qd1e297">Crux est humilium invicta tuitio, superborum
+              abjectio, victoria Christi, perditio diaboli, infernorum destructio, coelestium
+              reformatio, mors infidelium, vita justorum.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

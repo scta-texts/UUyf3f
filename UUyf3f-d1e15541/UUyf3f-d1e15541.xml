@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De avaritia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De avaritia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e15541">
+        <head xml:id="UUyf3f-d1e15541-Hd1e99" type="question-title">De avaritia</head>
+        <p xml:id="UUyf3f-d1e15541-d1e102">
+          <ref corresp="#UUyf3f-d1e15541-Qd1e112" xml:id="UUyf3f-d1e15541-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15541-Qd1e112">De avaritia proditio, fraus, fallacia, perjuria,
+              inquietudo, violentiae, et contra misericordiam obdurationes cordis oriuntur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15541-d1e117">
+          <ref corresp="#UUyf3f-d1e15541-Qd1e127" xml:id="UUyf3f-d1e15541-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15541-Qd1e127">Avaritia desideratis rebus, habitis non
+              extinguitur, sed augetur. Nam more ignis, cum ligna, quae consumat, exceperit, magis
+              excrescit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15541-d1e132">
+          <ref corresp="#UUyf3f-d1e15541-Qd1e142" xml:id="UUyf3f-d1e15541-Rd1e134">Ambrosius, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15541-Qd1e142">Quosdam gradus cupiditas habet: quo plures
+              ascendit, eo ad altiora festinat; unde fit gravior ruina lapsuro.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15541-d1e147">
+          <ref corresp="#UUyf3f-d1e15541-Qd1e157" xml:id="UUyf3f-d1e15541-Rd1e149">Ambrosius, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15541-Qd1e157">Ibi abundantia, ubi satietas; ubi autem fames
+              cupiditatum, ubi inexplebilis appetentia, ibi utique paupertas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15541-d1e163">
+          <ref corresp="#UUyf3f-d1e15541-Qd1e173" xml:id="UUyf3f-d1e15541-Rd1e165">Augustinus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15541-Qd1e173">Non solum avarus est, qui rapit aliena; sed et
+              ille avarus est, qui cupide servat sua.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15541-d1e178">
+          <ref corresp="#UUyf3f-d1e15541-Qd1e188" xml:id="UUyf3f-d1e15541-Rd1e180">Augustinus,
+              <title>de Verbis Domini</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15541-Qd1e188">Inexplebilis est sola avaritia divitum: semper
+              enim rapit, et nunquam satiatur; nec Deum timet, nec hominem reveretur, nec patri
+              parcit, nec matrem agnoscit, nec fratri obtemperat, nec amico fidem servat: viduam
+              opprimit, pupillorum res invadit, liberos in servitium redigit, testimonium falsum
+              profert; res mortui hominis occupantur, quasi non et ipsi, qui hoc faciunt,
+              moriantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15541-d1e193">
+          <ref corresp="#UUyf3f-d1e15541-Qd1e203" xml:id="UUyf3f-d1e15541-Rd1e195">Augustinus,
+              <title>de Libero Arbitrio</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15541-Qd1e203">Dictum est, radicem omnium malorum esse
+              avaritiam, hoc est, plus velle, quam satis est. Tantum autem satis est, quantum sibi
+              exigit naturae in suo genere conservandae modus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15541-d1e208">
+          <ref corresp="#UUyf3f-d1e15541-Qd1e218" xml:id="UUyf3f-d1e15541-Rd1e210">Augustinus,
+              <title>de Decem chordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15541-Qd1e218">Qua fronte venturus es ad filium tuum, qui
+              praecessit, cui praecedenti non mittis partem suam in coelum? An non potest mitti in
+              coelum? Potest prorsus. Audi ipsum Dominum dicentem: <!--<i>-->Thesaurizate vobis
+              thesauros in caelo<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15541-d1e227">
+          <ref corresp="#UUyf3f-d1e15541-Qd1e237" xml:id="UUyf3f-d1e15541-Rd1e229">Isidorus, in
+              <title>Etymologiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15541-Qd1e237">Avidus dictus est ab
+              <!--<i>-->avendo<!--</i>-->; avere enim cupere est: hinc et avarus. Nam quid est
+              avarum esse, nisi progredi ultra quam sufficit? Avarus enim dictus est, eo quod sit
+              avidus auri, et nunquam opibus expleatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15541-d1e246">
+          <ref corresp="#UUyf3f-d1e15541-Qd1e256" xml:id="UUyf3f-d1e15541-Rd1e248">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15541-Qd1e256">Qui bona mundi diligit, velit, nolit, timoris et
+              doloris poenae succumbit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15541-d1e262">
+          <ref corresp="#UUyf3f-d1e15541-Qd1e272" xml:id="UUyf3f-d1e15541-Rd1e264">Joannes
+            Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15541-Qd1e272">Quemadmodum in fontem mundum stercus quis
+              immittens, totum eum immundum facit; ita et in divitias justas avaritia intrans, omnia
+              spirare facit ab eo, qui illic est, avaritiae foetore.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15541-d1e277">
+          <ref corresp="#UUyf3f-d1e15541-Qd1e287" xml:id="UUyf3f-d1e15541-Rd1e279">Joannes
+            Chrysostomus, <title>super Joannem</title>)</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15541-Qd1e287">Non amabit proximum, qui aurum amat. Non enim
+              amabit proximum, qui aurum amat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15541-d1e292">
+          <ref corresp="#UUyf3f-d1e15541-Qd1e302" xml:id="UUyf3f-d1e15541-Rd1e294">Bernardus,
+              <title>de Contemptu mundi</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15541-Qd1e302">Nunc trahit sua quemque voluptas; odorem turpis
+              lucri sectantes, <!--<i>-->quaestum aestimant pietatem<!--</i>-->, quorum
+              <!--<i>-->certa damnatio est<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15541-d1e315">
+          <ref corresp="#UUyf3f-d1e15541-Qd1e325" xml:id="UUyf3f-d1e15541-Rd1e317">Bernardus,
+              <title>de Contemptu mundi</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15541-Qd1e325">Utinam saperes, miser, et intelligeres, cum
+              thesauro pecuniae, thesaurum irae pariter cumulari. Utinam novissima providens,
+              animadverteres non facile per foramen acus transituros divitiarum cumulos.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15541-d1e330">
+          <ref corresp="#UUyf3f-d1e15541-Qd1e340" xml:id="UUyf3f-d1e15541-Rd1e332">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15541-Qd1e340">Vidisti aliquando canem, missa a Domino frusta
+              panis ac carnis, aperto ore captantem; quidquid accipit, protinus integrum devorat, et
+              semper ad spem venturi hiat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15541-d1e345">
+          <ref corresp="#UUyf3f-d1e15541-Qd1e355" xml:id="UUyf3f-d1e15541-Rd1e347">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15541-Qd1e355">Evenit nobis quidquid expectantibus fortuna
+              projecit, id sine ulla voluptate dimittimus, statim ad rapinam alterius erecti et
+              attenti.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

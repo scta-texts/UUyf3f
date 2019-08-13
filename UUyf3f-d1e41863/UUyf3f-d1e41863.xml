@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De communitate</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De communitate</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e41863">
+        <head xml:id="UUyf3f-d1e41863-Hd1e99" type="question-title">De communitate</head>
+        <p xml:id="UUyf3f-d1e41863-d1e102">
+          <ref corresp="#UUyf3f-d1e41863-Qd1e112" xml:id="UUyf3f-d1e41863-Rd1e104">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41863-Qd1e112">Nullus vestrum, neglecta utilitate communi, suo
+              lucro prospiciat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41863-d1e117">
+          <ref corresp="#UUyf3f-d1e41863-Qd1e127" xml:id="UUyf3f-d1e41863-Rd1e119">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41863-Qd1e127">Si me participem operatio non facit laboris
+              vestri, me participem charitas facit: quia, sicut existimo, bonum proximi etiam otioso
+              commune fit, qui de alterius actibus gaudere communiter scit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41863-d1e132">
+          <ref corresp="#UUyf3f-d1e41863-Qd1e142" xml:id="UUyf3f-d1e41863-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41863-Qd1e142">Pro qualitate audientium formari debet sermo
+              doctorum, ut et ad sua singulis congruat, et tamen a communis aedificationis arte
+              nunquam recedat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41863-d1e147">
+          <ref corresp="#UUyf3f-d1e41863-Qd1e157" xml:id="UUyf3f-d1e41863-Rd1e149">Joannes Chrysostomus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41863-Qd1e157">Omne quod nostrum est, tunc magis nostrum erit,
+              si sit nobis commune cum fratribus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41863-d1e163">
+          <ref corresp="#UUyf3f-d1e41863-Qd1e173" xml:id="UUyf3f-d1e41863-Rd1e165">Joannes Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41863-Qd1e173">Qualiter est imitatores fieri Christi, ad
+              communem utilitatem omnia negotiantes, et non quae nostra sunt quaerentes.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41863-d1e178">
+          <ref corresp="#UUyf3f-d1e41863-Qd1e188" xml:id="UUyf3f-d1e41863-Rd1e180">Ambrosius, <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41863-Qd1e188">Sic Deus generari jussit omnia, ut partus
+              omnibus communis esset, et terra foret omnium quaedam communis possessio. Natura ergo
+              jus commune generavit; usurpatio jus fecit privatum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41863-d1e193">
+          <ref corresp="#UUyf3f-d1e41863-Qd1e203" xml:id="UUyf3f-d1e41863-Rd1e195">Ambrosius, <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41863-Qd1e203">Qui perfecte sapit, nescit sua spectare commoda,
+              sed ad illud quod aeternum est, quod decorum, atque honestum, toto affectu intendit,
+              quaerens non quod sibi utile est, sed quod omnibus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41863-d1e208">
+          <ref corresp="#UUyf3f-d1e41863-Qd1e218" xml:id="UUyf3f-d1e41863-Rd1e210">Ambrosius, <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41863-Qd1e218">Nihil judicandum utile, nisi quod in commune
+              prosit: quomodo enim potest uni prodesse, quod omnibus nocet? Mihi crede, non videtur,
+              qui inutilis est omnibus, sibi utilis esse posse.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41863-d1e223">
+          <ref corresp="#UUyf3f-d1e41863-Qd1e233" xml:id="UUyf3f-d1e41863-Rd1e225">Ambrosius, <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41863-Qd1e233">Verum est causam inopiae nostrae videri
+              avaritiam; etenim volatilibus coeli idcirco sine labore pabuli usus exuberat, quod
+              fructus, sibi communes ad escam datos, speciali quodam nesciunt vendicare
+              dominatu.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41863-d1e238">
+          <ref corresp="#UUyf3f-d1e41863-Qd1e248" xml:id="UUyf3f-d1e41863-Rd1e240">Ambrosius, <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41863-Qd1e248">Qui justus est, non negat quod est ad usum
+              omnibus communiter datum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41863-d1e254">
+          <ref corresp="#UUyf3f-d1e41863-Qd1e264" xml:id="UUyf3f-d1e41863-Rd1e256">Augustinus, super <title>Actus Apostolorum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41863-Qd1e264">Melior est fraternitas Christi fraternitate
+              sanguinis: fraternitas sanguinis interdum sibi inimica est; Christi autem fraternitas
+              sine intermissione pacifica est: illa inter se communia dividit cum aemulatione; haec
+              autem sua communicat cum gratulatione.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41863-d1e269">
+          <ref corresp="#UUyf3f-d1e41863-Qd1e279" xml:id="UUyf3f-d1e41863-Rd1e271">Augustinus, in <title>Regula</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41863-Qd1e279">Omnia opera vestra in unum fiant, majori studio,
+              et frequentiori alacritate, quam si vobis singulis feceritis propria; charitas enim,
+              de qua scriptum est: <!--<i>-->Non quaerit quae sua sunt<!--</i>-->, sic intelligitur,
+              quia communia propriis, non propria communibus anteponit; et ideo quanto amplius rem
+              communem, quam propria vestra curaveritis, tanto vos amplius proficere
+              noveritis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41863-d1e288">
+          <ref corresp="#UUyf3f-d1e41863-Qd1e298" xml:id="UUyf3f-d1e41863-Rd1e290">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41863-Qd1e298">Quaeritur inter dispensatores, ut fidelis quis
+              inveniatur. Ubi necessitas urget, excusabilis dispensatio est; ubi utilitas provocat,
+              dispensatio laudabilis est; utilitas, dico, communis, non propria. Nam cum nihil horum
+              est, non plane fidelis dispensatio, sed crudelis dissipatio est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41863-d1e303">
+          <ref corresp="#UUyf3f-d1e41863-Qd1e313" xml:id="UUyf3f-d1e41863-Rd1e305">Bernardus, <title>de Duodecim gradibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41863-Qd1e313">Singularis ad omnia sua strenuus, ad communia
+              piger, vigilat in lecto, dormit in choro.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41863-d1e318">
+          <ref corresp="#UUyf3f-d1e41863-Qd1e328" xml:id="UUyf3f-d1e41863-Rd1e320">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41863-Qd1e328">Dominus communi disciplina, communi vita,
+              communibus studiis delectatur. Usquequo, miser, diverticula captas, et consolationes
+              propriae voluntatis tanto labore quaeritas, tanto rubore mendicas? Et quid faciam?
+              inquis. <!--<i>-->Ejice ancillam et filium ejus<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41863-d1e337">
+          <ref corresp="#UUyf3f-d1e41863-Qd1e347" xml:id="UUyf3f-d1e41863-Rd1e339">Beda, in <title>Glossa</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41863-Qd1e347">Qui ita vivunt, ut sint omnia communia in
+              Domino, coenobitae vocantur: quae vita tanto felicior est, quanto statum saeculi
+              futuri imitatur, ubi omnia communia, quia Deus est omnia in omnibus, et quia ibi summa
+              pax et securitas, civitas in qua typus hujus vitae praecessit, Hierusalem, id est
+              visio pacis dicta est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41863-d1e353">
+          <ref corresp="#UUyf3f-d1e41863-Qd1e363" xml:id="UUyf3f-d1e41863-Rd1e355">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41863-Qd1e363">Non potest quisquam beate degere, qui se tantum
+              intuetur, qui omnia ad utilitates suas convertit. Alteri vivas oportet, si tibi vis
+              vivere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41863-d1e368">
+          <ref corresp="#UUyf3f-d1e41863-Qd1e378" xml:id="UUyf3f-d1e41863-Rd1e370">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41863-Qd1e378">In hoc gaudeo aliquid dicere, ut doceam, nec me
+              ulla res delectabit, licet sit eximia et salutaris, quod mihi uni sciturus
+              sum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41863-d1e383">
+          <ref corresp="#UUyf3f-d1e41863-Qd1e393" xml:id="UUyf3f-d1e41863-Rd1e385">Seneca, in <title>Proverbiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41863-Qd1e393">Quietissime viverent homines, si duo verba
+              tollerentur: <!--<i>-->meum et tuum<!--</i>-->.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

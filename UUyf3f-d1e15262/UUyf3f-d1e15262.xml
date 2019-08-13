@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De accidia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De accidia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e15262">
+        <head xml:id="UUyf3f-d1e15262-Hd1e99" type="question-title">De accidia</head>
+        <p xml:id="UUyf3f-d1e15262-d1e102">
+          <ref corresp="#UUyf3f-d1e15262-Qd1e112" xml:id="UUyf3f-d1e15262-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15262-Qd1e112">De tristitia, vel accidia, nascitur malitia,
+              rancor, pusillanimitas, desperatio, torpor circa praecepta, vagatio mentis circa
+              illicita.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15262-d1e117">
+          <ref corresp="#UUyf3f-d1e15262-Qd1e127" xml:id="UUyf3f-d1e15262-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15262-Qd1e127">Humana anima, quia ad Deum solum appetendum
+              facta est, omne autem quod infra Deum appetit, minus est, ideo ei jure non sufficit
+              omne quod Deus non est. Hinc est, quod huc illucque spargitur, et ab unaquaque re
+              fastidio impellente removetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15262-d1e132">
+          <ref corresp="#UUyf3f-d1e15262-Qd1e142" xml:id="UUyf3f-d1e15262-Rd1e134">Gregorius, in
+              <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15262-Qd1e142">Plerumque piger, dum necessaria agere negligit,
+              quaedam sibi difficilia opponit, quaedam vero incaute formidat; et dum quasi invenit
+              quod velut juste metuat, ostendit quod in otio quasi non juste torpescat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15262-d1e147">
+          <ref corresp="#UUyf3f-d1e15262-Qd1e157" xml:id="UUyf3f-d1e15262-Rd1e149">Gregorius, in
+              <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15262-Qd1e157">Si quod mortuum in nobis est, ad vitam non
+              accenditur; hoc etiam extinguitur, quod quasi adhuc vivum tenetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15262-d1e163">
+          <ref corresp="#UUyf3f-d1e15262-Qd1e173" xml:id="UUyf3f-d1e15262-Rd1e165">Gregorius, in
+              <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15262-Qd1e173">Qui adhuc in peccatis est, conversionis fiduciam
+              non amittit; qui vero post conversionem tepuit, etiam spem, quae potuit esse de
+              peccatorum conversione, subtraxit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15262-d1e178">
+          <ref corresp="#UUyf3f-d1e15262-Qd1e188" xml:id="UUyf3f-d1e15262-Rd1e180">Augustinus,
+              <title>de Confessionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15262-Qd1e188">Palato non sano poena est panis, qui sano est
+              suavis; et oculis aegris odiosa est lux, quae puris amabilis est; et justitia tua,
+              Domine, displicet tristibus et iniquis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15262-d1e193">
+          <ref corresp="#UUyf3f-d1e15262-Qd1e203" xml:id="UUyf3f-d1e15262-Rd1e195">Joannes
+            Chrysostomus, <title>de Compunctione cordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15262-Qd1e203">Non video, quod aliquis nostrum vera et perfecta
+              cupidine coelectium teneatur; alioquin omnia quae videntur esse gravia, umbras putaret
+              et risum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15262-d1e208">
+          <ref corresp="#UUyf3f-d1e15262-Qd1e218" xml:id="UUyf3f-d1e15262-Rd1e210">Ambrosius,
+              <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15262-Qd1e218">Disce rogare quod cupis impetrare: fastidiosos
+              viros coelestium profectus munerum non sequuntur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15262-d1e223">
+          <ref corresp="#UUyf3f-d1e15262-Qd1e233" xml:id="UUyf3f-d1e15262-Rd1e225">Ambrosius, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15262-Qd1e233">Sicut Dominus non vult mortem peccatoris tantum,
+              sed ut revertatur, et vivat; ita tepidos odit, et cito ei nauseam faciunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15262-d1e238">
+          <ref corresp="#UUyf3f-d1e15262-Qd1e248" xml:id="UUyf3f-d1e15262-Rd1e240">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15262-Qd1e248">Tepidus in conversatione, otiosa verba et vanas
+              cogitationes, noxias esse non conspicit; quod si a torpore mentis evigilaverit, ea
+              quae prius levia aestimabat, confestim quasi horrenda atque atrocia
+              pertimescit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15262-d1e254">
+          <ref corresp="#UUyf3f-d1e15262-Qd1e264" xml:id="UUyf3f-d1e15262-Rd1e256">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15262-Qd1e264">Dei servum sine intermissione legere, orare, et
+              operari oportet, ne forte mentem otio deditam spiritus fornicationis surripiat. Cedit
+              enim labori voluptas; animum autem vacantem cito preoccupat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15262-d1e269">
+          <ref corresp="#UUyf3f-d1e15262-Qd1e279" xml:id="UUyf3f-d1e15262-Rd1e271">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15262-Qd1e279">Pro vitando otio, otiosa sectari ridiculum est.
+              Otium autem est, quod vel nullam habet utilitatem, vel utilitatis intentionem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15262-d1e284">
+          <ref corresp="#UUyf3f-d1e15262-Qd1e294" xml:id="UUyf3f-d1e15262-Rd1e286">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15262-Qd1e294">Miror quod ad gustum cibi dulcissimi nauseas,
+              <!--<i>-->si tamen gustasti quam dulcis est Dominus<!--</i>-->; aut certe nondum
+              gustasti, et nescis quid aut quomodo sapit Christus, ideoque non appetis incognitum et
+              inexpertum; aut si forte gustasti, et dulce non sapit, sanum non habes
+              palatum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15262-d1e303">
+          <ref corresp="#UUyf3f-d1e15262-Qd1e313" xml:id="UUyf3f-d1e15262-Rd1e305">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15262-Qd1e313">Doleo aliquos nostrum gravi in sacris vigiliis
+              depremi somno, nec coeli cives revereri, sed in praesentia principum tanquam mortuos
+              apparere: cum tamen ipsi nostra alacritate permoti nostris interesse solemniis
+              delectentur. Vereor ne nostram desidiam aliquando abominantes, cum indignatione
+              recedant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15262-d1e318">
+          <ref corresp="#UUyf3f-d1e15262-Qd1e328" xml:id="UUyf3f-d1e15262-Rd1e320">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15262-Qd1e328">Cum te tepore, accidia, vel taedio affici
+              sentis, noli propterea diffidere, atque desistere a studio spirituali; sed juvantis
+              require manum, trahi te obsecrans.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15262-d1e333">
+          <ref corresp="#UUyf3f-d1e15262-Qd1e343" xml:id="UUyf3f-d1e15262-Rd1e335">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15262-Qd1e343">Tepescimus processu temporis a fervore
+              conversionis nostrae: paulatim refrigescit charitas, abundat iniquitas, ut, heu!
+              consummemur in carne, qui spiritu coeperamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15262-d1e349">
+          <ref corresp="#UUyf3f-d1e15262-Qd1e359" xml:id="UUyf3f-d1e15262-Rd1e351">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15262-Qd1e359">Quid istud negligentiae, quid pigritiae, imo
+              quid vecordiae est, ut non crebris suspiriis et ferventissima affectione abrumpere
+              hinc, et in illa tam felicia agmina jaculari animos studeamus? Vae nobis a duritia
+              cordis nostri; vae nobis a peccato gentium, quas Apostolus sine affectione commemorat
+              esse.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15262-d1e364">
+          <ref corresp="#UUyf3f-d1e15262-Qd1e374" xml:id="UUyf3f-d1e15262-Rd1e366">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15262-Qd1e374">Cito inerti otio vita torpebit, si relinquendum
+              est quidquid offendit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15262-d1e379">
+          <ref corresp="#UUyf3f-d1e15262-Qd1e389" xml:id="UUyf3f-d1e15262-Rd1e381">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15262-Qd1e389">Otium sine litteris mors est, et vivi hominis
+              sepultura.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

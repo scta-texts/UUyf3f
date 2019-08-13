@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De eleemosyna accepta</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De eleemosyna accepta</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e26748">
+        <head xml:id="UUyf3f-d1e26748-Hd1e99" type="question-title">De eleemosyna accepta</head>
+        <p xml:id="UUyf3f-d1e26748-d1e102">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e112" xml:id="UUyf3f-d1e26748-Rd1e104">Gregorius, in
+            homilia super illud <title>Luc</title>. XVI</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e112">
+              <!--<i>-->Facite vobis amicos<!--</i>-->, etc.: Si coeleste patrimonium eleemosynis
+              emitur, pauperes non sunt audiendi ut egeni, sed ut patroni exorandi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e121">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e131" xml:id="UUyf3f-d1e26748-Rd1e123">Gregorius, in
+            homilia super illud <title>Luc</title>. XVI</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e131">
+              <!--<i>-->Facite vobis amicos<!--</i>-->, etc.: Ad tribuendum pigri cur estis, quando
+              hoc, quod jacenti in terra porrigitis, sedenti in coelo datis? Dominus ait:
+              <!--<i>-->Quidquid fecistis uni de his fratribus meis minimis, mihi
+              fecistis<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e144">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e154" xml:id="UUyf3f-d1e26748-Rd1e146">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e154">Tunc plena est nostri cordis compassio, cum
+              malum inopiae pro proximo suscipere non metuimus, ut illum a passione
+              liberemus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e159">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e169" xml:id="UUyf3f-d1e26748-Rd1e161">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e169">Rem quamlibet plerumque dat etiam qui non
+              compatitur; nunquam autem qui vere compatitur, quod necessarium proximo conspicit,
+              negat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e175">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e185" xml:id="UUyf3f-d1e26748-Rd1e177">Gregorius, in
+              <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e185">Nonnulli hujus mundi divites, cum fame
+              crucientur Christi pauperes, effusis largitatibus nutriunt histriones. Qui vero
+              indigenti etiam peccatori panem suum, non quia peccator, sed quia homo est, tribuit,
+              nimirum non peccatorem, sed pauperem justum nutrit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e190">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e200" xml:id="UUyf3f-d1e26748-Rd1e192">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e200">Verum est quod peccata omnia misericordiae
+              operibus expurgentur; sed si jam caveat peccare, qui misericordiam impartitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e205">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e215" xml:id="UUyf3f-d1e26748-Rd1e207">Joannes
+            Chrysostomus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e215">Melius servatur pecunia, quae in dextera
+              pauperis collocatur: hanc mihi non calumniator extorquet, non invidus criminatur, non
+              latro auferet, non fur nocturnus diripiet, non servus fugam meditans invadet; sed
+              semper est tuta, semper integra, semper salva.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e220">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e230" xml:id="UUyf3f-d1e26748-Rd1e222">Joannes
+            Chrysostomus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e230">Mentem Deus misericordem requirit, non pecuniae
+              quantitatem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e235">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e245" xml:id="UUyf3f-d1e26748-Rd1e237">Joannes
+            Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e245">Eleemosyna est, quae est ab omni eruta
+              injustitia; haec omnia facit munda; haec et jejunio melior, et terrae lectulo: et
+              nimirum difficiliora illa et laboriosa; sed haec lucrabiliter illuminat animam et
+              impinguat, et bonam et speciosam facit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e250">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e260" xml:id="UUyf3f-d1e26748-Rd1e252">Joannes
+            Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e260">Da indigenti, et non da saltanti, ut non cum
+              tuis pecuniis et tuam animam, et illius perdas: tu enim causa es perditionis
+              illius.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e266">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e276" xml:id="UUyf3f-d1e26748-Rd1e268">Ambrosius, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e276">Misericordia non de meritis judicare consuevit,
+              sed de necessitatibus subvenire; juvare pauperem, non examinare justitiam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e281">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e291" xml:id="UUyf3f-d1e26748-Rd1e283">Ambrosius, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e291">Habe, dives, hypothecas inopum sinus, habeas
+              hypothecas viduarum domos, habeas hypothecas ora infantium orphanorum, ut dicatur
+              tibi: <!--<i>-->Ex ore infantium, et lactentium perfecisti laudem<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e300">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e310" xml:id="UUyf3f-d1e26748-Rd1e302">Ambrosius,
+              <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e310">Perfecta liberalitas fide, causa, loco, tempore
+              commendatur: fide, ut prius opereris circa domesticos fidei.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e315">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e325" xml:id="UUyf3f-d1e26748-Rd1e317">Ambrosius,
+              <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e325">Non omnibus debemus misericordiam; sed quia
+              plerique fraude eam quaerunt, et confingunt aerumnam, ideo ubi causa manifestatur,
+              persona cognoscitur, tempus urget, largius se debet perfundere misericordia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e330">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e340" xml:id="UUyf3f-d1e26748-Rd1e332">Ambrosius,
+              <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e340">Affectus divitem collatorem, aut pauperem facit,
+              et pretium rebus imponit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e345">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e355" xml:id="UUyf3f-d1e26748-Rd1e347">Ambrosius,
+              <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e355">Si peregrinum sub tectum tuum inducas, si
+              suscipias egentem, ille tibi acquirit sanctorum amicitias, et aeterna
+              tabernacula.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e361">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e371" xml:id="UUyf3f-d1e26748-Rd1e363">Ambrosius,
+              <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e371">Aurum Ecclesia habet, non ut servet, sed ut
+              eroget, et subveniat in necessitatibus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e376">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e386" xml:id="UUyf3f-d1e26748-Rd1e378">Ambrosius,
+              <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e386">Tu qui putas te manum habere sanam, cave ne
+              avaritia, cave ne sacrilegio contrahatur; extende saepius eam, extende ad illum
+              pauperem, qui te obsecrat; extende, ut proximum juves, ut viduae feras praesidium,
+              eripias injuriae, quem vides injustae contumeliae subjacere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e391">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e401" xml:id="UUyf3f-d1e26748-Rd1e393">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e401">O quanta beatitudo pro parvis magna recipere,
+              aeterna pro brevibus, pro morituris semper viventia, et habere Dominum Deum
+              debitorem!</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e406">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e416" xml:id="UUyf3f-d1e26748-Rd1e408">Augustinus,
+              <title>Contra quinque haereses</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e416">Obsecutus est Lot angelis, tanquam peregrinis,
+              consuetudine hospilitatis; liberatus a periculo civitatis, et temporale evasit
+              incendium, et aeternum consecutus est praemium. Discite ergo, Christiani, sine
+              discretione exhibere hospitalitatem, ne si forte cui domum clauseritis, cui
+              humanitatem denegaveritis, ipse sit Christus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e421">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e431" xml:id="UUyf3f-d1e26748-Rd1e423">Augustinus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e431">Utilius esurienti panis tollitur, si de cibo
+              securus justitiam negligat, quam si ei panis frangitur, ut injustitiae seductus
+              acquiescat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e436">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e446" xml:id="UUyf3f-d1e26748-Rd1e438">Augustinus, in
+              <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e446">Redime te, homo, dum vivis; redime te ipse, dum
+              potes; redime te, inquam, dum pretium in manibus habes; redime te, ne dum te mors
+              amara praevenerit, et vitam simul et pretium perdas. Sine causa hoc vis dimittere
+              uxori, quae forsitan alium habebit maritum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e452">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e462" xml:id="UUyf3f-d1e26748-Rd1e454">Augustinus, in
+              <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e462">Qui sibi aut praemium comparare, aut peccatorum
+              desiderat indulgentiam promereri, redditis decimis de novem partibus studeat
+              eleemosynam dare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e467">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e477" xml:id="UUyf3f-d1e26748-Rd1e469">Augustinus, in
+              <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e477">Si decimas non habes fructuum terrenorum, quod
+              habet agricola, quod te pascit ingenium, Dei est: inde decimas expetit, unde vivis: de
+              militia, de negotio, de artificio tuo redde decimas. Aliud enim de terra rependimus,
+              aliud de tonsura ovium, et de lacte.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e482">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e492" xml:id="UUyf3f-d1e26748-Rd1e484">Augustinus, in
+              <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e492">Da pauperibus, et habebis thesaurum in coelo:
+              non sine thesauro remanebis; sed quod habebis in terra sollicitus, habebis in coelo
+              securus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e497">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e507" xml:id="UUyf3f-d1e26748-Rd1e499">Augustinus, in
+              <title>Enchiridio</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e507">Multa sunt genera eleemosynarum, quas cum
+              facimus, adjuvamur ut dimittantur peccata nostra. Sed ea nihil est majus, qua ex corde
+              dimittimus, quod in nos quisque peccavit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e512">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e522" xml:id="UUyf3f-d1e26748-Rd1e514">Leo Papa, in
+              <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e522">Magna est eleemosyna, quae ardentium criminum
+              globos benevolentiae suae fonte refrigerat, et quodam irriguo largitatis obruit
+              incendia delictorum, ut quamvis offensus Deus, quamvis criminibus provocatus, cogatur
+              liberare eleemosynis, quem disposuerat punire peccatis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26748-d1e527">
+          <ref corresp="#UUyf3f-d1e26748-Qd1e537" xml:id="UUyf3f-d1e26748-Rd1e529">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26748-Qd1e537">Vere <!--<i>-->beatus qui intelligit<!--</i>-->
+              non super cupidum, sed <!--<i>-->super egenum et pauperem<!--</i>-->: illum, inquam,
+              pauperem, qui invite petit, et verecunde accipit, et accipiens glorificat Patrem suum,
+              qui in coelis est.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

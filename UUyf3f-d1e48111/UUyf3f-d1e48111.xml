@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De connexione uirtutum, de abstinentia et oratio</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De connexione uirtutum, de abstinentia et oratio</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e48111">
+        <head xml:id="UUyf3f-d1e48111-Hd1e99" type="question-title">De connexione uirtutum, de
+          abstinentia et oratio</head>
+        <p xml:id="UUyf3f-d1e48111-d1e102">
+          <ref corresp="#UUyf3f-d1e48111-Qd1e112" xml:id="UUyf3f-d1e48111-Rd1e104">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48111-Qd1e112">In jejuniis, et vigiliis, et omni castigatione
+              corporis, quam plurimum adjuvatur oratio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48111-d1e117">
+          <ref corresp="#UUyf3f-d1e48111-Qd1e127" xml:id="UUyf3f-d1e48111-Rd1e119">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48111-Qd1e127">Qui orat cum jejunio, duplices habet alas, et
+              ipsis ventis leviores. Neque enim oscitat et tenditur, et torpet orans, quod patiuntur
+              mali; sed est igne vehementior, et terra superior. Ideoque maxime hic talis daemonibus
+              est inimicus et hostis. Nihil enim homine orante proprie est potentius.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48111-d1e132">
+          <ref corresp="#UUyf3f-d1e48111-Qd1e142" xml:id="UUyf3f-d1e48111-Rd1e134">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48111-Qd1e142">Sicut nec miles sine armis est aliquid, nec arma
+              sine milite, sic nec oratio sine jejunio, nec jejunium sine oratione.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48111-d1e147">
+          <ref corresp="#UUyf3f-d1e48111-Qd1e157" xml:id="UUyf3f-d1e48111-Rd1e149">Isidorus, <title>de Summo bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48111-Qd1e157">Hoc est perfectum et rationabile jejunium,
+              quando noster homo exterior jejunat, interior orat. Facilius enim per jejunium oratio
+              penetrat coelum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48111-d1e163">
+          <ref corresp="#UUyf3f-d1e48111-Qd1e173" xml:id="UUyf3f-d1e48111-Rd1e165">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48111-Qd1e173">Abstinebo a vino, quia in vino luxuria est; aut,
+              si infirmus sum, modico utar juxta consilium Apostoli; abstinebo et a carnibus, ne,
+              dum mihi nimis carnem nutriunt, simulque et carnis nutriant vitia: panem etiam ipsum
+              cum mensura studebo sumere, ne onerato ventre stare ad orandum taedeat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48111-d1e178">
+          <ref corresp="#UUyf3f-d1e48111-Qd1e188" xml:id="UUyf3f-d1e48111-Rd1e180">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48111-Qd1e188">Oratio virtutem impetrat jejunandi, et jejunium
+              gratiam promeretur orandi: jejunium orationem roborat; oratio jejunium sanctificat, et
+              Deo repraesentat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48111-d1e193">
+          <ref corresp="#UUyf3f-d1e48111-Qd1e203" xml:id="UUyf3f-d1e48111-Rd1e195">Idem (Bernardus, in <title>Sermonibus</title>)</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48111-Qd1e203">Quid nobis jejunium proderit, si relinquatur in
+              terra? Sublevetur ergo penna quadam orationis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48111-d1e208">
+          <ref corresp="#UUyf3f-d1e48111-Qd1e215" xml:id="UUyf3f-d1e48111-Rd1e210">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48111-Qd1e215">Prius est mortificare concupiscentiam, postea
+              offerre Deo placabilia vota cordis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48111-d1e220">
+          <ref corresp="#UUyf3f-d1e48111-Qd1e227" xml:id="UUyf3f-d1e48111-Rd1e222">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48111-Qd1e227">Sola oratio pinguescit, quam macies corporis
+              pascit.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De sufficientia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De sufficientia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e41716">
+        <head xml:id="UUyf3f-d1e41716-Hd1e99" type="question-title">De sufficientia</head>
+        <p xml:id="UUyf3f-d1e41716-d1e102">
+          <ref corresp="#UUyf3f-d1e41716-Qd1e112" xml:id="UUyf3f-d1e41716-Rd1e104">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41716-Qd1e112">Non delectamur xeniis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41716-d1e117">
+          <ref corresp="#UUyf3f-d1e41716-Qd1e127" xml:id="UUyf3f-d1e41716-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41716-Qd1e127">Mira securitas est cordis, aliena non quaerere,
+              sed uniuscujusque diei sufficientia contentum manere. Ex qua videlicet securitate
+              etiam perennis requies nascitur, quia a bona et tranquilla cogitatione ad gaudia
+              aeterna transitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41716-d1e132">
+          <ref corresp="#UUyf3f-d1e41716-Qd1e142" xml:id="UUyf3f-d1e41716-Rd1e134">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41716-Qd1e142">Qui alimentorum inopiam sine murmuratione
+              tolerat, nec pro necessitate victus agit aliquid, unde anima peccati laqueum incurrat,
+              scit esurire.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41716-d1e147">
+          <ref corresp="#UUyf3f-d1e41716-Qd1e157" xml:id="UUyf3f-d1e41716-Rd1e149">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41716-Qd1e157">Ille pauper est, qui eget eo quod non habet. Nam
+              et qui non habens, habere non appetit, dives est. Paupertas quippe in inopia mentis
+              est, non in quantitate possessionis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41716-d1e163">
+          <ref corresp="#UUyf3f-d1e41716-Qd1e173" xml:id="UUyf3f-d1e41716-Rd1e165">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41716-Qd1e173">Discamus esurire, ut nobis, propter abundantiam
+              sequentem, nostra hic inopia placeat. Nec nos ventris necessitas ad culpam trahat, nec
+              peccatum menti indigentia suggerat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41716-d1e178">
+          <ref corresp="#UUyf3f-d1e41716-Qd1e188" xml:id="UUyf3f-d1e41716-Rd1e180">Augustinus, <title>de Soliloquiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41716-Qd1e188">Sive de cibo, sive de potu, sive de balneis,
+              caeteraque corporis voluptate nihil interroges; tantum ab eo pete, quantum valetudini
+              opem conferre potest.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41716-d1e193">
+          <ref corresp="#UUyf3f-d1e41716-Qd1e203" xml:id="UUyf3f-d1e41716-Rd1e195">Augustinus, <title>de Vita beata</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41716-Qd1e203">Nullus perfectus aliquo eget; et quod videtur
+              corpori necessarium, sumet, si affuerit; si non affuerit, non eum istarum rerum
+              franget inopia. Omnis namque sapiens fortis est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41716-d1e208">
+          <ref corresp="#UUyf3f-d1e41716-Qd1e218" xml:id="UUyf3f-d1e41716-Rd1e210">Augustinus, <title>de Vera religione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41716-Qd1e218">Quem delectat libertas, ab amore mutabilium
+              rerum liber esse appetat; et quem regnare delectat, uni omnium regnatori Deo funditus
+              adhaereat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41716-d1e223">
+          <ref corresp="#UUyf3f-d1e41716-Qd1e233" xml:id="UUyf3f-d1e41716-Rd1e225">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41716-Qd1e233">Surge, praecingere, tolle otium, exere vires,
+              move brachia, complosas explica manus, exercitare in aliquo; et statim senties sola te
+              appetere, quae famem tollant, non fauces demulceant. Reddet quidem sapores cibis
+              exercitium, quos tulit inertia multa; quae respuis otiosus, post laborem sumes vel
+              desiderio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41716-d1e238">
+          <ref corresp="#UUyf3f-d1e41716-Qd1e248" xml:id="UUyf3f-d1e41716-Rd1e240">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41716-Qd1e248">Magni animi est magna contemnere, ac mediocria
+              malle, quam nimia. Illa enim utilia vitaliaque sunt; at haec, eo quod superfluunt,
+              nocent: sic segetem nimia sternit ubertas, et rami onere franguntur.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De solitudine</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De solitudine</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e41192">
+        <head xml:id="UUyf3f-d1e41192-Hd1e99" type="question-title">De solitudine</head>
+        <p xml:id="UUyf3f-d1e41192-d1e102">
+          <ref corresp="#UUyf3f-d1e41192-Qd1e112" xml:id="UUyf3f-d1e41192-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41192-Qd1e112">Qui mortificare se appetit, valde ad inventam
+              requiem contemplationis hilarescit, ut exterius mundo lateat, et cunctis exteriorum
+              rerum perturbationibus intra sinum se intimi amoris abscondat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41192-d1e117">
+          <ref corresp="#UUyf3f-d1e41192-Qd1e127" xml:id="UUyf3f-d1e41192-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41192-Qd1e127">Prodest solitudo corporis, si solitudo est
+              mentis. Quid prodest solitudo corporis, si solitudo defuerit cordis? Qui enim corpore
+              remotus vivit, sed tumultibus conversationis humanae terrenorum desideriorum
+              cogitatione se inserit, non est in solitudine. Si vero prematur aliquis corporaliter
+              popularibus turbis, et tamen nullae saecularium tumultus in corde patiatur, non est in
+              urbe.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41192-d1e132">
+          <ref corresp="#UUyf3f-d1e41192-Qd1e142" xml:id="UUyf3f-d1e41192-Rd1e134">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41192-Qd1e142">Mihi oppidum carcer est, et solitudo
+              paradisus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41192-d1e147">
+          <ref corresp="#UUyf3f-d1e41192-Qd1e157" xml:id="UUyf3f-d1e41192-Rd1e149">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41192-Qd1e157">Infinita eremi vastitas te terret? Sed paradisum
+              mente deambula. Quotiescumque illuc mente conscenderis, toties in eremo non
+              eris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41192-d1e163">
+          <ref corresp="#UUyf3f-d1e41192-Qd1e173" xml:id="UUyf3f-d1e41192-Rd1e165">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41192-Qd1e173">Hospitiolum tuum aut raro, aut nunquam mulierum
+              pedes terant. Omnes puellas et virgines Christi, aut aequaliter ignora, aut aequaliter
+              dilige.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41192-d1e178">
+          <ref corresp="#UUyf3f-d1e41192-Qd1e188" xml:id="UUyf3f-d1e41192-Rd1e180">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41192-Qd1e188">Bonus honor in Ecclesia, si a consortio
+              clericorum longe sint foeminae. Monachum, vel clericum, solitudo facit, non
+              publicum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41192-d1e193">
+          <ref corresp="#UUyf3f-d1e41192-Qd1e203" xml:id="UUyf3f-d1e41192-Rd1e195">Augustinus, <title>de Singularitate
+              clericorum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41192-Qd1e203">Strages pessimae conversationis nemo prosternit,
+              nemo calcat, nemo funestat, nisi singularis castitas sola, quae munimen invictum est
+              sanctimoniae, et expugnatio fortis infamiae, fortitudinis firmitas, et lasciviae
+              petulantis infirmitas, probitatis praesidium, et improbitatis excidium, animae
+              victoria, et corporis praeda, ubertas gratiarum, et sterilitas criminum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41192-d1e208">
+          <ref corresp="#UUyf3f-d1e41192-Qd1e218" xml:id="UUyf3f-d1e41192-Rd1e210">Augustinus, <title>de Singularitate
+              clericorum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41192-Qd1e218">Non est sine filiis cum claritate, nisi
+              singularitas sola, quam non solum concupiscentia sua nullis sordibus maculat, sed
+              etiam nullae opiniones suspectae pluralitatis infamant. Nam si castitas, quod est
+              difficile, masculum et feminam pariter in virginitate conservet, non habet claritatem,
+              quoniam communitas ipsa non potest nisi quibusdam probrositatum tenebris
+              obscurari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41192-d1e223">
+          <ref corresp="#UUyf3f-d1e41192-Qd1e233" xml:id="UUyf3f-d1e41192-Rd1e225">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41192-Qd1e233">Cum quo Deus est, nunquam minus est solus, quam
+              cum solus est. Tunc enim libere fruitur gaudio suo; tunc ipse suus est; ibi ad
+              fruendum Deo in se, et se in Deo; tunc in luce veritatis, et in sereno mundi cordis,
+              ultro patet sibi pura conscientia, et libere se infundit de Deo memoria; et
+              illuminatur intellectus, et bono suo fruitur affectus, vel libere seipsum deflet
+              humanae fragilitatis defectus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41192-d1e238">
+          <ref corresp="#UUyf3f-d1e41192-Qd1e248" xml:id="UUyf3f-d1e41192-Rd1e240">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41192-Qd1e248">Solus es, si non communia cogites, si non
+              affectes praesentia, si despicias quod multi suspiciunt, si fastidias quod omnes
+              desiderant, si jurgia devites, si damna non sentias, si non recorderis injuriarum;
+              alioquin nec, si solus corpore es, solus es.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41192-d1e254">
+          <ref corresp="#UUyf3f-d1e41192-Qd1e264" xml:id="UUyf3f-d1e41192-Rd1e256">Cassiodorus, <title>de Anima</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41192-Qd1e264">Nimia turba vitiorum sine certamine vincitur,
+              quando solitudo gratiae suffragatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41192-d1e269">
+          <ref corresp="#UUyf3f-d1e41192-Qd1e279" xml:id="UUyf3f-d1e41192-Rd1e271">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41192-Qd1e279">Subducendus est a populo animus tener, et parum
+              tenax recti: facile transitur ad plures. Socrati, et Platoni, et Laelio, excutere
+              morem suum dissimilis multitudo potuisset.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

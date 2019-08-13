@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De angelis</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De angelis</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e2314">
+        <head xml:id="UUyf3f-d1e2314-Hd1e99" type="question-title">De angelis</head>
+        <p xml:id="UUyf3f-d1e2314-d1e102">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e112" xml:id="UUyf3f-d1e2314-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e112">Nisi angeli quaedam nobis interna nuntiantes ad
+              tempus ex aere corpora sumerent, exterioribus profecto nostris obtutibus non
+              apparerent, nec cibos cum Abraham caperent, nisi propter nos solidum aliquid ex
+              coelesti alimento gestarent.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e117">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e127" xml:id="UUyf3f-d1e2314-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e127">Divinitatis celsitudinem quamvis sublevatae
+              videant, nec virtutes tamen angelicae comprehendunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e132">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e142" xml:id="UUyf3f-d1e2314-Rd1e134">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e142">Certa angelorum ministeria dispensandis quibusque
+              gentibus sunt praelata.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e147">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e157" xml:id="UUyf3f-d1e2314-Rd1e149">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e157">In hoc est nunc natura angelica a nostrae naturae
+              conditione disjuncta, quod nos et loco circumscribimur, et caecitatis ignorantia
+              coarctamur; angelorum vero spiritus loco quidem circumscripti sunt, sed tamen eorum
+              scientiae longe super nos incomparabiliter dilatantur. Interius quippe exteriusque
+              sciendo distincti sunt, quia ipsum fontem scientiae contemplantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e163">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e170" xml:id="UUyf3f-d1e2314-Rd1e165">Gregorius, in
+            homilia</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e170">In hominibus omne judicium per angelos
+              exhibetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e175">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e185" xml:id="UUyf3f-d1e2314-Rd1e177">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e185"
+              source="http://scta.info/resource/adcd-l11-d1e1654">Sancti angeli, quorum societati et
+              congregationi in hac peregrinatione laboriosissima suspiramus, sicut habent permanendi
+              aeternitatem, ita cognoscendi facilitatem, et requiescendi felicitatem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e190">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e197" xml:id="UUyf3f-d1e2314-Rd1e192">Joannes
+            Chrysostomus in sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e197">
+              <title>Factum est ut moreretur mendicus, et deportaretur ab angelis in sinum
+                Abrahae</title>: Tantae poenae pauperis sic repente deliciis commutantur, ut
+              portaretur ab angelis, et induceretur in paradisum, ne saltem ambulans pauper Lazarus
+              laboraret. Portatur post tantos labores, quia prius defecerat; et portatur ab angelis:
+              non enim suffecerat ad portandum pauperi unus angelus; et propterea plures veniunt, ut
+              chorum laetitiae faciant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e205">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e215" xml:id="UUyf3f-d1e2314-Rd1e207">Joannes
+            Chrysostomus, super Epistolam <title>ad Hebraeos</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e215">Intellige quantus honor nobis existit, ut ad nos
+              sicut ad amicos ministros angelos suos destinet Deus. Quamvis enim multum intersit
+              inter angelos et homines, propinquos tamen nobis eos fecit Deus, quia nostrae saluti
+              student, propter nos discurrunt, nobis suo funguntur officio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e220">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e230" xml:id="UUyf3f-d1e2314-Rd1e222">Isidorus, <title>de
+              summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e230">Inest angelis mutabilitas in natura, sed facit
+              eos incorruptos charitas sempiterna.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e235">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e245" xml:id="UUyf3f-d1e2314-Rd1e237">Isidorus, <title>de
+              summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e245">Inter angelos distantia potestatum est, et pro
+              graduum dignitate ministeria eisdem sunt distributa, aliisque alii praeferuntur tam
+              culmine potestatis, quam scientia veritatis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e251">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e261" xml:id="UUyf3f-d1e2314-Rd1e253">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e261">Gaudent angeli in conversione et poenitentia
+              peccatorum, salutem hominum sitientes, lacrymaeque роenitentium vinum eorum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e266">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e276" xml:id="UUyf3f-d1e2314-Rd1e268">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e276">Non ambigo, quin angeli gratanter in palatio
+              colligant, quem tam gratanter in sterquilinio visitant. Denique laetati sunt in
+              conversione peccatorum, et in assumptione praemiorum non agnoscent?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e281">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e291" xml:id="UUyf3f-d1e2314-Rd1e283">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e291">O si quis haberet oculos apertos, quos orando
+              Propheta puero revelavit, videret proculdubio quemadmodum praeveniunt
+              <!--<i>-->principes conjuncti psallentibus, in medio juvencularum
+              tympanistriarum<!--</i>-->; videret, inquam, qua cura, quove tripudio intersunt
+              cantantibus, adsunt orantibus, insunt meditantibus, supersunt quiescentibus,
+              ordinantibus et procurantibus praesunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e300">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e310" xml:id="UUyf3f-d1e2314-Rd1e302">Bernardus, super
+              <title>Qui habitat</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e310">Quid sub tantis custodibus timeamus? nec enim
+              superari, nec seduci, minus autem seducere possunt, qui custodiunt nos in omnibus viis
+              nostris: fideles enim sunt, prudentes sunt, potentes sunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e315">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e322" xml:id="UUyf3f-d1e2314-Rd1e317">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e322">Quotidie angeli de terra longinqua, id est, de
+              superna patria descendentes, in mundo justos, vel inter tentationes spe coelestium
+              roborant, vel finito certamine, ad palmam retributionis inducunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e327">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e334" xml:id="UUyf3f-d1e2314-Rd1e329">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e334">Adest unicuique nostrum angelus bonus, qui regat,
+              moneat, qui pro actibus nostris corrigendis, et miserationibus nostris exposcendis
+              quotidie videat faciem Dei.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e340">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e350" xml:id="UUyf3f-d1e2314-Rd1e342">Gregorius, in
+              <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e350">Hi, qui minima nuntiant, Angeli; qui vero suprema
+              annuntiant, Archangeli vocantur. Hinc est, quod ad Mariam virginem non quilibet
+              angelus, sed Gabriel archangelus mittitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e355">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e365" xml:id="UUyf3f-d1e2314-Rd1e357">Gregorius, in
+              <title>Homiliis</title> et infra</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e365">Virtutes vocantur hi nimirum spiritus, per quos
+              signa et miracula frequenter fiunt. Potestates vocantur hi, qui haec potentius in suo
+              ordine perceperunt, ut eorum ditioni virtutes adversae subjectae sint, quorum
+              potestate refraenantur, ne corda hominum tantum tentare praevaleant quantum volunt.
+              Principatus quoque vocantur, qui et ipsis quoque bonis angelorum spiritibus praesunt,
+              qui subjectis aliis, dum quaecumque sunt agenda disponunt, eis ad explenda divina
+              mysteria principantur. Dominationes vocantur, qui etiam potestates principatuum
+              dissimilitudine alta transcendunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e370">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e380" xml:id="UUyf3f-d1e2314-Rd1e372">Gregorius, in
+              <title>Homiliis</title> subinfert</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e380">Ea ergo angelorum agmina, quae mira potentia
+              praeeminent, pro eo quod eis caetera ad obediendum subjecta sunt, dominationes
+              vocantur. Throni quoque illa agmina sunt vocata, quibus ad exercendum judicium, semper
+              Deus omnipotens praesidet. </quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e385">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e395" xml:id="UUyf3f-d1e2314-Rd1e387">Gregorius, in
+              <title>Homiliis</title> et infra</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e395">Et sublimiora illa agmina ideo cherubin vocata
+              sunt, quia tanto perfectiori scientia plena sunt, quanto claritatem Dei vicinius
+              contemplantur: ut secundum creaturae modum eo plenius omnia sciant, quo visioni
+              conditoris sui per meritum dignitatis appropinquant. Seraphin autem
+              <!--<i>-->ardentes<!--</i>--> vel <!--<i>-->incendentes<!--</i>--> vocantur, quae quia
+              sic Deo conjuncta sunt, ut inter haec et Deum nulli alii spiritus medii intersint,
+              tanto magis ardent, quanto hunc vicinius vident.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2314-d1e408">
+          <ref corresp="#UUyf3f-d1e2314-Qd1e415" xml:id="UUyf3f-d1e2314-Rd1e410">Gregorius, in eadem
+            homilia</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2314-Qd1e415">Distinctae conversationes singulorum hominum
+              distinctis ordinibus congruunt, et in eorum sortem vel ordinem per conversationis
+              similitudinem deputantur. Nam sunt plerique qui parva capiunt, sed tamen haec eadem
+              parva pie annuntiare fratribus non desistunt: isti itaque in Angelorum numerum
+              currunt. Et sunt nonnulli, qui divinae largitatis munere refecti, secretorum
+              coelestium summa non solum capere praevalent, sed etiam aliis nuntiare: quo ergo isti,
+              nisi in Archangelorum numerum deputantur? Et sunt alii, qui faciunt mira, signa
+              valenter operantur: quo ergo isti, nisi ad supernarum Virtutum sortem et numerum
+              congruunt? Et sunt nonnulli, qui etiam de obsessis corporibus malignos spiritus
+              fugant, eosque virtute orationis et vi accepta potestatis ejiciunt: quo itaque isti
+              per meritum suum, nisi inter Potestatum coelestium numerum sortem sortiuntur? Et sunt
+              nonnulli, qui acceptis virtutibus etiam electorum hominum merita transcendunt, cumque
+              et bonis meliores sint, electis quoque fratribus principantur: quo ergo isti sortem
+              suam, nisi inter Principatuum numerum acceperunt? Et sunt nonnulli, qui sic in
+              semetipsis cunctis vitiis omnibusque desideriis et illecebris dominantur, ut ipso jure
+              munditiae dii inter homines vocentur: quo ergo isti, nisi inter numerum Dominationum
+              currunt? Et sunt nonnulli, qui dum sibimetipsis vigilanti cura dominantur, dum se
+              sollicita intentione discutiunt, divino timori semper inhaerentes, hoc in munere
+              virtutis accipiunt, ut judicare et regere alios possint, quorum profecto mentibus
+              divina contemplatio praesto est, in his velut in throno suo Dominus praesidens,
+              aliorum facta examinat, et cuncta mirabiliter de sua sede dispensat: quid ergo isti
+              nisi Throni sui Conditoris sunt? Quia vero Cherubin <title>plenitudo scientiae</title>
+              dicitur, et Paulo dicente didicimus, quia <!--<i>-->plenitudo legis est
+              charitas<!--</i>-->, omnes, qui Dei ас proximi charitate caeteris amplius pleni sunt,
+              meritorum suorum sortem inter Cherubin numeros perceperunt. Et sunt nonnulli, qui
+              supernae contemplationis amore accensi, in solo Conditoris sui desiderio anhelant,
+              nihil jam in hoc mundo cupiunt, solo aeternitatis amore pascuntur, terrena quaeque
+              abjiciunt, cuncta temporalia mente transcendunt, amant et ardent, atque in ipso suo
+              amore requiescunt, amando ardent, loquendo et alios accendunt, et quos verbo tangunt,
+              ardere protinus in Dei amore faciunt:quid ergo istos nisi Seraphin dixerim, quorum cor
+              in ignem conversum lucet et urit?</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

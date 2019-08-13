@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De conflictu vitiorum et virtutum</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De conflictu vitiorum et virtutum</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e16403">
+        <head xml:id="UUyf3f-d1e16403-Hd1e99" type="question-title">De conflictu vitiorum et
+          virtutum</head>
+        <p xml:id="UUyf3f-d1e16403-d1e102">
+          <ref corresp="#UUyf3f-d1e16403-Qd1e112" xml:id="UUyf3f-d1e16403-Rd1e104">Augustinus, in
+            libro <title>de Conflictu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16403-Qd1e112">O quam amarus superbiae congressus, quae angelos
+              de coelo projecit, homines de paradiso minavit! Superbia dicit: Certe multis, imo pene
+              omnibus melior es, verbo, scientia, divitiis, honoribus, et cunctis, quae carnalibus
+              vel spiritualibus suppetunt, charismatibus. Cunctos ergo despice, cunctis teipsum
+              superiorem attende. Humilitas respondet: Memento quia pulvis es; quia cinis es; quia
+              putredo, et vermis es: quique, etsi altus es, nisi tanto te humilies, quanto magnus
+              es, perdis omnino quod es. Numquid tu altior es, quam primus angelus? Numquid
+              splendidior in terra quam Lucifer in coelo? Quod si ille de tanta sublimitate per
+              superbiam cecidit, quomodo tu ad tantam celsitudinem superbiens de imis
+              ascendes?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16403-d1e117">
+          <ref corresp="#UUyf3f-d1e16403-Qd1e127" xml:id="UUyf3f-d1e16403-Rd1e119">Augustinus, in
+            libro <title>de Conflictu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16403-Qd1e127">Inanis gloria dicit: Age bonum quod vales;
+              ostende bonum cunctis quod agis, ut bonus a cunctis dicaris, ut sanctus, et
+              venerabilis ab hominibus praediceris, ut Dei dilectas voceris, ut nemo te contemnat,
+              nemo te despiciat, sed universi debitum tibi honorem persolvant. Timor Dei respondet:
+              Si boni aliquid agis, non pro transitoriis, sed pro aeternis honoribus age: occulta
+              quod agis, in quantum vales; sit in animo tuo occultandi voluntas: et non erit de
+              ostentatione ulla temeritas, nec criminis erit aliquando manifestare, quod semper vis
+              celatum habere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16403-d1e132">
+          <ref corresp="#UUyf3f-d1e16403-Qd1e142" xml:id="UUyf3f-d1e16403-Rd1e134">Augustinus, in
+            libro <title>de Conflictu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16403-Qd1e142">Simulatio dicit: Quia nihil boni in abscondito
+              facis, ne a cunctis cognitus detestabilis habearis, finge te foris esse, quod intra
+              non appetis. Vera religio respondet: Imo magis satage esse, quam ostentare, quod non
+              es. Nam hoc hominibus ostendere quod non es, quid aliud, quam damnatio est?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16403-d1e147">
+          <ref corresp="#UUyf3f-d1e16403-Qd1e157" xml:id="UUyf3f-d1e16403-Rd1e149">Augustinus, in
+            libro <title>de Conflictu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16403-Qd1e157">Contemptus dicit: Quis tu, ut tibi pejoribus
+              obtemperes, deterioribus famulatum exhibeas? Te magis, quam illos decuerat imperare,
+              qui tibi non possunt ingenio vel industria coaequari: obtempera igitur solius Dei
+              imperio, et non sit tibi cura de aliquo. Subjectio respondet: Si Dei obtemperandum est
+              imperio, etiam humano subdi necesse est magisterio. Ipse enim dicit: <!--<i>-->Qui vos
+              audit, me audit; et qui vos spernit, me spernit<!--</i>-->. Ita, inquis, oporteret, si
+              talis esset, qui loco Dei imperaret; sed non est talis, per quem Deus imperet. Sed
+              audi Apostolum contradicentem tibi. Ait enim: <!--<i>-->Non est potestas, nisi a Deo;
+              quae autem a Deo sunt, ordinata sunt<!--</i>-->. Quales enim esse debeant hi, qui
+              imperant, non est a subditis discutiendum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16403-d1e171">
+          <ref corresp="#UUyf3f-d1e16403-Qd1e181" xml:id="UUyf3f-d1e16403-Rd1e173">Augustinus, in
+            libro <title>de Conflictu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16403-Qd1e181">Invidia dicit: In quo illo, vel illo minor es?
+              Cur ergo eis aequalis, vel superior non es? Quanta vales, quae ipsi non valent? Non
+              ergo tibi, aut superiores esse, aut aequales debent. Concordia fraterna respondet: Si
+              caeteros virtutibus antecellis, tutius in loco infimo, quam in summo temetipsum
+              conservas, semper enim de alto pejor fit ruina. Quod si tibi, ut asseris, quidam
+              superiores vel aequales sunt, quid te laedit? quid te nocet? Cave prorsus ne, dum
+              aliis locum celsitudinis invides, illum imiteris, de quo scriptum est:
+              <!--<i>-->Invidia diaboli mors introivit in orbem terrarum: imitantur autem illum, qui
+              sunt ex parte illius<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16403-d1e190">
+          <ref corresp="#UUyf3f-d1e16403-Qd1e200" xml:id="UUyf3f-d1e16403-Rd1e192">Augustinus, in
+            libro <title>de Conflictu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16403-Qd1e200">Odium dicit: Absit ut illum ames, quem in
+              omnibus contrarium habes, qui tibi derogat, qui tibi insultat, qui te convitiis
+              exasperat, qui tibi peccata tua improperat, qui te dictis, et operibus, atque
+              honoribus semper praevenire festinat. Nisi enim ipse tibi invideret, nequaquam se tibi
+              ita praeferret. Dilectio vera respondet: Numquid quia haec, quae narras, odio habenda
+              sunt in homine, propterea non est amanda Dei imago in homine? Sicut Christus, qui in
+              cruce positus inimicos suos dilexit, et ante crucis tormentum admonuit, dicens:
+              <!--<i>-->Diligite inimicos vestros<!--</i>-->, etc. Omnem ergo amaritudinem cordis
+              evome, et quo pacto valueris, charitatis dulcedinem sume: nihil enim suavius, nihil
+              illa beatius.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16403-d1e209">
+          <ref corresp="#UUyf3f-d1e16403-Qd1e219" xml:id="UUyf3f-d1e16403-Rd1e211">Augustinus, in
+            libro <title>de Conflictu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16403-Qd1e219">Detractio dicit: Quis potest sustinere? quis
+              silentio valet tegere quanta ille, vel illa, prava committit, nisi forte qui
+              consentit? Libertas justae increpationis respondet: Nec tacenda sunt mala proximi, nec
+              consentienda, sed charitate fraterna in faciem proximus est redarguendus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16403-d1e224">
+          <ref corresp="#UUyf3f-d1e16403-Qd1e234" xml:id="UUyf3f-d1e16403-Rd1e226">Augustinus, in
+            libro <title>de Conflictu</title> et infra</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16403-Qd1e234">Nonnunquam et errata delinquentium ad tempus
+              silentio tegenda sunt ut aptiori tempore corrigantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16403-d1e239">
+          <ref corresp="#UUyf3f-d1e16403-Qd1e249" xml:id="UUyf3f-d1e16403-Rd1e241">Augustinus, in
+            libro <title>de Conflictu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16403-Qd1e249">Ira dicit: Quae erga te aguntur aequanimiter
+              ferri non possunt; imo haec patienter tolerare peccatum est, quia etsi non eis cum
+              magna exasperatione resistitur, contra te deinceps sine mensura cumulantur. Patientia
+              respondet: Si passio Redemptoris ad mentem reducitur, nil tam durum, quod non aequo
+              animo toleretur: <!--<i>-->Christus<!--</i>--> enim, ut ait Petrus, <!--<i>-->pro
+              nobis passus est, vobis relinquens exemplum, ut sequamini vestigia ejus<!--</i>-->.
+              Sed quanta sunt haeс, quae patimur in comparatione illius? Ille enim opprobria,
+              irrisiones, contumelias, alapas, sputa, flagella, spineam, coronam, crucem quoque
+              sustinuit, atque mortem: et nos miseri ad nostram confusionem uno sermone fatigamur,
+              uno verbo dejicimur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16403-d1e262">
+          <ref corresp="#UUyf3f-d1e16403-Qd1e272" xml:id="UUyf3f-d1e16403-Rd1e264">Augustinus, in
+            libro <title>de Conflictu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16403-Qd1e272">Tumor mentis dicit: Testem habens Deum in
+              coelis, non tibi sit curae, quid de te suspicentur homines in terris. Satisfactio
+              debita respondet: Non est danda detrahendi occasio, non susurrandi suspicio; sed si
+              adsunt quae corrigantur, manifestanda; aut certe, si desunt, humili protestatione
+              neganda.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16403-d1e278">
+          <ref corresp="#UUyf3f-d1e16403-Qd1e288" xml:id="UUyf3f-d1e16403-Rd1e280">Augustinus, in
+            libro <title>de Conflictu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16403-Qd1e288">Torpor et ignavia dicunt: Si lectioni continuato
+              studio semper insistis, oculorum caliginem incurris; si indesinenter lacrymas fundis,
+              ipsos etiam oculos amittis; si protelatis vigiliis Psalmorum censum persolvis,
+              insaniam capitis acquiris; si quotidiano labore te conficis, ad opus spiritale quando
+              consurges? Exercitium bonum respondet: Quid tibi ad haec perferenda, tam longa
+              temporum proponis spatia? Numquid scis si die crastina vivas, imo si vel etiam unam
+              horam in hac vita facias? An forte de tua mente excidit, quod Salvator in Evangelio
+              dicit: <!--<i>-->Vigilate, quia nescitis neque diem, neque horam<!--</i>-->?
+              Quapropter discute corporis inertiam, semperque memento quia regnum coelorum non
+              tepidi, non molles, non desides, sed violenti, vimque facientes diripiunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16403-d1e297">
+          <ref corresp="#UUyf3f-d1e16403-Qd1e307" xml:id="UUyf3f-d1e16403-Rd1e299">Augustinus, in
+            libro <title>de Conflictu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16403-Qd1e307">Cupiditas, sive avaritia, dicit: Valde sine
+              culpa es, quod quaedam habenda concupiscis, quia non multiplicare appetis, sed egere
+              pertimescis; et quod malus alius male retineret, ipse melius expendis. Mundi
+              contemptus respondet: Ista nec apud homines saeculares sine periculo procurantur, quia
+              quanto quis amplius habere coeperit, tanto amplius habere concupiscit; fitque ut modum
+              in concupiscendo non habeat, dum innumeris hujus saeculi curis deservire festinat. Si
+              ergo saecularibus viris ita est periculosa cupiditatis industria, quanto magis illis
+              periculosior, qui jam habitu, et conversatione saeculares esse desierunt; qui totum,
+              quod vivunt, Domino devoverunt! Dicis forte: Ideo a sanctis religiosisque viris plura
+              habenda sunt, ut melius ab ipsis, quam a popularibus, erogentur Christi pauperibus. Et
+              ego consentio; sed praelatis, non autem subjectis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16403-d1e312">
+          <ref corresp="#UUyf3f-d1e16403-Qd1e322" xml:id="UUyf3f-d1e16403-Rd1e314">Augustinus, in
+            libro <title>de Conflictu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16403-Qd1e322">Obduratio dicit: Si ea, quae possides, egentibus
+              tribuis, unde subjectos absque penuria nutris? Misericordia respondet: Memento quid
+              purpurato diviti contigerit, qui non ideo damnatus est, quod aliena tulerit, sed quod
+              egenti pauperi sua non tribuerit, et in inferno positus ad petenda minima pervenerit,
+              qui haec parva negavit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16403-d1e327">
+          <ref corresp="#UUyf3f-d1e16403-Qd1e337" xml:id="UUyf3f-d1e16403-Rd1e329">Augustinus, in
+            libro <title>de Conflictu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16403-Qd1e337">Ventris ingluvies, sive gula, dicit: Ad esum
+              Dominus omnia munda creavit; et qui saturari cibo respuit, quid aliud, quam muneri
+              concesso contradicit? Ciborum parcimonia respondet: Unum horum, quae dicis, verum est:
+              ne enim homo fame moreretur, omnia ad esum Deus munda creavit; sed ne comedendi
+              mensuram excederet, abstinentiam imperavit, atque inter caetera sua mala saturitate,
+              maxime panis, Sodoma periit. Quapropter, sicut aeger ad medicinam, sic ad sumendas
+              dapes debet quisquam accedere, nequaquam scilicet in illis voluptatem appetens, sed
+              necessitati succurrens. Ille autem plene hujusmodi vitium superat, qui in sumendis
+              dapibus non solum parcimoniam tenet, ut scilicet refectionem corporis semper esuriens
+              imperet, verum etiam accuratiores simul et lautiores epulas, excepta corporis
+              infirmitate, et hospitum susceptione, contempsit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16403-d1e342">
+          <ref corresp="#UUyf3f-d1e16403-Qd1e352" xml:id="UUyf3f-d1e16403-Rd1e344">Augustinus, in
+            libro <title>de Conflictu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16403-Qd1e352">Inepta laetitia dicit: Ut quid animi gaudium
+              intus abscondis? Egredere in publicum laetus; dic aliquid foris, unde vel tu, vel
+              proximi rideant; fac eos laetos tua laetitia. Moderatus moeror respondet: Unde tibi
+              inest tanta laetitia? Numquid jam diabolum vicisti? Numquid jam de exilio ad patriam
+              venisti? An forte in oblivionem venit, quod Dominus dicit: <!--<i>-->Mundus gaudebit,
+              vos autem contristabimini; sed tristitia vestra vertetur in gaudium?<!--</i>-->
+              Comprime ergo inanem laetitiam, quia nondum evasisti poenalem aerumnam. Nonne apud
+              omnes insanus judicatur is, qui carceralibus tenebris reclusus gaudere
+              conatur?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16403-d1e361">
+          <ref corresp="#UUyf3f-d1e16403-Qd1e371" xml:id="UUyf3f-d1e16403-Rd1e363">Augustinus, in
+            libro <title>de Conflictu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16403-Qd1e371">Multiloquium dicit: Non reus ille tenebitur, qui
+              plura quidem, sed bona loquitur; sed ille, qui saltem rara, sed mala dicere probatur.
+              Discreta taciturnitas respondet: Verum est quod dicis; sed dum multa bona proferri
+              videntur, saepe contingit, ut a bonis locutio inchoans, ad prava derivet. Hoc ipsum
+              sacra Scriptura pronuntiat, quia <!--<i>-->in multiloquio non deerit
+              peccatum<!--</i>-->. Ac forte inter innumera verba declinantur criminosa, sed nunquam
+              declinari poterunt inutilia atque otiosa, de quibus ratio erit in futuro reddenda.
+              Tenendus est ergo modus in loquendo, atque ab ipsis nonnunquam utilibus verbis
+              parcendum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16403-d1e381">
+          <ref corresp="#UUyf3f-d1e16403-Qd1e391" xml:id="UUyf3f-d1e16403-Rd1e383">Augustinus, in
+            libro <title>de Conflictu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16403-Qd1e391">Luxuria dicit: Cur te in voluptate tua modo non
+              dilatas, cum te quid sequatur, ignoras? Acceptum tempus in desideriis perdere non
+              debes, quia quam citius pertranseat, nescis. Si enim Deus misceri hominem in voluptate
+              carnis nollet, in ipso humani generis exordio masculum et feminam non fecisset. Carnis
+              munditia respondet: Nolo ut ignorare te fingas, quid post hanc vitam recipias. Si enim
+              pie et caste vixeris, sine fine gaudebis; si autem impie et luxuriose, aeternis
+              incendiis subjacebis. Inde autem magis caste vivere debes, unde quam citius tempus
+              acceptum transeat, ignorare te dicis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16403-d1e396">
+          <ref corresp="#UUyf3f-d1e16403-Qd1e406" xml:id="UUyf3f-d1e16403-Rd1e398">Augustinus, in
+            libro <title>de Conflictu</title> et infra</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16403-Qd1e406">O quam parva est concubitus hora, qua perditur
+              vita futura!</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16403-d1e411">
+          <ref corresp="#UUyf3f-d1e16403-Qd1e421" xml:id="UUyf3f-d1e16403-Rd1e413">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16403-Qd1e421">Interdum vitia cum virtutibus ad utilitatem
+              confligunt, ut ipso certamine vel mens exerceatur, vel ab elatione concussus animus
+              restringatur.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De vagatione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De vagatione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e29842">
+        <head xml:id="UUyf3f-d1e29842-Hd1e99" type="question-title">De vagatione</head>
+        <p xml:id="UUyf3f-d1e29842-d1e102">
+          <ref corresp="#UUyf3f-d1e29842-Qd1e112" xml:id="UUyf3f-d1e29842-Rd1e104">Gregorius, in
+              <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29842-Qd1e112">Interior est custodia cordis, quae ordinata
+              exterius servat membra corporis. Qui ergo statum mentis perdidit, subsequenter foras
+              inconstantia motionis fluit; atque exteriore mobilitate indicat, quod nulla interius
+              radice constantiae subsistat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29842-d1e117">
+          <ref corresp="#UUyf3f-d1e29842-Qd1e127" xml:id="UUyf3f-d1e29842-Rd1e119">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29842-Qd1e127">De agmine columbarum crebro accipiter unam
+              separat, quam statim invadat et laceret, cujus carnibus et cruore satietur; et
+              morbidae oves suum relinquunt gregem, et luporum faucibus devorantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29842-d1e132">
+          <ref corresp="#UUyf3f-d1e29842-Qd1e142" xml:id="UUyf3f-d1e29842-Rd1e134">Hieronymus, super
+            illud <title>Genesis</title>, secundum aliam litteram</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29842-Qd1e142">
+              <!--<i>-->Egressus Cain a facie Domini habitabat in terra Naid, quod interpretatur
+              fluctuatio<!--</i>-->: Quicumque enim a Domino recedit, statim saeculi fluctibus
+              quatitur, et moventur pedes ejus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29842-d1e151">
+          <ref corresp="#UUyf3f-d1e29842-Qd1e161" xml:id="UUyf3f-d1e29842-Rd1e153">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29842-Qd1e161">Frequens migratio corporis, instabilis animi
+              proprium est. Coalescere otio non potes, nisi desinas circumspicere et errare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29842-d1e167">
+          <ref corresp="#UUyf3f-d1e29842-Qd1e177" xml:id="UUyf3f-d1e29842-Rd1e169">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29842-Qd1e177">Ut animum possis continere, primo corporis fugam
+              siste; deinde remedia continuata plurimum proficiunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29842-d1e182">
+          <ref corresp="#UUyf3f-d1e29842-Qd1e192" xml:id="UUyf3f-d1e29842-Rd1e184">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29842-Qd1e192">Sine discere oculos tuos, sine aures assuescere
+              sanioribus verbis: quoties processeris, in ipso transitu aliqua quae renovent
+              cupiditates tuas tibi occurrent.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29842-d1e197">
+          <ref corresp="#UUyf3f-d1e29842-Qd1e207" xml:id="UUyf3f-d1e29842-Rd1e199">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29842-Qd1e207">Primum argumentum compositae vitae existimo,
+              posse consistere, et secum morari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29842-d1e212">
+          <ref corresp="#UUyf3f-d1e29842-Qd1e222" xml:id="UUyf3f-d1e29842-Rd1e214">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29842-Qd1e222">Non coalescit planta, quae saepe transfertur.
+              Nihil tam utile est, quod in transitu prosit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29842-d1e227">
+          <ref corresp="#UUyf3f-d1e29842-Qd1e237" xml:id="UUyf3f-d1e29842-Rd1e229">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29842-Qd1e237">Avarior, ambitiosior, luxuriosior, imo vero
+              crudelior et inhumanior redeo, quia inter homines fui.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29842-d1e242">
+          <ref corresp="#UUyf3f-d1e29842-Qd1e252" xml:id="UUyf3f-d1e29842-Rd1e244">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29842-Qd1e252">Nusquam est, qui ubique est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29842-d1e258">
+          <ref corresp="#UUyf3f-d1e29842-Qd1e268" xml:id="UUyf3f-d1e29842-Rd1e260">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29842-Qd1e268">Vitam in peregrinatione agentibus hoc evenit, ut
+              multa hospitia habeant, nullas amicitias.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

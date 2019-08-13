@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De peccatis linguae, de contentione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De peccatis linguae, de contentione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e28567">
+        <head xml:id="UUyf3f-d1e28567-Hd1e99" type="question-title">De peccatis linguae, de
+          contentione</head>
+        <p xml:id="UUyf3f-d1e28567-d1e102">
+          <ref corresp="#UUyf3f-d1e28567-Qd1e112" xml:id="UUyf3f-d1e28567-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28567-Qd1e112">Culpabiliores esse solent hi qui in contentione
+              inchoant, quam qui respondent.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e28567-d1e117">
+          <ref corresp="#UUyf3f-d1e28567-Qd1e127" xml:id="UUyf3f-d1e28567-Rd1e119">Gregorius, in
+              <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28567-Qd1e127">Quisquis in seminando jurgia dilectionem
+              proximorum perimit, hosti familiarius servit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e28567-d1e132">
+          <ref corresp="#UUyf3f-d1e28567-Qd1e142" xml:id="UUyf3f-d1e28567-Rd1e134">Gregorius, in
+              <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28567-Qd1e142">Hypocrita, assumpto sanctae conversationis
+              habitu, filiorum suorum custodiam deserit, et temporalia quaeque defendere, etiam
+              jurgiis, quaerit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e28567-d1e147">
+          <ref corresp="#UUyf3f-d1e28567-Qd1e157" xml:id="UUyf3f-d1e28567-Rd1e149">Augustinus, in
+              <title>Regula</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28567-Qd1e157">Lites aut nullas habeatis, aut quam celerrime
+              finiatis, ne ira crescat in odium, et trabem faciat de festuca, et animam faciat
+              homicidam. Sicut enim legistis, <!--<i>-->Qui odit fratrem suum, homicida
+              est<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e28567-d1e167">
+          <ref corresp="#UUyf3f-d1e28567-Qd1e177" xml:id="UUyf3f-d1e28567-Rd1e169">Augustinus, in
+              <title>Regula</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28567-Qd1e177">Vobis a verbis durioribus parcite: quae si
+              emissa fuerint ex ore vestro, non pigeat ex ipso ore proferre medicamenta, unde facta
+              sunt vulnera.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e28567-d1e182">
+          <ref corresp="#UUyf3f-d1e28567-Qd1e192" xml:id="UUyf3f-d1e28567-Rd1e184">Isidorus, in
+              <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28567-Qd1e192">Contentio faces odiorum accendit; pacem cordis
+              contentio extinguit; concordiam contentio rumpit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e28567-d1e197">
+          <ref corresp="#UUyf3f-d1e28567-Qd1e207" xml:id="UUyf3f-d1e28567-Rd1e199">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28567-Qd1e207">Rixa est inter competitores.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e28567-d1e212">
+          <ref corresp="#UUyf3f-d1e28567-Qd1e222" xml:id="UUyf3f-d1e28567-Rd1e214">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28567-Qd1e222">Saepe pravi, dum suae vitium fortitudinis
+              ignorant, audenter aliorum rectitudinem lacerant: cumque contra bonos sibi
+              auctoritatem increpationis arripiunt, aut ea bona proferunt, quae non videndo, sed
+              audiendo didicerunt, aut ea mala aliis mentientes ingerunt, quae ipsi
+              committunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e28567-d1e227">
+          <ref corresp="#UUyf3f-d1e28567-Qd1e237" xml:id="UUyf3f-d1e28567-Rd1e229">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28567-Qd1e237">Saepe qui in potestate sunt, ad subjectorum
+              passim contumelias erumpunt; et hoc, quod invigilantes regimini serviunt, per linguae
+              procacitatem perdunt, minori scilicet rectitudine verba judicii pensantes, quia qui
+              sine causa fratrem fatuum dixerit, gehennae se ignibus addicit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e28567-d1e242">
+          <ref corresp="#UUyf3f-d1e28567-Qd1e252" xml:id="UUyf3f-d1e28567-Rd1e244">Joannes
+            Chrysostomus, <title>de Compunctione cordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28567-Qd1e252">Sive fatuum quis dixerit, sive vanum, sive
+              latronem, sive quolibet alio nomine injuriam vel maledictum fratri ingesserit; ex
+              quolibet horum vocabulo sub maledicti titulo, gehennae ignis suppliciis
+              condemnatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e28567-d1e258">
+          <ref corresp="#UUyf3f-d1e28567-Qd1e268" xml:id="UUyf3f-d1e28567-Rd1e260">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28567-Qd1e268">Nec sibi quisquam de corporis castitate
+              supplaudat, cum <!--<i>-->de verbo otioso, quodcumque locuti fuerint homines,
+              reddituri sint pro eo rationem in die judicii<!--</i>-->; cum etiam homicidii sit
+              reatus convitium in fratrem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e28567-d1e277">
+          <ref corresp="#UUyf3f-d1e28567-Qd1e287" xml:id="UUyf3f-d1e28567-Rd1e279">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28567-Qd1e287">Ego plagis conscientiae meae nullum judico
+              accommodatius medicamentum probris et contumeliis: non est proinde, quod pro me
+              movear, homuncio omni opprobrio dignus et, despectione.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

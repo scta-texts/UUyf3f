@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De simplicitate</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De simplicitate</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e39760">
+        <head xml:id="UUyf3f-d1e39760-Hd1e99" type="question-title">De simplicitate</head>
+        <p xml:id="UUyf3f-d1e39760-d1e102">
+          <ref corresp="#UUyf3f-d1e39760-Qd1e112" xml:id="UUyf3f-d1e39760-Rd1e104">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39760-Qd1e112">Si abjectio vilis indumenti virtus non esset,
+              Evangelista vigilanter de Joanne non diceret: <!--<i>-->Erat indutus pilis
+              camelorum<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39760-d1e121">
+          <ref corresp="#UUyf3f-d1e39760-Qd1e131" xml:id="UUyf3f-d1e39760-Rd1e123">Augustinus, in <title>Regula</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39760-Qd1e131">Non sit notabilis habitus vester; nec affectetis
+              vestibus placere sed moribus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39760-d1e136">
+          <ref corresp="#UUyf3f-d1e39760-Qd1e146" xml:id="UUyf3f-d1e39760-Rd1e138">Augustinus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39760-Qd1e146">Resistit Deus superbis et calamistratis; et
+              pannosis humilibus dat gratiam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39760-d1e151">
+          <ref corresp="#UUyf3f-d1e39760-Qd1e161" xml:id="UUyf3f-d1e39760-Rd1e153">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39760-Qd1e161">Verus ornatus, maxime Christianorum et
+              Christianarum, non tantum fucus mendax, verum ne auri quidem vestisque pompa; sed
+              mores boni sunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39760-d1e167">
+          <ref corresp="#UUyf3f-d1e39760-Qd1e177" xml:id="UUyf3f-d1e39760-Rd1e169">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39760-Qd1e177">Auri circumpositio, et intorsio crinium, et
+              caetera hujusmodi, quae vel ad inanem pompam, vel ad illecebram formae adhiberi
+              solent, merito reprehensa sunt. Sed est quidam pro modulo personae habitus matronalis,
+              a viduali veste distinctus, qui potest fidelibus conjugatis salva religionis
+              observantia convenire.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39760-d1e182">
+          <ref corresp="#UUyf3f-d1e39760-Qd1e192" xml:id="UUyf3f-d1e39760-Rd1e184">Augustinus, in <title>Epistola</title> et
+            infra</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39760-Qd1e192">Quid enim est absurdius, quam mulierem de humili
+              veste, viro prohibente, superbire? cui te potius expediret obtemperare candidis
+              moribus, quam nigellis vestibus repugnare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39760-d1e197">
+          <ref corresp="#UUyf3f-d1e39760-Qd1e207" xml:id="UUyf3f-d1e39760-Rd1e199">Augustinus, <title>de Viduitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39760-Qd1e207">Interiore pulchritudine Christo placete: hanc
+              pulchritudinem studiosa cura et sollicita cogitatione componite. Non amat ille
+              fallaciarum fucos; veris veritas delectatur, et ille, si quod legisti agnoscis,
+              veritas vocatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39760-d1e212">
+          <ref corresp="#UUyf3f-d1e39760-Qd1e222" xml:id="UUyf3f-d1e39760-Rd1e214">Ambrosius, <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39760-Qd1e222">Non sit affectatus decor corporis; sed
+              naturalis, sed simplex, neglectus magis quam expeditus, non pretiosis et albentibus
+              adjutus vestimentis, sed communibus, ut honestati vel utilitati nihil desit, nihil
+              accedat nitori.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39760-d1e227">
+          <ref corresp="#UUyf3f-d1e39760-Qd1e237" xml:id="UUyf3f-d1e39760-Rd1e229">Ambrosius, <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39760-Qd1e237">Qui vult audiri, inclinare se debet, amota
+              pompa, ut misericordiam Domini provocet. Habitus enim superbus nec impetrat, nec recta
+              de se credi facit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39760-d1e242">
+          <ref corresp="#UUyf3f-d1e39760-Qd1e252" xml:id="UUyf3f-d1e39760-Rd1e244">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39760-Qd1e252">Omne vestimentum ad tres pertinet causas: aut ad
+              speciem visionis, seu ad vanam gloriam; aut ad delectationem corporis; aut ad
+              tegumentum nuditatis. Ad speciem visionis habere vestimentum, servis Dei non convenit;
+              similiter ad delectamentum corporis, Deo servientibus non est aptum; sed quod tantum
+              ad tegumentum nuditatis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39760-d1e258">
+          <ref corresp="#UUyf3f-d1e39760-Qd1e268" xml:id="UUyf3f-d1e39760-Rd1e260">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39760-Qd1e268">Sordes vestium candidae mentis indicia sunt:
+              vilis tunica contemptum saeculi probat, ita duntaxat, ut animus non tumeat, nec
+              habitus sermoque dissentiat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39760-d1e273">
+          <ref corresp="#UUyf3f-d1e39760-Qd1e283" xml:id="UUyf3f-d1e39760-Rd1e275">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39760-Qd1e283">Pauperior cultus in aliis fraenat
+              concupiscentiam, in aliis circa amorem paupertatis afficit conscientiam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39760-d1e288">
+          <ref corresp="#UUyf3f-d1e39760-Qd1e298" xml:id="UUyf3f-d1e39760-Rd1e290">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39760-Qd1e298">
+              <!--<i>-->Si dederit<!--</i>-->, inquit Jacob, <!--<i>-->mihi Dominus panem ad
+              manducandum, et vestimentum quo operiar<!--</i>-->. Nota: <!--<i>-->quo
+              operiar<!--</i>-->. Sic ergo et nos contenti simus vestimentis, quibus operiamur, non
+              quibus lasciviamus, non quibus superbiamus, non quibus mulierculis similari vel
+              placere studeamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39760-d1e315">
+          <ref corresp="#UUyf3f-d1e39760-Qd1e325" xml:id="UUyf3f-d1e39760-Rd1e317">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39760-Qd1e325">Simplicitas candor est. Probamus a contrario:
+              nam naevus duplicitas. Parum dixi, macula est.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

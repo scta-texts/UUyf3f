@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De constantia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De constantia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e22412">
+        <head xml:id="UUyf3f-d1e22412-Hd1e99" type="question-title">De constantia</head>
+        <p xml:id="UUyf3f-d1e22412-d1e102">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e112" xml:id="UUyf3f-d1e22412-Rd1e104">Gregorius, in
+              <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e112">Non nos prospera elevent, non adversa
+              perturbent: ut qui in soliditate fidei figimur, nequaquam rerum transeuntium
+              mutabilitate moveamur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e117">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e127" xml:id="UUyf3f-d1e22412-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e127">Sancti viri nec sustinere falsa per infirmitatem
+              metuunt, nec laesi unquam a veritate conticescunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e132">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e142" xml:id="UUyf3f-d1e22412-Rd1e134">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e142">Electi ipsa, quae fortiter tolerant, supplicia
+              perhorrescunt, ita ut in eis uno eodemque tempore, et constantia ex virtute sit, et
+              pavor ex carne.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e147">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e157" xml:id="UUyf3f-d1e22412-Rd1e149">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e157">Justi viri securitas recte leoni comparatur,
+              quia cum contra se quoslibet insurgere conspicit, ad mentis suae constantiam redit; et
+              scit quia cunctos adversantes superat, quia illum solum diligit, quem invitus nullo
+              modo amittit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e163">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e173" xml:id="UUyf3f-d1e22412-Rd1e165">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e173">Vir sanctus, quo majore persecutione premitur,
+              eo ad praedicandum veritatem acrius instigatur: et cum constanter persecutores
+              tolerat, ardenter ad se auditores trahere festinat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e178">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e188" xml:id="UUyf3f-d1e22412-Rd1e180">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e188">Si semel in appetitu supernae patriae forti
+              stabilitate animus figitur, minus rerum temporalium perturbatione vexatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e193">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e203" xml:id="UUyf3f-d1e22412-Rd1e195">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e203">Timeri ab omnibus homo debuerat, si ipse
+              auctorem omnium, ut homo, timuisset. Nam qui rationis sensum ad timorem Dei non habet,
+              tanto in nullo timendus est, quanto hoc, quod ipse esse debuit, non est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e208">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e218" xml:id="UUyf3f-d1e22412-Rd1e210">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e218">Hoc certissime scito, quod placere Deo, et
+              pravis hominibus nullus potest. In tantum ergo se existimet fraternitas tua
+              omnipotenti Deo placuisse, quanto se perversis hominibus displicuisse
+              cognoverit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e223">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e233" xml:id="UUyf3f-d1e22412-Rd1e225">Augustinus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e233">Senti de Augustino quidquid libet; sola me in
+              oculis Dei conscientia non accuset.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e238">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e248" xml:id="UUyf3f-d1e22412-Rd1e240">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e248"
+              source="http://scta.info/resource/adcd-l5-d1e812">Virtutes habenti, magna virtus est
+              contemnere gloriam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e254">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e264" xml:id="UUyf3f-d1e22412-Rd1e256">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e264"
+              source="http://scta.info/resource/adcd-l5-d1e812">Qui contemnit judicia laudantium,
+              contemnit etiam suspicantium temeritatem: quorum tamen, si vere bonus est, non
+              contemnit salutem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e269">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e279" xml:id="UUyf3f-d1e22412-Rd1e271">Augustinus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e279">Nec valde gaudere debemus quando laudamur, nec
+              contristari quando vituperamur, quia nec damnare injuria, nec coronare potest laus
+              falsa.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e284">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e294" xml:id="UUyf3f-d1e22412-Rd1e286">Ambrosius,
+              <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e294">Bene sibi conscius, falsis non debet moveri; nec
+              aestimari plus ponderis in alieno esse convitio, quam in suo testimonio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e299">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e309" xml:id="UUyf3f-d1e22412-Rd1e301">Joannes
+            Chrysostomus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e309">Quidquid erroris habet mundus, contemno:
+              quidquid delectabile habet, rideo: divitias non cupio, paupertatem non horresco,
+              mortem non timeo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e314">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e324" xml:id="UUyf3f-d1e22412-Rd1e316">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e324">Utinam, ob Dei mei nomen atque justitiam,
+              universa me infidelium turba persequatur et tribulet: utinam in opprobrium meum
+              solidus exurgat hic mundus: tantum ut a Christo merear laudari, et suae
+              pollicitationis sperare mercedem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e329">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e339" xml:id="UUyf3f-d1e22412-Rd1e331">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e339">Gratias ago Deo meo, quod dignus sum habitus,
+              quem mundus oderit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e345">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e355" xml:id="UUyf3f-d1e22412-Rd1e347">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e355">Per bonam et malam famam, a dextris et a
+              sinistris, Christi miles graditur; nec laude extollitur, nec vituperatione frangitur;
+              non divitiis tumet, non confunditur paupertate, et laeta contemnit, et
+              tristia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e360">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e370" xml:id="UUyf3f-d1e22412-Rd1e362">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e370">Nec affectamus laudes hominum, nec
+              vituperationes expavescimus: Deo enim placere curantes, minas hominum penitus non
+              timemus, quoniam dissipat Deus ossa eorum, qui hominibus placere desiderant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e375">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e385" xml:id="UUyf3f-d1e22412-Rd1e377">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e385">Honores et injuriae vulgi in promiscuo sunt
+              habendae; nec his gaudendum, nec illis dolendum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e390">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e400" xml:id="UUyf3f-d1e22412-Rd1e392">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e400">Animum excellentem, constantem et moderatum, et
+              omnia tanquam se minora transeuntem, quidquid timemus optamusque ridentem, coelestis
+              potentia agitat. Non potest res tanta sine adminiculo numinis stare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e405">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e415" xml:id="UUyf3f-d1e22412-Rd1e407">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e415">Vir bonus, quod honeste se facturum putaverit,
+              faciet, etiamsi laboriosum erit; faciet, etiamsi periculosum erit. Rursum quod turpe
+              erit non faciet, etiamsi pecuniam afferret, etiamsi voluptatem, etiamsi potentiam et
+              dignitatem: ab honesto nulla re deterrebitur, ad turpia nulla re invitabitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22412-d1e420">
+          <ref corresp="#UUyf3f-d1e22412-Qd1e430" xml:id="UUyf3f-d1e22412-Rd1e422">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22412-Qd1e430">Aequo animo audienda sunt imperitorum convicia,
+              et ad honesta vadenti contemnendus est ipse contemptus.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

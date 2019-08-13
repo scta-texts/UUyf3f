@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De tribus virtutibus theologicis</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De tribus virtutibus theologicis</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e18876">
+        <head xml:id="UUyf3f-d1e18876-Hd1e99" type="question-title">De tribus virtutibus
+          theologicis</head>
+        <p xml:id="UUyf3f-d1e18876-d1e102">
+          <ref corresp="#UUyf3f-d1e18876-Qd1e112" xml:id="UUyf3f-d1e18876-Rd1e104">Gregorius, in
+              <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18876-Qd1e112">Cum districtus judex venerit, qui sese nobis per
+              naturae nostrae consortium junxit, ab eo procul dubio culpae reatum non expetit, quem
+              sub ejus venia fides, spes et charitas jam abscondit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18876-d1e117">
+          <ref corresp="#UUyf3f-d1e18876-Qd1e127" xml:id="UUyf3f-d1e18876-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18876-Qd1e127">In corde nonnunquam per flagella turbatur
+              charitas, per formidinem concutitur spes, per quaestiones pulsatur fides. Sed per Dei
+              gratiam omnia tormentorum et insidiarum genera superantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18876-d1e132">
+          <ref corresp="#UUyf3f-d1e18876-Qd1e142" xml:id="UUyf3f-d1e18876-Rd1e134">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18876-Qd1e142">Bona summa sunt fides, spes, et charitas, quae
+              cum veraciter habentur, in malum inflecti non possunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18876-d1e147">
+          <ref corresp="#UUyf3f-d1e18876-Qd1e157" xml:id="UUyf3f-d1e18876-Rd1e149">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18876-Qd1e157">Tres sunt virtutes, sine quibus is, qui operari
+              aliquid jam potest, salvari non potest, videlicet fides, spes, et charitas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18876-d1e163">
+          <ref corresp="#UUyf3f-d1e18876-Qd1e173" xml:id="UUyf3f-d1e18876-Rd1e165">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18876-Qd1e173">Unusquisque, qui in activae vitae exercitio
+              versatur, tantum credit, quantum sperat, amat, et operatur; tantum sperat, quantum
+              credit, operatur, et amat; tantum amat, quantum credit, sperat, et operatur; tantum
+              operatur, quantum credit, amat, et sperat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18876-d1e178">
+          <ref corresp="#UUyf3f-d1e18876-Qd1e188" xml:id="UUyf3f-d1e18876-Rd1e180">Isidorus, in
+              <title>Etymologiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18876-Qd1e188">Tria sunt, quae in religionis cultu ad colendum
+              Deum in hominibus perquiruntur, scilicet fides, spes, et charitas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18876-d1e193">
+          <ref corresp="#UUyf3f-d1e18876-Qd1e203" xml:id="UUyf3f-d1e18876-Rd1e195">Augustinus,
+              <title>de Doctrina Christiana</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18876-Qd1e203">Homo fide, spe, et charitate subnixus, et haec
+              tria inconcusse retinens, non indiget Scripturis, nisi ad alios instruendos.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18876-d1e208">
+          <ref corresp="#UUyf3f-d1e18876-Qd1e218" xml:id="UUyf3f-d1e18876-Rd1e210">Augustinus,
+              <title>de Trinitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18876-Qd1e218" source="http://scta.info/resource/adt-l8-d1e968"
+              >Ubi sunt illa tria, propter quae in animo aedificanda omnium divinorum librorum
+              machinamenta consurgunt, fides, spes, charitas, nisi in animo credente quod nondum
+              videt, et sperante atque amante quod credit? Amatur ergo quod ignoratur, sed tamen
+              creditur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18876-d1e223">
+          <ref corresp="#UUyf3f-d1e18876-Qd1e233" xml:id="UUyf3f-d1e18876-Rd1e225">Augustinus, in
+              <title>Soliloquiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18876-Qd1e233">Deo nos fides excitat, spes erigit, charitas
+              jungit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18876-d1e238">
+          <ref corresp="#UUyf3f-d1e18876-Qd1e248" xml:id="UUyf3f-d1e18876-Rd1e240">Augustinus, in
+              <title>Soliloquiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18876-Qd1e248">Sine tribus istis, scilicet fide, spe, et
+              charitate, nulla anima sanatur, ut possit Deum suum videre.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18876-d1e254">
+          <ref corresp="#UUyf3f-d1e18876-Qd1e264" xml:id="UUyf3f-d1e18876-Rd1e256">Bernardus,
+              <title>de Amore Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18876-Qd1e264">Potest esse ut fides et spes sint sine
+              charitate; ut autem charitas fidem et spem in se non contineat, non potest
+              esse.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18876-d1e269">
+          <ref corresp="#UUyf3f-d1e18876-Qd1e279" xml:id="UUyf3f-d1e18876-Rd1e271">Bernardus, super
+              <title>Qui habitat</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18876-Qd1e279">Dicit Fides: Parata sunt magna et
+              inexcogitabilia bona a Deo fidelibus suis. Dicit Spes: Mihi illa servantur. Sed
+              Charitas ait: Curro velociter ad illa.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De doctrina (in De periculis)</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De doctrina (in De periculis)</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e35501">
+        <head xml:id="UUyf3f-d1e35501-Hd1e99" type="question-title">De doctrina (in De
+          periculis)</head>
+        <p xml:id="UUyf3f-d1e35501-d1e102">
+          <ref corresp="#UUyf3f-d1e35501-Qd1e112" xml:id="UUyf3f-d1e35501-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35501-Qd1e112">Saepe viri ferventes ingenio, dum congrua
+              inveniunt, arroganter intumescunt; et quod per elationis vitium plerumque contingit,
+              eisdem acutis sensibus, quibus hostem feriunt, prosternuntur: dum in his quae recte de
+              Deo sentiunt, non Dei, sed suam gloriam quaerunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35501-d1e117">
+          <ref corresp="#UUyf3f-d1e35501-Qd1e127" xml:id="UUyf3f-d1e35501-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35501-Qd1e127">Perversi, cum vera sapiunt, recta quidem et
+              rectis rationibus loquuntur: non ut alios audientes doceant, sed ut ipsi quanta
+              doctrina polleant, innotescant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35501-d1e132">
+          <ref corresp="#UUyf3f-d1e35501-Qd1e142" xml:id="UUyf3f-d1e35501-Rd1e134">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35501-Qd1e142">De praedicationis labore laudem transitoriam
+              quaerere, quid est aliud, quam rem magnam vili pretio venundare?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35501-d1e147">
+          <ref corresp="#UUyf3f-d1e35501-Qd1e157" xml:id="UUyf3f-d1e35501-Rd1e149">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35501-Qd1e157">Necesse est, ut semper sermo praedicantis cum
+              auditorum debeat qualitate formari; ne aut verecundis aspera, aut impudentibus levia
+              loquatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35501-d1e163">
+          <ref corresp="#UUyf3f-d1e35501-Qd1e173" xml:id="UUyf3f-d1e35501-Rd1e165">Ambrosius, <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35501-Qd1e173">Vita verbum exigit, et acquirit; sermo autem
+              sine vita non dicitur sermo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35501-d1e178">
+          <ref corresp="#UUyf3f-d1e35501-Qd1e188" xml:id="UUyf3f-d1e35501-Rd1e180">Augustinus, <title>de Vera religione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35501-Qd1e188">Quid adhuc oscitamus crapulam hesternam, et in
+              mortuis pecudibus divina eloquia perscrutamur, si, quando ad disputationem venitur,
+              platonico nomine ora crepitantia, quam pectus vero Deo plenum magis habere
+              gestimus?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35501-d1e193">
+          <ref corresp="#UUyf3f-d1e35501-Qd1e203" xml:id="UUyf3f-d1e35501-Rd1e195">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35501-Qd1e203">Vae, bene de Deo et sentire, et eloqui
+              acceperunt, si quaestum aestiment pietatem; si convertant ad inanem gloriam, quod ad
+              lucra Dei acceperant erogandum; si alta sapientes humilibus non consentiant; paveant
+              quod in Propheta legitur, dicente Domino: <!--<i>-->Dedi enim aurum meum<!--</i>-->,
+              etc.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

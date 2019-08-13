@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De homine</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De homine</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e2627">
+        <head xml:id="UUyf3f-d1e2627-Hd1e99" type="question-title">De homine</head>
+        <p xml:id="UUyf3f-d1e2627-d1e102">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e112" xml:id="UUyf3f-d1e2627-Rd1e104">Gregorius, in
+              <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e112">Curemus, fratres carissimi, ne qua nos immunditia
+              polluat; qui in aeterna praesentia et Dei cives et angelis aequales sumus, vendicemus
+              moribus dignitatem nostram.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e117">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e127" xml:id="UUyf3f-d1e2627-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e127">Ad hoc in paradiso homo positus fuerat, ut si se
+              ad Conditoris sui obedientiam vinculis charitatis astringeret, ad coelestem patriam
+              angelorum quandoque sine carnis morte transiret. Sic namque immortalis est conditus,
+              ut si non peccaret, etiam mori non potuisset, atque ex merito liberi arbitrii
+              beatitudinem illius regionis attingeret, in qua vel peccare, vel mori non
+              potuisset.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e132">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e142" xml:id="UUyf3f-d1e2627-Rd1e134">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e142">Homo ab <!--<i>-->humo<!--</i>--> appellatus est;
+              et quomodo valet esse sine macula, qui sponte sua ad infirmitatem concidit factus de
+              terra?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e151">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e161" xml:id="UUyf3f-d1e2627-Rd1e153">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e161">Non se desperet humana fragilitas; unigeniti
+              sanguinem consideret, et in pretio suo conspiciat quam magna est, quae tanti
+              valet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e167">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e177" xml:id="UUyf3f-d1e2627-Rd1e169">Augustinus,
+              <title>de adulterinis Conjugiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e177">Indignantur viri, si audiant adulteros viros
+              pendere similes adulteris feminis poenas, cum tanto gravius eos puniri oportuit,
+              quanto magis ad eos pertinet, et virtute vincere, et exemplo regere feminas
+              christianas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e182">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e192" xml:id="UUyf3f-d1e2627-Rd1e184">Augustinus,
+              <title>de Trinitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e192"
+              source="http://scta.info/resource/adt-l14-d1e1646">Justitiam sibi dare non potest
+              homo, quam perditam non habet. Hanc enim, cum homo conderetur, accepit, et peccando
+              utique perdidit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e197">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e207" xml:id="UUyf3f-d1e2627-Rd1e199">Augustinus,
+              <title>de Libero Arbitrio</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e207">Ex quo incipit homo praecepti esse capax, ex illo
+              incipit posse peccare. Duobus autem modis peccat, antequam fiat sapiens: si aut non se
+              accommodet ad accipiendum praeceptum; aut, cum acceperit, non observet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e212">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e222" xml:id="UUyf3f-d1e2627-Rd1e214">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e222"
+              source="http://scta.info/resource/adcd-l21-d1e3571">Infantia quidem hominis non a
+              risu, sed a fletu orditur hanc lucem; quid malorum ingressa sit, nesciens prophetat
+              quodam modo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e227">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e239" xml:id="UUyf3f-d1e2627-Rd1e229">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <!-- can't find this -->
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e239">Puer a ploratu incipit, nec ridere potest,
+              propheta calamitatis. Lacrymae sunt testes miseriae: non adhuc loquitur, et jam
+              prophetat. Erubescant cantatrices ibi non flere, ubi infans, qui non est unius diei,
+              praedicat esse flendum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e244">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e254" xml:id="UUyf3f-d1e2627-Rd1e246">Augustinus,
+              <title>super Genesim, contra Manichaeos</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e254">Omnium animalium corpora, sive quae in aquis,
+              sive quae in terra vivunt, inclinata sunt ad terram, et non sunt erecta sicut hominis
+              corpus. Quo signatur etiam animum nostrum in superna sua, id est, in aeterna
+              spiritualia erectum esse debere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e260">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e270" xml:id="UUyf3f-d1e2627-Rd1e262">Hieronymus,
+              <title>in Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e270">Magna dignitas animarum, ut unaquaeque habeat ab
+              ortu nativitatis in custodiam sui angelum delegatum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e275">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e285" xml:id="UUyf3f-d1e2627-Rd1e277">Joannes
+            Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e285">In hoc sumus imago Dei, ut quod bonum ei videtur,
+              et apud nos sit bonum; et quod ei malum videtur, et apud nos sit malos.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e290">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e297" xml:id="UUyf3f-d1e2627-Rd1e292">Joannes
+            Chrysostomus, in sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e297">
+              <title>Comparatus est</title>, ait Propheta, <!--<i>-->homo jumentis insipientibus, et
+              similis factus est eis<!--</i>-->. Pejus est comparari, quam nasci. Naturaliter non
+              habere rationem, tolerabile est; verum ratione decoratum, irrationali creaturae
+              comparari, voluntatis est crimen, non naturae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e309">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e319" xml:id="UUyf3f-d1e2627-Rd1e311">Bernardus,
+              <title>in Meditationibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e319">Tria in mente mea invenio, per quae Deum recolo,
+              aspicio concupisco. Sunt autem haec tria: memoria, intelligentia, voluntas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e324">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e334" xml:id="UUyf3f-d1e2627-Rd1e326">Bernardus,
+              <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e334">Homo natus ad laborem, non ad honorem.
+              <!--<i>-->Homo natus de muliere<!--</i>-->, et ob hoc cum reatu; <!--<i>-->brevi
+              vivens tempore<!--</i>-->, ideoque cum metu; <!--<i>-->repletur multis
+              miseriis<!--</i>-->, et propterea cum fletu: et vere multis, quia corporis et animae
+              simul.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e351">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e361" xml:id="UUyf3f-d1e2627-Rd1e353">Bernardus,
+              <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e361">Attende, quid fuisti ante ortum, et quid es ab
+              ortu usque ad occasum, ac quid eris post hanc vitam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e367">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e377" xml:id="UUyf3f-d1e2627-Rd1e369">Bernardus,
+              <title>de Consideratione </title>de primo paulo post versus</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e377">Forma, favor populi, fervor juvenilis, opesque, /
+              Surripuere tibi nosse, quid esset homo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e382">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e392" xml:id="UUyf3f-d1e2627-Rd1e384">Bernardus,
+              <title>de Consideratione</title> de secundo</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e392">Post hominem vermis, post vermem foetor et
+              horror: / Sic in non hominem vertitur omnis homo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e397">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e407" xml:id="UUyf3f-d1e2627-Rd1e399">Bernardus,
+              <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e407">Ad imaginem et similitudinem Dei factus est homo:
+              in imagine arbitrii libertatem, virtutem habens in similitudine. Et similitudo quidem
+              periit: <!--<i>-->verumtamen in imagine pertransit homo<!--</i>-->. Imago siquidem in
+              gehenna ipsa uri poterit, non exuri.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e416">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e426" xml:id="UUyf3f-d1e2627-Rd1e418">Bernardus,
+              <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e426">Quotquot degimus in regione umbrae mortis, in
+              infirmitate corporis, in loco tentationis, si diligenter advertimus, triplici hic
+              incommodo miserabiliter laboramus: nam et faciles sumus ad seducendum, et debiles ad
+              operandum, et fragiles ad resistendum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e431">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e438" xml:id="UUyf3f-d1e2627-Rd1e433">Unde idem
+            Bernardus</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e438">Si discernere volumus inter bonum et malum,
+              decipimur; si tentamus facere bonum, deficimus; si conamur resistere malo, dejicimur
+              et superamur. Nec mirum, quia, ut dicitur in <title>Job</title>, <!--<i>-->non est
+              potestas super terram, quae possit ei comparari<!--</i>-->, scilicet adversarii
+              nostri.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2627-d1e450">
+          <ref corresp="#UUyf3f-d1e2627-Qd1e460" xml:id="UUyf3f-d1e2627-Rd1e452">Auctor <title>de
+              Spiritu et anima</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2627-Qd1e460">Anima est rationalis, concupiscibilis,
+              irascibilis. Per rationabilitatem habilis est illuminari ad aliquid cognoscendum infra
+              se, supra se, in se, juxta se. Cognoscit siquidem Deum supra se, se in se, angelum
+              juxta se, quidquid coeli continetur ambitu infra se. Per concupiscibilitatem et
+              irascibilitatem habilis est affici ad aliquid appetendum vel fugiendum, amandum vel
+              odiendum. Et ideo de rationabilitate omnis sensus animae oritur, et de aliis omnis
+              affectus.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

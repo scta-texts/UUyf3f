@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De gustu</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De gustu</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e43821">
+        <head xml:id="UUyf3f-d1e43821-Hd1e99" type="question-title">De gustu</head>
+        <p xml:id="UUyf3f-d1e43821-d1e102">
+          <ref corresp="#UUyf3f-d1e43821-Qd1e112" xml:id="UUyf3f-d1e43821-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43821-Qd1e112">Superiora amare, jam sursum ire est: dumque
+              magno desiderio mens ad coelestia inhiat, miro modo hoc ipsum, quod accipere quaerit,
+              degustat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43821-d1e117">
+          <ref corresp="#UUyf3f-d1e43821-Qd1e127" xml:id="UUyf3f-d1e43821-Rd1e119">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43821-Qd1e127">Dulce est esse in rebus humanis, sed ei qui
+              adhuc de coelestibus gaudia nulla gustavit: quia quanto minus aeterna intelligit,
+              tanto delectabilius in temporalibus requiescit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43821-d1e132">
+          <ref corresp="#UUyf3f-d1e43821-Qd1e142" xml:id="UUyf3f-d1e43821-Rd1e134">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43821-Qd1e142">Si quis jam cordis ore gustaverit quae sit illa
+              dulcedo coelestium praemiorum, qui illi hymnidici chori angelorum, quae
+              incomprehensibilis visio Trinitatis; huic quanto illud dulce fit quod intus videt,
+              tanto in amaritudinem vertitur omne, quod foris sustinet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43821-d1e147">
+          <ref corresp="#UUyf3f-d1e43821-Qd1e157" xml:id="UUyf3f-d1e43821-Rd1e149">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43821-Qd1e157">Contemplativa major est quam activa: quia haec
+              in usu praesentis operis laborat; illa vero sapore intimo venturam jam requiem
+              degustat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43821-d1e163">
+          <ref corresp="#UUyf3f-d1e43821-Qd1e173" xml:id="UUyf3f-d1e43821-Rd1e165">Augustinus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43821-Qd1e173">Caetera creatura vilescat, ut Creator in corde
+              dulcescat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43821-d1e178">
+          <ref corresp="#UUyf3f-d1e43821-Qd1e188" xml:id="UUyf3f-d1e43821-Rd1e180">Augustinus, <title>de Meditationibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43821-Qd1e188">Fac, precor, me, Domine, gustare per amorem,
+              quod gusto per agnitionem: sentiam per affectum, quod sentio per intellectum: plus
+              tibi debeo, quam meipsum totum. Sed nec plus habeo, sed nec hoc ipsum per me totum
+              possum reddere: trahe, Domine, in amorem tuum vel hoc ipsum quod sum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43821-d1e193">
+          <ref corresp="#UUyf3f-d1e43821-Qd1e203" xml:id="UUyf3f-d1e43821-Rd1e195">Augustinus, <title>de Vera religione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43821-Qd1e203">Quandiu sumus in corpore et peregrinamur a
+              Domino, gustemus saltem quam suavis est Dominus, qui dedit nobis pignus spiritus, in
+              quo sentiamus ejus dulcedinem, et desideremus ipsum vitae fontem: ubi sobria ebrietate
+              inundemur et irrigemur <!--<i>-->sicut lignum quod plantatum est secus decursus
+              aquarum<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43821-d1e212">
+          <ref corresp="#UUyf3f-d1e43821-Qd1e222" xml:id="UUyf3f-d1e43821-Rd1e214">Auctor <title>de Spiritu et anima</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43821-Qd1e222">Haec est requies cordis nostri, cum in Dei amore
+              per desiderium figitur: haec est vita cordis nostri, cum Deum suum contemplatur, et
+              ipsa sua contemplatione suaviter reficitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43821-d1e227">
+          <ref corresp="#UUyf3f-d1e43821-Qd1e237" xml:id="UUyf3f-d1e43821-Rd1e229">Auctor <title>de Spiritu et anima</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43821-Qd1e237">Anima prius sanatur, sanata introducitur,
+              introducta reficitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43821-d1e242">
+          <ref corresp="#UUyf3f-d1e43821-Qd1e252" xml:id="UUyf3f-d1e43821-Rd1e244">Auctor <title>de Spiritu et anima</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43821-Qd1e252">Mentis visio est intelligentia, gustus
+              sapientia: illa contemplatur, ista delectatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43821-d1e258">
+          <ref corresp="#UUyf3f-d1e43821-Qd1e268" xml:id="UUyf3f-d1e43821-Rd1e260">Bernardus, <title>de Duodecim gradibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43821-Qd1e268">Primus cibus est humilitatis, purgatorius cum
+              amaritudine. Secundus charitatis, consolatorius cum dulcedine. Tertius
+              contemplationis, solidus cum fortitudine.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43821-d1e273">
+          <ref corresp="#UUyf3f-d1e43821-Qd1e283" xml:id="UUyf3f-d1e43821-Rd1e275">Bernardus, <title>de Diligendo Deo</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43821-Qd1e283">Ex occasione frequentium necessitatum, crebris
+              necesse est interpellationibus Deum ab homine frequentari, frequentando gustari,
+              gustando probari, quoniam suavis est Dominus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43821-d1e288">
+          <ref corresp="#UUyf3f-d1e43821-Qd1e298" xml:id="UUyf3f-d1e43821-Rd1e290">Bernardus, <title>de Amore Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43821-Qd1e298">Stans in domo solitudinis, quasi onager
+              solitarius, et habitaculum habens in terra salsuginis, et attrahens ventum amoris mei,
+              os meum aperio ad te, Domine, et attraho spiritum. Et nonnunquam, Domine, quasi
+              clausis oculis ad te inhianti, mittis mihi in os cordis, quod non licet mihi scire
+              quid sit. Saporem quidem sentio, dulcedinem adeo confortantem, ut si perficeretur in
+              me, nihil ultra quaererem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43821-d1e303">
+          <ref corresp="#UUyf3f-d1e43821-Qd1e313" xml:id="UUyf3f-d1e43821-Rd1e305">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43821-Qd1e313">Si quem forte nostrum aliqua hora sic rapi, et
+              sic abscondi contigerit, ut minime avocet, aut perturbet, aut sensus egens, vel cura
+              pungens, vel culpa mordens, vel certe ea quae difficilius amoventur irruentia
+              imaginationum corporearum phantasmata, poterit quidem hic, cum ad nos redierit,
+              gloriari et dicere: <!--<i>-->Introduxit me rex in cubiculum suum<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43821-d1e322">
+          <ref corresp="#UUyf3f-d1e43821-Qd1e332" xml:id="UUyf3f-d1e43821-Rd1e324">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43821-Qd1e332">A mandatis tuis intellexi, inquit, ut scias,
+              nisi obedientiae mandatorum contemplationis gustum penitus non deberi. Non ergo putes
+              de proprio amore quietis, sanctae obedientiae actibus, seniorumve traditionibus
+              praejudicium ullatenus faciendum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43821-d1e337">
+          <ref corresp="#UUyf3f-d1e43821-Qd1e347" xml:id="UUyf3f-d1e43821-Rd1e339">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43821-Qd1e347">
+              <!--<i>-->Funes ceciderunt mihi in praeclaris<!--</i>-->, coelestisque
+              <!--<i>-->hereditas praeclara est mihi<!--</i>-->; et terrena adulatur promissio,
+              blanditur consolatio carnis; gustato spiritu, necesse est desipere carnem: affectanti
+              coelestia, terrena non sapiunt: aeternis inhianti, fastidio sunt transitoria.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43821-d1e361">
+          <ref corresp="#UUyf3f-d1e43821-Qd1e371" xml:id="UUyf3f-d1e43821-Rd1e363">Bernardus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43821-Qd1e371">
+              <!--<i>-->Beati qui lugent, quoniam ipsi consolabuntur<!--</i>-->. Quid aliud est haec
+              consolatio, quam procedens de spe veniae gratia devotionis, et suavissima delectatio
+              boni, et gustus sapientiae licet exiguus, quibus interim benignus Dominus afflictam
+              refrigerat animam? At gustus ille nihil aliud est, quam irritamentum desiderii, et
+              incentivum amoris, sicut scriptum est: <!--<i>-->Qui edunt me, adhuc
+              esurient<!--</i>--> etc.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43821-d1e384">
+          <ref corresp="#UUyf3f-d1e43821-Qd1e394" xml:id="UUyf3f-d1e43821-Rd1e386">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43821-Qd1e394">Tunc animus noster habebit quo gratuletur sibi,
+              cum emissus his tenebris in quibus volutatur, non tenui visu clara prospexerit, sed
+              totum diem admiserit, et redditus coelo suo fuerit: cum receperit locum, quem
+              occupavit sorte nascendi sursum. Illum vocant initia sua; erit autem illic etiam
+              antequam hac custodia exsolvatur, cum vitia devicerit, purusque ac levis in
+              cogitationes divinas emicuerit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43821-d1e399">
+          <ref corresp="#UUyf3f-d1e43821-Qd1e409" xml:id="UUyf3f-d1e43821-Rd1e401">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43821-Qd1e409">Philosophia animum a terrenis admittit ad
+              divina; haec libertas ejus est, haec evagatio subducit interim se custodiae in qua
+              tenetur, et coelo reficitur.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

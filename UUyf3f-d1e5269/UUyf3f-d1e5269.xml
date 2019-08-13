@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De auditoribus verbi Dei</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De auditoribus verbi Dei</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e5269">
+        <head xml:id="UUyf3f-d1e5269-Hd1e99" type="question-title">De auditoribus verbi Dei</head>
+        <p xml:id="UUyf3f-d1e5269-d1e102">
+          <ref corresp="#UUyf3f-d1e5269-Qd1e112" xml:id="UUyf3f-d1e5269-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5269-Qd1e112">Verba sapientiae quae reprobi audiunt, electi non
+              solum audiunt, sed etiam degustant, ut eis in corde sapiat, quod reproborum non
+              mentibus, sed solummodo auribus sonat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5269-d1e117">
+          <ref corresp="#UUyf3f-d1e5269-Qd1e127" xml:id="UUyf3f-d1e5269-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5269-Qd1e127">Plerumque discipuli incassum bona audiunt, cum ex
+              magistri vita mala et exemplo destruuntur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5269-d1e132">
+          <ref corresp="#UUyf3f-d1e5269-Qd1e142" xml:id="UUyf3f-d1e5269-Rd1e134">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5269-Qd1e142">Quidam verbum Dei audientes, non audiunt; quoniam
+              aurem ad sacrum eloquium ponunt, sed cor a mundi desideriis non evellunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5269-d1e147">
+          <ref corresp="#UUyf3f-d1e5269-Qd1e157" xml:id="UUyf3f-d1e5269-Rd1e149">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5269-Qd1e157">Gloria praedicatoris, est profectus
+              auditoris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5269-d1e163">
+          <ref corresp="#UUyf3f-d1e5269-Qd1e173" xml:id="UUyf3f-d1e5269-Rd1e165">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5269-Qd1e173">Cibus mentis est sermo Dei: et quasi acceptus
+              cibus, stomacho languente, rejicitur, quando auditus sermo in ventre memoriae non
+              tenetur. Sed quisquis alimenta percepta non retinet, hujus profecto vita desperatur.
+              Per vocem auditus non instruimur, quando mens interius per spiritum non
+              jungitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5269-d1e178">
+          <ref corresp="#UUyf3f-d1e5269-Qd1e188" xml:id="UUyf3f-d1e5269-Rd1e180">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5269-Qd1e188">Tutius veritas auditur, quam praedicatur: quoniam
+              cum auditur, cordis humilitas custoditur; cum autem praedicatur, vix non surripit
+              cuique hominum quantulacumque jactantia, in qua utique pedes affectionis vel
+              intentionis aliquantulum inquinantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5269-d1e193">
+          <ref corresp="#UUyf3f-d1e5269-Qd1e203" xml:id="UUyf3f-d1e5269-Rd1e195">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5269-Qd1e203">Utilis est semper docti viri allocutio: quia aut
+              discit audiens, quod nescire se noverat; aut cognoscit, quod est amplius id, quod se
+              et nescivisse nesciebat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5269-d1e208">
+          <ref corresp="#UUyf3f-d1e5269-Qd1e218" xml:id="UUyf3f-d1e5269-Rd1e210">Augustinus, <title>de Vita beata</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5269-Qd1e218">Si vos invitos et fastidientes alere conabor,
+              frustra operam insumam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5269-d1e223">
+          <ref corresp="#UUyf3f-d1e5269-Qd1e233" xml:id="UUyf3f-d1e5269-Rd1e225">Augustinus, <title>de Verbis Domini</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5269-Qd1e233">In doctore inhonesta est causa, non facere, quod
+              praecipit observare: in discente vero audire velle, quod nolit implere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5269-d1e238">
+          <ref corresp="#UUyf3f-d1e5269-Qd1e248" xml:id="UUyf3f-d1e5269-Rd1e240">Augustinus, <title>de Doctrina christiana</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5269-Qd1e248">Fit ut homines eum non obedienter audiant, qui
+              seipsum non audit; et Dei verbum, quod eis praedicatur, simul cum ipso praedicatore
+              contemnant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5269-d1e254">
+          <ref corresp="#UUyf3f-d1e5269-Qd1e264" xml:id="UUyf3f-d1e5269-Rd1e256">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5269-Qd1e264">Ego cum amatores saeculi intueor, nescio quando
+              possit esse ad eorum animos sanandos opportuna praedicatio: quando enim res hujus
+              mundi velut prosperas habent, fastu suo respuunt salubres monitiones, et quasi anilem
+              reputant cantilenam; quando autem in adversis anguntur, magis conantur evadere unde ad
+              praesens anguntur, quam capere unde curentur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5269-d1e269">
+          <ref corresp="#UUyf3f-d1e5269-Qd1e279" xml:id="UUyf3f-d1e5269-Rd1e271">Augustinus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5269-Qd1e279">Non minus reus erit, qui verbum Dei negligenter
+              audit, quam ille, qui negligentia sua corpus Christi in terra cadere
+              permiserit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5269-d1e284">
+          <ref corresp="#UUyf3f-d1e5269-Qd1e294" xml:id="UUyf3f-d1e5269-Rd1e286">Bernardus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5269-Qd1e294">Benigne audiendum est, devote suscipiendum,
+              sollicite conservandum quidquid ad animarum salutem pertinet; et non sicut verbum
+              hominum, sed sicut vere est, Dei verbum, sive sit illud consolatorium, sive
+              comminatorium, sive etiam increpatorium audiatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5269-d1e299">
+          <ref corresp="#UUyf3f-d1e5269-Qd1e306" xml:id="UUyf3f-d1e5269-Rd1e301">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5269-Qd1e306">Illi soli beati sunt, qui audiunt, et mente
+              recondunt, ut opere compleant, et opere impleant, ut vitam aeternam
+              possideant.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De consolatione (in De periculis)</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De consolatione (in De periculis)</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e32427">
+        <head xml:id="UUyf3f-d1e32427-Hd1e99" type="question-title">De consolatione (in De
+          periculis)</head>
+        <p xml:id="UUyf3f-d1e32427-d1e102">
+          <ref corresp="#UUyf3f-d1e32427-Qd1e112" xml:id="UUyf3f-d1e32427-Rd1e104">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32427-Qd1e112">Offerenda est eis consolatio, quos caminus
+              paupertatis excoquit, atque illis inferendus est timor, quos consolatio gloriae
+              temporalis extollit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32427-d1e117">
+          <ref corresp="#UUyf3f-d1e32427-Qd1e127" xml:id="UUyf3f-d1e32427-Rd1e119">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32427-Qd1e127">Nihil omnino agimus, qui nos per multitudinis
+              exempla defendimus, et ad consolationem nostram, aliena saepe numerantes vitia, deesse
+              nobis dicimus, quos sequi in virtutibus debeamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32427-d1e132">
+          <ref corresp="#UUyf3f-d1e32427-Qd1e142" xml:id="UUyf3f-d1e32427-Rd1e134">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32427-Qd1e142">
+              <!--<i>-->Si caro et sanguis regnum Dei possidere non possunt<!--</i>-->, carnalibus
+              profecto consolationibus spirituales sociari impossibile est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32427-d1e151">
+          <ref corresp="#UUyf3f-d1e32427-Qd1e161" xml:id="UUyf3f-d1e32427-Rd1e153">Bernardus, in <title>Apologia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32427-Qd1e161">Fusi sumus exterius, et de regno Dei, quod intra
+              nos est, relictis veris ac perennibus bonis, foris quaerimus vanam consolationem de
+              vanitatibus et insaniis falsis; ac jam religionis antiquae non solum virtutem
+              amisimus, sed nec speciem retinemus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32427-d1e167">
+          <ref corresp="#UUyf3f-d1e32427-Qd1e177" xml:id="UUyf3f-d1e32427-Rd1e169">Bernardus, super <title>Qui habitat</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32427-Qd1e177">Si vis habere ministerium angelorum, fuge
+              consolationem saeculi, et tentationibus resiste diaboli: renuat consolari anima tua in
+              aliis, si vis in Dei memoria delectari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32427-d1e182">
+          <ref corresp="#UUyf3f-d1e32427-Qd1e192" xml:id="UUyf3f-d1e32427-Rd1e184">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32427-Qd1e192">Vilis est et ad nihilum utilis mundi consolatio;
+              et quod magis est metuendum, etiam verae ac salubris consolationis est
+              impedimentum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32427-d1e197">
+          <ref corresp="#UUyf3f-d1e32427-Qd1e207" xml:id="UUyf3f-d1e32427-Rd1e199">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32427-Qd1e207">Cujus ad alias consolationes mens inhiat, et non
+              penitus renuit consolari in caducis et transitoriis, ipse sibi profecto coelestis
+              subtrahit gratiam consolationis: qui si digna devotione, pleno affectu, desiderio
+              vehementi petere, quaerere, pulsare satageret, sine dubio petens acciperet, quaerens
+              inveniret, pulsanti aperiretur.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

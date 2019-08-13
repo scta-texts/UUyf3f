@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De obstinatione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De obstinatione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e31251">
+        <head xml:id="UUyf3f-d1e31251-Hd1e99" type="question-title">De obstinatione</head>
+        <p xml:id="UUyf3f-d1e31251-d1e102">
+          <ref corresp="#UUyf3f-d1e31251-Qd1e112" xml:id="UUyf3f-d1e31251-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31251-Qd1e112">Pravi audire bona patienter nequeunt; et cum
+              vitae emendationem negligunt, ad verba se obstinatae responsionis accingunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31251-d1e117">
+          <ref corresp="#UUyf3f-d1e31251-Qd1e127" xml:id="UUyf3f-d1e31251-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31251-Qd1e127">Quos reatus similis sociat, concordi pertinacia
+              etiam defensio perversa constipat, ut de facinoribus suis alterna se invicem
+              defensione tueantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31251-d1e132">
+          <ref corresp="#UUyf3f-d1e31251-Qd1e142" xml:id="UUyf3f-d1e31251-Rd1e134">Augustinus, <title>de Agone Christiano</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31251-Qd1e142">Nolentes se, si peccaverint, corrigi, nihil
+              aliud elegerunt, nisi cum hoc mundo damnari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31251-d1e147">
+          <ref corresp="#UUyf3f-d1e31251-Qd1e157" xml:id="UUyf3f-d1e31251-Rd1e149">Augustinus, <title>de Vita Christiana</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31251-Qd1e157">Fit, ut qui homines non timent in delinquendo,
+              in judicio Deum judicem sentiant, et ultorem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31251-d1e163">
+          <ref corresp="#UUyf3f-d1e31251-Qd1e173" xml:id="UUyf3f-d1e31251-Rd1e165">Augustinus, <title>de Fide ad Petrum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31251-Qd1e173">Obdurate vivit, sive qui non convertitur,
+              desperans de indulgentia peccatorum suorum, sive qui sic de misericordia Dei sperat,
+              ut usque in finem vitae suae in suorum criminum perversitate permaneat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31251-d1e178">
+          <ref corresp="#UUyf3f-d1e31251-Qd1e188" xml:id="UUyf3f-d1e31251-Rd1e180">Joannes Chrysostomus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31251-Qd1e188">Peccare humanum est; permanere autem in peccatis
+              diabolicum est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31251-d1e193">
+          <ref corresp="#UUyf3f-d1e31251-Qd1e203" xml:id="UUyf3f-d1e31251-Rd1e195">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31251-Qd1e203">Quid est cor durum? Ipsum est, quod nec
+              compunctione scinditur, nec pietate mollitur, nec movetur precibus: minis non cedit,
+              flageliis duratur: ingratum ad beneficia, ad consilia infidum, ad judicia saevum,
+              inverecundum ad turpia, impavidum ad pericula.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31251-d1e208">
+          <ref corresp="#UUyf3f-d1e31251-Qd1e218" xml:id="UUyf3f-d1e31251-Rd1e210">Bernardus, <title>de Praecepto et
+              Dispensatione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31251-Qd1e218">Elatio contemnentis, et impoenitentis
+              obstinatio, in minimis quoque mandatis culpam facit non minimam, et convertit in
+              crimen gravis rebellionis naevum levem simplicis transgressionis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31251-d1e223">
+          <ref corresp="#UUyf3f-d1e31251-Qd1e233" xml:id="UUyf3f-d1e31251-Rd1e225">Bernardus, in <title>Epistola ad proprios
+              parentes</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31251-Qd1e233">O dira abusio! domus ardet, ignis instat a
+              tergo, et fugienti prohibetur egredi, evadenti suadetur regredi: et hoc ab his, qui in
+              ipso incendio positi sunt, et obstinatissima dementia, ac dementissima obstinatione
+              fugere periculum nolunt. Proh dolor! si contemnitis mortem vestram, cur appetitis et
+              meam?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31251-d1e238">
+          <ref corresp="#UUyf3f-d1e31251-Qd1e248" xml:id="UUyf3f-d1e31251-Rd1e240">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31251-Qd1e248">Nonnulli dura cervice et attrita sunt fronte, ut
+              quo magis eis compatimur, tanto magis nostra et compassione, et patientia
+              abutantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31251-d1e254">
+          <ref corresp="#UUyf3f-d1e31251-Qd1e264" xml:id="UUyf3f-d1e31251-Rd1e256">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31251-Qd1e264">Putasne Filium Dei reputat Jesum, quisquis ille
+              est homo, qui ipsius nec terretur comminationibus, nec attrahitur promissionibus, nec
+              praeceptis obtemperat, nec consiliis acquiescit? Nonne is, si fateatur se nosse Deum,
+              factis eum negat? porro fides sine operibus mortua est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31251-d1e269">
+          <ref corresp="#UUyf3f-d1e31251-Qd1e279" xml:id="UUyf3f-d1e31251-Rd1e271">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31251-Qd1e279">Qui imperium dedit ne peccaremus, poenitentibus
+              statuit ut confiterentur. Excluditur itaque digne a regno Dei non omnis qui peccat,
+              sed qui post peccatum labitur in contemptum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31251-d1e284">
+          <ref corresp="#UUyf3f-d1e31251-Qd1e291" xml:id="UUyf3f-d1e31251-Rd1e286">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31251-Qd1e291">Carnale est cadere; sed lapideum est
+              jacere.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

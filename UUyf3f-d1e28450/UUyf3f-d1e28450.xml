@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De peccatis linguae, de murmuratione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De peccatis linguae, de murmuratione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e28450">
+        <head xml:id="UUyf3f-d1e28450-Hd1e99" type="question-title">De peccatis linguae, de
+          murmuratione</head>
+        <p xml:id="UUyf3f-d1e28450-d1e102">
+          <ref corresp="#UUyf3f-d1e28450-Qd1e112" xml:id="UUyf3f-d1e28450-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28450-Qd1e112">Si justa placere Deo scimus, pati autem nulla,
+              nisi quae Domino placuerint, possumus, justa sunt cuncta quae patimur. Unde valde
+              injustum est, si de justa passione et afflictione murmuramus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e28450-d1e117">
+          <ref corresp="#UUyf3f-d1e28450-Qd1e127" xml:id="UUyf3f-d1e28450-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28450-Qd1e127">Qui contra superpositam sibi potestatem
+              murmurat, liquet quod illum redarguit, qui eamdem homini potestatem dedit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e28450-d1e132">
+          <ref corresp="#UUyf3f-d1e28450-Qd1e142" xml:id="UUyf3f-d1e28450-Rd1e134">Gregorius, in
+              <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28450-Qd1e142">Regnum coelorum nullus murmurans accipit, nec
+              ullus qui accipit murmurare potest.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e28450-d1e147">
+          <ref corresp="#UUyf3f-d1e28450-Qd1e157" xml:id="UUyf3f-d1e28450-Rd1e149">Joannes
+            Chrysostomus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28450-Qd1e157">Qui murmurat de periculo tentationis, murmurat
+              de praemio probationis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e28450-d1e163">
+          <ref corresp="#UUyf3f-d1e28450-Qd1e173" xml:id="UUyf3f-d1e28450-Rd1e165">Bernardus,
+              <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28450-Qd1e173">Si is, qui murmurat, secundum animam mortuus
+              est; qui ad murmurandum instigat, quomodo vivit?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e28450-d1e178">
+          <ref corresp="#UUyf3f-d1e28450-Qd1e188" xml:id="UUyf3f-d1e28450-Rd1e180">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28450-Qd1e188">Nihil sic horrendum, ut murmur et dissensio in
+              congregatione monachorum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e28450-d1e193">
+          <ref corresp="#UUyf3f-d1e28450-Qd1e203" xml:id="UUyf3f-d1e28450-Rd1e195">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28450-Qd1e203">Si moleste coeperis sustinere, si judicare
+              praelatum, si murmurare in corde; etiamsi exterius impleas quod jubetur, non est
+              virtus patientiae, sed velamen malitiae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e28450-d1e208">
+          <ref corresp="#UUyf3f-d1e28450-Qd1e215" xml:id="UUyf3f-d1e28450-Rd1e210">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e28450-Qd1e215">Ignis justae ultionis in futuro illos excruciat,
+              qui lingua inflammata a gehenna murmurant et detrahunt.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De ferore</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De ferore</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e43079">
+        <head xml:id="UUyf3f-d1e43079-Hd1e99" type="question-title">De ferore</head>
+        <p xml:id="UUyf3f-d1e43079-d1e102">
+          <ref corresp="#UUyf3f-d1e43079-Qd1e112" xml:id="UUyf3f-d1e43079-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43079-Qd1e112">Saepe electorum conversio plus finiendo peragit,
+              quam inchoando proponit: et si tepidius prima inchoat, ferventius extrema consummat;
+              videlicet semper inchoare se aestimat, et idcirco infatigabiliter in novitate
+              perdurat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43079-d1e117">
+          <ref corresp="#UUyf3f-d1e43079-Qd1e127" xml:id="UUyf3f-d1e43079-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43079-Qd1e127">Hi quos fortasse despicimus, et tarde possunt
+              incipere, et tamen vitam nostram ferventioribus studiis anteire.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43079-d1e132">
+          <ref corresp="#UUyf3f-d1e43079-Qd1e142" xml:id="UUyf3f-d1e43079-Rd1e134">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43079-Qd1e142">Mens in qua anima per amorem invisibili sponso
+              jungitur, nullam praesentis saeculi consolationem recipit; sed ad illam, quam diligit,
+              medullitus suspirat, fervet, anhelat, anxiatur; vilis ei fit salus sui corporis, quia
+              transfixa est vulnere amoris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43079-d1e147">
+          <ref corresp="#UUyf3f-d1e43079-Qd1e157" xml:id="UUyf3f-d1e43079-Rd1e149">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43079-Qd1e157">Nisi mentis intentio ferveat, unda mundi non
+              vincitur, per quam semper anima ad ima revocatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43079-d1e163">
+          <ref corresp="#UUyf3f-d1e43079-Qd1e173" xml:id="UUyf3f-d1e43079-Rd1e165">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43079-Qd1e173">Virtus discretionis absque charitatis fervore
+              jacet; et fervor vehemens absque discretionis temperamento praecipitat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43079-d1e178">
+          <ref corresp="#UUyf3f-d1e43079-Qd1e188" xml:id="UUyf3f-d1e43079-Rd1e180">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43079-Qd1e188">Si quis devotus, si quis sollicitus est, si quis
+              spiritu fervens, caveat sibi, ne suis fidat meritis, ne suis operibus innitatur:
+              alioquin nec hujusmodi animum intrat gratia, nimirum qui plenus est, nec in eo jam
+              invenit gratia locum sibi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43079-d1e193">
+          <ref corresp="#UUyf3f-d1e43079-Qd1e203" xml:id="UUyf3f-d1e43079-Rd1e195">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43079-Qd1e203">Opera nostra in fervore agenda sunt et desiderio
+              cordis, ut sint lucernae ardentes in manibus nostris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43079-d1e208">
+          <ref corresp="#UUyf3f-d1e43079-Qd1e218" xml:id="UUyf3f-d1e43079-Rd1e210">Bernardus, <title>de Contemptu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43079-Qd1e218">Tu si videris hominem in bonis operibus
+              strenuum, et fervore conversationis hilarem, vivere in eo fidem ne dubites, indubia
+              tenens vitae illius argumenta; sed nonnulli, cum spiritu coeperint, heu! carne
+              consummantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43079-d1e223">
+          <ref corresp="#UUyf3f-d1e43079-Qd1e233" xml:id="UUyf3f-d1e43079-Rd1e225">Bernardus, <title>de Contemptu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43079-Qd1e233">Ut vigoris esse dignoscitur nequaquam cedere
+              tribulationi, sed pro justitia tribulationem sustinere; sic fervori videtur
+              attribuendum, nullis capi voluptatibus, nullis illecebris enervari.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

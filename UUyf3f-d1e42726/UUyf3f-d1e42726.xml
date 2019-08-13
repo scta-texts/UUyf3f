@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De desiderio</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De desiderio</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e42726">
+        <head xml:id="UUyf3f-d1e42726-Hd1e99" type="question-title">De desiderio</head>
+        <p xml:id="UUyf3f-d1e42726-d1e102">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e112" xml:id="UUyf3f-d1e42726-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e112">Saepe nostra desideria, quia celeriter non
+              fiunt, exaudiuntur, et quod impleri concite petimus, ex ipsa melius tarditate
+              prosperatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e117">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e127" xml:id="UUyf3f-d1e42726-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e127">Valentiores voces, apud sacratissimas aures Dei,
+              non faciunt verba nostra, sed desideria.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e132">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e142" xml:id="UUyf3f-d1e42726-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e142">Differre solet omnipotens Deus desideria
+              petentium, ut crescant; quatenus eo magis exaudiuntur ad meritum, quo citius non
+              exaudiuntur ad votum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e147">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e157" xml:id="UUyf3f-d1e42726-Rd1e149">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e157">Quisquis in solo aeternitatis desiderio figitur,
+              nec prosperitate attollitur, nec adversitate quassatur: dum nil habet in mundo, quod
+              appetat; nil est de mundo, quod pertimescat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e163">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e173" xml:id="UUyf3f-d1e42726-Rd1e165">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e173">Vulnerata charitate ego sum. Mala salus est
+              cordis, quae dolorem hujus vulneris nescit. Cum vero anhelare in coelesti desiderio
+              jam et sentire vulnus amoris coeperit, fit anima salubrior ex vulnere, quae prius
+              aegrotabat ex salute.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e178">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e188" xml:id="UUyf3f-d1e42726-Rd1e180">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e188">Sancta desideria dilatione crescunt. Si autem
+              dilatione deficiunt, desideria non fuerunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e193">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e203" xml:id="UUyf3f-d1e42726-Rd1e195">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e203">Augent spirituales deliciae desiderium in mente,
+              dum satiant; quia quanto magis earum sapor percipitur, eo amplius cognoscitur, quod
+              avidius ametur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e208">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e218" xml:id="UUyf3f-d1e42726-Rd1e210">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e218">Habere hic possunt et justi bona, nec tamen haec
+              in recompensatione recipere: quia dum meliora, id est, aeterna appetunt; eorum
+              judicio, quaelibet bona affuerint, cum sanctis desideriis aestuant, bona minime
+              videntur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e223">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e233" xml:id="UUyf3f-d1e42726-Rd1e225">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e233">Quod dicit Apostolus: <!--<i>-->Sine
+              intermissione orate<!--</i>-->, quid est aliud quam beatam vitam, quae nulla nisi
+              aeterna est, ab eo, qui illam dare solus potest, sine intermissione desiderare? Semper
+              hanc a Domino Deo desideremus, et semper oremus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e242">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e252" xml:id="UUyf3f-d1e42726-Rd1e244">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e252">Tanto illius, quod valde magnum est; quod nec
+              oculus vidit; quia non est color; nec auris audivit, quia non est sonus; nec in cor
+              hominis ascendit, quia cor hominis illud debet ascendere, sumus capaciores, quanto id,
+              quod fidelius credimus, et speramus firmius, et desideramus ardentius.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e258">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e268" xml:id="UUyf3f-d1e42726-Rd1e260">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e268">Diu orare cum vacat, id est, cum alia bonarum et
+              necessariarum actionum non impediunt officia, quamvis et in eis desiderio semper
+              orandum sit, non est improbum nec inutile. Neque enim ut nonnulli putant, hoc est
+              orare in multiloquio, si diutius oretur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e273">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e283" xml:id="UUyf3f-d1e42726-Rd1e275">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e283">Hierusalem futuram desideramus utique: et quanto
+              impatientius desideramus ipsam, tanto patientius sustinemus omnia propter
+              ipsam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e288">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e298" xml:id="UUyf3f-d1e42726-Rd1e290">Augustinus, <title>de Patientia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e298">Vis desideriorum facit tolerantiam laborum et
+              dolorum: et nemo, nisi pro eo quod delectat, sponte suscipit ferre quod
+              cruciat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e303">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e313" xml:id="UUyf3f-d1e42726-Rd1e305">Augustinus, <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e313">Nemo vitam aeternam incorruptibilem
+              immortalemque desiderat, nisi eum hujus vitae temporalis, corruptibilis mortalisque
+              poeniteat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e318">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e328" xml:id="UUyf3f-d1e42726-Rd1e320">Augustinus, in <title>Meditationibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e328">Quando venies, consolator meus quem expecto? o
+              si quando videbo gaudium meum, quod desidero! o si satiabor, cum apparuerit gloria
+              ejus, quam esurio! o si inebriabor ab ubertate domus tuae, ad quam suspiro!</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e333">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e343" xml:id="UUyf3f-d1e42726-Rd1e335">Augustinus, <title>de Verbis Domini</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e343">Servat tibi Deus quod non vult cito dare, ut et
+              tu discas magna magne desiderare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e349">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e359" xml:id="UUyf3f-d1e42726-Rd1e351">Joannes Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e359">Sicut ex otio desidia gignitur, ita ex actione
+              desiderium generatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e364">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e374" xml:id="UUyf3f-d1e42726-Rd1e366">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e374">Accepi, fateor, meritis potiora, sed prorsus
+              inferiora votis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e379">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e389" xml:id="UUyf3f-d1e42726-Rd1e381">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e389">Subtractio rei, quam amas, augmentatio desiderii
+              est; et quod ardentius desideras, cares aegrius.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e394">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e404" xml:id="UUyf3f-d1e42726-Rd1e396">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e404">Oportet ut sancti desiderii ardor praeveniat
+              faciem Dei ad omnem animam, ad quam est ipse venturus; qui omnem consumat rubiginem
+              vitiorum, et sic praeparet locum Domino. Et tunc scit anima quam juxta est Dominus,
+              cum se senserit igne illo succensam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e409">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e419" xml:id="UUyf3f-d1e42726-Rd1e411">Bernardus, <title>super Cantica</title>, super
+            illud</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e419">
+              <!--<i>-->Modicum, et non videbitis me<!--</i>-->: O modicum longum, pie Domine!
+              Modicum dicis, quod non videmus te. Salvum sit verbum Domini mei, longum est et multum
+              valde: verumtamen utrumque verum, et modicum meritis, et longum votis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e428">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e438" xml:id="UUyf3f-d1e42726-Rd1e430">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e438">Sicut fides ducit ad plenam cognitionem, sic
+              desiderium ad perfectam dilectionem. Sicut dicitur: <!--<i>-->Nisi credideritis, non
+              intelligetis<!--</i>-->; sic dici aeque non absurde potest: Si non desideraveritis,
+              non perfecte amabitis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e448">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e458" xml:id="UUyf3f-d1e42726-Rd1e450">Auctor <title>de Spiritu et anima</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e458">Anima, per odium mundi et sui, proficit in
+              amorem Dei et proximi; et per contemptum temporalium et inferiorum, crescit in
+              desiderium aeternorum et superiorum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42726-d1e463">
+          <ref corresp="#UUyf3f-d1e42726-Qd1e470" xml:id="UUyf3f-d1e42726-Rd1e465">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42726-Qd1e470">Desiderium est orare; nec unquam desinit orare,
+              qui non desinit amare. Charitas enim clamor est.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

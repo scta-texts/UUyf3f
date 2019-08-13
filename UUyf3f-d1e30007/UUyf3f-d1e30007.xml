@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De curiositate</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De curiositate</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e30007">
+        <head xml:id="UUyf3f-d1e30007-Hd1e99" type="question-title">De curiositate</head>
+        <p xml:id="UUyf3f-d1e30007-d1e102">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e112" xml:id="UUyf3f-d1e30007-Rd1e104">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e112">Dum incongrua dicentes audire non renuis, non
+              solum opinionem tuam, sed gravas et animam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30007-d1e117">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e127" xml:id="UUyf3f-d1e30007-Rd1e119">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e127">Grave curiositatis est vitium, quae dum
+              cujuslibet mentem ad investigandam vitam proximi exterius ducit, semper ei sua intima
+              abscondit, ut aliena sciens se nesciat; et omnis curiosi animus, quanto peritus fuerit
+              alieni meriti, tanto fiat ignarus sui.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30007-d1e132">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e142" xml:id="UUyf3f-d1e30007-Rd1e134">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e142">Sicut malus aer, assiduo flatu tractus, inficit
+              corpus; ita perversa locutio, assidue audita, infirmantium inficit animum, ut tabescat
+              delectatione pravi operis, assiduitate curiosi sermonis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30007-d1e147">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e157" xml:id="UUyf3f-d1e30007-Rd1e149">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e157">Fit recto retributionis examine, ut qui
+              exteriori oculo negligenter utitur, interiori cordis oculo non injuste
+              caecetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30007-d1e163">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e173" xml:id="UUyf3f-d1e30007-Rd1e165">Augustinus, in <title>Confessionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e173">Cum mihi accidit, ut me amplius cantus, quam res
+              quae cantatur, moveat, poenaliter me peccare confiteor; et tunc mallem non audire
+              cantantem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30007-d1e178">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e188" xml:id="UUyf3f-d1e30007-Rd1e180">Augustinus, in <title>Confessionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e188">Praeter concupiscentiam carnis, quae inest in
+              delectatione omnium sensuum, et voluptatem, cui servientes depereunt, qui longe se
+              faciunt a te, Domine, inest animae per eosdem sensus corporis quaedam, non se
+              oblectandi in carne, sed experiendi per carnem vana et curiosa cupiditas, nomine
+              cognitionis et scientiae palliata.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30007-d1e193">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e203" xml:id="UUyf3f-d1e30007-Rd1e195">Augustinus, in <title>Confessionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e203">Pulchras formas et varias, nitidos et amoenos
+              colores amant oculi. Non teneant haec animam meam; teneat eam Deus, qui fecit haec
+              bona valde; sed ipse est bonum meum, non haec.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30007-d1e208">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e218" xml:id="UUyf3f-d1e30007-Rd1e210">Augustinus, <title>de Vera Religione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e218">Miseri homines, quibus cognita vilescunt, et
+              novitatibus gaudent, libentius discunt, quam norunt, cum tamen cognitio sit finis
+              discendi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30007-d1e223">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e233" xml:id="UUyf3f-d1e30007-Rd1e225">Joannes Chrysostomus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e233">In theatro non solum vides res infaustas; sed et
+              audis spurciloquia, et ex ipso incessu meretricis et habitu molliris: ubi auditu, et
+              cantu diabolico laeduntur aures tuae, et undique percutitur mens tua.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30007-d1e238">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e248" xml:id="UUyf3f-d1e30007-Rd1e240">Isidorus, in <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e248">Noli quaerere, quid quisque dicat vel faciat:
+              evita curiositatem, omitte curam, quae ad causam tuam non pertineat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30007-d1e254">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e264" xml:id="UUyf3f-d1e30007-Rd1e256">Isidorus, in <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e264">Oculi, prima tela libidinis; visio, prima
+              concupiscentia mulieris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30007-d1e269">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e279" xml:id="UUyf3f-d1e30007-Rd1e271">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e279">Quidam curiosi delectantur audire quoslibet
+              sapientes, non ut veritatem ab eis quaerant, sed ut facundiam sermonis eorum
+              cognoscant, more poetarum, qui magis compositionem verborum, quam sententiam veritatis
+              sequuntur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30007-d1e284">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e294" xml:id="UUyf3f-d1e30007-Rd1e286">Bernardus, in <title>Meditationibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e294">Multi multa sciunt, et seipsos nesciunt; alios
+              inspiciunt, et seipsos deserunt; Deum quaerunt per ista exteriora, deserentes
+              interiora sua, quibus interior est Deus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30007-d1e299">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e309" xml:id="UUyf3f-d1e30007-Rd1e301">Bernardus, <title>de Duodecim Gradibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e309">O Dina! quid necesse est ut videas mulieres
+              alienigenas? qua necessitate? qua utilitate? an sola curiositate? Etsi otiose
+              videris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30007-d1e314">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e324" xml:id="UUyf3f-d1e30007-Rd1e316">Bernardus, <title>de Duodecim Gradibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e324">Serva commissum, cave prohibitum, ne perdas
+              concessum. Quid mulierem, tuam mortem, tam intente intueris? quid illuc tam crebro
+              vagantia lumina jacis?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30007-d1e329">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e339" xml:id="UUyf3f-d1e30007-Rd1e331">Bernardus, <title>de Duodecim Gradibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e339">Nisi mens minus se curiose servaret, tua
+              curiositas tempus vacuum non haberet. Si culpa non est, culpae tamen occasio est, et
+              indicium commissae, et causa committendae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30007-d1e345">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e355" xml:id="UUyf3f-d1e30007-Rd1e347">Bernardus, <title>de Duodecim Gradibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e355">Monachus, qui sui negligens alios curiose
+              circumspicit, dum quosdam suspicit superiores, quosdam despicit inferiores; et in
+              aliis quidem videt quod invidet, in aliis quod irridet: inde fit ut pro mobilitate
+              oculorum levigatus animus, nulla utique sui cura gravatus, modo per superbiam ad alta
+              se erigit, modo per invidiam in ima se demergit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30007-d1e360">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e370" xml:id="UUyf3f-d1e30007-Rd1e362">Bernardus, <title>de Duodecim Gradibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e370">Ex insolenti corporis motu recens animae morbus
+              deprehenditur; quandiu enim a sui circumspectione curiosus torpescit, incuriam sui
+              curiosam in alios facit. Qui enim seipsum ignorat, foras mittitur ut haedos
+              pascat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30007-d1e375">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e385" xml:id="UUyf3f-d1e30007-Rd1e377">Anselmus, de <title>Similitudinibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e385">Curiositas est studium perscrutandi ea, quae
+              scire nulla est utilitas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30007-d1e390">
+          <ref corresp="#UUyf3f-d1e30007-Qd1e400" xml:id="UUyf3f-d1e30007-Rd1e392">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30007-Qd1e400">Nil tam damnosum bonis moribus, quam in curioso
+              spectaculo residere; tunc enim per voluptatem facilius vitia surrepunt.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

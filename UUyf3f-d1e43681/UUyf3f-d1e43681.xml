@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De contemplatione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De contemplatione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e43681">
+        <head xml:id="UUyf3f-d1e43681-Hd1e99" type="question-title">De contemplatione</head>
+        <p xml:id="UUyf3f-d1e43681-d1e102">
+          <ref corresp="#UUyf3f-d1e43681-Qd1e112" xml:id="UUyf3f-d1e43681-Rd1e104">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43681-Qd1e112">Contemplativa vita est, charitatem quidem Dei et
+              proximi tota mente retinere, ab exteriori actione quiescere, soli desiderio Conditoris
+              inhaerere: ut nihil jam agere libeat, sed calcatis curis omnibus ad videndam faciem
+              sui Creatoris animus inardescat: ita ut jam noverit carnis corruptibilis pondus cum
+              moerore portare, totisque desideriis appetere illis hymnidicis angelorum choris
+              interesse, admisceri coelestibus civibus, de aeterna in conspectu Dei incorruptione
+              gaudere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43681-d1e117">
+          <ref corresp="#UUyf3f-d1e43681-Qd1e127" xml:id="UUyf3f-d1e43681-Rd1e119">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43681-Qd1e127">Primus contemplationis gradus est, ut mens se ad
+              se colligat; secundus, ut videat, qualis est collecta; tertius, ut super semetipsam
+              surgat, ac se contemplationi auctoris invisibilis intendendo subjiciat. Sed se ad se
+              nullo modo colligit, nisi prius didicerit terrenarum atque coelestium imaginum
+              phantasmata ab oculis mentis compescere, quidquid de visu, quidquid de auditu,
+              quidquid de odoratu, quidquid de tactu et gustu corporeo cogitationi ejus occurrerit,
+              respuere atque calcare; et se talem quaerat intus, qualis sine istis est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43681-d1e132">
+          <ref corresp="#UUyf3f-d1e43681-Qd1e142" xml:id="UUyf3f-d1e43681-Rd1e134">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43681-Qd1e142">Potest contemplatio diffiniri: Verus intuitus
+              animi de quacumque re, seu apprehensio veri non dubia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43681-d1e147">
+          <ref corresp="#UUyf3f-d1e43681-Qd1e157" xml:id="UUyf3f-d1e43681-Rd1e149">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43681-Qd1e157">Contemplationis species quatuor sunt. Prima et
+              maxima contemplatio est admiratio divinae majestatis. Haec requirit cor purgatum, ut a
+              vitiis liberum, atque exoneratum peccatis, facile ad superna levet, interdum quoque
+              per aliquas morulas stupore et ecstasi suspensum teneat admirantem. Secunda autem
+              necessaria est huic: est enim intuens judicia Dei, quo sane pavido aspectu dum
+              vehementius concutit intuentem, fugat vitia, fundat virtutes, initiat sapientiam,
+              humilitatem servat. Virtutum siquidem bonum quoddam et stabile fundamentum, humilitas
+              nempe, si nutet, illa virtutum aggregatio non nisi ruina est. Tertia contemplatio
+              occupatur vel potius otiatur circa memoriam beneficiorum; et ne dimittat ingratum,
+              sollicitat amantem ad amorem benefactoris. De talibus dicit Propheta:
+              <!--<i>-->Memoriam abundantiae suavitatis tuae eructabunt<!--</i>-->. Quarta, quae
+              retro sunt obliviscens in sola requiescit expectatione promissorum, quae cum sit
+              meditatio aeternitatis, siquidem quae promittuntur aeterna sunt, longanimitatem animi,
+              et perseverantiae dat vigorem. Puto, jam facile est quatuor nostra haec illis quatuor
+              Apostoli assignare: dum <!--<i>-->longitudinem<!--</i>--> comprehendit meditatio
+              promissorum; <!--<i>-->latitudinem<!--</i>-->, recordatio beneficiorum;
+              <!--<i>-->sublimitatem<!--</i>-->, contemplatio majestatis;
+              <!--<i>-->profundum<!--</i>-->, inspectio judiciorum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43681-d1e183">
+          <ref corresp="#UUyf3f-d1e43681-Qd1e193" xml:id="UUyf3f-d1e43681-Rd1e185">Bernardus, in <title>Meditationibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43681-Qd1e193">Viscus contemplationis est amor possessionum,
+              affectus cognationis, cupiditas honoris et voluptas carnis: quibus anima inviscatur et
+              irretitur, ut non pennis contemplationis per plateas supernae Sion discurrere
+              possit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43681-d1e198">
+          <ref corresp="#UUyf3f-d1e43681-Qd1e208" xml:id="UUyf3f-d1e43681-Rd1e200">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43681-Qd1e208">Excedente anima, et si non vita, certe vitae
+              sensu, necesse est etiam ut nec vitae tentatio sentiatur. <!--<i>-->Quis<!--</i>-->
+              ergo <!--<i>-->dabit mihi pennas sicut columbae, et volabo et requiescam?<!--</i>-->
+              Utinam hac morte ego frequenter cadam, ut evadam laqueos mortis!</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43681-d1e221">
+          <ref corresp="#UUyf3f-d1e43681-Qd1e231" xml:id="UUyf3f-d1e43681-Rd1e223">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43681-Qd1e231">Quantum potes, propera, quo diutius frui
+              emendato animo et composito possis: frueris quidem, dum emendas, etiam dum componis;
+              alia tamen illa voluptas est, quae percipitur a contemplatione mentis ab omni labe
+              purae et splendidae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e43681-d1e236">
+          <ref corresp="#UUyf3f-d1e43681-Qd1e246" xml:id="UUyf3f-d1e43681-Rd1e238">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e43681-Qd1e246">Subsilire in coelum ex angulo licet: exsurge
+              modo, et te quoque dignum Deo finges, et non auro, non argento: non potest ex hac
+              materia imago Deo exprimi similis.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

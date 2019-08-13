@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De Christo</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De Christo</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e424">
+        <head xml:id="UUyf3f-d1e424-Hd1e99" type="question-title">De Christo</head>
+        <p xml:id="UUyf3f-d1e424-d1e102">
+          <ref corresp="#UUyf3f-d1e424-Qd1e112" xml:id="UUyf3f-d1e424-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e112">Nuntiante Angelo, et adveniente Spiritu sancto,
+              mox Verbum in utero, et mox intra uterum Verbum caro: et manente incommutabili
+              essentia Verbi, quae ei est et cum Patre, et cum Spiritu sancto coaeterna, assumpsit
+              intra virginea viscera matris, ut impassibilis pati, et immortalis mori, et aeternus
+              ante saecula, temporalis possit esse in fine saeculorum: ut per ineffabile sacramentum
+              conceptu sancto, et partu inviolabili, secundum veritatem utriusque naturae, eadem
+              virgo et ancilla Domini esset, et mater.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e117">
+          <ref corresp="#UUyf3f-d1e424-Qd1e127" xml:id="UUyf3f-d1e424-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e127">Ad hoc Dominus apparuit in carne, ut humanam vitam
+              admonendo excitaret, exempla praebendo accenderet, moriendo redimeret, resurgendo
+              repararet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e132">
+          <ref corresp="#UUyf3f-d1e424-Qd1e142" xml:id="UUyf3f-d1e424-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e142">In altitudine sua divinitas a nobis, utpote
+              parvulis, apprehendi non potuit; sed stravit se hominibus per humanitatem, et quasi in
+              jacentem ascendimus; surrexit, et levati sumus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e147">
+          <ref corresp="#UUyf3f-d1e424-Qd1e157" xml:id="UUyf3f-d1e424-Rd1e149">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e157">Qui nos existere fecit ex nihilo, etiam sine sua
+              morte revocare nos potuit a diabolica passione. Sed ut quanta esset virtus
+              compassionis ostenderet, fieri pro nobis dignatus est, quod nos esse voluit; ut in
+              semetipso temporaliter mortem susciperet, quam a nobis in perpetuum fugaret.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e163">
+          <ref corresp="#UUyf3f-d1e424-Qd1e173" xml:id="UUyf3f-d1e424-Rd1e165">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e173">Mos medicinae est, ut aliquando similia similibus,
+              aliquando contraria contrariis curet. Nam saepe calida calidis, et frigida frigidis;
+              saepe etiam calida frigidis, et frigida calidis sanare consuevit. Veniens ergo ad nos
+              desuper medicus noster, et tantis nos inveniens languoribus oppressos, quiddam nobis
+              simile, et quiddam nobis contrarium apposuit. Ad homines quippe homo venit, sed ad
+              peccatores justus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e178">
+          <ref corresp="#UUyf3f-d1e424-Qd1e188" xml:id="UUyf3f-d1e424-Rd1e180">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e188">Is, qui propter nos minor angelis sibi extitit,
+              aequales nos angelis virtute suae minorationis fecit. Unde et moriendo, docuit mortem
+              non metui; resurgendo, docuit de vita confidi; ascendendo, de coelestis patriae
+              hereditate gloriari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e193">
+          <ref corresp="#UUyf3f-d1e424-Qd1e203" xml:id="UUyf3f-d1e424-Rd1e195">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e203">Ut humanum genus a suo languore sanaret, tunc
+              magna apparuit potentia medici, cum languor crevit aegroti.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e208">
+          <ref corresp="#UUyf3f-d1e424-Qd1e218" xml:id="UUyf3f-d1e424-Rd1e210">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e218">Ad hoc unigenitus Dei filius formam infirmitatis
+              nostrae suscepit; ad hoc invisibilis non solum visibilis, sed etiam despectus
+              apparuit; ad hoc contumeliarum ludibria, illusionum probra, passionum tormenta
+              toleravit, ut superbum non esse hominem doceret humilis Deus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e223">
+          <ref corresp="#UUyf3f-d1e424-Qd1e233" xml:id="UUyf3f-d1e424-Rd1e225">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e233">Descendens ad inferos Christus solos illos per
+              suam gratiam liberavit, qui eum et venturum esse crediderant, et praecepta ejus
+              vivendo tenuerant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e238">
+          <ref corresp="#UUyf3f-d1e424-Qd1e248" xml:id="UUyf3f-d1e424-Rd1e240">Gregorius, in <title>Homilia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e248">Deus, qui in utero virginis incarnatus, in mundum
+              sine peccato venerat, nihil contradictionis in semetipso tolerabat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e254">
+          <ref corresp="#UUyf3f-d1e424-Qd1e264" xml:id="UUyf3f-d1e424-Rd1e256">Joannes Chrysostomus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e264">Christus viator factus est, ut te sine labore
+              faceret; ex muliere natus est, ut praevaricationem Evae deleret; homo appellatus est,
+              ut te deum vocaret; filius hominis dictus est, ut te in filium adoptaret Dei.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e269">
+          <ref corresp="#UUyf3f-d1e424-Qd1e279" xml:id="UUyf3f-d1e424-Rd1e271">Joannes Chrysostomus, in <title>sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e279">O misericordia Christi, о Judae dementia! Ille eum
+              triginta denariis paciscebatur, ut venderet; et Christus ei sanguinem, quem vendidit,
+              offerebat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e284">
+          <ref corresp="#UUyf3f-d1e424-Qd1e294" xml:id="UUyf3f-d1e424-Rd1e286">Joannes Chrysostomus, in <title>sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e294">Non sub tecto, sed sub coelo Christus immolabatur,
+              ut universus аеr in excelso immolatae ovis odore a tetro mundaretur. Sed et terra
+              simile beneficium sentiebat, decursi de latere sanguinis stillatione mundata.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e299">
+          <ref corresp="#UUyf3f-d1e424-Qd1e309" xml:id="UUyf3f-d1e424-Rd1e301">Ambrosius, <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e309">Omnia Christus est nobis. Si vulnus curare
+              desideras, medicus est; si febribus aestuas, fons est; si gravaris iniquitate,
+              justitia est; si auxilio indiges, virtus est; si mortem times, vita est; si coelum
+              desideras, via est; si tenebras fugis, lux est; si cibum quaeris, alimentum est.
+              <!--<i>-->Gustate<!--</i>--> igitur, <!--<i>-->et videte, quoniam Dominus suavis
+              est<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e322">
+          <ref corresp="#UUyf3f-d1e424-Qd1e332" xml:id="UUyf3f-d1e424-Rd1e324">Ambrosius, <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e332">Me illius infantiae Christi vagientis abluunt
+              fletus: illae lacrymae mea delicta laverunt. Plus igitur, Domine Jesu, debeo injuriis
+              tuis, quibus redemptus sum, quam operibus tuis, quibus creatus sum. Non prodesset
+              nasci, nisi redimi profuissset.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e337">
+          <ref corresp="#UUyf3f-d1e424-Qd1e347" xml:id="UUyf3f-d1e424-Rd1e339">Ambrosius, <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e347">Non solum fidem firmat, sed et devotionem acuit,
+              quod Christus vulnera suscepta pro nobis coelo inferre voluit, abolere noluit, ut Deo
+              Patri nostrae pretia libertatis ostenderet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e353">
+          <ref corresp="#UUyf3f-d1e424-Qd1e363" xml:id="UUyf3f-d1e424-Rd1e355">Augustinus, in <title>Meditationibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e363">Quid est Jesus, nisi Salvator? Ergo propter
+              temetipsum esto mihi Jesus. Noli, Domine, noli sic attendere malum meum, ut
+              obliviscaris bonum tuum. О bone Domine, si ego commisi unde damnare potes, tu non
+              amisisti unde salvare soles.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e368">
+          <ref corresp="#UUyf3f-d1e424-Qd1e378" xml:id="UUyf3f-d1e424-Rd1e370">Augustinus, <title>de Vera Religione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e378">Nullum peccatum committi potest, nisi cum
+              appetuntur ea quae Christus comtempsit, aut fugiuntur quae ille sustinuit. Tota itaque
+              vita ejus in terris per hominem, quem suscipere dignatus est, disciplina morum
+              fuit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e383">
+          <ref corresp="#UUyf3f-d1e424-Qd1e393" xml:id="UUyf3f-d1e424-Rd1e385">Augustinus, <title>contra Julianum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e393">Caro Christi mortalitatem de mortalitate materni
+              corporis traxit, quia mortale corpus ejus invenit; contagium vero peccati originalis
+              non contraxit, quia concumbentis concupiscentiam non invenit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e398">
+          <ref corresp="#UUyf3f-d1e424-Qd1e408" xml:id="UUyf3f-d1e424-Rd1e400">Augustinus, <title>contra Julianum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e408">Christus in carne quidem, et de carne; non tamen
+              carnaliter, sed spiritualiter natus est. Natus est enim de Spiritu sancto, ex virgine
+              Maria: de Spiritu sancto, ut non esset in illo caro peccati; ex virgine autem Maria,
+              ut esset in eo similitudo carnis peccati.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e413">
+          <ref corresp="#UUyf3f-d1e424-Qd1e423" xml:id="UUyf3f-d1e424-Rd1e415">Augustinus, <title>Contra quinque haereses</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e423">Fusus est sanguis medici, et factum est
+              medicamentum frenetici.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e428">
+          <ref corresp="#UUyf3f-d1e424-Qd1e438" xml:id="UUyf3f-d1e424-Rd1e430">Augustinus, in libro <title>de Pastoribus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e438">Ab omnibus tentationibus te eruet Dominus, si ab
+              illo non recesserit cor tuum. Nam ad confortandum cor tuum, venit ille pati, venit
+              ille mori, venit sputis illini, venit spinis coronari, venit opprobria sufferre, venit
+              postremo ligno configi. Omnia haec ille pro te; tu nihil pro illo, sed pro te.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e444">
+          <ref corresp="#UUyf3f-d1e424-Qd1e454" xml:id="UUyf3f-d1e424-Rd1e446">Augustinus, <title>de Catechizandis rudibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e454">Omnia bona terrena contempsit homo factus Dominus
+              Jesus, ut contemnenda monstraret; et omnia terrena mala sustinuit, quae sustinenda
+              praecepit, ut neque in illis quaereretur felicitas, neque in istis infelicitas
+              timeretur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e459">
+          <ref corresp="#UUyf3f-d1e424-Qd1e469" xml:id="UUyf3f-d1e424-Rd1e461">Augustinus, <title>de Praedestinatione divina</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e469">Venit Filius Dei quaerere, quod perierat; sanare,
+              quod aegrotabat; erigere, quod jacebat: potestatem habens dimittere peccata, quod non
+              debebat, donare; quod ei debebatur, ignoscere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e474">
+          <ref corresp="#UUyf3f-d1e424-Qd1e484" xml:id="UUyf3f-d1e424-Rd1e476">Augustinus, de <title>Ordine disciplinae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e484">Quod hoc nostri generis corpus tantus propter nos
+              Deus assumere, atque agere dignatus est, quanto videtur vilius, tanto est clementia
+              plenius, et a quadam ingeniosorum superbia longe lateque remotius.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e489">
+          <ref corresp="#UUyf3f-d1e424-Qd1e499" xml:id="UUyf3f-d1e424-Rd1e491">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e499">Ipsa virtus per inviolata matris virginea viscera
+              membra infantis eduxit, quae postea per ostia clausa membra juvenis
+              introduxit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e504">
+          <ref corresp="#UUyf3f-d1e424-Qd1e514" xml:id="UUyf3f-d1e424-Rd1e506">Augustinus, <title>de verbis Domini</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e514">Multos filios Dei unicus filius Dei emit sibi
+              fratres sanguine suo, probavit reprobatus, redemit venditus, honorificavit injuriatus,
+              vivificavit occisus. Dubitas quod dabit tibi bona sua, qui non dedignatus est
+              suscipere mala tua?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e519">
+          <ref corresp="#UUyf3f-d1e424-Qd1e526" xml:id="UUyf3f-d1e424-Rd1e521">Augustinus, in sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e526">Expalmatur, qui est vera palma victoriae; spinis
+              coronatur, qui spinas peccatorum venit confringere; ligatur, qui solvit compeditos;
+              ligno suspenditur, qui erigit elisos; aceto potatur fons vitae; disciplina caeditur
+              magister aliorum; salus vulneratur; vita moritur; occidit ad tempus vitam mors, ut in
+              perpetua vita occideretur mors.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e532">
+          <ref corresp="#UUyf3f-d1e424-Qd1e542" xml:id="UUyf3f-d1e424-Rd1e534">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e542">Christus, sicut peccatum, quod poena dignum est,
+              non admisit, ita poenam peccati nostri suscepit: ut per indebitam poenam suam, debitam
+              aboleret culpam nostram, ut per hoc amitteret diabolus quos reos tenebat, dum unum
+              interfecerat, qui nihil peccati admiserat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e547">
+          <ref corresp="#UUyf3f-d1e424-Qd1e557" xml:id="UUyf3f-d1e424-Rd1e549">Rabanus, in libro <title>de Laude Crucis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e557">Passio Christi coelum sustentat, mundum regit,
+              tartarum perfodit. In ea confirmantur angeli, redimuntur populi, conteruntur inimici,
+              stabiliuntur subsistentia, animantur viventia, conservantur sentientia, illustrantur
+              intelligentia. Inde timor ductus a poena fideles liberat; tristitia salubris
+              poenitentes a peccatis mundat; concupiscentia boni virtutum fructus germinat; gaudium
+              vitae spe confidentes laetificat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e562">
+          <ref corresp="#UUyf3f-d1e424-Qd1e572" xml:id="UUyf3f-d1e424-Rd1e564">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e572">In carne Christus et per carnem potenter ас
+              patenter operatus est mira, locutus salubria, passus indigna. Per quae evidenter
+              ostendit, quia ipse sit, qui potenter sed invisibiliter omnia condidisset, sapienter
+              regeret, benigne protegeret.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e577">
+          <ref corresp="#UUyf3f-d1e424-Qd1e587" xml:id="UUyf3f-d1e424-Rd1e579">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e587">Frustra hujus saeculi sapientes de quatuor
+              virtutibus cardinalibus tam multa disputaverunt, quas tamen apprehendere omnino
+              nequiverunt, cum illum nescierunt, qui factus a Deo est nobis sapientia, docens
+              prudentiam; et justitia, delicta donans; et sanctificatio, in exemplum temperantiae,
+              continenter vivens; et redemptio, in exemplum patientiae fortiter moriens.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e592">
+          <ref corresp="#UUyf3f-d1e424-Qd1e602" xml:id="UUyf3f-d1e424-Rd1e594">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e602">Utrumque mihi es, Domine Jesu, et speculum
+              patiendi, et praemium patientis: utrumque fortiter provocat ac vehementer
+              accendit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e607">
+          <ref corresp="#UUyf3f-d1e424-Qd1e617" xml:id="UUyf3f-d1e424-Rd1e609">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e617">
+              <!--<i>-->An ignoras quia benignitas Dei ad poenitentiam te adducit<!--</i>-->? Ad hoc
+              siquidem diu suspendit sententiam ultionis a contemnente, ut quandoque exhibeat
+              remissionis gratiam in poenitente.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e627">
+          <ref corresp="#UUyf3f-d1e424-Qd1e637" xml:id="UUyf3f-d1e424-Rd1e629">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e637">Christus in carnis assumptione condescendit mihi;
+              in culpae vitatione consuluit sibi; in mortis susceptione satisfecit Patri. Amicus
+              dulcis, consiliarius prudens, adjutor fortis. Huic securus me credo, qui salvare me
+              velit, noverit, atque possit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e642">
+          <ref corresp="#UUyf3f-d1e424-Qd1e652" xml:id="UUyf3f-d1e424-Rd1e644">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e652">Jesus mel est in ore, melos in aure, jubilus in
+              corde.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e657">
+          <ref corresp="#UUyf3f-d1e424-Qd1e667" xml:id="UUyf3f-d1e424-Rd1e659">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e667">Est inter oleum et nomen
+              <!--<i>-->Jesus<!--</i>--> similitudo, in quibusdam qualitatibus olei, quod lucet,
+              quod pascit, quod ungit: fovet ignem, nutrit carnem, lenit dolorem: lux, cibus,
+              medicina. Vide idem de hoc nomine <!--<i>-->Jesu<!--</i>-->: lucet praedicatum, pascit
+              recogitatum, lenit et ungit invocatum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e680">
+          <ref corresp="#UUyf3f-d1e424-Qd1e690" xml:id="UUyf3f-d1e424-Rd1e682">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e690">Ego omnino fidenter, quod ex me mihi deest, usurpo
+              mihi ex visceribus Domini; quoniam misericordia affluunt, nec desunt foramina per quae
+              effluant. Foderunt manus ejus et pedes, latusque lancea perforaverunt, et per has
+              rimas licet mihi sugere mel de petra, oleumque de saxo durissimo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e695">
+          <ref corresp="#UUyf3f-d1e424-Qd1e705" xml:id="UUyf3f-d1e424-Rd1e697">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e705">Ego, fratres, ab ineunte mea conversione pro
+              acervo meritorum, quae mihi deesse sciebam, mihi fasciculum hunc colligare, et inter
+              ubera mea collocare curavi, collectum ex omnibus anxietatibus et amaritudinibus Domini
+              mei: primum scilicet infantilium illatarum necessitatum; deinde laborum quos pertulit
+              in praedicando, fatigationum in discurrendo, vigiliarum in orando, tentationum in
+              jejunando, lacrymarum in compatiendo, insidiarum in colloquendo; postremo periculorum
+              in falsis fratribus, convitiorum, sputorum, colaphorum, subsannationum,
+              exprobrationum, clavorum, horumque similium.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e710">
+          <ref corresp="#UUyf3f-d1e424-Qd1e720" xml:id="UUyf3f-d1e424-Rd1e712">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e720">
+              <!--<i>-->Petra refugium herinaciis<!--</i>-->, et revera refugium. Ubi enim est tuta
+              firmaque requies infirmis, nisi in vulneribus Christi Salvatoris? Tanto illic securior
+              habito, quanto ille potentior ad salvandum. Fremit mundus, premit corpus, insidiatur
+              diabolus: non cado; fundatus enim sum supra firmam petram.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e730">
+          <ref corresp="#UUyf3f-d1e424-Qd1e740" xml:id="UUyf3f-d1e424-Rd1e732">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e740">
+              <!--<i>-->Apud Dominum misericordia, et copiosa apud eum redemptio<!--</i>-->; prorsus
+              copiosa, quia non gutta sanguinis, sed unda largiter per quinque partes corporis
+              emanavit. <!--<i>-->Quid tibi debuit facere, et non fecit?<!--</i>--> illuminavit
+              caecum, solvit mutum, reduxit erroneum, reconciliavit reum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e753">
+          <ref corresp="#UUyf3f-d1e424-Qd1e763" xml:id="UUyf3f-d1e424-Rd1e755">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e763">Omnino propter mansuetudinem, quae in te
+              praedicatur, currimus post te, Domine Jesu, audientes quod non spernas pauperem,
+              peccatorem non horreas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e768">
+          <ref corresp="#UUyf3f-d1e424-Qd1e778" xml:id="UUyf3f-d1e424-Rd1e770">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e778">Vult benignus dux devoti militis vultum et oculos
+              in sua sustolli vulnera, ut illius ex hoc animum erigat, et exemplo sui reddat ad
+              tolerandum fortiorem: enimvero non sentiet sua, dum illius vulnera intuebitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e783">
+          <ref corresp="#UUyf3f-d1e424-Qd1e793" xml:id="UUyf3f-d1e424-Rd1e785">Bernardus, in <title>Floribus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e793">
+              <!--<i>-->Sitio<!--</i>-->, inquit Dominus. Domine, quid sitis? ergone te plus cruciat
+              sitis, quam crux? De cruce siles, et de siti clamas: <!--<i>-->Sitio<!--</i>-->. Quid?
+              vestram fidem, vestram salutem, vestrum gaudium: plus animarum vestrarum, quam
+              corporis mei cruciatus me tenet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e806">
+          <ref corresp="#UUyf3f-d1e424-Qd1e816" xml:id="UUyf3f-d1e424-Rd1e808">Bernardus, in <title>Floribus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e816">Quid tibi respondeam, Domine? quid loquar, aut
+              quid retribuam? Fecisti mihi de corpore tuo speculum animae meae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e821">
+          <ref corresp="#UUyf3f-d1e424-Qd1e828" xml:id="UUyf3f-d1e424-Rd1e823">Bernardus, in sermonibus</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e828">Exinanivit Christus semetipsum, formam servi
+              accipiens. Filius erat, et factus est tanquam servus. Nec solam formam servi accepit,
+              ut subesset; sed etiam mali servi, ut vapularet; et servi peccati, ut poenam solveret,
+              cum culpam non haberet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e834">
+          <ref corresp="#UUyf3f-d1e424-Qd1e841" xml:id="UUyf3f-d1e424-Rd1e836">Bernardus, in sermonibus</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e841">In passione Domini tria specialiter convenit
+              intueri: opus, modum, causam. Nam in opere quidem patientia; in modo humilitas; in
+              causa charitas commendatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e846">
+          <ref corresp="#UUyf3f-d1e424-Qd1e853" xml:id="UUyf3f-d1e424-Rd1e848">Bernardus, in sermonibus</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e853">Quam dulciter, Domine Jesu Christe, cum hominibus
+              conversatus es! quam abundanter multa et magna bona hominibus largiri dignatus es!
+              quam fortiter tam indigna, quam aspera, pro hominibus passus es: ita ut liceat sugere
+              mel de petra, oleumque de saxo durissimo: duro ad verba, duriore ad verbera, durissimo
+              ad horrenda crucis supplicia!</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e858">
+          <ref corresp="#UUyf3f-d1e424-Qd1e865" xml:id="UUyf3f-d1e424-Rd1e860">Bernardus, in sermonibus</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e865">Vide nunc opera Domini, quae posuit prodigia super
+              terram, flagellis caesus, spinis coronatus, clavis confossus, affixus patibulo,
+              opprobriis saturatus; omnium tamen dolorum immemor, ait: <title>Pater, ignosce
+                illis</title>.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e873">
+          <ref corresp="#UUyf3f-d1e424-Qd1e880" xml:id="UUyf3f-d1e424-Rd1e875">Bernardus, in sermonibus</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e880">Videns Deus homines omnino carnales effectos,
+              tantum eis dulcedinis in carne exhibuit, ut durissimi cordis sit quisquis eum toto
+              affectu non diligit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e885">
+          <ref corresp="#UUyf3f-d1e424-Qd1e892" xml:id="UUyf3f-d1e424-Rd1e887">Bernardus, in sermonibus</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e892">An trepidas ad Christum accedere? Frater tuus est,
+              caro tua, per omnia tentatus absque peccato, ut misericors fieret.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e897">
+          <ref corresp="#UUyf3f-d1e424-Qd1e904" xml:id="UUyf3f-d1e424-Rd1e899">Bernardus, in sermonibus</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e904">Quis cogitare suffecerit qualiter Dominus
+              praevenerit nos, venerit ad nos, subvenerit nobis? Singularis illa majestas voluit
+              mori, ut viveremus; servire, ut regnaremus; exulare, ut repatriaremur; et usque ad
+              servilissima opera inclinata est, ut constitueret nos super omnia opera sua.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e910">
+          <ref corresp="#UUyf3f-d1e424-Qd1e920" xml:id="UUyf3f-d1e424-Rd1e912">Anselmus, in libro <title>Cur Deus homo</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e920">Quatuor modis potest Deus facere hominem: aut de
+              viro et femina, sicut assiduus demonstrat usus; aut nec de viro nec de femina, sicut
+              creavit Adam; aut de viro sine femina, sicut fecit Evam; aut de femina sine viro, quod
+              nondum fecit. Ut igitur hunc quoque modum probet suae subjacere potestati, et hoc ad
+              ipsum opus dilatum esse nihil convenientius, quam ut de femina sine viro assumeret
+              humanitatem. Utrum autem de virgine, aut de non virgine dignius hoc fiat, non est opus
+              disputare; sed sine omni dubitatione asserendum est, quia de virgine nasci Deum
+              oportebat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e925">
+          <ref corresp="#UUyf3f-d1e424-Qd1e935" xml:id="UUyf3f-d1e424-Rd1e927">Bernardus, <title>in Adventu Domini</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e935">Si personam advenientis intueor, non capio
+              excellentiam majestatis. Si attendam ad quos venerit, dignitatem magnitudinis
+              expavesco.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e940">
+          <ref corresp="#UUyf3f-d1e424-Qd1e950" xml:id="UUyf3f-d1e424-Rd1e942">Bernardus, <title>in Adventu Domini</title> et
+            sequitur</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e950">Venit universitatis Creator et Dominus ad homines;
+              venit medicus ad aegrotos, redemptor ad venditos, ad errantes via, ad mortuos vita;
+              venit non perdere, sed salvare; solvere, non ligare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e955">
+          <ref corresp="#UUyf3f-d1e424-Qd1e965" xml:id="UUyf3f-d1e424-Rd1e957">Bernardus, <title>in Adventu Domini</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e965">Priusquam appareret Dei humanitas, latebat ejus
+              benignitas. Apparuit enim ejus potentia in rerum creatione; apparebat autem sapientia
+              in earum gubernatione: sed benignitas misericordiae maxime apparuit in humanitate.
+              Apparuit gratia Dei Salvatoris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e424-d1e970">
+          <ref corresp="#UUyf3f-d1e424-Qd1e977" xml:id="UUyf3f-d1e424-Rd1e972">Nota</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e424-Qd1e977">Quantumcumque te dejeceris, humilior Christo non
+              eris. Esto quod pedibus incedas, fusca tunica vestiaris, pauperibus aequeris, cellam
+              pauperum dignanter introeas: sis caecorum oculus, pes claudorum, manus debilium, aquam
+              ipse comportes, ligna conscindas, focum extrahas: ubi vinculum? ubi sputum? ubi
+              alapae? ubi flagellum? ubi patibulum? ubi mors?</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

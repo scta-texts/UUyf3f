@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De beneficiatis</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De beneficiatis</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e6337">
+        <head xml:id="UUyf3f-d1e6337-Hd1e99" type="question-title">De beneficiatis</head>
+        <p xml:id="UUyf3f-d1e6337-d1e102">
+          <ref corresp="#UUyf3f-d1e6337-Qd1e112" xml:id="UUyf3f-d1e6337-Rd1e104">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6337-Qd1e112">Sicut Ecclesia proprias res amittere non debet,
+              ita eam rapacitatis ardore alienas invadere non oportet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6337-d1e117">
+          <ref corresp="#UUyf3f-d1e6337-Qd1e127" xml:id="UUyf3f-d1e6337-Rd1e119">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6337-Qd1e127">Laudabile studium, et conveniens est clerico et
+              religioso, terrenis gratam Deo pacem praeferre compendiis, et ex rebus transitoriis
+              mansura semper charitatis lucra mercari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6337-d1e132">
+          <ref corresp="#UUyf3f-d1e6337-Qd1e142" xml:id="UUyf3f-d1e6337-Rd1e134">Gregorius, in <title>Registro</title>, loquens de
+            illo verbo Joannis</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6337-Qd1e142">
+              <!--<i>-->Amen, amen dico vobis, quaeritis me, non quia vidistis signa, sed quia ex
+              panibus meis manducastis, et saturati estis<!--</i>-->: Per eorum personam Dominus
+              illos intra sanctam Ecclesiam detestatur, qui per sacros ordines ad Dominum
+              propinquantes non in eisdem ordinibus virtutum merita, sed subsidia vitae praesentis
+              exquirunt; nес cogitant quid bene vivendo imitari debeant, sed quae concupiscendo
+              compendia sortiantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6337-d1e151">
+          <ref corresp="#UUyf3f-d1e6337-Qd1e161" xml:id="UUyf3f-d1e6337-Rd1e153">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6337-Qd1e161">Si privatim quae nobis sufficiant possidemus, non
+              sunt illa nostra, sed pauperum, quorum procurationem quodam modo gerimus, non
+              proprietatem nobis usurpatione damnabili vendicamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6337-d1e167">
+          <ref corresp="#UUyf3f-d1e6337-Qd1e177" xml:id="UUyf3f-d1e6337-Rd1e169">Augustinus, <title>de Verbis Domini</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6337-Qd1e177">Clericus si non contentus stipendiis fuerit, quae
+              de altario, Domino jubente, consequitur, sed exercet mercimonia, intercessiones
+              vendit, munera libenter amplectitur, hic negotiator magis potest videri, quam
+              clericus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6337-d1e182">
+          <ref corresp="#UUyf3f-d1e6337-Qd1e192" xml:id="UUyf3f-d1e6337-Rd1e184">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6337-Qd1e192">Timeant clerici, timeant ministri Ecclesiarum
+              Dei; qui in terris sanctorum, quas possident, tam iniqua gerunt, ut stipendiis, quae
+              sufficere debeant, minime contenti, superflua, quibus egeni sustentandi forent, impie
+              sacrilegeque sibi retinent, et in usus suae superbiae atque luxuriae victum pauperum
+              consumere non verentur: duplici profecto iniquitate peccantes, eo quod et aliena
+              diripiunt, et sacris, in suis vanitatibus et turpitudinibus, abutuntur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6337-d1e197">
+          <ref corresp="#UUyf3f-d1e6337-Qd1e207" xml:id="UUyf3f-d1e6337-Rd1e199">Idem (Bernardus), in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6337-Qd1e207">Honores et dignitates ecclesiasticas non ignoro
+              deberi his qui eas digne et secundum Deum administrare, et velint, et possint.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6337-d1e212">
+          <ref corresp="#UUyf3f-d1e6337-Qd1e222" xml:id="UUyf3f-d1e6337-Rd1e214">Bernardus, in <title>Epistola</title> et infra</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6337-Qd1e222">Nec cuiquam, vel adulto, plures in pluribus
+              ecclesiis habere licet, nisi dispensatorie quidem ob magnam vel Ecclesiae
+              necessitatem, vel personae utilitatem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6337-d1e227">
+          <ref corresp="#UUyf3f-d1e6337-Qd1e237" xml:id="UUyf3f-d1e6337-Rd1e229">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6337-Qd1e237">Quidquid praeter necessarium victum, ac simplicem
+              vestitum de altario retines, tuum non est, rapina est, sacrilegium est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6337-d1e242">
+          <ref corresp="#UUyf3f-d1e6337-Qd1e252" xml:id="UUyf3f-d1e6337-Rd1e244">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6337-Qd1e252">Conceditur tibi, ut si bene deservis, de altario
+              vivas; non autem ut de altario luxurieris, ut de altario superbias, ut inde compares
+              tibi fraena aurea, sellas depictas, calcaria deaurata, varia griseaque
+              pellicea.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6337-d1e258">
+          <ref corresp="#UUyf3f-d1e6337-Qd1e268" xml:id="UUyf3f-d1e6337-Rd1e260">Bernardus, <title>de Contemptu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6337-Qd1e268">Vae, vae tibi, clerice, mors in olla, mors in
+              ollis carnium, mors in deliciis est: non modo quia secus introitum delectationis
+              posita esse cognoscitur; sed ob id maxime, quia populi peccata constat esse quae
+              comedis, ас si propria tibi minus sufficere viderentur. Sollicitus esto, tanquam
+              redditurus rationem, dignos pro eis gemitus fundere, dignos agere poenitentiae
+              fructus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6337-d1e273">
+          <ref corresp="#UUyf3f-d1e6337-Qd1e283" xml:id="UUyf3f-d1e6337-Rd1e275">Bernardus, <title>de Contemptu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6337-Qd1e283">Quando poterit necessariis esse contentus, qui eo
+              animo introivit, ut stipendia clerici in usus voluptatis, curiositatis et vanitatis
+              congreget, servet, et expendat? <!--<i>-->Triplex<!--</i>--> est ergo
+              <!--<i>-->funiculus<!--</i>-->, qui <!--<i>-->difficile rumpitur<!--</i>-->, hominem
+              miserum in perniciem trahit, qui impure intrat, indigne ministrat, et ipso fructu
+              abutitur temporali.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6337-d1e300">
+          <ref corresp="#UUyf3f-d1e6337-Qd1e310" xml:id="UUyf3f-d1e6337-Rd1e302">Bernardus, <title>de Contemptu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6337-Qd1e310">Non ordinavit Deus his, qui Evangelio serviunt,
+              de Evangelio quaerere delicias, vel ornatum; sed vivere, ut ait Paulus, ex eo, ut
+              videlicet sint contenti alimenta corporis, non gulae irritamenta, vel incentiva
+              libidinis habere; et quibus tegantur, non quibus ornentur, accipere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6337-d1e315">
+          <ref corresp="#UUyf3f-d1e6337-Qd1e325" xml:id="UUyf3f-d1e6337-Rd1e317">Bernardus, <title>de Contemptu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6337-Qd1e325">
+              <!--<i>-->De altario<!--</i>-->, inquit Apostolus, <!--<i>-->vivat<!--</i>-->, non
+              superbiat, non luxurietur: denique non ditetur, non contra sancti cujusquam plane
+              dignam omni acceptione sententiam ex clericatu ditior fiat. Non sibi de bonis
+              Ecclesiae ampla palatia fabricet, mutans quadrata rotundis; nec loculos inde
+              congreget, nec in vanitate, aut superfluitate dispergat; non extollat de facultatibus
+              Ecclesiae consanguineos, aut neptes, ne filias dixerim.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

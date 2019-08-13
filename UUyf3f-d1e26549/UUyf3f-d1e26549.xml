@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De beatitudine</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De beatitudine</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e26549">
+        <head xml:id="UUyf3f-d1e26549-Hd1e99" type="question-title">De beatitudine</head>
+        <p xml:id="UUyf3f-d1e26549-d1e102">
+          <ref corresp="#UUyf3f-d1e26549-Qd1e112" xml:id="UUyf3f-d1e26549-Rd1e104">Augustinus,
+              <title>de Moribus Ecclesiae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26549-Qd1e112">Beatus, quantum existimo, neque illе dici
+              potest, qui non habet quod amat, qualecumque sit; neque qui habet quod amat, si noxium
+              sit; neque qui non amat quod habet, etiamsi optimum sit. Nam et qui appetit, et
+              adipisci non potest, cruciatur; et qui adeptus est quod appetendum non esset,
+              fallitur; et qui non appetit quod adipiscendum esset, aegrotat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26549-d1e117">
+          <ref corresp="#UUyf3f-d1e26549-Qd1e127" xml:id="UUyf3f-d1e26549-Rd1e119">Augustinus,
+              <title>de Libero Arbitrio</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26549-Qd1e127">Sicut tota vita corporis anima est, sic beata
+              vita animae Deus est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26549-d1e132">
+          <ref corresp="#UUyf3f-d1e26549-Qd1e142" xml:id="UUyf3f-d1e26549-Rd1e134">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26549-Qd1e142">Quia sine fide impossibile est Deo placere, vere
+              beatus est, qui et recte credendo bene vivit, et bene vivendo fidem rectam
+              custodit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26549-d1e147">
+          <ref corresp="#UUyf3f-d1e26549-Qd1e157" xml:id="UUyf3f-d1e26549-Rd1e149">Isidorus, in
+              <title>Etymologiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26549-Qd1e157">Beatus dicitur, quasi <!--<i>-->bene
+              auctus<!--</i>-->, scilicet ab habendo quod vellet, et non patiendo quod nollet. Ille
+              autem vere beatus est, qui et habet omnia quae vult bona, et nihil vult male: ex his
+              enim duobus beatus homo efficitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26549-d1e167">
+          <ref corresp="#UUyf3f-d1e26549-Qd1e177" xml:id="UUyf3f-d1e26549-Rd1e169">Ambrosius,
+              <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26549-Qd1e177">Beatus pauper qui clamavit, et Dominus exaudivit
+              eum: pauper a crimine, pauper a vitiis, pauper in quo princeps mundi hujus nihil
+              invenit, pauper illius pauperis aemulus, <!--<i>-->qui cum dives esset, propter nos
+              pauper factus est<!--</i>-->. Prima ergo beatitudo est, cum deposuero omne peccatum,
+              et exuero omnem malitiam, et simplicitate contentus fuero, inops malorum. Superest
+              igitur, ut mores meos temperem. Quid enim mihi prodest carere saecularibus, nisi fuero
+              mitis atque mansuetus? Nam qui sequitur viam rectam, sequitur utique illum, qui ait:
+              <!--<i>-->Discite a me, quia mitis sum, et humilis corde<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26549-d1e190">
+          <ref corresp="#UUyf3f-d1e26549-Qd1e200" xml:id="UUyf3f-d1e26549-Rd1e192">Ambrosius,
+              <title>super Lucam</title> et infra</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26549-Qd1e200">Mitiga affectum tuum, ut non irascaris; aut
+              certe iratus, ne peccaveris, juxta quod scriptum est: <!--<i>-->Irascimini, et nolite
+              peccare<!--</i>-->. Praeclarum est enim motum temperare; nec minoris virtutis dicitur
+              cohibere iracundiam, indignationemque compescere, quam omnino non irasci, cum
+              plerumque illud lenius, hoc fortius aestimetur. Cum autem hoc feceris, memento quia
+              peccator es, et lugeto peccata tua, et lugeto delicta. Et bene tertia beatitudo est
+              peccata deflentis, quia Trinitas est, quae peccata condonat. Ablue igitur te lacrymis,
+              lava fletibus: si tu te ipse fleveris, alius non te flebit. Nam si Saul flevisset
+              peccata sua, Samuel eum non flevisset.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26549-d1e209">
+          <ref corresp="#UUyf3f-d1e26549-Qd1e219" xml:id="UUyf3f-d1e26549-Rd1e211">Ambrosius,
+              <title>super Lucam</title> et post pauca subdit</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26549-Qd1e219">Deposui peccatum, temperavi mores, delicta
+              deflevi; jam nunc esurire incipio, et sitire justitiam. Aeger enim, dum in gravi morbo
+              est, non esurit, quia aegritudinis dolor excludit famem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26549-d1e224">
+          <ref corresp="#UUyf3f-d1e26549-Qd1e234" xml:id="UUyf3f-d1e26549-Rd1e226">Ambrosius,
+              <title>super Lucam</title> et mox ait</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26549-Qd1e234">Qui esurit, utique virium quaerit augmentum.
+              Quod autem est majus virtutis incrementum, quam norma justitiae? Justitiam sequitur
+              misericordia; unde dictum est: <!--<i>-->Dispersit, dedit pauperibus: justitia ejus
+              manet in saeculum saeculi<!--</i>-->. Sed qui misericordiam defert, mercedem amittit,
+              nisi mundo corde misereatur. Nam si jactantiam quaerit, nullus est misericordiae
+              fructus. Emunda igitur interiora tuae mentis. Sed nisi prius tu interiora tua
+              vacuefeceris ab omni labe peccati, ne dissensiones contentionesque ex affectu tuo
+              prodeant, non potes aliis ferre medicinam. A temetipso igitur pacem incipe, ut cum
+              fueris ipse pacificus, pacem aliis feras. Quomodo enim aliorum corda potes mundare,
+              nisi tuum ante mundaveris?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26549-d1e243">
+          <ref corresp="#UUyf3f-d1e26549-Qd1e253" xml:id="UUyf3f-d1e26549-Rd1e245">Ambrosius,
+              <title>super Lucam</title> et infra</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26549-Qd1e253">Qui autem patitur persecutionem, in ultimo
+              certamine constitutus probatur adversis, ut cum legitime certaverit,
+              coronetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26549-d1e258">
+          <ref corresp="#UUyf3f-d1e26549-Qd1e268" xml:id="UUyf3f-d1e26549-Rd1e260">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26549-Qd1e268">Videmus pauperes aliquos, qui si veram haberent
+              paupertatem, non adeo pusillanimes invenirentur, utpote reges, et reges coeli. Sed hi
+              sunt, qui pauperes esse volunt, eo tamen pacto, ut nihil eis desit; et sic diligunt
+              paupertatem, ut nullam inopiam patiantur. Sunt et alii mites, sed quandiu nihil
+              dicitur vel agitur, nisi pro eorum arbitrio. Patebit autem quam longe sint a
+              mansuetudine, si levis oriatur occasio turbationis. Нaeс igitur mansuetudo quomodo
+              hereditabit terram promissionis, quae ante hereditatem deficit? Alios quoque lugentes
+              video; sed si de corde puro et conscientia non ficta procederent illae lacrymae, non
+              tam facile solverentur in risum. Nunc autem, cum abundantius otiosa et scurrilia verba
+              profluant, quam prius lacrymae, lacrymas hujusmodi de his esse non arbitror quibus
+              consolatio divina promittitur; quandoquidem post illas tam facile consolatio vilis
+              admittitur. Alii tam vehementer contra aliorum delicta zelantur, ut videri possint
+              esurire et sitire justitiam: quod quidem verum esset, si esset apud eos de suis quoque
+              peccatis idem judicium. Sed nunc <!--<i>-->pondus et pondus, utrumque abominatio est
+              apud Deum<!--</i>-->: nam contra alios tam imprudenter, quam immaniter aestuant;
+              seipsos tam insipienter, quam inutiliter palpant. Sunt alii misericordes de his quae
+              ad ipsos non pertinent; qui scandalizantur, quod non datur omnibus abundanter, sic
+              tamen ut ipsi nec in modico quidem graventur: qui si vere misericordes essent, de suo
+              facere deberent misericordiam; et si non possent de terrena substantia, de voluntate
+              saltem bona darent iis, qui contra eos forte peccare viderentur, indulgentiam, darent
+              utique dulce signum, verbum bonum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26549-d1e278">
+          <ref corresp="#UUyf3f-d1e26549-Qd1e288" xml:id="UUyf3f-d1e26549-Rd1e280">Bernardus, in
+              <title>Sermonibus</title> et infra</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26549-Qd1e288">Sunt etiam qui peccata sua sic confitentur, ut
+              videri possint ex desiderio mundi cordis id agere, omnia enim in confessione lavantur,
+              nisi quod ea, quae ipsi dicunt aliis, ab aliis audire patienter non possunt. Sunt
+              etiam alii qui si viderint quempiam vel leviter scandalizatum, valde solliciti sunt
+              quomodo in pacem eum reducere possint, et ob hoc viderentur pacifici, nisi quod eorum
+              commotio, si forte contra eos quidquam factum dictumve videbitur, tardius universis
+              poterit difficiliusque sedari; qui nimirum, si vere pacem diligerent, haud dubium,
+              quin eam primo quaererent sibi ipsis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e26549-d1e293">
+          <ref corresp="#UUyf3f-d1e26549-Qd1e303" xml:id="UUyf3f-d1e26549-Rd1e295">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e26549-Qd1e303">Beatus non is est, quem vulgus appellat, ad quem
+              pecunia magna confluxit; sed ille cui bonum omne in animo est, erectum, et excelsum,
+              et mutabilia calcans.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

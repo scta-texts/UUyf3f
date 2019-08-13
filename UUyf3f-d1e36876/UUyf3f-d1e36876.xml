@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De voluntate (in De gratiosis)</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De voluntate (in De gratiosis)</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e36876">
+        <head xml:id="UUyf3f-d1e36876-Hd1e99" type="question-title">De voluntate (in De
+          gratiosis)</head>
+        <p xml:id="UUyf3f-d1e36876-d1e102">
+          <ref corresp="#UUyf3f-d1e36876-Qd1e112" xml:id="UUyf3f-d1e36876-Rd1e104">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36876-Qd1e112">Ante Dei oculos nunquam est vacua manus a
+              munere, si fuerit arca cordis repleta bona voluntate.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36876-d1e117">
+          <ref corresp="#UUyf3f-d1e36876-Qd1e127" xml:id="UUyf3f-d1e36876-Rd1e119">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36876-Qd1e127">Certe Christus pro animi voluntate omnia in
+              acceptum refert. Nemo apostolis pauperior fuit, et nemo tantum pro Domino
+              dereliquit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36876-d1e132">
+          <ref corresp="#UUyf3f-d1e36876-Qd1e142" xml:id="UUyf3f-d1e36876-Rd1e134">Augustinus, <title>de vera Religione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36876-Qd1e142">Tales servos suos meliores esse Deus judicavit,
+              si ei servirent liberaliter. Quod nullo modo fieri posset, si non voluntate, sed
+              necessitate servirent.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36876-d1e147">
+          <ref corresp="#UUyf3f-d1e36876-Qd1e157" xml:id="UUyf3f-d1e36876-Rd1e149">Augustinus, <title>de Spiritu et Littera</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36876-Qd1e157">Nemo habet in potestate, quid ei veniat in
+              mentem; sed consentire, vel dissentire, propriae voluntatis est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36876-d1e163">
+          <ref corresp="#UUyf3f-d1e36876-Qd1e173" xml:id="UUyf3f-d1e36876-Rd1e165">Augustinus, <title>Contra quinque haereses</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36876-Qd1e173">Ad compellendum non potest esse molestus
+              exactor, cum ad reddendum devotus est debitor.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36876-d1e178">
+          <ref corresp="#UUyf3f-d1e36876-Qd1e188" xml:id="UUyf3f-d1e36876-Rd1e180">Augustinus, <title>de Ecclesiasticis
+              Dogmatibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36876-Qd1e188">Nullus sanctus et justus caret peccato; nec
+              tamen ex hoc desinit esse justus vel sanctus, cum affectu teneat sanctitatem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36876-d1e193">
+          <ref corresp="#UUyf3f-d1e36876-Qd1e203" xml:id="UUyf3f-d1e36876-Rd1e195">Augustinus, <title>de Viduitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36876-Qd1e203">Nostrum est velle; sed voluntas ipsa et
+              admonetur ut surgat, et sanatur ut valeat, et dilatatur ut capiat, et impletur ut
+              habeat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36876-d1e208">
+          <ref corresp="#UUyf3f-d1e36876-Qd1e218" xml:id="UUyf3f-d1e36876-Rd1e210">Augustinus, <title>de Soliloquiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36876-Qd1e218">Quanto augetur spes videndae illius, cui
+              vehementer aestuo, pulchritudinis, tanto ad illam totus amor voluntasque
+              convertitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36876-d1e223">
+          <ref corresp="#UUyf3f-d1e36876-Qd1e233" xml:id="UUyf3f-d1e36876-Rd1e225">Augustinus, <title>de Agone Christiano</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36876-Qd1e233">Omnis creatura, velit, nolit, uni Deo et Domino
+              suo subjecta est: sed hoc admonemur, ut tota voluntate serviamus Domino Deo nostro:
+              quoniam justus liberaliter servit; injustus autem compeditus servit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36876-d1e238">
+          <ref corresp="#UUyf3f-d1e36876-Qd1e248" xml:id="UUyf3f-d1e36876-Rd1e240">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36876-Qd1e248">Voluntates bonae sic suaves sunt apud Deum,
+              quemadmodum apud homines odoriferi flores.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36876-d1e254">
+          <ref corresp="#UUyf3f-d1e36876-Qd1e264" xml:id="UUyf3f-d1e36876-Rd1e256">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36876-Qd1e264">Sicut peccatum opus sine voluntate non facit,
+              ita et justitia ex opere non consummatur, nisi et voluntas affuerit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36876-d1e269">
+          <ref corresp="#UUyf3f-d1e36876-Qd1e279" xml:id="UUyf3f-d1e36876-Rd1e271">Bernardus, <title>de Libero Arbitrio</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36876-Qd1e279">Ordinatio est omnimoda conversio voluntatis ad
+              Deum, et ex tota se voluntaria devotaque subjectio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36876-d1e284">
+          <ref corresp="#UUyf3f-d1e36876-Qd1e294" xml:id="UUyf3f-d1e36876-Rd1e286">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36876-Qd1e294">
+              <!--<i>-->Regnum Dei intra nos est<!--</i>-->. Quid est hoc regnum? sana et libera
+              voluntas hominis, ita se conformans voluntati Dei, ut nihil velit quod sciat ei
+              displicere, nihil nolit quod sciat ei placere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36876-d1e303">
+          <ref corresp="#UUyf3f-d1e36876-Qd1e313" xml:id="UUyf3f-d1e36876-Rd1e305">Anselmus, <title>de Similitudinibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36876-Qd1e313">Voluntas bona est, quae Dei voluntati subjecta
+              est, quando id vult, quod Deus vult illam velle debere; et justa sive recta dicitur,
+              quando id, quod Deus vult illam velle debere, amplectitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36876-d1e318">
+          <ref corresp="#UUyf3f-d1e36876-Qd1e328" xml:id="UUyf3f-d1e36876-Rd1e320">Anselmus, <title>de Similitudinibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36876-Qd1e328">Non semper velle debemus quod Deus vult; sed hoc
+              velle debemus, quod Deus vult nos velle debere.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

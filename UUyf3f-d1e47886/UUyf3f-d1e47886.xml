@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De connexione uirtutum, de timore et amore</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De connexione uirtutum, de timore et amore</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e47886">
+        <head xml:id="UUyf3f-d1e47886-Hd1e99" type="question-title">De connexione uirtutum, de
+          timore et amore</head>
+        <p xml:id="UUyf3f-d1e47886-d1e102">
+          <ref corresp="#UUyf3f-d1e47886-Qd1e112" xml:id="UUyf3f-d1e47886-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47886-Qd1e112">Cum plus ipsi quod timeamus agnoscimus, plus
+              nobis de Deo per internam gratiam infunditur quod amemus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47886-d1e117">
+          <ref corresp="#UUyf3f-d1e47886-Qd1e127" xml:id="UUyf3f-d1e47886-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47886-Qd1e127">Appositis quasi quibusdam gradibus profectus
+              nostri, mentis pedem prius per timorem in imo ponimus, et postmodum per charitatem ad
+              alta amore levamus: ut ab eo, quo quisque tumet, reprimatur, ut timeat: et ab eo, quod
+              jam timuit, sublevetur, ut praesumat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47886-d1e132">
+          <ref corresp="#UUyf3f-d1e47886-Qd1e142" xml:id="UUyf3f-d1e47886-Rd1e134">Augustinus, <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47886-Qd1e142">Ama Dei bonitatem; time severitatem: utrumque te
+              superbum esse non sinit. Amando enim times, ne amantem et amatum graviter
+              offendas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47886-d1e147">
+          <ref corresp="#UUyf3f-d1e47886-Qd1e157" xml:id="UUyf3f-d1e47886-Rd1e149">Augustinus, <title>de Fide ad Petrum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47886-Qd1e157">Diligentes Dei misericordiam, metuentesque
+              justitiam, nec de remissione peccatorum desperemus, nec remaneamus in
+              peccatis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47886-d1e163">
+          <ref corresp="#UUyf3f-d1e47886-Qd1e173" xml:id="UUyf3f-d1e47886-Rd1e165">Augustinus, <title>de Verbis Apostoli</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47886-Qd1e173">Non intrat charitas incomitata; habet secum
+              socium suum timorem, quem introducit ipsa, sed illum castum permanentem in saeculum
+              saeculi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47886-d1e178">
+          <ref corresp="#UUyf3f-d1e47886-Qd1e188" xml:id="UUyf3f-d1e47886-Rd1e180">Augustinus, <title>super primam canonicam
+              Joannis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47886-Qd1e188">Exhorresce quod minatur Omnipotens; ama quod
+              pollicetur Omnipotens, et vilescit omnis mundus, sive promittens, sive
+              terrens.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47886-d1e193">
+          <ref corresp="#UUyf3f-d1e47886-Qd1e203" xml:id="UUyf3f-d1e47886-Rd1e195">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47886-Qd1e203">Vide ut omnia quaecumque bene facis, propter
+              Deum facias, sciens ejus rei tantam te a Domino recepturum esse mercedem, quantum ejus
+              timoris et dilectionis causa perfeceris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47886-d1e208">
+          <ref corresp="#UUyf3f-d1e47886-Qd1e218" xml:id="UUyf3f-d1e47886-Rd1e210">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47886-Qd1e218">Sanctum facit affectio sancta, et ipsa gemina,
+              timor Domini sanctus, et sanctas amor; his perfecte anima affecta, veluti duobus
+              quibusdam brachiis suis Deum amplectitur, stringit et tenet, et ait: <!--<i>-->Tenui
+              eum, nec dimittam<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47886-d1e227">
+          <ref corresp="#UUyf3f-d1e47886-Qd1e237" xml:id="UUyf3f-d1e47886-Rd1e229">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47886-Qd1e237">Mens quam semel affecerit charitas, sui juris
+              esse non sinitur; metuit quod nescit; dolet quod non oportet; sollicitatur plusquam
+              voluerit, et unde noluerit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47886-d1e242">
+          <ref corresp="#UUyf3f-d1e47886-Qd1e252" xml:id="UUyf3f-d1e47886-Rd1e244">Bernardus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47886-Qd1e252">Timeamus et amemus Christum Dominum: timeamus,
+              pro nostra indignitate; pro ipsius dignatione amemus: non dissimulemus, non excusemus;
+              in medio est omnibus se offerens.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

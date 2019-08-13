@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De propinquitate</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De propinquitate</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e34096">
+        <head xml:id="UUyf3f-d1e34096-Hd1e99" type="question-title">De propinquitate</head>
+        <p xml:id="UUyf3f-d1e34096-d1e102">
+          <ref corresp="#UUyf3f-d1e34096-Qd1e112" xml:id="UUyf3f-d1e34096-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34096-Qd1e112">Saepe ad avaritiam cor parentis illicit
+              foecunditas prolis: eo enim ad ambitum congregandae haereditatis accenditur, quo
+              multis haeredibus foecundatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34096-d1e117">
+          <ref corresp="#UUyf3f-d1e34096-Qd1e127" xml:id="UUyf3f-d1e34096-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34096-Qd1e127">Ille scire Deum familiarius appetit, qui prae
+              amore pietatis, nescire desiderat, quos carnaliter scivit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34096-d1e132">
+          <ref corresp="#UUyf3f-d1e34096-Qd1e142" xml:id="UUyf3f-d1e34096-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34096-Qd1e142">Gravi damno scientia divina minuitur, si cum
+              carnis notitia partitur. Extra cognatos ergo quisque ac proximos debet fieri, si vult
+              parenti omnium verius jungi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34096-d1e147">
+          <ref corresp="#UUyf3f-d1e34096-Qd1e157" xml:id="UUyf3f-d1e34096-Rd1e149">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34096-Qd1e157">Licet sparso crine et scissis vestibus ubera,
+              quibus te nutrierat, mater ostendat; licet in limine pater jaceat; percalcato patre
+              perge, siccis oculis ad vexillum crucis evola. Solum pietatis genus est, in hac re
+              esse crudelem. Veniet postea dies ille, quo victor revertaris in patriam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34096-d1e163">
+          <ref corresp="#UUyf3f-d1e34096-Qd1e173" xml:id="UUyf3f-d1e34096-Rd1e165">Hieronymus, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34096-Qd1e173">Hic ordo in omni affectu necessarius est. Ama
+              post Deum patrem, ama matrem, ama filios. Si autem necessitas venerit, ut amor
+              parentum ac filiorum Dei amori comparetur, et non possit uterque servari, odium in
+              suos, pietas in Deum est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34096-d1e178">
+          <ref corresp="#UUyf3f-d1e34096-Qd1e188" xml:id="UUyf3f-d1e34096-Rd1e180">Joannes Chrysostomus, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34096-Qd1e188">Dico tibi, monache, quid quaeris matrem? Aut
+              christiana est mater, aut non est christiana; aut sancta est, aut peccatrix. Si sancta
+              est, gaudet, quia servis Domino; si peccatrix, dimitte illam, quia mortua est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34096-d1e193">
+          <ref corresp="#UUyf3f-d1e34096-Qd1e203" xml:id="UUyf3f-d1e34096-Rd1e195">Joannes Chrysostomus, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34096-Qd1e203">Qui habet Jesum, habet et patrem, habet matrem,
+              habet filios, habet omnem propinquitatem. Quid quaeris mortuos? sequere vivum, et
+              dimitte mortuos, ut sepeliant mortuos suos.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34096-d1e208">
+          <ref corresp="#UUyf3f-d1e34096-Qd1e218" xml:id="UUyf3f-d1e34096-Rd1e210">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34096-Qd1e218">Multi dum propinquorum utilitates procurant, a
+              Dei amore se separant. Vir autem spiritualis ita prodesse debet suae propinquitati, ut
+              dum illis gratiam carnis praestare studet, ipse a spirituali proposito nequaquam
+              declinet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34096-d1e223">
+          <ref corresp="#UUyf3f-d1e34096-Qd1e233" xml:id="UUyf3f-d1e34096-Rd1e225">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34096-Qd1e233">Noveris non prohiberi pietatis officium, sed
+              negari carnalitatis affectum: proximis enim carnaliter praestatur, quod extraneis pie
+              impenditur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34096-d1e238">
+          <ref corresp="#UUyf3f-d1e34096-Qd1e248" xml:id="UUyf3f-d1e34096-Rd1e240">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34096-Qd1e248">Carnalem affectum, et in nobis, et in nostris,
+              militia christiana ut perimamus hortatur; nec tamen ita ut ingratus sit quisque
+              parentibus, et eadem ipsa beneficia, quibus in hanc vitam editus, susceptus atque
+              nutritus est, enumerata derideat: servet potius ubique pietatem. Habent haec locum,
+              ubi majora non vocant. Mater Ecclesia, mater est etiam matris tuae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34096-d1e254">
+          <ref corresp="#UUyf3f-d1e34096-Qd1e264" xml:id="UUyf3f-d1e34096-Rd1e256">Augustinus, <title>de Viduitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34096-Qd1e264">Nec ideo laudanda es, quia filios habes; sed
+              quia eos pie nutrire atque educare studes. Ut enim tibi nascerentur, foecunditatis; ut
+              vivant, felicitatis est; ut et instituantur sic voluntatis est atque
+              potestatis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34096-d1e269">
+          <ref corresp="#UUyf3f-d1e34096-Qd1e279" xml:id="UUyf3f-d1e34096-Rd1e271">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34096-Qd1e279">Ecclesia jubetur, ut concupiscat rex decorem
+              ejus, oblivisci populum suum et domum patris sui. Puer Jesus inter cognatos et notos
+              quaeritur, nec invenitur. Fuge fratres tuos et tu, si tuam vis invenire salutem. Fuge,
+              inquam, de medio Babylonis, fuge a facie gladii aquilonis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34096-d1e284">
+          <ref corresp="#UUyf3f-d1e34096-Qd1e294" xml:id="UUyf3f-d1e34096-Rd1e286">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34096-Qd1e294">O dirum patrem! o saevam matrem! o parentes
+              crudeles et impios! imo non parentes, sed peremptores, quorum dolor salus pignoris,
+              quorum consolatio mors filii est, qui me malunt perire cum eis, quam regnare sine
+              eis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34096-d1e299">
+          <ref corresp="#UUyf3f-d1e34096-Qd1e309" xml:id="UUyf3f-d1e34096-Rd1e301">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34096-Qd1e309">Configat carnes tuas divinus timor, ne decipiat
+              carnalis amor. Blanditur, sed sub lingua ejus labor et dolor: lacrymatur, sed
+              insidiatur, ut rapiat pauperem, rapere pauperem, dum attrahit eum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34096-d1e314">
+          <ref corresp="#UUyf3f-d1e34096-Qd1e324" xml:id="UUyf3f-d1e34096-Rd1e316">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34096-Qd1e324">Fidelis sermo et omni acceptione dignus: etsi
+              impium est contemnere matrem, contemnere propter Christum piissimum est. Nam qui
+              dixit: <!--<i>-->Honora patrem et matrem<!--</i>-->, ipse etiam dixit: <!--<i>-->Qui
+              amat patrem et matrem plusquam me, non est me dignus<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34096-d1e337">
+          <ref corresp="#UUyf3f-d1e34096-Qd1e344" xml:id="UUyf3f-d1e34096-Rd1e339">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34096-Qd1e344">Perfecta est conversio, ubi cum cupiditate
+              rerum, carnalis quoque rumpitur dilectio.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

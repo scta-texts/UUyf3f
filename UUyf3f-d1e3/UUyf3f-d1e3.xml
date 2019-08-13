@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De Deo</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De Deo</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e3">
+        <head xml:id="UUyf3f-d1e3-Hd1e99" type="question-title">De Deo</head>
+        <p xml:id="UUyf3f-d1e3-d1e102">
+          <ref corresp="#UUyf3f-d1e3-Qd1e112" xml:id="UUyf3f-d1e3-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e112">Deus ipse manet intra omnia, ipse est extra omnia,
+              ipse supra omnia, ipse infra omnia: et superior est per potentiam, et inferior est per
+              sustentationem, et exterior per magnitudinem, et interior per subtilitatem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e117">
+          <ref corresp="#UUyf3f-d1e3-Qd1e127" xml:id="UUyf3f-d1e3-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e127">Deus hoc est, quod habet: aeternitatem quippe habet,
+              et ipse est aeternitas; lucem habet, et lux sua ipse est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e132">
+          <ref corresp="#UUyf3f-d1e3-Qd1e142" xml:id="UUyf3f-d1e3-Rd1e134">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e142">Omnipotens Deus, etsi plerumque mutat sententiam,
+              consilium nunquam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e147">
+          <ref corresp="#UUyf3f-d1e3-Qd1e157" xml:id="UUyf3f-d1e3-Rd1e149">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e157">Omnipotens Deus quid nobis profuturum esse valeat,
+              sciens, dissimulat exaudire dolentium vocem, ut augeat utilitatem, ut vita per poenam
+              purgetur, et quietis tranquillitas, quae hic inveniri non valet, alibi
+              quaeratur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e163">
+          <ref corresp="#UUyf3f-d1e3-Qd1e173" xml:id="UUyf3f-d1e3-Rd1e165">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e173">Omnia humana quae justa, quae pulchra sunt, Dei
+              justitiae et pulchritudini comparata, nec justa, nec pulchra sunt, nec omnino
+              sunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e178">
+          <ref corresp="#UUyf3f-d1e3-Qd1e188" xml:id="UUyf3f-d1e3-Rd1e180">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e188">Conditor noster mira dispensatione consilii, et
+              culpas nostras respicit, et vivendi tempora impendit: ut longiora vitae temporalis
+              spatia aut converso fiant adjutorium muneris, aut non converso augmentum
+              damnationis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e193">
+          <ref corresp="#UUyf3f-d1e3-Qd1e203" xml:id="UUyf3f-d1e3-Rd1e195">Gregorius, in
+              <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e203">Ubique nobis occurrit superna medicina, quia Deus et
+              dedit homini praecepta ne peccet; et tamen peccanti dedit remedia, ne
+              desperet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e208">
+          <ref corresp="#UUyf3f-d1e3-Qd1e218" xml:id="UUyf3f-d1e3-Rd1e210">Gregorius, <title>super
+              Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e218">Omnipotens Deus, qui sibimetipsi dissimilis non est,
+              ea virtute videt omnia, qua audit omnia; et ea virtute judicat omnia, qua creavit
+              omnia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e223">
+          <ref corresp="#UUyf3f-d1e3-Qd1e230" xml:id="UUyf3f-d1e3-Rd1e225">Augustinus in
+            epistola</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e230">Deus ubique praesens est, et ubique totus praesens,
+              nec tamen ubique habitans, sed in templo suo. Capitur autem habitans ab aliis plus, ab
+              aliis minus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e235">
+          <ref corresp="#UUyf3f-d1e3-Qd1e242" xml:id="UUyf3f-d1e3-Rd1e237">Augustinus in
+            epistola</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e242">Deus totus oculus est, totus manus, totus pes est.
+              Totus oculus est, quia omnia videt; totus est manus, quia omnia operatur; totus pes,
+              quia ubique est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e248">
+          <ref corresp="#UUyf3f-d1e3-Qd1e255" xml:id="UUyf3f-d1e3-Rd1e250">Augustinus in
+            epistola</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e255">Non tantummodo in hoc nos adjuvat Deus, ut sciamus
+              quid agendum sit, verum etiam ut amando agamus, quod discendo jam scimus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e260">
+          <ref corresp="#UUyf3f-d1e3-Qd1e267" xml:id="UUyf3f-d1e3-Rd1e262">Augustinus in epistola
+            dicit Hieronymum dixisse</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e267">Videre Deum sicut est in natura sua, oculus hominis
+              non potest. Nec solum homo, sed nес Angeli, nec Throni, nес Potestates, nес
+              Dominationes, sed nес omne, quod nominatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e272">
+          <ref corresp="#UUyf3f-d1e3-Qd1e282" xml:id="UUyf3f-d1e3-Rd1e274">Augustinus, <title>de
+              Confessionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e282">Poenitet te, Deus, et non doles; irasceris, et
+              tranquillus es; opera mutas, nec mutas consilium.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e287">
+          <ref corresp="#UUyf3f-d1e3-Qd1e297" xml:id="UUyf3f-d1e3-Rd1e289">Augustinus, <title>de
+              Confessionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e297">O quam excelsus es, Domine! Sed humiles corde sunt
+              domus tuae: tu enim erigis elisos, et non cadunt, quorum celsitudo tu es.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e302">
+          <ref corresp="#UUyf3f-d1e3-Qd1e312" xml:id="UUyf3f-d1e3-Rd1e304">Augustinus, <title>de
+              Confessionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e312">Voluntas et potentia Dei, Deus ipse est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e317">
+          <ref corresp="#UUyf3f-d1e3-Qd1e327" xml:id="UUyf3f-d1e3-Rd1e319">Augustinus, <title>super
+              Genesim contra Manichaeos</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e327">Deum dicimus tantae bonitatis esse, tantae
+              justitiae, tantaeque incorruptionis, ut neque peccet, neque alicui noceat, qui peccare
+              noluerit, nec ipsi aliquis, qui peccare voluerit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e333">
+          <ref corresp="#UUyf3f-d1e3-Qd1e343" xml:id="UUyf3f-d1e3-Rd1e335">Augustinus, in
+              <title>Soliloquiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e343">Constanter Deo crede, eique te totum committe,
+              quantum potes. Noli velle esse quasi proprius et in tua potestate; sed ejus
+              clementissimi et utilissimi Domini te servum esse profitere: ita enim te ad se
+              sublevare non desinet, nihilque tibi evenire permittet, nisi quod tibi prosit, etiamsi
+              nescias.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e348">
+          <ref corresp="#UUyf3f-d1e3-Qd1e358" xml:id="UUyf3f-d1e3-Rd1e350">Augustinus, <title>de
+              Conjugiis adulterinis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e358">Absit ut catholicus quisquam dixerit, quando suadet
+              Spiritus sanctus, non Deum suadere: cum ipse Deus sit, et inseparabilia sint opera
+              Trinitatis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e363">
+          <ref corresp="#UUyf3f-d1e3-Qd1e373" xml:id="UUyf3f-d1e3-Rd1e365">Augustinus, <title>de
+              Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e373" source="http://scta.info/resource/adcd-l1-d1e33"
+              >Patientia Dei ad poenitentiam invitat malos, sicut flagellum Dei ad patientiam erudit
+              bonos.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e378">
+          <ref corresp="#UUyf3f-d1e3-Qd1e388" xml:id="UUyf3f-d1e3-Rd1e380">Ambrosius, <title>super
+              Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e388">Nihil praesumptum, nihil circumscriptum, nihil
+              emensum, nihil dimensum Trinitas habet: non loco clauditur, non opinione
+              comprehenditur, non aestimatione concluditur, non aetate variatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e393">
+          <ref corresp="#UUyf3f-d1e3-Qd1e403" xml:id="UUyf3f-d1e3-Rd1e395">Isidorus, <title>de Summo
+              bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e403">Ille qui nos malos tolerat, non dubium est quin
+              conversis clementer ignoscat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e408">
+          <ref corresp="#UUyf3f-d1e3-Qd1e418" xml:id="UUyf3f-d1e3-Rd1e410">Isidorus, <title>de Summo
+              bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e418">Cum de Deo nec secundum quantitatem, nec secundum
+              qualitatem, nec secundum situm, nec secundum habitum, aut motum, aliquid digne
+              dicatur; inest tamen ei et quodam modo latitudo charitatis, qua nos et ab errore
+              colligit, et continet in veritate. Inest ei et longitudo qua longanimiter nos malos
+              portat, donec emendatos patriae futurae restituat. Inest ei et altitudo, per quam
+              omnem sensum, suae scientiae immensitate exuperat. Inest ei et profundum, quo
+              damnandos, inferius juxta aequitatem disponens, praeordinat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e424">
+          <ref corresp="#UUyf3f-d1e3-Qd1e434" xml:id="UUyf3f-d1e3-Rd1e426">Joannes Chrysostomus,
+              <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e434">Deus invitus compellitur, et cum magno dolore,
+              peccatores damnare. Non enim sic dolet, quia et ipse ab eis offenditur; sed quia quasi
+              violenter cogitur perdere aliquem, qui omnes cupit salvare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e439">
+          <ref corresp="#UUyf3f-d1e3-Qd1e449" xml:id="UUyf3f-d1e3-Rd1e441">Joannes Chrysostomus,
+              <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e449">Deus gaudet non de suo lucro, sed de salute nostra;
+              tristatur non de sua injuria, sed de nostra perditione.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e454">
+          <ref corresp="#UUyf3f-d1e3-Qd1e464" xml:id="UUyf3f-d1e3-Rd1e456">Bernardus, in libro
+              <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e464">Deus amat ut charitas, novit ut veritas, sedet ut
+              aequitas, dominatur ut majestas, regit ut principium, tuetur ut salus, operatur ut
+              virtus, revelat ut lux, assistit ut pietas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e469">
+          <ref corresp="#UUyf3f-d1e3-Qd1e479" xml:id="UUyf3f-d1e3-Rd1e471">Bernardus, in libro
+              <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e479">Deus non partibus constat, ut corpus; non affectibus
+              distat, ut anima; non formis substat, ut materia; non mutatur, ut omne quod factum
+              est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e484">
+          <ref corresp="#UUyf3f-d1e3-Qd1e494" xml:id="UUyf3f-d1e3-Rd1e486">Bernardus, super
+              <title>Qui habitat</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e494">Vigilat super nos indefessus, et pervigil ille
+              singularis clementiae oculus non dormit neque dormitat, qui custodit Israel. Et id
+              quidem necesse est, quia etiam non dormit, neque dormitat, qui impugnat
+              Israel.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e499">
+          <ref corresp="#UUyf3f-d1e3-Qd1e509" xml:id="UUyf3f-d1e3-Rd1e501">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e509">Quatuor filiae magnae misericordiae Dei sunt:
+              immissio amaritudinis, subtractio opportunitatis, virtus resistendi, et sanitas
+              affectus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e515">
+          <ref corresp="#UUyf3f-d1e3-Qd1e525" xml:id="UUyf3f-d1e3-Rd1e517">Auctor <title>de Spiritu
+              et Anima</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e525">Nemo de Dei pietate diffidat, quoniam major est ejus
+              misericordia, quam nostra miseria; et quisquis ad eum toto corde clamaverit, exaudiet
+              illum, quia misericors est. Tardius siquidem ei videtur esse peccatori veniam dare,
+              quam ipsi peccatori veniam accipere. Sic enim festinat Deus absolvere tormenta
+              compassionis suae, quasi plus cruciet eum compassio miseri, quam ipsum miserum passio
+              sui.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3-d1e530">
+          <ref corresp="#UUyf3f-d1e3-Qd1e537" xml:id="UUyf3f-d1e3-Rd1e532">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3-Qd1e537">Deus natura misericors paratus est ut salvet per
+              clementiam, quos salvare non potest per justitiam.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

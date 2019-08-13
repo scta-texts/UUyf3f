@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De peccatis linguae, de mutabilitate</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De peccatis linguae, de mutabilitate</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e29751">
+        <head xml:id="UUyf3f-d1e29751-Hd1e99" type="question-title">De peccatis linguae, de
+          mutabilitate</head>
+        <p xml:id="UUyf3f-d1e29751-d1e102">
+          <ref corresp="#UUyf3f-d1e29751-Qd1e112" xml:id="UUyf3f-d1e29751-Rd1e104">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29751-Qd1e112">Si laudibus aliorum laetamur, et aliorum
+              vituperationibus frangimur, gloriam nostram non in nobis, sed in aliorum ore
+              posuimus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29751-d1e117">
+          <ref corresp="#UUyf3f-d1e29751-Qd1e127" xml:id="UUyf3f-d1e29751-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29751-Qd1e127">Dum cor in adversis sperat prospera, in
+              prosperis formidat adversa, huc illucque quibusdam fluctibus volvitur; ac per modos
+              varios rerum, alternantium mutabilitate versatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29751-d1e132">
+          <ref corresp="#UUyf3f-d1e29751-Qd1e142" xml:id="UUyf3f-d1e29751-Rd1e134">Augustinus,
+              <title>de Pastoribus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29751-Qd1e142">Hominum temerariis judiciis plena sunt omnia; de
+              quo enim multum desperavimus, subito convertitur, et fit optimus; de quo
+              praesumpseramus, subito deficit, et fit pessimus. Nec timor ergo noster certus est,
+              nec amor noster certus est. Quid sit hodie quisque, vix novit ipse homo; si autem
+              utcumque novit ipse quid sit hodie, quid autem cras erit, nec alius, nec ipse.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29751-d1e147">
+          <ref corresp="#UUyf3f-d1e29751-Qd1e157" xml:id="UUyf3f-d1e29751-Rd1e149">Augustinus, in
+              <title>Meditationibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29751-Qd1e157">Heu me tantae infelicitatis, tantae perditionis!
+              dum enim, quae retro sunt obliviscens, ad ea quae ante sunt me extendere volo, subito
+              nescio qua miseria me relabi ad inania et noxia conspicio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29751-d1e163">
+          <ref corresp="#UUyf3f-d1e29751-Qd1e173" xml:id="UUyf3f-d1e29751-Rd1e165">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29751-Qd1e173">Qui conscientias suas in alienis labiis ponunt,
+              modo magni, modo parvi sunt, modo nulli, secundum quod adulantium linguis, vel
+              vituperare placuit, vel laudare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29751-d1e178">
+          <ref corresp="#UUyf3f-d1e29751-Qd1e188" xml:id="UUyf3f-d1e29751-Rd1e180">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29751-Qd1e188">Hoc habent inter caetera boni mores; placent
+              sibi, et permanent. Levis est malitia; saepe mutatur, non in melius, sed in
+              aliud.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

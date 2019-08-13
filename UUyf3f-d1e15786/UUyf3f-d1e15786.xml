@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De gula</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De gula</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e15786">
+        <head xml:id="UUyf3f-d1e15786-Hd1e99" type="question-title">De gula</head>
+        <p xml:id="UUyf3f-d1e15786-d1e102">
+          <ref corresp="#UUyf3f-d1e15786-Qd1e112" xml:id="UUyf3f-d1e15786-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15786-Qd1e112">De ventris ingluvie inepta laetitia,
+              scurrilitas, immunditia, multiloquium, hebetudo sensus circa intelligentiam
+              oritur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15786-d1e117">
+          <ref corresp="#UUyf3f-d1e15786-Qd1e127" xml:id="UUyf3f-d1e15786-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15786-Qd1e127">Quinque nos modis gulae vitium tentat: aliquando
+              namque indigentiae tempora praevenit; aliquando vero tempus non praevenit, sed cibos
+              lautiores quaerit; aliquando quaelibet sumenda praeparari accuratius expetit;
+              aliquando autem et qualitati ciborum, et tempori congruit, sed in ipsa ciborum
+              quantitate sumendi mensuram refectionis excedit. Nonnunquam vero et abjectum est quod
+              desiderat, et tamen ipso aestu immensi desiderii deterius peccat. Exemplum de primo in
+              Jonatha; de secundo in Israeliticis; de tertio in filiis Heli; de quarto in Ezechiele;
+              de quinto in Esau.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15786-d1e132">
+          <ref corresp="#UUyf3f-d1e15786-Qd1e142" xml:id="UUyf3f-d1e15786-Rd1e134">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15786-Qd1e142">Saepe dum quasi concivi carni parcimus, ad
+              praelium contra nos hostem nutrimus. Eisdem namque alimentis vitia superbiunt, quibus
+              nutritae virtutes vivunt; et cum virtus alitur, plerumque vires vitiis
+              augentur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15786-d1e147">
+          <ref corresp="#UUyf3f-d1e15786-Qd1e157" xml:id="UUyf3f-d1e15786-Rd1e149">Gregorius, in
+              <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15786-Qd1e157">Gulae deditos, superfluitas locutionis, levitas
+              operis atque luxuria; abstinentes vero saepe impatientia atque tristitia, saepe vero
+              superbiae culpa comitatur. </quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15786-d1e163">
+          <ref corresp="#UUyf3f-d1e15786-Qd1e173" xml:id="UUyf3f-d1e15786-Rd1e165">Hieronimus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15786-Qd1e173">Difficile inter epulas servatur pudicitia:
+              nitens cutis sordidum ostentat animum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15786-d1e178">
+          <ref corresp="#UUyf3f-d1e15786-Qd1e188" xml:id="UUyf3f-d1e15786-Rd1e180">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15786-Qd1e188">Ebrietas perturbationem gignit mentis, furorem
+              cordis, flammam libidinis. Ebrietas ita mentem alienat, ut ubi sit, nesciat; unde
+              etiam et malum non sentitur, quod per ebrietatem committitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15786-d1e193">
+          <ref corresp="#UUyf3f-d1e15786-Qd1e203" xml:id="UUyf3f-d1e15786-Rd1e195">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15786-Qd1e203">Cui abundantia est epularum, ardentis divitis
+              attendat supplicium, cujus tanta in inferno inter ignes erat inopia, quanta hic fuerat
+              epularum copia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15786-d1e208">
+          <ref corresp="#UUyf3f-d1e15786-Qd1e218" xml:id="UUyf3f-d1e15786-Rd1e210">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15786-Qd1e218">Qui nimium cibis utuntur, quanto magis ventrem
+              pascunt, tanto amplius sensum mentis obtundunt. Nam Graeci dixerunt, ex crasso ventre
+              subtilem sensum gigni non posse.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15786-d1e223">
+          <ref corresp="#UUyf3f-d1e15786-Qd1e233" xml:id="UUyf3f-d1e15786-Rd1e225">Augustinus,
+              <title>de Doctrina Christiana</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15786-Qd1e233">Fieri potest, ut sine aliquo vitio crapulae vel
+              voracitatis pretiosissimo cibo sapiens utatur; insipiens autem foetidissima gulae
+              flamma in cibum vilissimum ardescat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15786-d1e238">
+          <ref corresp="#UUyf3f-d1e15786-Qd1e248" xml:id="UUyf3f-d1e15786-Rd1e240">Basilius, in
+              <title>Regula</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15786-Qd1e248">Sicut miles plurimo onere praegravatus
+              praepeditur, ita monachus vel clericus impeditur ad vigilias, cum escarum plenitudine
+              torpescit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15786-d1e254">
+          <ref corresp="#UUyf3f-d1e15786-Qd1e264" xml:id="UUyf3f-d1e15786-Rd1e256">Bernardus, in
+              <title>Apologia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15786-Qd1e264">Sanius est modico vino uti propter infirmitatem,
+              quam multa aqua ingurgitari per aviditatem. Legitur in scientia naturali, quod inter
+              animalia magnorum corporum, nulli dedit natura tam parvum os, secundum corporis
+              quantitatem, sicut homini: quod factum est ad commendationem temperantiae, et ad
+              detestationem gulositatis. </quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15786-d1e269">
+          <ref corresp="#UUyf3f-d1e15786-Qd1e276" xml:id="UUyf3f-d1e15786-Rd1e271">Gregorius</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15786-Qd1e276">Quanto corpus impletur, tanto anima minoratur.
+              Unde Hieronymus: Qui luxuriatur, vivens mortuus est; et qui inebriatur, mortuus et
+              sepultus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15786-d1e281">
+          <ref corresp="#UUyf3f-d1e15786-Qd1e288" xml:id="UUyf3f-d1e15786-Rd1e283">Seneca</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15786-Qd1e288">Ciborum copia sublimitas impeditur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15786-d1e293">
+          <ref corresp="#UUyf3f-d1e15786-Qd1e300" xml:id="UUyf3f-d1e15786-Rd1e295">Seneca</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15786-Qd1e300">Ventri obedientes, loco animalium vivimus, non
+              hominum. </quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15786-d1e305">
+          <ref corresp="#UUyf3f-d1e15786-Qd1e312" xml:id="UUyf3f-d1e15786-Rd1e307">Bernardus</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15786-Qd1e312">Voluptas gutturis, quae tanti hodie aestimatur,
+              vix duorum habet longitudinem digitorum; non durat nisi quantum durat transitus ille
+              per gulam: et pro illo transitu vult domina gula tot et tanta sibi praeparari.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

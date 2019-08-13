@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De continentia auditus</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De continentia auditus</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e24335">
+        <head xml:id="UUyf3f-d1e24335-Hd1e99" type="question-title">De continentia auditus</head>
+        <p xml:id="UUyf3f-d1e24335-d1e102">
+          <ref corresp="#UUyf3f-d1e24335-Qd1e112" xml:id="UUyf3f-d1e24335-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24335-Qd1e112">Necesse est, ut nec ad aures veniat, quod mens a
+              cogitationis aditu vigilans repellat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24335-d1e117">
+          <ref corresp="#UUyf3f-d1e24335-Qd1e127" xml:id="UUyf3f-d1e24335-Rd1e119">Augustinus,
+              <title>de decem Chordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24335-Qd1e127">Cur ambulamus delectati vanis canticis, nulli
+              rei profuturis, ad tempus dulcibus, in posterum amaris? Talibus enim turpitudinibus
+              cantionum animi humani illecti enervantur, et decidunt a virtute defluentes in
+              turpitudinem, et propter ipsas turpitudines postea sentiunt dolores, et cum
+              amaritudine digerunt, quod cum temporali delectatione et dulcedine biberunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24335-d1e132">
+          <ref corresp="#UUyf3f-d1e24335-Qd1e142" xml:id="UUyf3f-d1e24335-Rd1e134">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24335-Qd1e142">Nos ad patriam festinantes, mortiferos sirenarum
+              cantus, surda debemus aure transire.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24335-d1e147">
+          <ref corresp="#UUyf3f-d1e24335-Qd1e157" xml:id="UUyf3f-d1e24335-Rd1e149">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24335-Qd1e157">Semper linguam tuam de bonis loqui assuesce, et
+              auditum tuum ad bonorum magis laudem, quam ad malorum vituperationem commoda.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24335-d1e163">
+          <ref corresp="#UUyf3f-d1e24335-Qd1e173" xml:id="UUyf3f-d1e24335-Rd1e165">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24335-Qd1e173">Non licet tibi alterius vituperationem patienter
+              audire, quia nec ab aliis optas recipi tuam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24335-d1e178">
+          <ref corresp="#UUyf3f-d1e24335-Qd1e188" xml:id="UUyf3f-d1e24335-Rd1e180">Isidorus, in
+              <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24335-Qd1e188">Nulla aures tuas sermonum impudicitia subrepat.
+              Vanus sermo cito polluit mentem, et facile agitur, quod libenter auditur.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

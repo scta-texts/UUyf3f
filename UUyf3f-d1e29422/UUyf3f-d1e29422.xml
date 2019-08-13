@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De peccatis linguae, de blasphemia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De peccatis linguae, de blasphemia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e29422">
+        <head xml:id="UUyf3f-d1e29422-Hd1e99" type="question-title">De peccatis linguae, de
+          blasphemia</head>
+        <p xml:id="UUyf3f-d1e29422-d1e102">
+          <ref corresp="#UUyf3f-d1e29422-Qd1e112" xml:id="UUyf3f-d1e29422-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29422-Qd1e112">Filii in cordibus Deo maledicunt, cum recta
+              nostra opera a non rectis cogitationibus prodeunt; cum bona in aperto exerunt, sed
+              noxia in occulto moliuntur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29422-d1e117">
+          <ref corresp="#UUyf3f-d1e29422-Qd1e127" xml:id="UUyf3f-d1e29422-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29422-Qd1e127">Deo quippe maledicunt, cum se et ab illo
+              accepisse vires intelligunt, sed tamen de ejus muneribus propriam laudem
+              quaerunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29422-d1e132">
+          <ref corresp="#UUyf3f-d1e29422-Qd1e142" xml:id="UUyf3f-d1e29422-Rd1e134">Augustinus,
+              <title>de Vera Religione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29422-Qd1e142">Blasphemia est, cum aliqua mala dicuntur de
+              bonis. Itaque jam vulgo blasphemia est, ubi mala verba de Deo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29422-d1e147">
+          <ref corresp="#UUyf3f-d1e29422-Qd1e154" xml:id="UUyf3f-d1e29422-Rd1e149">Glossa
+            Augustini</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29422-Qd1e154">Blasphemia est per quam de Deo ipso falsa
+              dicuntur: et ideo pejus est blasphemare, quam pejerare: quia pejerando falsae rei
+              adhibetur testis Deus; blasphemando, de ipso Deo falsa dicuntur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29422-d1e160">
+          <ref corresp="#UUyf3f-d1e29422-Qd1e170" xml:id="UUyf3f-d1e29422-Rd1e162">Augustinus,
+              <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29422-Qd1e170">Flagellatus est Christus flagellis Judaeorum;
+              sed non minus flagellatur blasphemiis falsorum Christianorum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29422-d1e175">
+          <ref corresp="#UUyf3f-d1e29422-Qd1e185" xml:id="UUyf3f-d1e29422-Rd1e177">Joannes
+            Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29422-Qd1e185">Glorificemus Deum, non per fidem solum, sed
+              etiam per vitam; quia aliter nequaquam erit gloria, sed blasphemia. Non enim ita
+              blasphematur Deus a Gentili existente inquinato, ut a Christiano corrupto.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29422-d1e190">
+          <ref corresp="#UUyf3f-d1e29422-Qd1e197" xml:id="UUyf3f-d1e29422-Rd1e192">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29422-Qd1e197">Omne peccatum blasphemiae comparatum, minus
+              est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29422-d1e202">
+          <ref corresp="#UUyf3f-d1e29422-Qd1e209" xml:id="UUyf3f-d1e29422-Rd1e204">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29422-Qd1e209">Gravius peccat contemptor sedentis in coelo
+              majestatis, quam crucifixor ambulantis in terra paupertatis.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

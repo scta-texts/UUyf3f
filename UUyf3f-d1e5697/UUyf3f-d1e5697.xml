@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De sacerdotibus bonis</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De sacerdotibus bonis</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e5697">
+        <head xml:id="UUyf3f-d1e5697-Hd1e99" type="question-title">De sacerdotibus bonis</head>
+        <p xml:id="UUyf3f-d1e5697-d1e102">
+          <ref corresp="#UUyf3f-d1e5697-Qd1e112" xml:id="UUyf3f-d1e5697-Rd1e104">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5697-Qd1e112">Officii sacerdotalis est, ut viduis ac maritali
+              regimine desolatis impartiri solatia debeant, ut unde in hoc mundo humano adjutorio
+              privantur, sacerdotali tuitione possint remedia reperire.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5697-d1e117">
+          <ref corresp="#UUyf3f-d1e5697-Qd1e127" xml:id="UUyf3f-d1e5697-Rd1e119">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5697-Qd1e127">Redemptor noster ad sacerdotis officium non
+              quaerit aurum, sed animas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5697-d1e132">
+          <ref corresp="#UUyf3f-d1e5697-Qd1e142" xml:id="UUyf3f-d1e5697-Rd1e134">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5697-Qd1e142">Lux gregis est flamma pastoris. Decet enim
+              dominicum sacerdotem moribus et vita clarescere, quatenus in eo tanquam in vitae suae
+              speculo plebs commissa possit et eligere quod sequatur, et videre quod
+              corrigat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5697-d1e147">
+          <ref corresp="#UUyf3f-d1e5697-Qd1e157" xml:id="UUyf3f-d1e5697-Rd1e149">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5697-Qd1e157">Est in illusione nocturna valde necessaria
+              discretio, qua subtiliter pensari debeat, ex qua re menti acciderit dormientis.
+              Aliquando enim ex crapula; aliquando ex naturae superfluitate, vel infirmitate;
+              aliquando ex praecedenti cogitatione contingit. Et quidem cum ex naturae superfluitate
+              vel infirmitate evenerit, omnimodo haec illusio non est timenda, quia hanc animus
+              pertulisse magis dolendus est, quam fecisse. Cum vero ultra modum appetitus gulae in
+              sumendis alimentis rapitur, atque idcirco humorum receptacula gravantur, habet exinde
+              animus aliquem reatum, non tamen usque ad prohibitionem percipiendi sancti mysterii,
+              vel missarum solemnia celebrandi, cum fortasse aut dies festus exigit, aut exhibere
+              ministerium, pro eo quod sacerdos alius in loco deest, ipsa necessitas compellit. Nam
+              si adsunt alii qui implere ministerium valeant, illusio per crapulam facta a
+              perceptione sacri mysterii prohibere non debet; sed ab immolatione sacri mysterii, ut
+              arbitror, subtrahere se humiliter debet: si tamen dormientis mentem turpi imagine non
+              concusserit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5697-d1e163">
+          <ref corresp="#UUyf3f-d1e5697-Qd1e173" xml:id="UUyf3f-d1e5697-Rd1e165">Gregorius, in <title>Registro</title> et infra</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5697-Qd1e173">Si vero ex turpi cogitatione vigilantis oritur
+              illusio dormienti, patet animo suus reatus. Videt enim a qua radice inquinatio illa
+              processerit: quia quod cogitavit sciens, hoc pertulit nesciens. Sed pensandum est,
+              ipsa cogitatio utrum suggestione tantum, an delectatione, vel quod majus est, peccati
+              consensu acciderit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5697-d1e178">
+          <ref corresp="#UUyf3f-d1e5697-Qd1e188" xml:id="UUyf3f-d1e5697-Rd1e180">Augustinus, <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5697-Qd1e188">Sacerdos, cui omnis profitetur peccator, ante
+              quem statuitur omnis languor, in nullo illorum sit judicandus, quod ipse in aliis
+              judicare est promptus. Judicans enim alium, qui est ab aliis judicandus, condemnat
+              seipsum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5697-d1e193">
+          <ref corresp="#UUyf3f-d1e5697-Qd1e203" xml:id="UUyf3f-d1e5697-Rd1e195">Augustinus, <title>de Singularitate
+              clericorum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5697-Qd1e203">Contemplamini quid sit populo sancto praeesse, et
+              considerate quale sit divinis sacramentis insistere. Altario enim placere debent, qui
+              altario vivunt, et talis convenit cura sinceritatis sacratis, qualia sunt sacramenta
+              ipsa, quibus exhibent officia servitutis: ne contra Dominum offendant ipsi, quem
+              tractant, aut contra populum incipiant impedire, quod praedicant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5697-d1e208">
+          <ref corresp="#UUyf3f-d1e5697-Qd1e218" xml:id="UUyf3f-d1e5697-Rd1e210">Ambrosius, <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5697-Qd1e218">Religionis insignia, arma sunt
+              sacerdotis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5697-d1e223">
+          <ref corresp="#UUyf3f-d1e5697-Qd1e233" xml:id="UUyf3f-d1e5697-Rd1e225">Ambrosius, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5697-Qd1e233">Sobriam a turbis gravitatem, ac seriosam vitam,
+              et singulare pondus conversionis, dignitas sibi vendicat sacerdotalis. Quomodo enim
+              potest in exemplum observari a populo, qui nihil habet discretum a populo, nihil
+              dispar in moribus a multitudine? Quid enim in te miretur, si omnia tua facta bona in
+              semetipso recognoscat existere; si nihil in te aspiciat, quod ultra se inveniat; si ea
+              quae in se erubescit, in te, quem reverendum arbitratur, offendat?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5697-d1e238">
+          <ref corresp="#UUyf3f-d1e5697-Qd1e248" xml:id="UUyf3f-d1e5697-Rd1e240">Ambrosius, <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5697-Qd1e248">Sacerdotis est, nulli nocere, prodesse velle
+              omnibus, posse autem, solius Dei est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5697-d1e254">
+          <ref corresp="#UUyf3f-d1e5697-Qd1e264" xml:id="UUyf3f-d1e5697-Rd1e256">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5697-Qd1e264">Sacerdotis praedicatio operibus confirmanda est,
+              ita ut quod docet verbo, instruat et exemplo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e5697-d1e269">
+          <ref corresp="#UUyf3f-d1e5697-Qd1e276" xml:id="UUyf3f-d1e5697-Rd1e271">Glossa ex Ambrosio</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e5697-Qd1e276">Non facile accusanda est persona tam alti
+              ordinis, cum sit vice Christi.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

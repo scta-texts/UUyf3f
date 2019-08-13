@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De correptione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De correptione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e46164">
+        <head xml:id="UUyf3f-d1e46164-Hd1e99" type="question-title">De correptione</head>
+        <p xml:id="UUyf3f-d1e46164-d1e102">
+          <ref corresp="#UUyf3f-d1e46164-Qd1e112" xml:id="UUyf3f-d1e46164-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46164-Qd1e112">Quisque perpendere sollicite sciat, ne luctus
+              tempore verba increpationis inferat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46164-d1e117">
+          <ref corresp="#UUyf3f-d1e46164-Qd1e127" xml:id="UUyf3f-d1e46164-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46164-Qd1e127">Quos de aperta infirmitate reprehendimus,
+              superest ut de occultae fortitudinis aestimatione veneremur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46164-d1e132">
+          <ref corresp="#UUyf3f-d1e46164-Qd1e142" xml:id="UUyf3f-d1e46164-Rd1e134">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46164-Qd1e142">Dum unus corripitur, plurimi emendantur. Et
+              melius est, ut pro multorum salvatione unus condemnetur, quam per unius licentiam
+              multi periclitentur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46164-d1e147">
+          <ref corresp="#UUyf3f-d1e46164-Qd1e157" xml:id="UUyf3f-d1e46164-Rd1e149">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46164-Qd1e157">Ubi senior juvenibus exemplum ad interitum
+              praebet, ibi districta increpatione feriendus est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46164-d1e163">
+          <ref corresp="#UUyf3f-d1e46164-Qd1e173" xml:id="UUyf3f-d1e46164-Rd1e165">Isidorus, <title>de Summo bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46164-Qd1e173">Sicut peccatorem convenit argui, injustum sic,
+              conversum exulcerari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46164-d1e178">
+          <ref corresp="#UUyf3f-d1e46164-Qd1e188" xml:id="UUyf3f-d1e46164-Rd1e180">Isidorus, <title>de Summo bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46164-Qd1e188">Qui veraciter fraternam vult corripere ac sanare
+              infirmitatem, talem se praestare fraternae utilitati studeat, ut eum quem corripere
+              cupit, humili corde admoneat, hoc faciens ex compassione quasi communis periculi, ne
+              forte et ipse subjiciatur tentationi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46164-d1e193">
+          <ref corresp="#UUyf3f-d1e46164-Qd1e203" xml:id="UUyf3f-d1e46164-Rd1e195">Augustinus, in <title>Enchiridio</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46164-Qd1e203">Qui emendat verbere in quem potestas datur, et
+              coercet aliqua disciplina, et tamen peccatum ejus, quo ab illo laesus, aut offensus
+              est, dimittit ex corde, vel orat ut ei dimittatur, non solum in eo quod dimittit atque
+              orat, verum etiam in eo quod corripit, et aliqua emendatoria poena plectit,
+              eleemosynam dat. Multa enim bona praestantur invitis, quando eorum consulitur
+              utilitati, non voluntati.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46164-d1e208">
+          <ref corresp="#UUyf3f-d1e46164-Qd1e218" xml:id="UUyf3f-d1e46164-Rd1e210">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46164-Qd1e218">Quantum illi laudandi atque praedicandi sunt,
+              qui dignati non sunt cum mundo etiam florente florere; tantum increpandi et accusandi
+              sunt, quos perire cum pereunte delectat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46164-d1e223">
+          <ref corresp="#UUyf3f-d1e46164-Qd1e233" xml:id="UUyf3f-d1e46164-Rd1e225">Augustinus, <title>de Correptione et gratia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46164-Qd1e233">Corripiantur a praepositis suis subditi,
+              correptionibus utique de charitate venientibus, pro culparum diversitate diversis, vel
+              minoribus, vel amplioribus: quia et ipsa, quae damnatio nominatur, quam fecit
+              episcopale judicium, qua poena in Ecclesia nulla major est, potest, si Deus voluerit,
+              in correctionem saluberrimam cedere atque proficere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46164-d1e238">
+          <ref corresp="#UUyf3f-d1e46164-Qd1e248" xml:id="UUyf3f-d1e46164-Rd1e240">Augustinus, <title>de Doctrina Christiana</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46164-Qd1e248">Quid locis, et tempori, et personis conveniat,
+              diligenter attendendum est, ne temere flagitia reprehendamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46164-d1e254">
+          <ref corresp="#UUyf3f-d1e46164-Qd1e264" xml:id="UUyf3f-d1e46164-Rd1e256">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46164-Qd1e264">Omnis correptio similis est caeteris
+              tentationibus. Sicut enim omnis tentatio fideles quidem magis aedificat, infideles
+              autem amplius destruit: sic et omnis increpatio disciplinae, religiosum hominem et
+              timentem meliorem facit, irreligiosum autem et malum conturbat, et ad deterius ire
+              compellit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46164-d1e269">
+          <ref corresp="#UUyf3f-d1e46164-Qd1e276" xml:id="UUyf3f-d1e46164-Rd1e271">Bernardus</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46164-Qd1e276">Non contemnenda increpatio justi, quae ruina
+              peccati, cordis sanitas est, nec non et Dei via ad animam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46164-d1e281">
+          <ref corresp="#UUyf3f-d1e46164-Qd1e291" xml:id="UUyf3f-d1e46164-Rd1e283">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46164-Qd1e291">Nemo, fratres, vitia palpet; peccata nemo
+              dissimulet, cum viderit ordinem deperire, vel minui disciplinam. Est enim consentire,
+              silere cum arguere possis, et scimus quia similis poena facientes maneat, et
+              consentientes.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46164-d1e296">
+          <ref corresp="#UUyf3f-d1e46164-Qd1e303" xml:id="UUyf3f-d1e46164-Rd1e298">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46164-Qd1e303">Raro, et non sine magna necessitate,
+              objurgationes sunt adhibendae, et non nisi Dei respectu, remota ab oculo trabe, id est
+              odio.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

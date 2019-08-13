@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De justitia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De justitia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e24842">
+        <head xml:id="UUyf3f-d1e24842-Hd1e99" type="question-title">De justitia</head>
+        <p xml:id="UUyf3f-d1e24842-d1e102">
+          <ref corresp="#UUyf3f-d1e24842-Qd1e112" xml:id="UUyf3f-d1e24842-Rd1e104">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24842-Qd1e112">Quilibet peccator conversus in fletibus, jam
+              justus esse inchoat, cum coeperit accusare quod fecit. Cur enim justus non sit, qui
+              contra suam injustitiam jam per lacrymas saevit?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24842-d1e117">
+          <ref corresp="#UUyf3f-d1e24842-Qd1e127" xml:id="UUyf3f-d1e24842-Rd1e119">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24842-Qd1e127">Turpe est defendere, quod mihi prius non
+              constiterit justum esse: quia ego homines propter justitiam diligo, non autem
+              justitiam propter homines postpono.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24842-d1e132">
+          <ref corresp="#UUyf3f-d1e24842-Qd1e142" xml:id="UUyf3f-d1e24842-Rd1e134">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24842-Qd1e142">Justum est, ut visitatores illic consequantur
+              stipendium, quo pro Christo suum commodare reperiuntur obsequium.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24842-d1e147">
+          <ref corresp="#UUyf3f-d1e24842-Qd1e157" xml:id="UUyf3f-d1e24842-Rd1e149">Gregorius, in
+              <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24842-Qd1e157">Vera justitia compassionem habet, falsa vero
+              dedignationem: quamvis et justi soleant recte peccatoribus indignari. Sed aliud est
+              quod agitur typo superbiae, aliud quod zelo disciplinae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24842-d1e163">
+          <ref corresp="#UUyf3f-d1e24842-Qd1e173" xml:id="UUyf3f-d1e24842-Rd1e165">Augustinus,
+              <title>de Mirabilibus sacrae Scripturae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24842-Qd1e173">Perfecta justitia haec est, sacerdotium,
+              virginitas, et martyrium. Quae triplex justitia in Abel primo fuit, qui et munera Deo
+              placita obtulit, prosapiam sui generis in saeculo non reliquit, et martyrii coronam
+              sanguinis effusione promeruit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24842-d1e178">
+          <ref corresp="#UUyf3f-d1e24842-Qd1e188" xml:id="UUyf3f-d1e24842-Rd1e180">Augustinus,
+              <title>de Vera Religione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24842-Qd1e188">Haec est perfecta justitia, qua potius potiora,
+              et minus minora diligimus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24842-d1e193">
+          <ref corresp="#UUyf3f-d1e24842-Qd1e203" xml:id="UUyf3f-d1e24842-Rd1e195">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24842-Qd1e203"
+              source="http://scta.info/resource/adcd-l19-d1e3193">Haec in unoquoque justitia est, ut
+              Deus obedienti homini, animus corpori, ratio vitiis etiam repugnantibus imperet, vel
+              subigendo vel resistendo, atque ut ab ipso Deo petatur et meriti gratia et venia
+              delictorum, ас de exceptis donis gratiarum actio persolvatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24842-d1e208">
+          <ref corresp="#UUyf3f-d1e24842-Qd1e218" xml:id="UUyf3f-d1e24842-Rd1e210">Ambrosius,
+              <title>de Virginibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24842-Qd1e218">Justitia in alto quodam suggestu locata, videt
+              exploratque omnia, quae aliis potius nota quam sibi; non tam suas utilitates, quam
+              publica emolumenta rimatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24842-d1e223">
+          <ref corresp="#UUyf3f-d1e24842-Qd1e233" xml:id="UUyf3f-d1e24842-Rd1e225">Bernardus,
+              <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24842-Qd1e233">Justitia nec factura est utique alteri, quod
+              sibi fieri nolit; nec quod sibi fieri velit, alteri negatura. In his nempe duobus
+              liquet integrum esse justitiae statum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24842-d1e238">
+          <ref corresp="#UUyf3f-d1e24842-Qd1e248" xml:id="UUyf3f-d1e24842-Rd1e240">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24842-Qd1e248">Nunquam justus arbitratur se comprehendisse, nec
+              unquam dicit: <!--<i>-->Satis est<!--</i>-->; sed semper esurit, sititque justitiam,
+              ita ut si semper viveret, semper quantum in se est, justior esse contenderet,
+              semperque de bono in melius proficere totis viribus suis conaretur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24842-d1e258">
+          <ref corresp="#UUyf3f-d1e24842-Qd1e268" xml:id="UUyf3f-d1e24842-Rd1e260">Bernardus,
+              <title>de Contemptu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24842-Qd1e268">Panis animae justitia est, et soli
+              <!--<i>-->beati qui esuriunt<!--</i>--> illum, <!--<i>-->quoniam ipsi
+              saturabuntur<!--</i>-->. Nimirum ad imaginem Dei facta est anima rationalis; et
+              caeteris quidem omnibus rebus occupari potest, repleri omnino non potest.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24842-d1e281">
+          <ref corresp="#UUyf3f-d1e24842-Qd1e291" xml:id="UUyf3f-d1e24842-Rd1e283">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24842-Qd1e291">Justitia virtus est, quod suum est, unicuique
+              tribuens. Tribue ergo tribus quae sua sunt: redde superiori, redde inferiori, redde
+              aequali cuique quod debes.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24842-d1e296">
+          <ref corresp="#UUyf3f-d1e24842-Qd1e306" xml:id="UUyf3f-d1e24842-Rd1e298">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24842-Qd1e306">Habemus enim ante nos priores, post nos
+              juniores, a dextris amicos, a sinistris inimicos. Reddamus ergo singulis quod suum
+              est, prioribus obedientiam, junioribus doctrinam, amicis laetitiam, inimicis
+              patientiam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24842-d1e311">
+          <ref corresp="#UUyf3f-d1e24842-Qd1e318" xml:id="UUyf3f-d1e24842-Rd1e313">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24842-Qd1e318">Justitia est sua unicuique reddere, sibi et
+              proximis, et Deo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e24842-d1e323">
+          <ref corresp="#UUyf3f-d1e24842-Qd1e333" xml:id="UUyf3f-d1e24842-Rd1e325">Tullius, in
+              <title>Rhetoricis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e24842-Qd1e333">Justitia est habitus animi, communi utilitate
+              conservata, suam unicuique tribuens dignitatem.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

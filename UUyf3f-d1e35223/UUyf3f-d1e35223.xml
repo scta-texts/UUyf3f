@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De sapientia mala</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De sapientia mala</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e35223">
+        <head xml:id="UUyf3f-d1e35223-Hd1e99" type="question-title">De sapientia mala</head>
+        <p xml:id="UUyf3f-d1e35223-d1e102">
+          <ref corresp="#UUyf3f-d1e35223-Qd1e112" xml:id="UUyf3f-d1e35223-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35223-Qd1e112">Ad veram sapientiam venire non possunt, qui
+              falsae suae sapientiae fiducia decipiuntur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35223-d1e117">
+          <ref corresp="#UUyf3f-d1e35223-Qd1e127" xml:id="UUyf3f-d1e35223-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35223-Qd1e127">Valde difficile est, ut is, qui se sapientem
+              aestimat, mentem ad humilitatem reducat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35223-d1e132">
+          <ref corresp="#UUyf3f-d1e35223-Qd1e142" xml:id="UUyf3f-d1e35223-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35223-Qd1e142">Sapientia hujus mundi infidelis est, quia
+              mansura post mortem non est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35223-d1e147">
+          <ref corresp="#UUyf3f-d1e35223-Qd1e157" xml:id="UUyf3f-d1e35223-Rd1e149">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35223-Qd1e157">Quo quisque melius sapit, eo deterius delinquit,
+              et idcirco inexcusabiliter meretur supplicium, quia prudenter, si voluisset, potuit
+              vitare peccatum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35223-d1e163">
+          <ref corresp="#UUyf3f-d1e35223-Qd1e173" xml:id="UUyf3f-d1e35223-Rd1e165">Gregorius, in <title>Registro</title>, de quodam
+            monacho</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35223-Qd1e173">Sunt bona, quae in eo placent; sed hoc est in
+              illo vehemens vitium, quia valde sibi sapiens esse videtur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35223-d1e178">
+          <ref corresp="#UUyf3f-d1e35223-Qd1e188" xml:id="UUyf3f-d1e35223-Rd1e180">Augustinus, <title>de Libero arbitrio</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35223-Qd1e188">Vae qui derelinquunt te ducem, et oberrant in
+              vestigiis tuis; qui nutus tuos pro te amant, et obliviscuntur quid innuas. O
+              suavissima lux purgatae mentis sapientia! non enim cessas innuere nobis, quae et
+              quanta sis, et nutus tui sunt omne creaturarum decus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35223-d1e193">
+          <ref corresp="#UUyf3f-d1e35223-Qd1e203" xml:id="UUyf3f-d1e35223-Rd1e195">Augustinus, <title>de Quantitate animae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35223-Qd1e203">Odore ac sapore mire dijudicare pulmenta, et quo
+              lacu piscis captus sit, vel quod tenue vinum sit, nosse dicere, quaedam est miseranda
+              peritia; et his artibus cum quasi crevisse anima videtur, quae neglecta mente defluxit
+              in sensus, nihil aliud, quam tumuisse, vel etiam contabuisse judicanda est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35223-d1e208">
+          <ref corresp="#UUyf3f-d1e35223-Qd1e218" xml:id="UUyf3f-d1e35223-Rd1e210">Augustinus, <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35223-Qd1e218" source="http://scta.info/resource/adcd-l10-d1e1506">Philosophiam si vere ac fideliter
+              amasses, Christum Dei virtutem, et Dei sapientiam cognovisses, nec ab ejus saluberrima
+              humilitate, tumore inflatus vanae scientiae, resilisses.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35223-d1e223">
+          <ref corresp="#UUyf3f-d1e35223-Qd1e235" xml:id="UUyf3f-d1e35223-Rd1e225">Augustinus, <title>de Civitate Dei</title>
+          </ref>
+          <!-- can't find this -->
+          <cit>
+            <quote xml:id="UUyf3f-d1e35223-Qd1e235">Ineruditos liberalibus disciplinis, et omnino
+              quantum ad philosophorum attinet doctrinas impolitos, non peritos grammatica, non
+              armatos dialectica, non rhetorica inflatos, piscatores cum retibus fidei ad mare hujus
+              saeculi paucissimos misit, atque ita et ex omni genere tam multos pisces, et tanto
+              mirabiliores, quanto rariores, etiam ipsos philosophos coepit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35223-d1e240">
+          <ref corresp="#UUyf3f-d1e35223-Qd1e250" xml:id="UUyf3f-d1e35223-Rd1e242">Augustinus, <title>de Ordine disciplinae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35223-Qd1e250">Astrologia est magnum religiosis argumentum,
+              tormentumque curiosis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35223-d1e256">
+          <ref corresp="#UUyf3f-d1e35223-Qd1e266" xml:id="UUyf3f-d1e35223-Rd1e258">Ambrosius, <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35223-Qd1e266">Nemo potest vestitus amictu philosophiae, habitu
+              scilicet sapientiae saecularis, Christum videre.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35223-d1e271">
+          <ref corresp="#UUyf3f-d1e35223-Qd1e281" xml:id="UUyf3f-d1e35223-Rd1e273">Hieronymus, in originali <title>super Isaiam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35223-Qd1e281">Omnis pompa structuraque verborum et argumenta
+              dialectica, redigentur ad nihilum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35223-d1e286">
+          <ref corresp="#UUyf3f-d1e35223-Qd1e296" xml:id="UUyf3f-d1e35223-Rd1e288">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35223-Qd1e296">Daemonum cibus est carmina poetarum, saecularis
+              sapientiae vanitas, rhetoricorum pompa verborum: haec sua omnes vanitate delectant, et
+              dum aures versibus dulci modulatione currentibus capiunt, animam quoque penetrant, et
+              peccatoris interna devincunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35223-d1e301">
+          <ref corresp="#UUyf3f-d1e35223-Qd1e311" xml:id="UUyf3f-d1e35223-Rd1e303">Bernardus, <title>de Duodecim gradibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35223-Qd1e311">Sapere malum, sapere non est, sed
+              desipere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35223-d1e316">
+          <ref corresp="#UUyf3f-d1e35223-Qd1e326" xml:id="UUyf3f-d1e35223-Rd1e318">Bernardus, <title>de Contemptu mundi</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35223-Qd1e326">Quantos mundi sapientia maledicta supplantat, et
+              conceptum in eis extinguit spiritum, quem voluerat vehementer Dominus accendi! Noli,
+              inquit, praecipitanter agere; diu considera, diligenter intuere. Magnum est quod
+              proponis, et opus egens multa deliberatione: experire quid possis, amico consule, ne
+              post factum poenitere contingat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35223-d1e331">
+          <ref corresp="#UUyf3f-d1e35223-Qd1e341" xml:id="UUyf3f-d1e35223-Rd1e333">Bernardus, <title>de Contemptu mundi</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35223-Qd1e341">Sapientia mundi, terrena, animalis, diabolica
+              est, inimica salutis, suffocatrix vitae, mater tepiditatis, quae Deo solet vomitum
+              provocare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35223-d1e347">
+          <ref corresp="#UUyf3f-d1e35223-Qd1e357" xml:id="UUyf3f-d1e35223-Rd1e349">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35223-Qd1e357">Philosophorum ventosa loquacitas non bonus est
+              imber, qui sterilitatem magis intulit terris, quam fertilitatem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35223-d1e362">
+          <ref corresp="#UUyf3f-d1e35223-Qd1e372" xml:id="UUyf3f-d1e35223-Rd1e364">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35223-Qd1e372">Vinum saecularis scientiae inebriat quidem, sed
+              curiositate, non charitate; implens, non nutriens; inflans, non aedificans;
+              ingurgitans, non confortans.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35223-d1e377">
+          <ref corresp="#UUyf3f-d1e35223-Qd1e387" xml:id="UUyf3f-d1e35223-Rd1e379">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35223-Qd1e387">Liberalium artium ostentatio, molestos,
+              intempestivos, verbosos, sibi placentes facit.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

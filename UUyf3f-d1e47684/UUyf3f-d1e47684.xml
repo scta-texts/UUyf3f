@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De connexione virtutum</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De connexione virtutum</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e47684">
+        <head xml:id="UUyf3f-d1e47684-Hd1e99" type="question-title">De connexione virtutum</head>
+        <p xml:id="UUyf3f-d1e47684-d1e102">
+          <ref corresp="#UUyf3f-d1e47684-Qd1e112" xml:id="UUyf3f-d1e47684-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47684-Qd1e112">Omnes virtutes, in conspectu Conditoris, vicaria
+              ope se sublevant: ut quia una virtus sine alia, vel nulla est omnino, vel minima,
+              vicissim sua conjunctione fulciantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47684-d1e117">
+          <ref corresp="#UUyf3f-d1e47684-Qd1e127" xml:id="UUyf3f-d1e47684-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47684-Qd1e127">Valde singula quaelibet destituitur, si non una
+              virtus virtuti alii suffragetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47684-d1e132">
+          <ref corresp="#UUyf3f-d1e47684-Qd1e142" xml:id="UUyf3f-d1e47684-Rd1e134">Ambrosius, <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47684-Qd1e142">Connexae sunt sibi concatenataeque virtutes, ut
+              qui unam habet, plures habere videatur.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

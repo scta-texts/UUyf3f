@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De cruce spirituali</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De cruce spirituali</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e38814">
+        <head xml:id="UUyf3f-d1e38814-Hd1e99" type="question-title">De cruce spirituali</head>
+        <p xml:id="UUyf3f-d1e38814-d1e102">
+          <ref corresp="#UUyf3f-d1e38814-Qd1e112" xml:id="UUyf3f-d1e38814-Rd1e104">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38814-Qd1e112">Crux a cruciatu dicitur. Et duobus modis crucem
+              Domini bajulamus, cum aut per abstinentiam carnem affligimus, aut per compassionem
+              proximi necessitatem illius nostram putamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38814-d1e117">
+          <ref corresp="#UUyf3f-d1e38814-Qd1e127" xml:id="UUyf3f-d1e38814-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38814-Qd1e127">Quia Paulus nec mundi gloriam quaerebat, nec a
+              mundi gloria ipse quaerebatur, et se mundo, et mundum sibi, crucifixum esse
+              gloriabatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38814-d1e132">
+          <ref corresp="#UUyf3f-d1e38814-Qd1e142" xml:id="UUyf3f-d1e38814-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38814-Qd1e142">Cum vitiis et concupiscentiis carnem
+              crucifigimus, si sic gulam restringimus, ut jam de mundi gloria nil quaeramus. Nam qui
+              corpus macerat, sed honoribus anhelat, crucem carni intulit, sed mundo per
+              concupiscentiam pejus vivit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38814-d1e147">
+          <ref corresp="#UUyf3f-d1e38814-Qd1e157" xml:id="UUyf3f-d1e38814-Rd1e149">Augustinus, in Glossa, <title>Gal</title>., v, super
+            illud</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38814-Qd1e157">
+              <!--<i>-->Qui Christi sunt<!--</i>-->, etc.: Congruit nostrae devotioni, ut qui Domini
+              crucifixi passionem celebramus, reprimendarum carnalium voluptatum crucem nobis
+              faciamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38814-d1e167">
+          <ref corresp="#UUyf3f-d1e38814-Qd1e177" xml:id="UUyf3f-d1e38814-Rd1e169">Augustinus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38814-Qd1e177">Tota vita Christiani hominis, si secundum
+              Evangelium vivat, crux atque martyrium est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38814-d1e182">
+          <ref corresp="#UUyf3f-d1e38814-Qd1e192" xml:id="UUyf3f-d1e38814-Rd1e184">Ambrosius, <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38814-Qd1e192">Non amanti divitias, non amanti honores, non
+              amanti quae sua sunt, sed quae Jesu Christi; non amanti quae videntur, sed quae non
+              videntur; non cupido vitae, sed ei qui festinat dissolvi et cum Christo esse,
+              crucifixus est mundus. Hoc est enim crucem tollere, et sequi Christum, ut et nos
+              commoriamur, et sepeliamur cum eo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38814-d1e197">
+          <ref corresp="#UUyf3f-d1e38814-Qd1e207" xml:id="UUyf3f-d1e38814-Rd1e199">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38814-Qd1e207">Qui crucem portat, debet et mundo mori: nam
+              ferre crucem, mortificare seipsum est; ferre et non mori, simulatio hypocritarum
+              est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38814-d1e212">
+          <ref corresp="#UUyf3f-d1e38814-Qd1e222" xml:id="UUyf3f-d1e38814-Rd1e214">Bernardus, <title>de Floribus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38814-Qd1e222">Mira res: nihil formidolosius homini, quam
+              crucem pati. Sed quare timent homines crucem? quia latrones sunt. Si latrones non
+              essent, crucem non timerent.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38814-d1e227">
+          <ref corresp="#UUyf3f-d1e38814-Qd1e237" xml:id="UUyf3f-d1e38814-Rd1e229">Bernardus, <title>de Floribus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38814-Qd1e237">Circumire possum, Domine, coelum et terram, et
+              mare, et aridam, et nusquam te inveniam nisi tantum in cruce: ibi dormis, ibi pascis,
+              ibi cubas in meridie. Crux enim tua fides est, cujus latitudo charitas, longitudo
+              longanimitas, altitudo spes, profundum timor. In hac cruce te invenit, quicumque te
+              invenit. In hac cruce anima suspenditur a terra, et dulcia poma de ligno vitae
+              decerpit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38814-d1e242">
+          <ref corresp="#UUyf3f-d1e38814-Qd1e252" xml:id="UUyf3f-d1e38814-Rd1e244">Bernardus, in <title>Apologia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38814-Qd1e252">Vae portantibus crucem non, sicut Salvator,
+              suam, sed, sicut ille Cyrenaeus, alienam. Vae citharoedis citharizantibus, non, ut
+              illi de <!--<i>-->Apocalypsi<!--</i>-->, in citharis suis, sed vere, ut hypocritae, in
+              alienis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38814-d1e262">
+          <ref corresp="#UUyf3f-d1e38814-Qd1e272" xml:id="UUyf3f-d1e38814-Rd1e264">Bernardus, in <title>Apologia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38814-Qd1e272">Vae semel, et vae iterum pauperibus; vae,
+              inquam, semel, et vae iterum portantibus crucem Christi, et non sequentibus Christum:
+              quia nimirum cujus passionibus participant, humilitatem sectari negligunt. Duplici
+              quippe contritione conterentur, qui hujusmodi sunt, cum et hic pro temporali gloria se
+              affligant, et in futuro pro interna superbia ad aeterna supplicia
+              pertrahentur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38814-d1e277">
+          <ref corresp="#UUyf3f-d1e38814-Qd1e287" xml:id="UUyf3f-d1e38814-Rd1e279">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38814-Qd1e287">Neminem audiamus, fratres, non carnem et
+              sanguinem, non spiritum quemlibet descensum a cruce suadentem: persistamus in cruce,
+              moriamur in cruce, deponamur aliorum manibus, non nostra levitate.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

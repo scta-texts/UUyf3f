@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De studentibus</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De studentibus</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e6974">
+        <head xml:id="UUyf3f-d1e6974-Hd1e99" type="question-title">De studentibus</head>
+        <p xml:id="UUyf3f-d1e6974-d1e102">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e112" xml:id="UUyf3f-d1e6974-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e112">Idcirco nonnunquam studiosus tarditate
+              intelligentiae premitur, ut eo majora praemia retributionis inveniat, quo magis in
+              studio inventionis elaborat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e117">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e127" xml:id="UUyf3f-d1e6974-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e127">A fervore mentis, vel inter spirituales inimicos,
+              vel inter carnales quosque proximos, ipsi aliquo modo vivendi usu veterascimus, et
+              assumptae novitatis speciem fuscamus. A qua tamen vetustate quotidie, si studia
+              circumspectionis invigilent, orando, legendo, bene vivendo, renovamur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e132">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e142" xml:id="UUyf3f-d1e6974-Rd1e134">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e142">Qui idcirco in sacro eloquio ea, quae dignitatis
+              sunt, contemplatur, ut per hoc, quod intelligit, occupari ad quaestiones possit, quia
+              non dulcedine quaesitae veritatis sanari appetit, sed doctus videri: iste nimirum
+              intellectus sui pennas desuper non extendit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e147">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e157" xml:id="UUyf3f-d1e6974-Rd1e149">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e157">In verbis sacri eloquii iste debet studii nostri
+              ordo servari, ut haec ideo cognoscamus, quatenus de iniquitate nostra compuncti, et
+              cognoscentes mala quae fecimus, ipsa vitemus, ne alia faciamus; et cum jam ex magno
+              usu lacrymarum de peccatorum remissione coeperit esse fiducia, per verba Dei, quae
+              intelligimus, ad vitam quoque et alios trahamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e163">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e173" xml:id="UUyf3f-d1e6974-Rd1e165">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e173">Valde inter humana verba cor nostrum defluit;
+              cumque indubitanter constet, quod exterius occupationum tumultibus impulsum a
+              semetipso corruat, studere incessabiliter debet, ut per eruditionis studium
+              resurgat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e178">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e188" xml:id="UUyf3f-d1e6974-Rd1e180">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e188">Dum his, quibus aedificamur, innitimur, locum
+              sine dubio deceptionis excludimus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e193">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e203" xml:id="UUyf3f-d1e6974-Rd1e195">Hieronymus, in originali <title>super
+              Michaeam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e203">Non aestimes in eo te placere Deo, si sermones,
+              id est, scripturas illius legas: tunc enim scripturae prosunt legenti, si quod
+              legitur, opere compleatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e208">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e218" xml:id="UUyf3f-d1e6974-Rd1e210">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e218">Lector strenuus potius ad implendum quae legit,
+              quam ad sciendum erit promptissimus. Minus enim poena est nescire quod appetas, quam
+              ea, quae noveris, non implere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e223">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e233" xml:id="UUyf3f-d1e6974-Rd1e225">Isidorus, in <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e233">Disce quod nescis; ne doctor inutilis inveniaris,
+              antea esto auditor, postea doctor.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e238">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e248" xml:id="UUyf3f-d1e6974-Rd1e240">Isidorus, in <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e248">In disputatione tolle certamen, tolle pertinacem
+              vincendi defensionem: cede cito veritati, non contradicas justitiae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e254">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e264" xml:id="UUyf3f-d1e6974-Rd1e256">Isidorus, in <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e264">Disputare stude, non superare: plus dilige
+              audire, quam dicere; plus auscultare, quam loqui.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e269">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e279" xml:id="UUyf3f-d1e6974-Rd1e271">Augustinus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e279">Multos reperimus negligentissimos justitiae, et
+              avidissimos sapientiae: hos docet Scriptura divina pervenire non posse ad id quod
+              appetunt, nisi servando quod negligunt: <!--<i>-->Fili<!--</i>-->, inquit,
+              <!--<i>-->concupiscens sapientiam, conserva justitiam, et Dominus praebebit illam
+              tibi<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e292">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e302" xml:id="UUyf3f-d1e6974-Rd1e294">Augustinus, <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e302" source="http://scta.info/resource/adcd-l19-d1e3048">Philosophiae est finis boni: nulla
+              est igitur causa philosophandi nisi finis boni. Quamobrem, quae nullum boni finem
+              sectatur, nulla philosophiae secta dicenda est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e307">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e317" xml:id="UUyf3f-d1e6974-Rd1e309">Augustinus, <title>de Trinitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e317" source="http://scta.info/resource/adt-l1-d1e24">Nec pigebit me, sicubi haesito, quaerere; nec pudebit me, sicubi erro,
+              discere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e322">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e332" xml:id="UUyf3f-d1e6974-Rd1e324">Augustinus, <title>de Trinitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e332" source="http://scta.info/resource/adt-l1-d1e27">Quisquis haec legit, ubi pariter certus est, pergat mecum; ubi pariter haesitat,
+              quaerat mecum; ubi errorem suum cognoscit, redeat ad me; ubi meum cognoscit, revocet
+              me.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e337">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e347" xml:id="UUyf3f-d1e6974-Rd1e339">Augustinus, <title>de Trinitate</title> et post</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e347" source="http://scta.info/resource/adt-l1-d1e27">Et hoc placitum primum atque tutum coram Domino Deo nostro, cum omnibus gratum, quia
+              ea, quae scribo legunt: et in omnibus scriptis meis, maxime in his, ubi quaeritur
+              unitas Trinitatis Patris, et Filii, et Spiritus sancti: quia nec periculosius alicubi
+              erratur, nec laboriosius aliquid quaeritur, nec fructuosius aliquid invenitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e353">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e363" xml:id="UUyf3f-d1e6974-Rd1e355">Augustinus, <title>de Opere monachorum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e363">Quae est ista perversitas, lectioni obtemperare
+              nolle, dum vult ei vacare; et dum id quod bonum est, diutius legatur, ideo facere
+              nolle, quod legitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e368">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e378" xml:id="UUyf3f-d1e6974-Rd1e370">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e378">Scias quo ordine, quo studio, quo fine quaeque
+              nosse oporteat. Quo ordine, ut id prius addiscas, quod est maturius ad salutem. Quo
+              studio, ut id ardentius, quod est vehementius ad amorem. Quo fine, ut non ad inanem
+              gloriam, aut propter curiositatem, aut aliquid simile; sed tantum ad tuam et proximi
+              aedificationem, et ad Dei gloriam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e383">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e393" xml:id="UUyf3f-d1e6974-Rd1e385">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e393">Sunt qui scire volunt eo fine tantum, ut sciant,
+              et turpis curiositas est; et sunt, qui scire volunt, ut sciantur ipsi, et turpis
+              vanitas est; et sunt item, qui scire volunt, ut scientiam suam aliis vendant, verbi
+              causa pro pecunia et honoribus; et turpis quaestus est: sed sunt quoque qui scire
+              volunt, ut alios aedificent, et charitas est; et item, qui scire volunt, ut
+              aedificentur, et prudentia est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e398">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e408" xml:id="UUyf3f-d1e6974-Rd1e400">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e408">Falleris, fili, falleris, si te putas invenire
+              apud mundi magistros scientiam, quam soli Christi discipuli, id est mundi
+              contemptores, Dei munere assequuntur. Non enim hanc lectio docet, sed unctio; non
+              littera, sed spiritus; non eruditio, sed exercitatio in mandatis Dei.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e413">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e423" xml:id="UUyf3f-d1e6974-Rd1e415">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e423">Non recte proditur ad scientiae limen, nisi
+              justitiae germen praecedat ad animam, ex quo formetur granum vitae, et non palea vanae
+              gloriae. </quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e428">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e438" xml:id="UUyf3f-d1e6974-Rd1e430">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e438">Pessimus mons inflans scientia; in quem tamen
+              usque hodie tanta videas concupiscentia plurimos reperire filiorum Adam, ac si non
+              noverint, quantum pater illorum illius montis ascensu descenderit; imo, quam graviter
+              ceciderit, quantum tota dejecta sit et conquassata posteritas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6974-d1e444">
+          <ref corresp="#UUyf3f-d1e6974-Qd1e454" xml:id="UUyf3f-d1e6974-Rd1e446">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6974-Qd1e454">Tandiu discendum est quemadmodum vivas, quandiu
+              vivis.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

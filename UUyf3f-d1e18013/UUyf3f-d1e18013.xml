@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De confessione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De confessione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e18013">
+        <head xml:id="UUyf3f-d1e18013-Hd1e99" type="question-title">De confessione</head>
+        <p xml:id="UUyf3f-d1e18013-d1e102">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e112" xml:id="UUyf3f-d1e18013-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e112">Haec sunt verae humilitatis testimonia, scilicet
+              et iniquitatem suam corde cognoscere, et cognitam voce confessionis integraliter
+              aperire.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e117">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e127" xml:id="UUyf3f-d1e18013-Rd1e119">Augustinus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e127">Utiliter ac salubriter admonemur, ut peccata
+              nostra debeamus jugiter et humiliter non solum Deo, sed etiam sanctis et Deum
+              timentibus confiteri.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e132">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e142" xml:id="UUyf3f-d1e18013-Rd1e134">Augustinus,
+              <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e142">Ista assidua peccata, et quodammodo quasi
+              necessaria, assidua laventur confessione, assidua restaurentur compunctione.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e147">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e157" xml:id="UUyf3f-d1e18013-Rd1e149">Augustinus,
+              <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e157">Fit veniale per confessionem, quod criminale
+              erat in operatione.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e163">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e173" xml:id="UUyf3f-d1e18013-Rd1e165">Augustinus,
+              <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e173">Quoniam verecundia magna est poena, qui
+              erubescit pro Christo, fit dignus misericordia. Unde patet, quia quanto pluribus
+              confitebitur in spe veniae turpitudinem criminis, tanto facilius consequetur gratiam
+              remissionis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e178">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e188" xml:id="UUyf3f-d1e18013-Rd1e180">Augustinus,
+              <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e188">Qui confiteri vult peccata, ut inveniat gratiam,
+              quaerat sacerdotem scientem ligare et solvere; ne cum negligens circa se extiterit,
+              negligatur ab illo, qui eum misericorditer monet et petit, ne ambo in foveam cadant,
+              quam stultus evitare noluit. Tanta itaque vis confessionis est, ut si deest sacerdos,
+              confiteatur proximo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e193">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e203" xml:id="UUyf3f-d1e18013-Rd1e195">Augustinus,
+              <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e203">Qui omnino confitetur, sacerdoti meliori, quam
+              potest, confiteatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e208">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e218" xml:id="UUyf3f-d1e18013-Rd1e210">Augustinus,
+              <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e218">Cautus sit poenitens, ne verecundia ductus
+              dividat apud se confessionem, ut diversa diversis velit sacerdotibus manifestare.
+              Quidam enim uni celant, quae alii manifestanda conservant: quod est se laudare, et ad
+              hypocrisim tendere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e223">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e233" xml:id="UUyf3f-d1e18013-Rd1e225">Augustinus,
+              <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e233">Neque facilius ab inimico dejicimur, quam cum
+              eum superbiendo imitamur; nec vehementius eum prosternimus, quam cum humilitate
+              Dominum sequimur; nec acutiores ei dolores infigimus, quam cum plagas peccatorum
+              nostrorum confitendo et poenitendo sanamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e238">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e248" xml:id="UUyf3f-d1e18013-Rd1e240">Augustinus,
+              <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e248">Peccata sive parva, sive magna sint, impunita
+              esse non possunt, quia vel homine poenitente, vel Deo judicante plectuntur; cessat
+              autem vindicta divina, si confessio praecurrat humana.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e254">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e264" xml:id="UUyf3f-d1e18013-Rd1e256">Augustinus, in
+            libris <title>Confessionum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e264">Tibi, Domine, cujus oculis nuda est abyssus
+              humanae conscientiae, quid occultum esset in me, etiamsi nollem confiteri tibi? Те
+              enim absconderem mihi, non me tibi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e269">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e279" xml:id="UUyf3f-d1e18013-Rd1e271">Augustinus, in
+            libris <title>Confessionum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e279">Obsecro te, Deus meus, et meipsum mihi indica,
+              ut confitear oraturis pro me fratribus meis, quod in me saucium comperero.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e284">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e294" xml:id="UUyf3f-d1e18013-Rd1e286">Ambrosius,
+              <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e294">Qui jaces in tenebris conscientiae, et
+              delictorum tuorum sordibus, quasi in reorum carcere, exi foras; delictum proprium
+              prode, ut justificeris: <!--<i>-->Ore<!--</i>--> enim <!--<i>-->confessio fit ad
+              salutem<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e307">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e317" xml:id="UUyf3f-d1e18013-Rd1e309">Joannes
+            Chrysostomus, <title>de Compunctione cordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e317">Habes accusatorem acerbissimum et immitem:
+              praeveni ergo eum, et obtura os ejus impudentissimum, propria sponte confitendo
+              delicta.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e322">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e332" xml:id="UUyf3f-d1e18013-Rd1e324">Isidorus, in
+              <title>Etymologiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e332">Confessio erroris, professio est desinendi.
+              Desinendum ergo a peccatis est, dum quis confessus est: confessio autem antecedit,
+              remissio sequitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e337">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e347" xml:id="UUyf3f-d1e18013-Rd1e339">Isidorus, in
+              <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e347">Confessio sanat, confessio justificat, confessio
+              peccati veniam donat. Omnis spes in confessione consistit, in confessione locus
+              misericordiae est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e353">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e363" xml:id="UUyf3f-d1e18013-Rd1e355">Isidorus, in
+              <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e363">Vitia cordis tui revela: pravas cogitationes
+              tuas illico manifesta: peccatum enim tuum proditum, cito curatur; crimen autem
+              occultum tacendo ampliatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e368">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e378" xml:id="UUyf3f-d1e18013-Rd1e370">Isidorus,
+              <title>de summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e378">Servo Dei tanta recordatio esse debet peccati,
+              ut ea, quae gessit, semper lacrymans confiteatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e383">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e393" xml:id="UUyf3f-d1e18013-Rd1e385">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e393">Ama confessionem, si affectas decorem; revera
+              ubi confessio, ibi pulchritudo, ibi decor. Si peccata sunt, in confessione lavantur;
+              si bona opera, confessione commendantur. Cum mala tua confiteris,
+              <!--<i>-->sacrificium est Deo spiritus contribulatus<!--</i>-->: cum Dei beneficia
+              dicis, <!--<i>-->immolas Deo sacrificium laudis<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e406">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e416" xml:id="UUyf3f-d1e18013-Rd1e408">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e416">Absque confessione justus judicatur ingratus, et
+              peccator mortuus reputatur: <!--<i>-->A mortuo<!--</i>--> quippe, tanquam qui non est,
+              <!--<i>-->perit confessio<!--</i>-->. Confessio igitur peccatoris est vita, sed justi
+              gloria.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e429">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e439" xml:id="UUyf3f-d1e18013-Rd1e431">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e439">Sunt qui confitendo, sicut fabulam peccatorum
+              suorum narrant historiam, et aegritudines animae suae sine verecundia et confusione
+              dinumerant, et pene sine poenitentia et affectu doloris, et ideo nihil de consolatione
+              reportatur. Ille vero cito lacrymas invenit, et resolvitur in gemitum compunctionis,
+              qui habet sensum doloris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e444">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e454" xml:id="UUyf3f-d1e18013-Rd1e446">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e454">Omne quod remordet conscientiam, confitere
+              humiliter, pure, fideliter.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e460">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e467" xml:id="UUyf3f-d1e18013-Rd1e462">Glossa super
+            Mattheum</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e467">Confessio peccatorum testimonium est
+              conscientiae timentis Deum: qui enim timet judicium Dei, peccata non erubescit
+              confiteri. Perfectus enim timor solvit omnem pudorem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e472">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e479" xml:id="UUyf3f-d1e18013-Rd1e474">Glossa super
+            Mattheum</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e479">Ideo jubemur confiteri peccata, ut erubescentiam
+              patiamur pro poena.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18013-d1e484">
+          <ref corresp="#UUyf3f-d1e18013-Qd1e494" xml:id="UUyf3f-d1e18013-Rd1e486">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18013-Qd1e494">Somnium narrare, vigilantis est; et vitia sua
+              confiteri, sanitatis indicium est. Expergiscamur ergo, ut errores nostros redarguere
+              possimus.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

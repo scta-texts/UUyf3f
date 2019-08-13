@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De innocentia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De innocentia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e37895">
+        <head xml:id="UUyf3f-d1e37895-Hd1e99" type="question-title">De innocentia</head>
+        <p xml:id="UUyf3f-d1e37895-d1e102">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e112" xml:id="UUyf3f-d1e37895-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e112">Plerumque res quaelibet innocenti mente
+              conspicitur, sed ipso conspectu animus concupiscentiae gladio confoditur. Non enim
+              David Uriae conjugem ideo studiose respexit, quia concupiverat; sed ideo potius
+              concupivit, quia incaute respexit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37895-d1e117">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e127" xml:id="UUyf3f-d1e37895-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e127">Nil simplici corde felicius, quia quo
+              innocentiam erga alios exhibet, nihil est, quod pati ab aliis formidet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37895-d1e132">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e142" xml:id="UUyf3f-d1e37895-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e142">Illum facit humana derisio Deo proximum, quem ab
+              humanis pravitatibus vitae innocentia servat alienum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37895-d1e147">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e157" xml:id="UUyf3f-d1e37895-Rd1e149">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e157">Si mentis innocentia custoditur, etiam si qua
+              foris infirma sunt, quandoque roborantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37895-d1e163">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e173" xml:id="UUyf3f-d1e37895-Rd1e165">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e173">Sicut multorum jam experimento didicimus, in
+              damno expenditur, quidquid cum peccato congregatur. Si igitur vultis nihil injuste
+              perdere, summopere studete de injustitia nihil habere. In terrenis enim rebus, semper
+              causa damni est origo peccati.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37895-d1e178">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e188" xml:id="UUyf3f-d1e37895-Rd1e180">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e188">Vosmetipsos ita, ante conspectum omnipotentis
+              Domini, in bonis operibus debetis exhibere, ut inveniri in vestra actione nequeat,
+              quod ab eodem Deo judice percuti, vel homine insidiante valeat accusari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37895-d1e193">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e203" xml:id="UUyf3f-d1e37895-Rd1e195">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e203">Fit plerumque Deo gratior amore ardens vita post
+              culpam, quam securitate torpens innocentia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37895-d1e208">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e218" xml:id="UUyf3f-d1e37895-Rd1e210">Ambrosius, <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e218">Hoc est innocentem esse, ignorare quod noceat;
+              et si circumscribitur ab aliquo de omnibus, tamen bene judicat, qui fidem esse in
+              omnibus arbitratur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37895-d1e223">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e233" xml:id="UUyf3f-d1e37895-Rd1e225">Ambrosius, <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e233">Beatam vitam efficiunt tranquillitas
+              conscientiae, et securitas innocentiae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37895-d1e238">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e248" xml:id="UUyf3f-d1e37895-Rd1e240">Ambrosius, <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e248">Facilius inveni, qui innocentiam servaverint,
+              quam qui congrue egerint poenitentiam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37895-d1e254">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e264" xml:id="UUyf3f-d1e37895-Rd1e256">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e264">Malitiam, odium, atque invidiam, quae vel
+              maxima, vel sola semina sunt nocendi, christiana a se anima propellat: neque manu
+              tantum aut lingua, sed corde quoque custodiat innocentiam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37895-d1e269">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e279" xml:id="UUyf3f-d1e37895-Rd1e271">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e279">Tum demum laetare de innocentiae conscientia, si
+              cum potes adjuvare non desistas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37895-d1e284">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e294" xml:id="UUyf3f-d1e37895-Rd1e286">Joannes Chrysostomus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e294">Gaude, innocentia, et exulta; gaude, inquam,
+              quia ubique illaesa es, ubique secura. Si tentaris, proficis: si humiliaris, erigeris:
+              si pugnas, vincis: si occideris, coronaris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37895-d1e299">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e309" xml:id="UUyf3f-d1e37895-Rd1e301">Augustinus, <title>super Psalmos</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e309">Duobus modis nocet homo; si facit miserum, vel
+              si deserit miserum. Innocens vero est, qui nec sibi, nec aliis nocet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37895-d1e314">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e324" xml:id="UUyf3f-d1e37895-Rd1e316">Augustinus, <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e324" source="http://scta.info/resource/adcd-l1-d1e149">Absit a mente christiana, quae in
+              Deo suo spe posita, cujus adjutorio innititur, ut mens talis cujuslibet carnis
+              voluptatibus ad consensum turpitudinis cedat. Quod si illa concupiscentia, vel
+              inobedientia, quae in membris habitat, praeter nostrae voluntatis legem quasi sua lege
+              movetur, quanto magis absque culpa est in corpore non consentientis, si absque culpa
+              est in corpore dormientis!</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37895-d1e329">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e339" xml:id="UUyf3f-d1e37895-Rd1e331">Augustinus, <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e339" source="http://scta.info/resource/adcd-l19-d1e3137">Pertinet ad innocentis officium,
+              non solum nemini malum inferre, verum etiam cohibere a peccato, vel punire peccatum:
+              ut aut ipse, qui plectitur, corrigatur experimento, aut alii terreantur
+              exemplo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37895-d1e345">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e355" xml:id="UUyf3f-d1e37895-Rd1e347">Augustinus, <title>de Vita christiana</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e355">Nihil Deo dignius, nihil carius esse potest,
+              quam ut innocentia tota observatione teneatur. Licet enim quis in aliis operibus
+              devotus appareat, si illam non habuerit, sibi frustra blanditur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37895-d1e360">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e370" xml:id="UUyf3f-d1e37895-Rd1e362">Cassiodorus, in libro <title>de Anima</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e370">Vir fixus, purus, innocuus omnes laudat, se
+              semper accusat: ut complaceat universis, sibi soli displicet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37895-d1e375">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e385" xml:id="UUyf3f-d1e37895-Rd1e377">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e385">Non eris innocens, si aut punias eum, cui
+              fortasse parcendum esset; aut parcas ei, qui fuerat puniendus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37895-d1e390">
+          <ref corresp="#UUyf3f-d1e37895-Qd1e400" xml:id="UUyf3f-d1e37895-Rd1e392">Anselmus, <title>de Similitudinibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37895-Qd1e400">Si hinc peccati pudorem, et illinc cernerem
+              inferni horrorem, et necessario uni eorum haberem immergi, prius me in infernum
+              immergerem, quam peccatum in me immitterem. Mallem enim purus a peccato, et innocens,
+              gehennam intrare, quam sorde pollutus coelorum regna tenere: cum constet solos malos
+              in inferno torqueri et solos bonos in coelesti beatitudine foveri.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

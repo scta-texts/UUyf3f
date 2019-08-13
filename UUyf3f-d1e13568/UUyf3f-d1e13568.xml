@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De peccato</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De peccato</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e13568">
+        <head xml:id="UUyf3f-d1e13568-Hd1e99" type="question-title">De peccato</head>
+        <p xml:id="UUyf3f-d1e13568-d1e102">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e112" xml:id="UUyf3f-d1e13568-Rd1e104">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e112">Quoties actu, quoties verbo, quoties cogitatione
+              delinquimus, Deum contra nos toties irritamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e117">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e127" xml:id="UUyf3f-d1e13568-Rd1e119">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e127">Districta sunt omnipotentis Dei judicia; et qui
+              peccatorem diu expectat ut redeat, non redeuntem atque contemnentem gravius
+              damnat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e132">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e142" xml:id="UUyf3f-d1e13568-Rd1e134">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e142">Peccatum quippe quod per poenitentiam citius non
+              deletur, aut peccatum est et causa peccati, aut peccatum simul, et causa, et poena
+              peccati.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e147">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e157" xml:id="UUyf3f-d1e13568-Rd1e149">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e157">Graviores culpae sunt, quae superducta specie
+              virtutis, virtutes se mentiuntur esse.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e163">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e173" xml:id="UUyf3f-d1e13568-Rd1e165">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e173">Peccatum quod poenitentia non diluit, ipso suo
+              pondere mox ad aliud trahit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e178">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e188" xml:id="UUyf3f-d1e13568-Rd1e180">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e188">Tribus modis peccatum committitur, scilicet
+              ignorantia, infirmitate, et studio. Et gravius quidem infirmitate, quam ignorantia,
+              sed multo gravius studio, quam infirmitate peccatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e193">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e203" xml:id="UUyf3f-d1e13568-Rd1e195">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e203">In gravibus peccatis quis positus, cum suis
+              premitur, aliena non diluit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e208">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e218" xml:id="UUyf3f-d1e13568-Rd1e210">Gregorius, in
+              <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e218">Nonnunquam in parva deterius, quam in majore
+              culpa peccatur. Major enim, quo citius, quia sit culpa, agnoscitur, eo etiam celerius
+              emendatur. Minor vero, dum quasi nulla creditur, eo pejus, quo et securius in usu
+              retinetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e223">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e233" xml:id="UUyf3f-d1e13568-Rd1e225">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e233">Apud homines culpa, et apud Deum poena est,
+              nolle quemquam bonum imitari, quod placet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e238">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e248" xml:id="UUyf3f-d1e13568-Rd1e240">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e248">Plerumque quod in laicis culpa est, hoc crimen
+              est in sacro ordine constitutis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e254">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e264" xml:id="UUyf3f-d1e13568-Rd1e256">Augustinus, de
+              <title>Confessionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e264">Ibam ad inferos, portans omnia mala, quae
+              commiseram, et in te, et in me, et in alios multos, et gravia super originalis peccati
+              vinculum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e269">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e279" xml:id="UUyf3f-d1e13568-Rd1e271">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e279">Paucissimi sunt tantae felicitatis, ut ab ipsa
+              ineunte adolescentia, nulla damnabilia peccata committant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e284">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e294" xml:id="UUyf3f-d1e13568-Rd1e286">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e294"
+              source="http://scta.info/resource/adcd-l21-d1e3578">Quae sunt ista peccata, quae ita
+              impediunt perventionem ad regnum Dei, ut tamen sanctorum amicorum meritis impetrent
+              indulgentiam? Difficillimum est invenire, periculosissimum est diffinire.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e299">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e309" xml:id="UUyf3f-d1e13568-Rd1e301">Augustinus,
+              <title>de Spiritu et littera</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e309">Sicut non impediunt a vita aeterna justum
+              quaedam peccata venialia, sine quibus haec vita non ducitur, sic ad salutem aeternam
+              nihil prosunt impio aliqua bona opera, sine quibus difficillime vita cujuslibet
+              pessimi hominis invenitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e314">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e324" xml:id="UUyf3f-d1e13568-Rd1e316">Augustinus,
+              <title>contra Julianum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e324">Diluuntur in baptismate cuncta peccata, et
+              originaliter tracta, et ignoranter, vel scienter adjecta.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e329">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e339" xml:id="UUyf3f-d1e13568-Rd1e331">Augustinus,
+              <title>contra Julianum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e339">Cum non ad suum referuntur auctorem dona Dei,
+              hoc ipso male his utentes efficiuntur injusti.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e345">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e355" xml:id="UUyf3f-d1e13568-Rd1e347">Augustinus,
+              <title>ad Orosium</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e355">Malum natura non est, sed privatio boni hoc
+              nomen accepit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e360">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e370" xml:id="UUyf3f-d1e13568-Rd1e362">Augustinus,
+              <title>de Baptismo parvulorum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e370">Sicut eorum, per quos renascuntur parvuli,
+              justitiae spiritus responsione sua trajicit in eos fidem, quam voluntate propria
+              nondum habere potuerunt; sic eorum, per quos nascuntur, caro peccati trajicit in eos
+              noxam, quam nondum vita propria contraxerunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e375">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e385" xml:id="UUyf3f-d1e13568-Rd1e377">Augustinus, in
+              <title>Meditationibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e385">Certe, о miser homo, ipsa sola plus est vitanda
+              peccati foeditas, quam quaelibet tormentorum immanitas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e390">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e400" xml:id="UUyf3f-d1e13568-Rd1e392">Augustinus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e400">Quem non potest diabolus devorare seductum ad
+              nequitiam, famam ipsius inquinare conatur, ut si fieri potest, opprobriis et malarum
+              linguarum detractione deficiat, et sic in ejus fauces ruat. Si autem famam innocentis
+              maculare potuerit, hoc ei persuadere tentat, ut per malevolas suspiciones de fratre
+              suo judicet, et sic ab illo implicatus absorbeatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e405">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e415" xml:id="UUyf3f-d1e13568-Rd1e407">Augustinus,
+              <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e415">Quia satagentibus vigilantibusque ne peccent,
+              subrepunt quodammodo ex humana fragilitate peccata, quamvis parva, quamvis pauca, non
+              tamen nulla, eadem ipsa magna fiunt, et gravia, si eis superbia incrementum et pondus
+              adjecerit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e420">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e430" xml:id="UUyf3f-d1e13568-Rd1e422">Augustinus,
+              <title>de Patientia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e430">Tanto rectius majori supplicio dignum
+              judicaveris animum, quanto magis vitiis subdit instrumenta virtutum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e436">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e446" xml:id="UUyf3f-d1e13568-Rd1e438">Augustinus,
+              <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e446">Nullum peccatum adeo parvum, quod non crescat
+              neglectum. Non enim considerandum est quid fecerit, sed quem offenderit, quam bonus
+              est, quam benignus, quam pius.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e451">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e461" xml:id="UUyf3f-d1e13568-Rd1e453">Augustinus,
+              <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e461">Qui peccat, et gratiam suam recuperare non amat,
+              et nunquam curat ab eo diligi, qui totus est amor et charitas, nec ad illud tendit,
+              unde sumpsit arrham; in Spiritum sanctum peccat, et nunquam post mortem, sicut nec
+              vivens, consequetur veniam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e466">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e476" xml:id="UUyf3f-d1e13568-Rd1e468">Augustinus,
+              <title>super canonicum Joannis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e476">Ista, quae dicimus peccata levia, noli
+              contemnere. Si contemnis quando appendis, expavesce quando numeras; multa levia
+              faciunt unum grande.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e481">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e491" xml:id="UUyf3f-d1e13568-Rd1e483">Ambrosius,
+              <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e491">Qui non repellit a socio suo injuriam si potest,
+              tam est in vitio, quam ille qui facit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e496">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e506" xml:id="UUyf3f-d1e13568-Rd1e498">Ambrosius, in
+              <title>Apologia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e506">Peccatum donatur per gratiam, deletur per
+              sanguinem crucis, tegitur per charitatem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e511">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e521" xml:id="UUyf3f-d1e13568-Rd1e513">Joannes
+            Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e521">Excogitate quantum est malum, nos ex hominibus
+              pares angelis, ad feras transponere. Ventri enim servire, et pecuniarum concupiscentia
+              detineri, et irasci, et mordere, et calcitrare, non hominum, sed ferarum est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e527">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e537" xml:id="UUyf3f-d1e13568-Rd1e529">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e537">Si unum vitium districte judicetur, et alia
+              negligantur, inanis est labor.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e542">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e552" xml:id="UUyf3f-d1e13568-Rd1e544">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e552">Judicio divino in reatum nequiorem labuntur, qui
+              distringere minora sua facta contemnunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e557">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e567" xml:id="UUyf3f-d1e13568-Rd1e559">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e567">Majoris est culpae manifeste, quam occulte
+              peccare: dupliciter enim reus est qui aperte delinquit, quia et agit malum, et docet
+              malum facere. Unde Isaias: <!--<i>-->Peccatum suum quasi Sodoma
+              praedicaverunt<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e576">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e586" xml:id="UUyf3f-d1e13568-Rd1e578">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e586">Cavete ne quis parva reputet, quantumlibet
+              parva, scienter commissa; nemo dicat in corde suo: <!--<i>-->Levia sunt ista; non curo
+              corrigere; non est magnum si in his maneam venialibus minimisque peccatis<!--</i>-->.
+              Нaeс est impoenitentia, dilectissimi, haec blasphemia in Spiritum sanctum; blasphemia
+              autem irremissibilis est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e13568-d1e595">
+          <ref corresp="#UUyf3f-d1e13568-Qd1e605" xml:id="UUyf3f-d1e13568-Rd1e597">Anselmus, de
+              <title>Similitudinibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e13568-Qd1e605">Natura peccati est, ut non facile videatur ab
+              illo qui eo premitur; sed mox ut cessaverit, et ab illo se alienaverit, tunc demum
+              considerat in quanta foeditate et miseria jacuerat.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

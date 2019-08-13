@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De peccatis linguae, de stultiloquio</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De peccatis linguae, de stultiloquio</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e27751">
+        <head xml:id="UUyf3f-d1e27751-Hd1e99" type="question-title">De peccatis linguae, de
+          stultiloquio</head>
+        <p xml:id="UUyf3f-d1e27751-d1e102">
+          <ref corresp="#UUyf3f-d1e27751-Qd1e112" xml:id="UUyf3f-d1e27751-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27751-Qd1e112">Stulte contra Deum loquitur, qui inter divinae
+              animadversionis flagella positus, justificare semetipsum conatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27751-d1e117">
+          <ref corresp="#UUyf3f-d1e27751-Qd1e127" xml:id="UUyf3f-d1e27751-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27751-Qd1e127">Duo sunt genera locutionum, importuna valde et
+              noxia generi humano: unum, quod curat etiam perversa laudare; aliud, quod studet
+              semper etiam recta corrigere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27751-d1e132">
+          <ref corresp="#UUyf3f-d1e27751-Qd1e142" xml:id="UUyf3f-d1e27751-Rd1e134">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27751-Qd1e142">Apud homines cor ex verbis; apud Deum vero verba
+              pensantur ex corde.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27751-d1e147">
+          <ref corresp="#UUyf3f-d1e27751-Qd1e157" xml:id="UUyf3f-d1e27751-Rd1e149">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27751-Qd1e157">Qui verba sua metiri nesciunt, proculdubio ad
+              otiosa dicta dilabuntur, in quibus si se minime reprehendunt, statim ad noxia et
+              contumeliosa prosiliunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27751-d1e163">
+          <ref corresp="#UUyf3f-d1e27751-Qd1e173" xml:id="UUyf3f-d1e27751-Rd1e165">Gregorius, in
+              <title>Dialogis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27751-Qd1e173">Loquendo cum saecularibus fit, ut ab otiosis ad
+              noxia, a levibus ad graviora veniamus; et os nostrum ab omnipotenti Domino tanto minus
+              exaudiatur in prece, quanto amplius inquinatur stulta locutione.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27751-d1e178">
+          <ref corresp="#UUyf3f-d1e27751-Qd1e188" xml:id="UUyf3f-d1e27751-Rd1e180">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27751-Qd1e188">Quadripartita est loquendi ratio: quia vel bonum
+              bene, vel bonum male, seu bonum male, seu malum bene profertur. Bonum quippe bene
+              loquitur, qui ea, quae recta sunt, humiliter annuntiare videtur. Malum male loquitur,
+              qui quodlibet flagitium persuadere conatur. Bonum male loquitur, qui quodcumque rectum
+              arroganter praedicare sentitur. Malum bene loquitur, qui aliquod narrando vitium
+              detestatur, ut ab eo homines avertantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27751-d1e193">
+          <ref corresp="#UUyf3f-d1e27751-Qd1e203" xml:id="UUyf3f-d1e27751-Rd1e195">Augustinus,
+              <title>super Canonicum Jacobi</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27751-Qd1e203">Lingua facilitatem habet motus; in udo posita
+              est, facile in lubrico labitur: quanto illa citius et facilius movetur, tanto tu
+              adversus illam fixus esto.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27751-d1e208">
+          <ref corresp="#UUyf3f-d1e27751-Qd1e218" xml:id="UUyf3f-d1e27751-Rd1e210">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27751-Qd1e218">Certum est, quod verbosus vir justificari
+              nequeat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27751-d1e223">
+          <ref corresp="#UUyf3f-d1e27751-Qd1e233" xml:id="UUyf3f-d1e27751-Rd1e225">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27751-Qd1e233">Mentis justitia desolatur, quando ab immoderata
+              locutione non parcitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27751-d1e238">
+          <ref corresp="#UUyf3f-d1e27751-Qd1e248" xml:id="UUyf3f-d1e27751-Rd1e240">Gregorius, in
+              <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27751-Qd1e248">Quia murum silentii non habet, patet inimici
+              jaculis civitas mentis; et cum se per multa verba extra semetipsam ejicit, apertam se
+              totam adversario ostendit; quam ille tanto sine labore superat, quanto et haec eadem,
+              quae vincitur, contra semetipsam per multiloquium pugnat. In
+              <!--<i>-->Proverbiis<!--</i>--> dicitur: <!--<i>-->Sicut urbs patens et absque murorum
+              ambitu, ita vir qui non potest in loquendo cohibere spiritum suum<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27751-d1e262">
+          <ref corresp="#UUyf3f-d1e27751-Qd1e272" xml:id="UUyf3f-d1e27751-Rd1e264">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27751-Qd1e272">Valde difficile est, ut qui multa loquitur, non
+              etiam mentiatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27751-d1e277">
+          <ref corresp="#UUyf3f-d1e27751-Qd1e287" xml:id="UUyf3f-d1e27751-Rd1e279">Isidorus, in
+              <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27751-Qd1e287">Loqui multum stultitia est, et vox insipientis
+              in multiplicatione sermonis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27751-d1e292">
+          <ref corresp="#UUyf3f-d1e27751-Qd1e302" xml:id="UUyf3f-d1e27751-Rd1e294">Isidorus, in
+              <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27751-Qd1e302">Multiloquium non declinat peccatum; fluvius enim
+              exundans cito colligit lutum.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

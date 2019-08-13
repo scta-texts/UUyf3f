@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De doctrina (in De gratiosis)</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De doctrina (in De gratiosis)</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e45263">
+        <head xml:id="UUyf3f-d1e45263-Hd1e99" type="question-title">De doctrina (in De
+          gratiosis)</head>
+        <p xml:id="UUyf3f-d1e45263-d1e102">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e112" xml:id="UUyf3f-d1e45263-Rd1e104">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e112">Quisquis expositor in explanatione sacri
+              eloquii, ut fortasse auditoribus placeat, aliquid mentiendo componit, sua, et non Dei,
+              verba loquitur, si tamen placendi, vel seducendi studio mentiatur. Nam si in verbis
+              dominicis virtutem requirens, ipse aliter quam is, per quem prolata sunt, senserit,
+              etiam si sub intellectu alio aedificationem charitatis requirat, Domini sunt verba
+              quae narrat: quia ad hoc solum Deus per totam nobis sacram Scripturam loquitur, ut nos
+              ad suum et proximi amorem trahat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e117">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e127" xml:id="UUyf3f-d1e45263-Rd1e119">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e127">Pensare debet doctor, quid loquatur, cui
+              loquatur, quando loquatur, qualiter loquatur, et quantum loquatur. Si enim unum horum
+              defuerit, locutio apta non erit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e132">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e142" xml:id="UUyf3f-d1e45263-Rd1e134">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e142">Loqui de Deo, quietae valde et liberae mentis
+              est. Tunc namque bene dirigitur lingua in sermone, cum secure sensus quievit in
+              tranquillitate.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e147">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e157" xml:id="UUyf3f-d1e45263-Rd1e149">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e157">Clavis apertionis est sermo correctionis: quia
+              increpando culpam detegit, quam saepe nescit ipse etiam qui perpetravit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e163">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e173" xml:id="UUyf3f-d1e45263-Rd1e165">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e173">Qui peccatori praedicat, tanta dispensatione
+              componere praedicationem debet, ut non derelicta spe timorem subtrahat, nec spe
+              subtracta, in solo eum timore derelinquat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e178">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e188" xml:id="UUyf3f-d1e45263-Rd1e180">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e188">Qui ad verae praedicationis verba se praeparat,
+              necesse est ut causarum origines a sacris paginis sumat: ut omne, quod loquitur, ad
+              divinae auctoritatis fundamentum revocet, atque in eo aedificium suae locutionis
+              firmet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e193">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e203" xml:id="UUyf3f-d1e45263-Rd1e195">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e203">Cum malorum perversitas crescit, non solum
+              frangi praedicatio non debet, sed etiam augeri.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e208">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e218" xml:id="UUyf3f-d1e45263-Rd1e210">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e218">Plus est verbi pabulo victuram in perpetuum
+              mentem reficere, quam ventrem moriturae carnis terreno pane satiare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e223">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e233" xml:id="UUyf3f-d1e45263-Rd1e225">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e233">Subtili occultoque judicio, a quorumdam auribus
+              praedicatio sancta subtrahitur, quia suscitari per gratiam non merentur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e238">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e248" xml:id="UUyf3f-d1e45263-Rd1e240">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e248">Lingua nostra bonis fomentum sit, pravis
+              aculeus, tumidos retundat, iratos mitiget, pigros exacuat, desides hortatu succendat,
+              refugientibus suadeat, asperis blandiatur, desperatos consoletur: ut quia ductores
+              dicimur, viam salutis gradientibus ostendamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e254">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e264" xml:id="UUyf3f-d1e45263-Rd1e256">Gregorius, in <title>Dialogis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e264">Si invisibilia pensamus, nimirum constat, quia
+              majus est miraculum praedicationis verbo atque orationis solatio peccatorem
+              convertere, quam carne mortuum resuscitare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e269">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e279" xml:id="UUyf3f-d1e45263-Rd1e271">Augustinus, <title>de Consensu
+              evangelistarum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e279">Ex Evangeliorum universa varietate verborum,
+              rerum autem sententiarumque concordia, satis apparet salubriter nos doceri, nihil
+              quaerendum in verbis nisi loquentium veritatem, cui demonstrandae invigilare debent
+              omnes veridici narratores, cum de homine, vel de angelo, vel de Deo aliquid
+              narrant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e284">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e294" xml:id="UUyf3f-d1e45263-Rd1e286">Augustinus, <title>de Opere monachorum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e294">Multo misericordius operatur erga animas
+              infirmorum, qui famae bonae servorum Dei consulit, quam erga corpora egentium, qui
+              panem esurientibus frangit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e299">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e309" xml:id="UUyf3f-d1e45263-Rd1e301">Augustinus, <title>de Trinitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e309" source="http://scta.info/resource/adt-l2-d1e188">Nec trepidus ero ad proferendam sententiam meam, in qua magis amabo inspici a rectis,
+              quam timebo morderi a perversis: gratanter enim suscipit oculum columbinum pulcherrima
+              et modestissima charitas; dentem autem caninum, vel evitat cautissima humilitas, vel
+              retundit solidissima veritas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e314">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e324" xml:id="UUyf3f-d1e45263-Rd1e316">Augustinus, <title>de Trinitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e324" source="http://scta.info/resource/adt-l4-d1e513">Persuadendum erat homini, quantum nos dilexerit Deus, et quales: quantum, ne
+              desperaremus; quales, ne superbiremus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e329">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e339" xml:id="UUyf3f-d1e45263-Rd1e331">Augustinus, <title>de Catechizandis rudibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e339">Dilectione tibi tanquam fine proposito, quo
+              referas omnia quae dicis, quidquid narras, ita narra, ut ille cui loqueris audiendo
+              credat, credendo speret, et sperando amet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e345">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e355" xml:id="UUyf3f-d1e45263-Rd1e347">Augustinus, <title>de Bono perseverantiae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e355">Facile est, imo et utile, ut taceatur aliquod
+              verum, propter incapaces.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e360">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e370" xml:id="UUyf3f-d1e45263-Rd1e362">Augustinus, <title>de Bono perseverantiae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e370">Cum res vera ita se habet, ut fiat pejor, nobis
+              eam dicentibus, illi qui capere non potest; nobis autem tacentibus, illi qui potest;
+              quid putamus esse faciendum? nonne dicendum est potius verum, ut qui potest capere
+              capiat, quam tacendum, ut non solum id ambo non capiant, verum etiam qui est
+              intelligentior ipse fiat pejor, quia si audiret et caperet, per illum plures
+              discerent? Quo enim est capacior ut discat, eo magis est idoneus, ut alios
+              doceat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e375">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e385" xml:id="UUyf3f-d1e45263-Rd1e377">Augustinus, <title>de Bono perseverantiae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e385">Non simus in disputationibus prompti, et in
+              orationibus pigri.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e390">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e400" xml:id="UUyf3f-d1e45263-Rd1e392">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e400">Sollicitissime cavendum est in docendo superbiae
+              vitium: quod in discendo non ita est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e405">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e415" xml:id="UUyf3f-d1e45263-Rd1e407">Ambrosius, <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e415">Absit pertinax in familiari sermone contentio;
+              quaestiones enim magis excitare inanes, quam utilitatis aliquid afferre solet.
+              Disceptatio sine ira, suavitas sine amaritudine sit, monitio sine asperitate, hortatio
+              sine offensione.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e420">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e430" xml:id="UUyf3f-d1e45263-Rd1e422">Isidorus, in <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e430">Communia omnibus, secreta paucioribus loquere,
+              aperta cunctis, operta paucis annuntia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e436">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e446" xml:id="UUyf3f-d1e45263-Rd1e438">Isidorus, <title>de Summo bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e446">Quadrimoda est dicendi ratio, quia aut bene
+              sentiendo quid bene profertur, aut nihil sentiendo nihil dicitur, aut parum sentiendo
+              loquacitas sola ostentatur, aut optime sentiendo non eleganter profertur quod
+              dicitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e451">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e461" xml:id="UUyf3f-d1e45263-Rd1e453">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e461">Docente te in ecclesia non clamor populi, sed
+              gemitus suscitetur: lacrymae auditorum, laudes tuae sint.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e466">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e476" xml:id="UUyf3f-d1e45263-Rd1e468">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e476">Praedicator continentiae, nuptias ne
+              conciliet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e481">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e491" xml:id="UUyf3f-d1e45263-Rd1e483">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e491">En quanta prius infundenda sunt, ut effundere
+              audeamus, de plenitudine, non de penuria largientes! Primo quidem compunctio, deinde
+              devotio, tertio poenitentiae labor, quarto pietatis opus, quinto orationis studium,
+              sexto contemplationis otium, septimo plenitudo dilectionis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45263-d1e496">
+          <ref corresp="#UUyf3f-d1e45263-Qd1e506" xml:id="UUyf3f-d1e45263-Rd1e498">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45263-Qd1e506">Doctrina spiritus non curiositatem acuit, sed
+              charitatem accendit.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De remissione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De remissione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e36095">
+        <head xml:id="UUyf3f-d1e36095-Hd1e99" type="question-title">De remissione</head>
+        <p xml:id="UUyf3f-d1e36095-d1e102">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e112" xml:id="UUyf3f-d1e36095-Rd1e104">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e112">Cum in subjecto peccatum non corrigitur, in eos
+              qui praesunt sententia retorquetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e117">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e127" xml:id="UUyf3f-d1e36095-Rd1e119">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e127">Qui emendare potest, et negligit, participem se
+              proculdubio delicti constituit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e132">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e142" xml:id="UUyf3f-d1e36095-Rd1e134">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e142">Satis grave est, si illic contingat habere
+              pravam actionem refugium, unde disciplinae decet prodire censuram.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e147">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e157" xml:id="UUyf3f-d1e36095-Rd1e149">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e157">Consentire videtur erranti, qui corrigenda ut
+              resecari debeant non occurrit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e163">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e173" xml:id="UUyf3f-d1e36095-Rd1e165">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e173">Saepe quem tentationis certamen superare non
+              valuit, sua deterius securitas stravit. Nam dum lassum se quisque in otio remittit,
+              dissolutam mentem corruptori prostituit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e178">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e188" xml:id="UUyf3f-d1e36095-Rd1e180">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e188">Zeli iram quia Heli non habuit, motum contra se
+              implacabiliter supernae ultionis excitavit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e193">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e203" xml:id="UUyf3f-d1e36095-Rd1e195">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e203">Dum moderari lingua otiosa verba negligit, more
+              inolitae remissionis capta, audax ad noxia prorumpit : et dum gulae incumbitur, ad
+              levitatis protinus insaniam proditur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e208">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e218" xml:id="UUyf3f-d1e36095-Rd1e210">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e218">Si inchoata bona fortis operantis manus ad
+              perfectionem non sublevat, ipsa operandi remissio contra hoc, quod operatum est,
+              pugnat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e223">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e233" xml:id="UUyf3f-d1e36095-Rd1e225">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e233">Super ea mala, quae propria habemus, alienas
+              quoque mortes addimus: quia tot occidimus, quot ad mortem ire quotidie tepidi et
+              tacentes videmus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e238">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e248" xml:id="UUyf3f-d1e36095-Rd1e240">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e248">Multos remissa conversio in pristinos errores
+              reducit, ac vivendi tepore resolvit. Horum ergo exempla quisque conversus evita, ne
+              cum timorem Dei a tepore incipis, rursus mundanis erroribus immergaris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e254">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e264" xml:id="UUyf3f-d1e36095-Rd1e256">Augustinus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e264">Qui errantem non corripuerit, de negligentia
+              judicabitur; qui autem clam pro eo non oraverit, de pernicie condemnabitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e269">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e279" xml:id="UUyf3f-d1e36095-Rd1e271">Augustinus, in <title>Regula</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e279">Magis innocentes non estis, si fratres vestros,
+              quos judicando corrigere potestis, tacendo perire permittitis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e284">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e294" xml:id="UUyf3f-d1e36095-Rd1e286">Augustinus, in <title>Regula</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e294">Tu vulnus fratris contemnis; tu eum vides
+              perire, et negligis; pejor es tacendo, quam ille convitiando.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e299">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e309" xml:id="UUyf3f-d1e36095-Rd1e301">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e309">Sicut non est beneficentiae adjuvando efficere,
+              ut bonum quod majus est amittatur, ita non est innocentiae parcendo sinere, ut in
+              malum gravius incidatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e314">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e324" xml:id="UUyf3f-d1e36095-Rd1e316">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e324">Nihil est infelicius felicitate peccantium, qua
+              poenalis nutritur impunitas, et mala voluntas velut hostis interior roboratur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e329">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e339" xml:id="UUyf3f-d1e36095-Rd1e331">Augustinus, <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e339" source="http://scta.info/resource/adcd-l1-d1e43">Illud est culpabile, quod hi, qui dissimiliter vivunt, et a malorum factis abhorrent,
+              parcunt tamen peccatis alienis, quae dedocere aut objurgare deberent.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e345">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e355" xml:id="UUyf3f-d1e36095-Rd1e347">Ambrosius, <title>super Beati immaculati</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e355">Remissas excubias callidus insidiator
+              irrumpit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e360">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e370" xml:id="UUyf3f-d1e36095-Rd1e362">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e370">Mira res satis superque: episcopi ad manum
+              habent quibus animas credant, et cui suas committant facultates non inveniunt: optimi
+              videlicet aestimatores, qui magnam de minimis, parvam aut nullam de maximis curam
+              gerant. Sed ut liquido datur intelligi, patientius ferimus Christi jacturam, quam
+              nostram.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e375">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e385" xml:id="UUyf3f-d1e36095-Rd1e377">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e385">De pretio escarum et numero panum cum ministris
+              quotidiana discussio est; rara admodum cum presbyteris celebratur collatio de peccatis
+              populorum. Cadit asina, et est qui sublevet eam: perit anima, et nemo qui reputet: nec
+              mirum, cum nec nostros assiduos sentiamus defectus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e390">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e400" xml:id="UUyf3f-d1e36095-Rd1e392">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e400">Impunitas, incuriae soboles, insolentiae mater,
+              radix impudentiae, transgressionum est nutrix: et beatus, si omni satagas cura malorum
+              omnium primam parentem cavere incuriam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36095-d1e405">
+          <ref corresp="#UUyf3f-d1e36095-Qd1e415" xml:id="UUyf3f-d1e36095-Rd1e407">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36095-Qd1e415">Impunitas ausum parit, ausus excessum.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

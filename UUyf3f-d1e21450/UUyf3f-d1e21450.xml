@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De intelligentia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De intelligentia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e21450">
+        <head xml:id="UUyf3f-d1e21450-Hd1e99" type="question-title">De intelligentia</head>
+        <p xml:id="UUyf3f-d1e21450-d1e102">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e112" xml:id="UUyf3f-d1e21450-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e112">Ne contra auctorem suum homo superbiat,
+              consideret unde huc venit, et intelligat quid sit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e117">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e127" xml:id="UUyf3f-d1e21450-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e127">Dum pensamus quales erga aliquos fuimus, esse
+              circa nos tales alios minus dolemus, quia aliena injustitia in nobis vindicat, quod in
+              se juste conscientia nostra accusat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e132">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e142" xml:id="UUyf3f-d1e21450-Rd1e134">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e142">Qui plenissime intelligere appetit qualis est,
+              tales nimirum debet conspicere, qualis non est, ut ex bonorum forma metiatur quantum
+              ipse deserto bono deformis est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e147">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e157" xml:id="UUyf3f-d1e21450-Rd1e149">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e157">Tunc vere cognoscimus bona nostra unde sint,
+              quando, haec quasi amittendo, sentimus quia a nobis servari non possunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e163">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e173" xml:id="UUyf3f-d1e21450-Rd1e165">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e173">Sancti omnes, quando in Dei visione proficiunt,
+              quanto magis divinitatis interna conspiciunt, tanto magis se nihil esse cognoscunt.
+              Nusquam quippe legitur, quod Abraham cinerem et pulverem se esse professus est, nisi
+              cum habere meruerit Dei colloquium.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e178">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e188" xml:id="UUyf3f-d1e21450-Rd1e180">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e188">Sancti viri ingenii virtutem ad cognoscendam
+              infirmitatem propriam dirigunt, atque ex infirmitatis suae melius cognitione
+              convalescunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e193">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e203" xml:id="UUyf3f-d1e21450-Rd1e195">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e203">Nunquam Deus mentem deserit, quae in peccatis se
+              veraciter agnoscit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e208">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e218" xml:id="UUyf3f-d1e21450-Rd1e210">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e218">Nemo fortitudinem suam, nisi cum rectus esse
+              coeperit, deprehendit. Nam qui omnino perversus est, neque hoc potest videre, quod
+              est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e223">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e233" xml:id="UUyf3f-d1e21450-Rd1e225">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e233">Nulla est cognitio reprehensionis, si non
+              sequantur etiam lamenta poenitudinis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e238">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e248" xml:id="UUyf3f-d1e21450-Rd1e240">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e248">In hoc mundo dum vivimus, tunc perfecte quae
+              scienda sunt scimus, cum proficientes per intelligentiam, nil nos perfecte scire
+              cognoscimus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e254">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e264" xml:id="UUyf3f-d1e21450-Rd1e256">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e264">Vera scientia afficit, non extollit; nec
+              superbientes, quos impleverit, sed lamentantes facit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e269">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e279" xml:id="UUyf3f-d1e21450-Rd1e271">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e279">Bonarum mentium est, etiam ibi aliquo modo
+              culpas suas agnoscere, ubi culpa non est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e284">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e294" xml:id="UUyf3f-d1e21450-Rd1e286">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e294">Recte <!--<i>-->prophetia<!--</i>--> dicitur,
+              non quia praedicit ventura, sed quia prodit occulta.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e303">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e313" xml:id="UUyf3f-d1e21450-Rd1e305">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e313">Spiritus prophetiae nec semper, nес eodem modo
+              prophetae animum tangit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e318">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e328" xml:id="UUyf3f-d1e21450-Rd1e320">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e328">Aliquando prophetiae spiritus prophetis deest,
+              nec semper eorum mentibus praesto est: quatenus, cum hunc non habent, se hunc
+              agnoscant ex dono habere, cum habent.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e333">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e343" xml:id="UUyf3f-d1e21450-Rd1e335">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e343"
+              source="http://scta.info/resource/adcd-l11-d1e1631">Tria sunt, quae in unoquoque
+              homine artifice spectantur, ut aliquid efficiat: natura, doctrina, usus. Natura
+              ingenio, doctrina scientia, usus fructu dijudicandus est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e349">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e359" xml:id="UUyf3f-d1e21450-Rd1e351">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit source="http://scta.info/resource/adcd-l16-d1e2328">
+            <quote xml:id="UUyf3f-d1e21450-Qd1e359">Multa ad fidem catholicam pertinentia, dum
+              haereticorum callida inquietudine exagitantur, ut adversus eos defendi possint, et
+              considerantur intelligentius, et intelliguntur clarius, et instantius praedicantur, et
+              ab adversario mota quaestio dicendi nobis existit occasio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e364">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e374" xml:id="UUyf3f-d1e21450-Rd1e366">Augustinus,
+              <title>de Octoginta tribus quaestionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e374">Nullum bonum perfecte noscitur, quod non
+              perfecte amatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e379">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e389" xml:id="UUyf3f-d1e21450-Rd1e381">Augustinus,
+              <title>de Doctrina Christiana</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e389">Disputationis disciplina ad omnia genera
+              quaestionum, quae in litteris sanctis sunt, per intellectum penetranda et dissolvenda
+              plurimum valet: tantum ibi cavenda est libido rixandi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e394">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e404" xml:id="UUyf3f-d1e21450-Rd1e396">Augustinus,
+              <title>de Doctrina Christiana</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e404">Bonorum ingeniorum insignis est indoles in
+              verbis verum amare, non verba.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e409">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e419" xml:id="UUyf3f-d1e21450-Rd1e411">Augustinus,
+              <title>de Bono perseverantiae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e419">Non simus in disputationibus prompti, et in
+              orationibus pigri.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e424">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e434" xml:id="UUyf3f-d1e21450-Rd1e426">Augustinus,
+              <title>de Trinitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e434" source="http://scta.info/resource/adt-l4-d1e504"
+              >Scientiam terrestrium coelestiumque rerum magni aestimare solet genus humanum, in quo
+              profecto meliores sunt, qui huic scientiae praeponunt nosse semetipsos; laudabiliorque
+              est animus, cui nota est infirmitas sua, quam qui, ea non respecta, vias siderum
+              scrutatur, ignorans viam qua ingrediatur ad coelum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e440">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e450" xml:id="UUyf3f-d1e21450-Rd1e442">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e450">Nihil pejus, quam culpam agnoscere, nec
+              deflere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e455">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e465" xml:id="UUyf3f-d1e21450-Rd1e457">Cassiodorus, in
+            libro <title>de Anima</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e465">Nimia magnitudo est suam intelligere parvitatem;
+              nec praevalet hoc ipsum nosse, nisi cum coeperint divina patescere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e470">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e480" xml:id="UUyf3f-d1e21450-Rd1e472">Bernardus, in
+              <title>Meditationibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e480">Ab exterioribus ad interiora redeam, ab
+              inferioribus ad superiora ascendam, ut possim cognoscere unde venio, aut quo vado,
+              quid sim, vel unde sim, ut per cognitionem mei possim pervenire ad cognitionem
+              Dei.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e485">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e495" xml:id="UUyf3f-d1e21450-Rd1e487">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e495">O <!--<i>-->utinam saperes et intelligeres, ac
+              novissima provideres: saperes<!--</i>-->, quae Dei sunt;
+              <!--<i>-->intelligeres<!--</i>-->, quae mundi sunt; <!--<i>-->provideres<!--</i>-->,
+              quae inferni sunt, profecto inferna horreres, superna appeteres, quae sunt mundi
+              contemneres.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e512">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e522" xml:id="UUyf3f-d1e21450-Rd1e514">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e522">Qui perfecte se examinando cognoscit, suo
+              peccato nullius peccatum par aestimat, quod non sicut suum intelligit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e527">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e537" xml:id="UUyf3f-d1e21450-Rd1e529">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e537">Est quidem, quantum in se est, omnis scientia
+              bona, quae tamen veritati subnixa sit: sed tu, qui cum timore et tremore tuam ipsius
+              operari salutem pro temporis brevitate festinas, ea scire prius ampliusque curato,
+              quae praesenseris viciniora saluti.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e543">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e553" xml:id="UUyf3f-d1e21450-Rd1e545">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e553">Annon inflationes et torsiones in conscientia
+              sustinebit, qui hujusmodi est, sciens videlicet bonum, et non faciens? Annon responsum
+              mortis et damnationis toties in semetipso habebit, quoties in mentem venerit sermo
+              quem dixit Deus, quia <!--<i>-->servus sciens voluntatem domini sui, et non faciens,
+              digne vapulabit plagis multis<!--</i>-->?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e562">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e572" xml:id="UUyf3f-d1e21450-Rd1e564">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e572">
+              <!--<i>-->Super omnes docentes me intellexi<!--</i>-->. Quare, inquam? Numquid quia
+              bysso et purpura me indui? quia lautioribus epulis abundavi? numquid quia Platonis
+              argutias, aut Aristotelis versutias intellexi? aut ut intelligerem laboravi? Absit,
+              inquam, sed <!--<i>-->quia testimonia tua exquisivi<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e585">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e595" xml:id="UUyf3f-d1e21450-Rd1e587">Bernardus, in
+              <title>Sermonibu</title>)</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e595">Orans sanctus quidam: Deus, inquit, noverim me,
+              noverim te. Brevis oratio, sed fidelis. Haec est enim vera philosophia, et utraque
+              cognitio prorsus necessaria ad salutem. Ex priori siquidem timor concipitur et
+              humilitas; ex posteriore spes et charitas generatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e600">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e607" xml:id="UUyf3f-d1e21450-Rd1e602">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e607">Ubi majus donum scientiae, ibi trangressor
+              majori subjacet culpae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e612">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e622" xml:id="UUyf3f-d1e21450-Rd1e614">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e622">Quare liberalibus studiis filios erudimus? Non
+              quia virtutem dare possunt, sed quia animum ad excipiendam virtutem
+              praeparant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e627">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e637" xml:id="UUyf3f-d1e21450-Rd1e629">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e637">Si perpendere te voles, sepone pecuniam, domum,
+              dignitatem; intus teipsum considera, nec qualis sis aliis crede.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21450-d1e643">
+          <ref corresp="#UUyf3f-d1e21450-Qd1e653" xml:id="UUyf3f-d1e21450-Rd1e645">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21450-Qd1e653">Initium salutis, est notitia peccati. Nam qui
+              peccare nescit, corrigi non vult.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

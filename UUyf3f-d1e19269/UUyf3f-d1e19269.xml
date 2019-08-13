@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De spe</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De spe</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e19269">
+        <head xml:id="UUyf3f-d1e19269-Hd1e99" type="question-title">De spe</head>
+        <p xml:id="UUyf3f-d1e19269-d1e102">
+          <ref corresp="#UUyf3f-d1e19269-Qd1e112" xml:id="UUyf3f-d1e19269-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19269-Qd1e112">Spes in aeternitatem animum erigit; et idcirco
+              nulla mala, quae exterius tolerat, sentit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19269-d1e117">
+          <ref corresp="#UUyf3f-d1e19269-Qd1e127" xml:id="UUyf3f-d1e19269-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19269-Qd1e127">Tanto spes in Deum solidior surgit, quanto pro
+              illo quisque graviora pertulerit; quia nequaquam retributionis gaudium de aeternitate
+              colligitur, quod non hic prius pia tribulatione seminatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19269-d1e132">
+          <ref corresp="#UUyf3f-d1e19269-Qd1e142" xml:id="UUyf3f-d1e19269-Rd1e134">Augustinus, in
+              <title>Confessionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19269-Qd1e142">Merito mihi spes valida in illo est, quod
+              sanabis omnes languores meos, per eum qui sedet ad dexteram tuam, et te interpellat
+              pro nobis: alioquin desperarem. Multi etiam et magni sunt languores mei; sed amplior
+              est medicina tua.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19269-d1e147">
+          <ref corresp="#UUyf3f-d1e19269-Qd1e157" xml:id="UUyf3f-d1e19269-Rd1e149">Augustinus, in
+              <title>Confessionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19269-Qd1e157">Vae etiam laudabili vitae hominum, si remota
+              misericordia discutias eam: quia vero non exquiris delicta vehementer, fiducialiter
+              speramus aliquem apud te locum invenire indulgentiae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19269-d1e163">
+          <ref corresp="#UUyf3f-d1e19269-Qd1e173" xml:id="UUyf3f-d1e19269-Rd1e165">Augustinus,
+              <title>de Gratia Novi Testamenti</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19269-Qd1e173">Non jam desperandum est, participatione Verbi
+              fieri posse homines filios Dei, quando filius Dei participatione carnis, factus est
+              filius hominis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19269-d1e178">
+          <ref corresp="#UUyf3f-d1e19269-Qd1e188" xml:id="UUyf3f-d1e19269-Rd1e180">Isidorus, in
+              <title>Etymologiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19269-Qd1e188">Spes vocata est, quod sit spes progrediendi
+              quasi pes.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19269-d1e193">
+          <ref corresp="#UUyf3f-d1e19269-Qd1e203" xml:id="UUyf3f-d1e19269-Rd1e195">Joannes
+            Chrysostomus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19269-Qd1e203">Spes est in qua salus nostra consistit, et quae
+              de terris animas, velut quibusdam catenis caelitus dependentibus, innexas evehit ad
+              superna.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19269-d1e208">
+          <ref corresp="#UUyf3f-d1e19269-Qd1e218" xml:id="UUyf3f-d1e19269-Rd1e210">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19269-Qd1e218">Spes triplex est; nam de fide praeceptorum
+              oritur spes veniae; de fide signorum, spes gratiae; et de fide promissorum, spes
+              gloriae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19269-d1e223">
+          <ref corresp="#UUyf3f-d1e19269-Qd1e233" xml:id="UUyf3f-d1e19269-Rd1e225">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19269-Qd1e233">Tria considero, in quibus tota spes mea
+              consistit: charitatem adoptionis, veritatem promissionis, et potestatem
+              redditionis.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

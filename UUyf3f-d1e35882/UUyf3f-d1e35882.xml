@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De zelo (in De periculis)</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De zelo (in De periculis)</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e35882">
+        <head xml:id="UUyf3f-d1e35882-Hd1e99" type="question-title">De zelo (in De periculis)</head>
+        <p xml:id="UUyf3f-d1e35882-d1e102">
+          <ref corresp="#UUyf3f-d1e35882-Qd1e112" xml:id="UUyf3f-d1e35882-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35882-Qd1e112">Apud misericordem judicem nequaquam sine venia
+              culpa relinquitur, cum per fervorem zeli ex ejus amore peccatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35882-d1e117">
+          <ref corresp="#UUyf3f-d1e35882-Qd1e127" xml:id="UUyf3f-d1e35882-Rd1e119">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35882-Qd1e127">Exasperatus rector, cum subditorum mentem plus
+              se quam debuit percussisse considerat apud se, ad poenitentiam semper recurrat, ut per
+              lamenta veniam in conspectu veritatis obtineat ex eo etiam, quod per zeli ejus studium
+              peccat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35882-d1e132">
+          <ref corresp="#UUyf3f-d1e35882-Qd1e142" xml:id="UUyf3f-d1e35882-Rd1e134">Isidorus, <title>de Summo bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35882-Qd1e142">Nimia pietas dissolutionem disciplinae parturit,
+              et zeli studium, dum plus est quam oportet, in iracundiae vitium transit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35882-d1e147">
+          <ref corresp="#UUyf3f-d1e35882-Qd1e157" xml:id="UUyf3f-d1e35882-Rd1e149">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35882-Qd1e157">Zelus minus absque scientia efficax, minusque
+              utile invenitur; plerumque autem et perniciosus valde sentitur. Quo zelus fervidior,
+              vehementior spiritus, profusiorque charitas, eo vigilantiori opus est scientia, quae
+              zelum supprimat, spiritum temperet, ordinet charitatem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35882-d1e163">
+          <ref corresp="#UUyf3f-d1e35882-Qd1e173" xml:id="UUyf3f-d1e35882-Rd1e165">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35882-Qd1e173">Vides omnem ecclesiasticum zelum fervere sola
+              pro dignitate tuenda: honoribus totum datur, sanctitati nihil.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

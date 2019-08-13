@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De humilitate</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De humilitate</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e39228">
+        <head xml:id="UUyf3f-d1e39228-Hd1e99" type="question-title">De humilitate</head>
+        <p xml:id="UUyf3f-d1e39228-d1e102">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e112" xml:id="UUyf3f-d1e39228-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e112">Magna quae agimus, quasi minima ducimus, cum
+              fortiorum exempla pensamus. Sed tunc apud Deum crescunt per meritum, cum apud
+              nosmetipsos per humilitatem decrescunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e117">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e127" xml:id="UUyf3f-d1e39228-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e127">Quia prima stultitia angeli elatio cordis fuit,
+              vera sapientia efficitur hominis humilitas suae aestimationis. Quam quisquis, vel
+              magna sapiendo, deserit, eo ipso vehementer desipit, quo seipsum nescit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e132">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e142" xml:id="UUyf3f-d1e39228-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e142">Electi, ne invite curventur in morte, sponte
+              curvantur in humilitate.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e147">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e157" xml:id="UUyf3f-d1e39228-Rd1e149">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e157">Ad hoc nobis cuncta de meritis nostris incerta
+              sunt, ut unam certam gratiam teneamus humilitatem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e163">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e173" xml:id="UUyf3f-d1e39228-Rd1e165">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e173">Miranda actio cum elatione non elevat, sed
+              gravat. Qui enim sine humilitate virtutes congregat, in vento pulverem portat; et unde
+              aliquid ferre cernitur, inde deterius caecatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e178">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e188" xml:id="UUyf3f-d1e39228-Rd1e180">Gregorius, in <title>Dialogis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e188">Mens quae divino spiritu impletur, habet
+              evidentissime signa sua, virtutes scilicet et humilitatem: quae si utraque in una
+              mente perfecte conveniunt, liquet quod de praesentia sancti Spiritus testimonium
+              ferunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e193">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e203" xml:id="UUyf3f-d1e39228-Rd1e195">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e203">Non grande est his non esse humiles, a quibus
+              honoramur, quia et hoc saeculares quilibet faciunt, sed his maxime esse humiles
+              debemus, a quibus aliqua patimur. Nam Psalmista dicit: <!--<i>-->Vide humilitatem meam
+              de inimicis meis<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e212">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e222" xml:id="UUyf3f-d1e39228-Rd1e214">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e222">Ab omnibus corripi, ab omnibus emendari paratus
+              sum; et solum mihi amicum aestimo, per cujus linguam, ante apparitionem districti
+              judicis, meae maculas mentis tergo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e227">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e237" xml:id="UUyf3f-d1e39228-Rd1e229">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e237">Nolo, dum in hac carne sum, si qua me dixisse
+              contigerit, ea facile hominibus innotesci.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e242">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e252" xml:id="UUyf3f-d1e39228-Rd1e244">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e252">Omnes fratres sumus, unius imperatoris potestate
+              conditi, et sanguine redempti; et idcirco fratres nostros quoslibet pauperes et
+              abjectos in nullo despicere debemus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e258">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e268" xml:id="UUyf3f-d1e39228-Rd1e260">Hieronymus, in originali <title>super Isaiam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e268">Non statim multitudinis acquiescamus judicio;
+              sed electi in principatum, noverimus mensuram nostram, et humiliemur sub potenti manu
+              Dei, quia Dominus <!--<i>-->superbis resistit, humilibus dat
+              gratiam<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e277">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e287" xml:id="UUyf3f-d1e39228-Rd1e279">Augustinus, <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e287">Humiliter ad humilem venite, si amatis; et ne
+              discedatis ab illo, ne cadatis. Qui enim timet ab illo discedere, rogat et dicit:
+              <!--<i>-->Non veniat mihi pes superbiae<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e296">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e306" xml:id="UUyf3f-d1e39228-Rd1e298">Augustinus, <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e306">Pergite viam sublimitatis pede humilitatis: ipse
+              exaltat humiliter sequentes, quem descendere non piguit ad jacentes.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e311">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e321" xml:id="UUyf3f-d1e39228-Rd1e313">Augustinus, <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e321">Existimate aliquos in occulto superiores, quibus
+              estis in manifesto meliores.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e326">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e336" xml:id="UUyf3f-d1e39228-Rd1e328">Augustinus, <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e336" source="http://scta.info/resource/adcd-l5-d1e819">Qui vera pietate in Deum, quem
+              diligit, credit et sperat, plus intendit in ea, in quibus sibi displicet, quam in ea,
+              si qua in illo sunt, quae non tam ipsi, quam veritati placent. Neque id tribuit, unde
+              jam placere potest, nisi ejus misericordiae, cui metuit displicere, de his sanatis
+              gratias agens, de illis sanandis preces fundens.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e341">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e351" xml:id="UUyf3f-d1e39228-Rd1e343">Augustinus, <title>de Conflictu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e351">Christus <!--<i>-->humiliavit semetipsum, factus
+              obediens usque ad mortem, mortem autem crucis<!--</i>-->. Si ergo tanta humilitate se
+              deprimit divina majestas, superbire in aliquo audet aut debet humana
+              infirmitas?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e361">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e371" xml:id="UUyf3f-d1e39228-Rd1e363">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e371">Absit, ut non cum gratiarum actione lucris meis
+              deputem, si fuero te docente instructus, aut emendante correctus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e376">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e386" xml:id="UUyf3f-d1e39228-Rd1e378">Augustinus, <title>de Trinitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e386" source="http://scta.info/resource/adt-l2-d1e188">Magis optabo a quolibet reprehendi, quam sive ab errante, sive ab adulante
+              laudari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e391">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e401" xml:id="UUyf3f-d1e39228-Rd1e393">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e401">Superflua est humilitas eorum, qui se gessisse
+              accusant, quod non admiserunt; qui vero sine arrogantia bona facta sua pronuntiant,
+              proculdubio nequaquam peccant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e406">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e416" xml:id="UUyf3f-d1e39228-Rd1e408">Isidorus, in <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e416">Descende, ut ascendas; humiliare, ut exalteris,
+              ne exaltatus humilieris. Qui enim extollitur, humiliatur; qui exaltatur, dejicitur;
+              qui elevatur, prosternitur; qui inflatur, alliditur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e421">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e431" xml:id="UUyf3f-d1e39228-Rd1e423">Isidorus, in <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e431">Esto parvus in oculis tuis, ut sis magnus in
+              oculis Dei. Tanto enim eris apud Deum pretiosior, quanto fueris ante oculos tuos
+              despectior.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e436">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e446" xml:id="UUyf3f-d1e39228-Rd1e438">Joannes Chrysostomus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e446">Humilitas non tantum illa laudatur, quae de
+              conscientia peccatorum evenit; sed et illa, quae ex virtute descendit, Deo cara est.
+              Et quia in ea requiescit Dominus, ideo omnibus dominatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e452">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e462" xml:id="UUyf3f-d1e39228-Rd1e454">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e462">Humilis a nulla capitur passione: non ira hunc
+              molestare potest, non gloriae cupido, non aemulatio, non zelotypia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e467">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e477" xml:id="UUyf3f-d1e39228-Rd1e469">Joannes Chrysostomus, <title>de Compunctione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e477">Hoc vere magnum et mirabile est, quia is, qui
+              vere magnus est, nihil de se magni sentit, aut loquitur, sed omnium se ultimum
+              judicat, et saltem de sola misericordia Dei sperat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e482">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e492" xml:id="UUyf3f-d1e39228-Rd1e484">Cassiodorus, <title>de Anima</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e492">Ad te, Domine sancte, nemo se erigendo pervenit,
+              sed potius humiliatus ascendit: cum altissimus sis, proximior redderis supplicatione
+              curvatis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e497">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e507" xml:id="UUyf3f-d1e39228-Rd1e499">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e507">Oportet humiliter sentire de se, nitentem ad
+              altiora; ne, dum supra se attollitur, cadat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e512">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e522" xml:id="UUyf3f-d1e39228-Rd1e514">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e522">In anima non est plane timenda quantalibet
+              humiliatio: horrenda autem, nimiumque pavenda vel minima temere praesumpta erectio.
+              Quamobrem noli te, homo, comparare majoribus, noli minoribus, noli aliquibus, noli
+              uni.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e527">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e537" xml:id="UUyf3f-d1e39228-Rd1e529">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e537">Appetere de humilitate laudem, humilitatis non
+              est virtus, sed subversio. Verus humilis vilis vult reputari, non humilis praedicari:
+              gaudet contemptu sui, hoc solo plane superbus, quod laudes contemnit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e543">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e553" xml:id="UUyf3f-d1e39228-Rd1e545">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e553">Ut castitas sive charitas detur, humilitas
+              meretur, quoniam humilibus Deus dat gratiam; servat acceptas, quia non requiescit
+              spiritus, nisi super quietum et humilem; et servatas consummat, nam virtus in
+              infirmitate, hoc est in humilitate, perficitur; et inimicam gratiae, omnisque initium
+              peccati, debellat superbiam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e558">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e568" xml:id="UUyf3f-d1e39228-Rd1e560">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e568">Humiliatio via est ad humilitatem, sicut
+              patientia ad pacem, sicut lectio ad scientiam. Si virtutem appetis humilitatis, viam
+              non refugias humiliationis. Nam, si non pateris humiliari, non poteris ad humilitatem
+              provehi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e573">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e583" xml:id="UUyf3f-d1e39228-Rd1e575">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e583">Nescio quo pacto familiarius semper humilitati
+              propinquare solet Divinitas. Denique ipsa se induit, ut appareret hominibus;
+              substantiam, formam, habitumque gestavit humilem, ipsius nobis commendans virtutis
+              excellentiam, quam speciali sui voluit honorare praesentia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e588">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e598" xml:id="UUyf3f-d1e39228-Rd1e590">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e598">Sapientis est consilium: <!--<i>-->Quanto major
+              es, humilia te in omnibus<!--</i>-->. Sapientiae vero praeceptum: <!--<i>-->Qui major
+              est vestrum, fiet sicut minor<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e611">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e621" xml:id="UUyf3f-d1e39228-Rd1e613">Bernardus, <title>de duodecim Gradibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e621">Humilitatis talis potest esse diffinitio:
+              Humilitas est virtus qua homo vera cognitione sui ipse sibi vilescit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e626">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e636" xml:id="UUyf3f-d1e39228-Rd1e628">Bernardus, <title>de duodecim Gradibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e636">Humilitatis primus gradus corde est et corpore
+              semper humilitatem ostendere, defixis in terram aspectibus. Secundus, ut pauca, et
+              rationabilia verba loquatur, non clamosa voce. Tertius, ut non sit facilis aut
+              promptus in risu. Quartus, taciturnitas usque ad interrogationem. Quintus, tenere quod
+              communis habet monasterii regula. Sextus, credere et pronuntiare se omnibus viliorem.
+              Septimus, ad omnia indignum et inutilem se confiteri et credere. Octavus, confessio
+              peccatorum. Nonus, pro obedientia in duris et asperis patientiam amplecti. Decimus, ut
+              omni obedientia subdat se majori. Undecimus, ut voluntatem propriam non delectetur
+              implere. Duodecimus, ut Deum timeat, et memor sit omnium quae praecepit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e642">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e652" xml:id="UUyf3f-d1e39228-Rd1e644">Anselmus, <title>de Similitudinibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e652">Primus gradus humilitatis est, quandoque
+              cognoscere contemptibilem se esse. Et quia sunt quidam, qui contemptibiles se esse
+              cognoscunt, sed inde non dolent; secundus est, dolere contemptibilem se esse. Quia
+              vero sunt alii, qui se contemptibiles dolent, sed confiteri nolunt; tertius est,
+              confiteri se contemptibilem esse. At vero, quia rursus sunt alii, qui se
+              contemptibiles confitentur, sed nolunt ut ita credatur; quartus est, persuadere
+              contemptibilem se esse. Sed quia quidam contemptibiles quidem volunt credi, sed hoc
+              sibi nolunt dici; quintus est, patienter pati ut contemptibilis dicatur. Sed quia
+              quidam patiuntur ut contemptibiles dicantur, sed tamen pati nolunt ut contemptibiliter
+              tractentur; sextus est, pati ut contemptibiliter tractetur. Sed quoniam et hoc quidam
+              inviti patiuntur; septimus est, amare ut contemptibiliter tractetur: ubi postquam quis
+              ascenderit, clara est in luce, id est in perfecta sui cognitione.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e39228-d1e657">
+          <ref corresp="#UUyf3f-d1e39228-Qd1e664" xml:id="UUyf3f-d1e39228-Rd1e659">Glossa in Matthaeum</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e39228-Qd1e664">Perfecta humilitas habet tres gradus. Primus est
+              subdere se majori, et non praeferre se aequali; hic vocatur sufficiens, quia sufficit
+              aliquem sic humiliari, et iste gradus omni justo est necessarius. Secundus gradus est
+              subdere se aequali, nec praeferre se minori; hic dicitur abundans. Tertius est subesse
+              minori; in quo est omnis justitia.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

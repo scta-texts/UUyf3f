@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De certamine</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De certamine</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e38996">
+        <head xml:id="UUyf3f-d1e38996-Hd1e99" type="question-title">De certamine</head>
+        <p xml:id="UUyf3f-d1e38996-d1e102">
+          <ref corresp="#UUyf3f-d1e38996-Qd1e112" xml:id="UUyf3f-d1e38996-Rd1e104">Gregorius, in <title>Dialogis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38996-Qd1e112">Sine laboris certamine, non est palma
+              victoriae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38996-d1e117">
+          <ref corresp="#UUyf3f-d1e38996-Qd1e127" xml:id="UUyf3f-d1e38996-Rd1e119">Gregorius, in <title>Dialogis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38996-Qd1e127">Nonnunquam Dominus eis etiam, quibus magna dona
+              tribuit, parva quaedam reprehensibilia relinquit: ut semper habeant, contra quod bella
+              gerant; et devictis magnis hostibus, mentem non erigant, quando eos adhuc adversarii
+              etiam minimi fatigant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38996-d1e132">
+          <ref corresp="#UUyf3f-d1e38996-Qd1e142" xml:id="UUyf3f-d1e38996-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38996-Qd1e142">Semper est ad certamen adversarii erigendus
+              animus; semper contra occultas insidias cautela providenda.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38996-d1e147">
+          <ref corresp="#UUyf3f-d1e38996-Qd1e157" xml:id="UUyf3f-d1e38996-Rd1e149">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38996-Qd1e157">Scio quia per infirmitatis verecundiam plerumque
+              gravioris est certaminis commissa peccata prodere, quam non admissa vitare, et
+              unumquodque malum, quamvis robustus videtur, tamen humilius proditur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38996-d1e163">
+          <ref corresp="#UUyf3f-d1e38996-Qd1e173" xml:id="UUyf3f-d1e38996-Rd1e165">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38996-Qd1e173">Labor protrahitur pugnae, ut crescat corona
+              victoriae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38996-d1e178">
+          <ref corresp="#UUyf3f-d1e38996-Qd1e188" xml:id="UUyf3f-d1e38996-Rd1e180">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38996-Qd1e188">In iniquitate concepti, et in delicto editi, per
+              insitae corruptionis molestias, pugnam nobiscum huc deferimus, quam cum labore
+              vincamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38996-d1e193">
+          <ref corresp="#UUyf3f-d1e38996-Qd1e203" xml:id="UUyf3f-d1e38996-Rd1e195">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38996-Qd1e203">Excitatur hostis in provocationem certaminis,
+              cum jus amiserit perversae damnationis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38996-d1e208">
+          <ref corresp="#UUyf3f-d1e38996-Qd1e218" xml:id="UUyf3f-d1e38996-Rd1e210">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38996-Qd1e218">Non debet, cum praeliatur, infringi, qui vult
+              post praelium coronari, vires illo subministrante certantibus, qui praeparat
+              ineffabilia dona victoribus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38996-d1e223">
+          <ref corresp="#UUyf3f-d1e38996-Qd1e233" xml:id="UUyf3f-d1e38996-Rd1e225">Augustinus, <title>de Verbis Domini</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38996-Qd1e233">Ecce baptizati sunt, omnes justificati sunt a
+              peccatis: restat tamen lucta cum carne, cum mundo, et cum diabolo. Qui autem luctatur,
+              aliquando ferit, aliquando percutitur, aliquando vincit, aliquando perimitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38996-d1e238">
+          <ref corresp="#UUyf3f-d1e38996-Qd1e248" xml:id="UUyf3f-d1e38996-Rd1e240">Joannes Chrysostomus, <title>de Compunctione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38996-Qd1e248">Nostri agonis tempus, in quo adscripti videmur,
+              pro risu poenam habet, laudem vero pro luctu, et pro tribulationibus salutem
+              confert.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38996-d1e254">
+          <ref corresp="#UUyf3f-d1e38996-Qd1e264" xml:id="UUyf3f-d1e38996-Rd1e256">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38996-Qd1e264">Incipe resistere desideriis tuis, et tunc
+              intelliges quam fortes sunt spiritus desideriorum malorum, qui te persequuntur. Haec
+              est pugna periculosa, et haec est gloriosa victoria, qui potuerit odisse quod amat, et
+              amare quod odit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38996-d1e269">
+          <ref corresp="#UUyf3f-d1e38996-Qd1e279" xml:id="UUyf3f-d1e38996-Rd1e271">Ambrosius, <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38996-Qd1e279">Corona proposita est; subeunda certamina sunt.
+              Nemo potest, nisi vicerit, coronari: nemo potest vincere, nisi ante certaverit; ipsius
+              quoque coronae major est fructus, ubi major est labor.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38996-d1e284">
+          <ref corresp="#UUyf3f-d1e38996-Qd1e294" xml:id="UUyf3f-d1e38996-Rd1e286">Leo Papa, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38996-Qd1e294">Vim sibi factura est anima, ut palmam laborum,
+              quam sibi subtrahi multis inimicis adversantibus sentit, viribus contendat
+              eripere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38996-d1e299">
+          <ref corresp="#UUyf3f-d1e38996-Qd1e309" xml:id="UUyf3f-d1e38996-Rd1e301">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38996-Qd1e309">Nequaquam in senectute continentes vocandi sunt,
+              qui in juventute luxuriose vixerunt. Tales non habent praemium, quia laboris certamen
+              non habuerunt: eos enim expectat gloria, in quibus fuerunt laboriosa
+              certamina.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38996-d1e314">
+          <ref corresp="#UUyf3f-d1e38996-Qd1e324" xml:id="UUyf3f-d1e38996-Rd1e316">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38996-Qd1e324">Quis sanctorum sine certamine coronatus est?
+              Solus in deliciis Salomon fuit, et ideo forsitan corruit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38996-d1e329">
+          <ref corresp="#UUyf3f-d1e38996-Qd1e339" xml:id="UUyf3f-d1e38996-Rd1e331">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38996-Qd1e339">Quantumlibet in hoc corpore manens profeceris,
+              erras, si vitia putas emortua, et non magis suppressa. Velis, nolis, intra fines tuos
+              habitat Jebusaeus; subjugari potest, non exterminari.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

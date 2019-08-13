@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De timore (in De gratiosis)</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De timore (in De gratiosis)</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e46913">
+        <head xml:id="UUyf3f-d1e46913-Hd1e99" type="question-title">De timore (in De
+          gratiosis)</head>
+        <p xml:id="UUyf3f-d1e46913-d1e102">
+          <ref corresp="#UUyf3f-d1e46913-Qd1e112" xml:id="UUyf3f-d1e46913-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46913-Qd1e112">Justo timendum non est, ne derisor, cum
+              corripitur, contumelias inferat; sed ne tractus ad odium pejor fiat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46913-d1e117">
+          <ref corresp="#UUyf3f-d1e46913-Qd1e127" xml:id="UUyf3f-d1e46913-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46913-Qd1e127">Creator noster, qui ubique totus est, et cernens
+              cuncta non cernitur, tanto metuendus est, quanto invisibilis permanens, de nostris
+              actibus quando et quid decernat, ignoratur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46913-d1e132">
+          <ref corresp="#UUyf3f-d1e46913-Qd1e142" xml:id="UUyf3f-d1e46913-Rd1e134">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46913-Qd1e142">Tanto de se unusquisque sollicitus metuat,
+              quanto ignorat quod restat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46913-d1e147">
+          <ref corresp="#UUyf3f-d1e46913-Qd1e157" xml:id="UUyf3f-d1e46913-Rd1e149">Augustinus, in libro <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46913-Qd1e157">Timeat anima jam corrupta, docta experimento
+              quod ignorat virgo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46913-d1e163">
+          <ref corresp="#UUyf3f-d1e46913-Qd1e173" xml:id="UUyf3f-d1e46913-Rd1e165">Augustinus, <title>de Conjugiis adulterinis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46913-Qd1e173">Si a conjugali vinculo immunis minus appetitur
+              vita sanctorum, exhorreatur poena moechorum, et timore saltem frenetur concupiscentia,
+              si non amore eligitur continentia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46913-d1e178">
+          <ref corresp="#UUyf3f-d1e46913-Qd1e188" xml:id="UUyf3f-d1e46913-Rd1e180">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46913-Qd1e188">Qui gehennas metuit, non peccare metuit, sed
+              ardere: ille autem peccare metuit, qui peccatum ipsum sicut gehennam odit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46913-d1e193">
+          <ref corresp="#UUyf3f-d1e46913-Qd1e203" xml:id="UUyf3f-d1e46913-Rd1e195">Augustinus, in <title>Regula</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46913-Qd1e203">Deo vir sanctus timeat displicere, ne velit
+              feminae male placere. Illum cogitet omnia videre, ne velit feminae male
+              videri.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46913-d1e208">
+          <ref corresp="#UUyf3f-d1e46913-Qd1e218" xml:id="UUyf3f-d1e46913-Rd1e210">Isidorus, in <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46913-Qd1e218">Timor expellit peccatum; timor reprimit vitium;
+              timor cautum facit hominem atque sollicitum: ubi timor non est, ibi dissolutio vitae
+              est: ubi timor non est, ibi desperatio est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46913-d1e223">
+          <ref corresp="#UUyf3f-d1e46913-Qd1e233" xml:id="UUyf3f-d1e46913-Rd1e225">Isidorus, <title>de Summo bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46913-Qd1e233">Saepe quae apud hominum judicium bona parent,
+              apud examen diligentissimi et acutissimi judicis reproba deteguntur. Ideoque omnis
+              sanctus veretur, ne forte bonum quod agit, pro aliqua animi intentione, in oculis Dei
+              reprobum sit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46913-d1e238">
+          <ref corresp="#UUyf3f-d1e46913-Qd1e248" xml:id="UUyf3f-d1e46913-Rd1e240">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46913-Qd1e248">Ubi timor et tremor est, non ibi vocis elatio
+              est, sed animi flebilis lacrymosa dejectio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46913-d1e254">
+          <ref corresp="#UUyf3f-d1e46913-Qd1e264" xml:id="UUyf3f-d1e46913-Rd1e256">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46913-Qd1e264">Quando iratus fuero, et aliquid mali in meo
+              animo cogitavero, et me nocturnum phantasma deluserit, basilicas martyrum intrare non
+              audeo: ita totus et corpore, et animo contremisco.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46913-d1e269">
+          <ref corresp="#UUyf3f-d1e46913-Qd1e279" xml:id="UUyf3f-d1e46913-Rd1e271">Hieronymus, in originali super <title>Joelem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46913-Qd1e279">Nunquam tuta est humana fragilitas; sed quanto
+              virtutibus crescimus, tanto magis timere debemus, ne de sublimibus corruamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46913-d1e284">
+          <ref corresp="#UUyf3f-d1e46913-Qd1e294" xml:id="UUyf3f-d1e46913-Rd1e286">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46913-Qd1e294">Beatus homo qui semper pavidus est. Time ergo,
+              cum arriserit gratia; time, cum abierit; time, cum denuo revertetur, et hoc est semper
+              pavidum esse.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46913-d1e299">
+          <ref corresp="#UUyf3f-d1e46913-Qd1e309" xml:id="UUyf3f-d1e46913-Rd1e301">Bernardus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46913-Qd1e309">Primus timor est, ne cruciemur a gehenna.
+              Secundus, ne exclusi a visione Dei, privemur tam inaestimabili gloria. Tertius replet
+              animam omni sollicitudine, ne forte deseratur a gratia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46913-d1e314">
+          <ref corresp="#UUyf3f-d1e46913-Qd1e324" xml:id="UUyf3f-d1e46913-Rd1e316">Bernardus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46913-Qd1e324">Sicut securitas, vel desidia, causa et mater est
+              omnium delictorum, sic timor Domini radix et custos omnium bonorum.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De gratia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De gratia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e16707">
+        <head xml:id="UUyf3f-d1e16707-Hd1e99" type="question-title">De gratia</head>
+        <p xml:id="UUyf3f-d1e16707-d1e102">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e112" xml:id="UUyf3f-d1e16707-Rd1e104">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e112">Quia de gratia debemus superna praesumere, ut
+              non simus negligentes in oratione, vel opere, voce veritatis exprimitur:
+              <!--<i>-->Oportet semper orare, et non deficere<!--</i>-->. Petamus ergo orando,
+              quaeramus legendo, pulsemus operando.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e121">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e131" xml:id="UUyf3f-d1e16707-Rd1e123">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e131">Quaelibet occulta loca sine Dei gratia animam
+              salvare non possunt. Quod aliquando in ipsis quoque erratibus conspicimus electorum.
+              Nam Loth in perversa civitate justus fuit, in monte peccavit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e136">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e146" xml:id="UUyf3f-d1e16707-Rd1e138">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e146">Cum mentem nostram elatio erigit, a nobis summi
+              protinus compunctio amoris recedit; cum vero superna nos gratia visitat, statim per
+              lacrymas ad sua desideria instigat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e151">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e161" xml:id="UUyf3f-d1e16707-Rd1e153">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e161">Quanto quisque se minus videt, tanto minus sibi
+              displicet; et quanto majoris gratiae lumen percipit, tanto amplius reprehensibilem se
+              cognoscit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e167">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e177" xml:id="UUyf3f-d1e16707-Rd1e169">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e177">Justi animam gratia vocat, tentatio
+              interrogat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e182">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e192" xml:id="UUyf3f-d1e16707-Rd1e184">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e192">Quia per occultam gratiam ad amorem Dei
+              temperata desuper mensura proficimus, quanto in nobis quotidie de Dei spiritu virtus
+              crescit, tanto noster spiritus deficit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e197">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e207" xml:id="UUyf3f-d1e16707-Rd1e199">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e207">Unumquemque electum suum divina gratia tunc
+              magis erudiendo custodit, cum eum quasi percutiens deserit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e212">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e222" xml:id="UUyf3f-d1e16707-Rd1e214">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e222">Miles Dei supernae gratiae fretus auxilio, sic
+              vulnera infirmitatis suae curat, ut aliena non deserat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e227">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e237" xml:id="UUyf3f-d1e16707-Rd1e229">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e237">Bonum quod agimus, et Dei est, et nostrum: Dei,
+              per praevenientem gratiam; nostrum, per obsequentem liberam voluntatem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e242">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e252" xml:id="UUyf3f-d1e16707-Rd1e244">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e252">Sive hi, qui electi in Testamento Veteri
+              fuerunt, sive hi, qui in Testamento Novo secuti sunt, nimirum constat, quia omnes ex
+              amore Trinitatis accensi sunt. Neque enim unum Deum diligerent, si ejusdem Trinitatis,
+              quae Deus est, gratiam non accepissent.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e258">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e268" xml:id="UUyf3f-d1e16707-Rd1e260">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e268">Sunt quidam, qui per donum gratiae et ipsa
+              intelligunt, quae exponi a doctoribus non audierunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e273">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e283" xml:id="UUyf3f-d1e16707-Rd1e275">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e283">Hominis meritum superna gratia, ut inveniat,
+              praevenit; et postquam praevenerit, perficit; atque ad indignam mentem veniens, facit
+              in ea meritum quod remuneret, quae solum invenerat quod puniret.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e288">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e298" xml:id="UUyf3f-d1e16707-Rd1e290">Isidorus, in
+              <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e298">In omni opere tuo Dei auxilium posce: omnia
+              divinae gratiae, divino dono ascribe: nihil meritis tuis tribuas: in virtute tua nihil
+              praesumas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e303">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e313" xml:id="UUyf3f-d1e16707-Rd1e305">Augustinus,
+              <title>de Confessionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e313">Gratiae tuae deputo et misericordiae tuae,
+              Domine, quod peccata mea tanquam glaciem solvisti; gratiae tuae deputo et quaecumque
+              non feci mala.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e318">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e328" xml:id="UUyf3f-d1e16707-Rd1e320">Augustinus,
+              <title>de Natura et Gratia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e328">Christi gratia, sine qua nec infantes, nec
+              aetate grandes salvi fieri possunt, non meritis redditur, sed gratis datur: propter
+              quod <!--<i>-->gratia<!--</i>--> nominatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e337">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e347" xml:id="UUyf3f-d1e16707-Rd1e339">Augustinus,
+              <title>de Correptione et Gratia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e347">Desiderare auxilium gratiae, initium gratiae
+              est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e353">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e363" xml:id="UUyf3f-d1e16707-Rd1e355">Augustinus,
+              <title>de Correptione et Gratia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e363">Gratia sola homines liberantur a malo, sine qua
+              nullum prorsus, sive cogitando, sive volendo et amando, sive agendo, faciunt
+              bonum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e368">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e378" xml:id="UUyf3f-d1e16707-Rd1e370">Augustinus,
+              <title>de Correptione et Gratia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e378">Voluntas humana non libertate consequitur
+              gratiam, sed gratia potius libertatem, et ut perseveret, delectabilem perpetuitatem et
+              insuperabilem fortitudinem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e383">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e393" xml:id="UUyf3f-d1e16707-Rd1e385">Augustinus,
+              <title>de Quinque Responsionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e393">Opera liberi arbitrii bona, quae ut fiant,
+              praeparantur per gratiae praeventum, nullis liberi arbitrii meritis, et ipsa faciente,
+              gubernante et perficiente, ut abundent in libero arbitrio, non damnamus: quia ex his,
+              vel hujusmodi, homines Dei justificati sunt, justificantur, et justificabuntur in
+              Christo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e398">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e408" xml:id="UUyf3f-d1e16707-Rd1e400">Augustinus,
+              <title>de Gratia et Libero Arbitrio</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e408">Carissimi, vita nostra bona nil est aliud, quam
+              Dei gratia; et vita aeterna, quae bonae vitae redditur, Dei gratia est, et ipsa enim
+              gratis datur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e413">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e423" xml:id="UUyf3f-d1e16707-Rd1e415">Augustinus,
+              <title>de Gratia et Libero Arbitrio</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e423">Gratia Dei nos facit legis dilectores; lex vero
+              ipsa sine gratia, non nisi praevaricatores.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e428">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e438" xml:id="UUyf3f-d1e16707-Rd1e430">Augustinus,
+              <title>contra Julianum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e438">Quia caro concupiscit adversus spiritum, etiam
+              baptizatis sanctis ingerit pugnandi necessitatem. Contra quid, nisi contra malum, non
+              contra substantiam, sed substantiae vitium, Dei gratia regenerante non imputandum, Dei
+              gratia adjuvante fraenandum, Dei gratia remunerante sanandum?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e444">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e454" xml:id="UUyf3f-d1e16707-Rd1e446">Augustinus,
+              <title>de Sex Quaestionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e454">Salus religionis hujus, per quam solam salus
+              vera veraciter promittitur, nulli unquam defuit, qui dignus fuit; et cui defuit,
+              dignus non fuit ab exordio. Ab exordio namque propagationis humanae usque in finem,
+              quibusdam ad praemium, quibusdam ad judicium praedicatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e459">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e469" xml:id="UUyf3f-d1e16707-Rd1e461">Augustinus,
+              <title>de Spiritu et Littera</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e469">Per legem, cognitio peccati; per fidem,
+              impetratio gratiae contra peccatum; per gratiam, sanatio animae et abolitio peccati;
+              per animae sanitatem, libertas arbitrii; per liberum arbitrium, justitiae dilectio;
+              per justitiae dilectionem, legis operatio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e474">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e484" xml:id="UUyf3f-d1e16707-Rd1e476">Augustinus,
+              <title>de Spiritu et Littera</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e484">Lex data est, ut gratia quaereretur; gratia
+              autem data est, ut lex impleretur. Neque enim suo vitio non implebatur lex, sed vitio
+              prudentiae carnis: quod vitium per legem demonstrandum, per gratiam sanandum
+              fuit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e489">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e499" xml:id="UUyf3f-d1e16707-Rd1e491">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e499"
+              source="http://scta.info/resource/adcd-l15-d1e2157">Parit cives terrenae civitatis
+              peccato vitiata natura; coelestis vero civitatis cives parit a peccato naturam
+              liberans Dei gratia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e504">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e514" xml:id="UUyf3f-d1e16707-Rd1e506">Augustinus,
+              <title>de poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e514">Praesto semper est gratia, quae nunquam deficit,
+              nisi prius expulsa fuerit. Continue necessario quod suum est inspirat, si est qui
+              recipiat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e519">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e529" xml:id="UUyf3f-d1e16707-Rd1e521">Joannes
+            Chrysostomus, <title>de Compunctione cordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e529">Gratia rectas mentes diligit, et sine fuco
+              propositum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e535">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e545" xml:id="UUyf3f-d1e16707-Rd1e537">Joannes
+            Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e545">Debet voluntas praecedere, et sic sequitur
+              gratia; nam nec gratia sine voluntate aliquid operatur, nec voluntas sine gratia
+              potest. Nam et terra non germinat, nisi pluviam susceperit, nec pluvia fructificat
+              sine terra.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e550">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e560" xml:id="UUyf3f-d1e16707-Rd1e552">Ambrosius,
+              <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e560">Nescit tarda molimina Spiritus sancti
+              gratia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e565">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e575" xml:id="UUyf3f-d1e16707-Rd1e567">Auctor <title>de
+              Spiritu et Anima</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e575">Animam Dei pietas respicit, humilitas subjicit,
+              poenitentia reducit, justitia deducit, obedientia conducit, perseverantia perducit,
+              devotio introducit, puritas jungit, charitas unit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e580">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e590" xml:id="UUyf3f-d1e16707-Rd1e582">Auctor <title>de
+              Spiritu et Anima</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e590">Facultates et quasi instrumenta cognoscendi et
+              diligendi habet anima ex natura; cognitionem vero veritatis, et ordinem dilectionis,
+              nequaquam habet, nisi ex gratia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e595">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e605" xml:id="UUyf3f-d1e16707-Rd1e597">Auctor <title>de
+              Spiritu et Anima</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e605">Vasa, quae creatrix sapientia format ut sint,
+              adjutrix gratia replet, ne vacua sint, si strenuum operarium invenerit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e16707-d1e610">
+          <ref corresp="#UUyf3f-d1e16707-Qd1e620" xml:id="UUyf3f-d1e16707-Rd1e612">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e16707-Qd1e620">In veritate didici, nihil aeque efficax esse ad
+              gratiam promerendam, retinendam, recuperandam, quam si omni tempore inveniaris non
+              altum sapere, sed timere.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

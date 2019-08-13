@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De clericis</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De clericis</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e6110">
+        <head xml:id="UUyf3f-d1e6110-Hd1e99" type="question-title">De clericis</head>
+        <p xml:id="UUyf3f-d1e6110-d1e102">
+          <ref corresp="#UUyf3f-d1e6110-Qd1e112" xml:id="UUyf3f-d1e6110-Rd1e104">Gregorius, in <title>Homilia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6110-Qd1e112">Clericus admonendus est, quatenus sic vivat, ut
+              exemplum vitae saecularibus praebeat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6110-d1e117">
+          <ref corresp="#UUyf3f-d1e6110-Qd1e127" xml:id="UUyf3f-d1e6110-Rd1e119">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6110-Qd1e127">Ne unquam hi, qui ordinati sunt, pereant,
+              provideri debet quales ordinentur, ut prius aspiciatur si vita eorum continens in
+              annis plurimis fuit, si studium lectionis, si eleemosynae amorem habuerunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6110-d1e132">
+          <ref corresp="#UUyf3f-d1e6110-Qd1e142" xml:id="UUyf3f-d1e6110-Rd1e134">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6110-Qd1e142">Proculdubio Deus offenditur, si ad sacros ordines
+              quisquam non ex merito, sed ex favore, quod absit, aut ex venalitate
+              provehitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6110-d1e147">
+          <ref corresp="#UUyf3f-d1e6110-Qd1e157" xml:id="UUyf3f-d1e6110-Rd1e149">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6110-Qd1e157">Qui post acceptum sacrum ordinem lapsus in
+              peccatum carnis fuerit, sacro ordine ita careat, ut ad altaris ministerium ulterius
+              non accedat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6110-d1e163">
+          <ref corresp="#UUyf3f-d1e6110-Qd1e173" xml:id="UUyf3f-d1e6110-Rd1e165">Isidorus, in libro <title>Etymologiarum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6110-Qd1e173">Cleros graece, sors vel haereditas dicitur:
+              propterea ergo dicti sunt clerici, quia de sorte sunt Domini, vel quia Domini partem
+              habent. </quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6110-d1e178">
+          <ref corresp="#UUyf3f-d1e6110-Qd1e188" xml:id="UUyf3f-d1e6110-Rd1e180">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6110-Qd1e188">Clerici vita, Christi debet ornari
+              Ecclesia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6110-d1e193">
+          <ref corresp="#UUyf3f-d1e6110-Qd1e203" xml:id="UUyf3f-d1e6110-Rd1e195">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6110-Qd1e203">Negotiatorem clericum, et ex inope divitem
+              factum, ex ignobili gloriosum, quasi quamdam pestem fuge.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6110-d1e208">
+          <ref corresp="#UUyf3f-d1e6110-Qd1e218" xml:id="UUyf3f-d1e6110-Rd1e210">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6110-Qd1e218">Procuratores atque dispensatores domorum
+              alienarum atque villarum, quomodo possunt esse clerici, qui proprias jubentur
+              contemnere facultates?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6110-d1e223">
+          <ref corresp="#UUyf3f-d1e6110-Qd1e233" xml:id="UUyf3f-d1e6110-Rd1e225">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6110-Qd1e233">Ita age et vive in monasterio, ut clericus esse
+              merearis, ut adolescentiam tuam nulla sorde commacules, ut ad altare Christi quasi
+              virgo de thalamo procedas, et habeas de foris bonum testimonium. Feminae nomen tuum
+              noverint, vultum nesciant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6110-d1e238">
+          <ref corresp="#UUyf3f-d1e6110-Qd1e248" xml:id="UUyf3f-d1e6110-Rd1e240">Ambrosius, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6110-Qd1e248">Tu quicumque in clero es, Domini portio es, et
+              possessio ejus; noli recedere de Domini tui possessione, ut dicas Domino:
+              <!--<i>-->Possedisti renes meos, suscepisti me de utero matris meae<!--</i>-->, et
+              ille tibi quasi bono servo dicat: <!--<i>-->Transi, et recumbe<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6110-d1e262">
+          <ref corresp="#UUyf3f-d1e6110-Qd1e272" xml:id="UUyf3f-d1e6110-Rd1e264">Augustinus, <title>de Singularitate
+              clericorum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6110-Qd1e272">Cum Christus agnus innocens, imo ipsa coelestis
+              innocentia, quod est verius, tantum se contempserit pro Ecclesia, ut eam sine macula
+              vel ulla ruga redderet illibatam, qualis est ille clericus, cui ad hoc sponsa Christi
+              committitur, ut pro unius feminae amore, culpari totam Ecclesiam patiatur?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6110-d1e277">
+          <ref corresp="#UUyf3f-d1e6110-Qd1e287" xml:id="UUyf3f-d1e6110-Rd1e279">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6110-Qd1e287">Laici delinquentes facile emendantur; clerici
+              autem, si semel evaserint, inemendabiles sunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6110-d1e292">
+          <ref corresp="#UUyf3f-d1e6110-Qd1e302" xml:id="UUyf3f-d1e6110-Rd1e294">Bernardus, <title>de Contemptu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6110-Qd1e302">Vae, vae in domo Dei horrendum videmus. Quid?
+              Idololatras ministrantes. Mentior, si non idolorum servitus avaritia est; si non
+              quibusdam etiam venter suus factus est Deus suus. Quod enim quisque prae caeteris
+              colit, id sibi Deum constituisse perhibetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6110-d1e307">
+          <ref corresp="#UUyf3f-d1e6110-Qd1e317" xml:id="UUyf3f-d1e6110-Rd1e309">Bernardus, <title>de Contemptu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6110-Qd1e317">Res pauperum non pauperibus dare, par sacrilegio
+              crimen esse dignoscitur. Sane patrimonia pauperum facultates sunt ecclesiarum; et
+              sacrilega eis cupiditate surripitur, quidquid sibi ministri et dispensatores, non
+              utique domini vel possessores, ultra victum accipiunt et vestitum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6110-d1e322">
+          <ref corresp="#UUyf3f-d1e6110-Qd1e332" xml:id="UUyf3f-d1e6110-Rd1e324">Bernardus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6110-Qd1e332">Dilatata videtur Ecclesia, et ipse clericalis
+              sacratissimus ordo super numerum multiplicatus est. Verum, etsi
+              <!--<i>-->multiplicasti gentem, Domine, non magnificasti laetitiam<!--</i>-->, dum
+              nihil minus appareat defecisse meriti, quam numeri accessisse.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

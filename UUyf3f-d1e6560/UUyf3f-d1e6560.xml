@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De ambitiosis</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De ambitiosis</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e6560">
+        <head xml:id="UUyf3f-d1e6560-Hd1e99" type="question-title">De ambitiosis</head>
+        <p xml:id="UUyf3f-d1e6560-d1e102">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e112" xml:id="UUyf3f-d1e6560-Rd1e104">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e112">Sicut is, qui invitatus renuit, quaesitus
+              refugit, sacris est altaribus admovendus, sic qui ultro ambit, vel importunum se
+              ingerit, est proculdubio repellendus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e117">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e127" xml:id="UUyf3f-d1e6560-Rd1e119">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e127">Verecundum nobis est, et dicere pudet, quia
+              sacerdotes sibi ducatum accipiunt, qui exordium religiosae militiae non
+              viderunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e132">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e142" xml:id="UUyf3f-d1e6560-Rd1e134">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e142">Ordinate ad ordines accedendum est: nam casum
+              appetit, qui ad summa loci fastigia, postpositis gradibus, per abrupta ascensum
+              quaerit. </quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e147">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e157" xml:id="UUyf3f-d1e6560-Rd1e149">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e157">Nulla ars doceri praesumitur, nisi prius intenta
+              meditatione discatur. Ab imperitis ergo pastorale magisterium qua temeritate
+              suscipitur, quando ars artium est regimen animarum!</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e163">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e173" xml:id="UUyf3f-d1e6560-Rd1e165">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e173">
+              <!--<i>-->Ipsi regnaverunt, et non ex me; principes extiterunt, et non
+              cognovi<!--</i>-->. Ex se namque, et non ex arbitrio summi Creatoris regnant ii, qui
+              nullis fulti virtutibus nequaquam divinitus vocati, sed sua cupiditate accensi, culmen
+              regiminis rapiunt potius, quam assequuntur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e182">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e192" xml:id="UUyf3f-d1e6560-Rd1e184">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e192">Sacrum officium non solum non diligit omnino, sed
+              nescit, qui ad culmen regiminis anhelans, in occulta meditatione cogitationis
+              caeterorum subjectione pascitur, laude propria laetatur, ad honorem cor elevat, rerum
+              affluentium abundantia exultat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e197">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e207" xml:id="UUyf3f-d1e6560-Rd1e199">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e207">Nescit laudem, cum suppetit, fugere, qui ad hanc
+              didicit, cum deesset, anhelare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e212">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e222" xml:id="UUyf3f-d1e6560-Rd1e214">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e222">Qui regimen sacerdotum contendit appetere, ante
+              se discutiat, si vita honori sit congrua: quod si non discrepat, humiliter ad id, ad
+              quod vocatur, accedat. Reatum quippe culpa geminat, si quis cum culpa ad sacerdotale
+              culmen aspirat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e227">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e237" xml:id="UUyf3f-d1e6560-Rd1e229">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e237">Qui ad hoc conversionem sanctitatis praetendit,
+              ut aliis quandoque praeesse possit, iste non discipulus Christi, sed pravitatis et
+              Antichristi sectator existit, quia non pro Deo, sed pro saeculi honore portare studet
+              crucis Christi contumeliam et laborem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e242">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e252" xml:id="UUyf3f-d1e6560-Rd1e244">Augustinus, <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e252" source="http://scta.info/resource/adcd-l19-d1e3149">Locus superior, sine quo regi
+              populus non potest, etiamsi teneatur et administretur ut decet, tamen indecenter
+              appetitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e258">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e268" xml:id="UUyf3f-d1e6560-Rd1e260">Augustinus, <title>de Trinitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e268" source="http://scta.info/resource/adt-l13-d1e1476">Homines diabolum tanto magis
+              imitantur, quanto magis neglecta, vel etiam perosa justitia, potentiae student,
+              ejusque vel adeptione laetantur, vel inflammantur cupiditate.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e273">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e283" xml:id="UUyf3f-d1e6560-Rd1e275">Ambrosius, <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e283">Si Dominus Jesus propria deseruit, tu aliena cur
+              quaeris? Si Creator omnium saeculi gloriam subeundae paupertatis virtute contempsit,
+              cur tu fastidias ad quod natus es, appetas quod indebitum est? Cur ea, quae ad usum
+              tibi diuturna esse non possunt, ad supplicium diuturna, deposcas? Cave insidias, cave
+              fraudes.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e288">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e298" xml:id="UUyf3f-d1e6560-Rd1e290">Ambrosius, <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e298">Ordinatio mundi a Deo, opera mundi a malo: ita
+              etiam a Deo potestatum ordinatio, a malo ambitio potestatis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e303">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e313" xml:id="UUyf3f-d1e6560-Rd1e305">Ambrosius, <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e313">Saepe quos vitia nulla delectant, quos nulla
+              potuit movere luxuria, nulla avaritia subvertere, facit ambitio criminosos. Habet enim
+              forensem gratiam, domesticum scelus, et ut dominetur aliis, prius servit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e318">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e328" xml:id="UUyf3f-d1e6560-Rd1e320">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e328">O ambitio, ambientium crux, quomodo omnes
+              torquens, omnibus places? Nil acerbius cruciat, nil molestius inquietat; nil tamen
+              apud miseros mortales celebrius negotiis ejus. Annon limina Apostolorum plus ambitio,
+              quam devotio terit?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e333">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e343" xml:id="UUyf3f-d1e6560-Rd1e335">Bernardus, <title>super Missus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e343">Quoties hominibus praeesse desidero, toties Deum
+              meum praeire contendo; et tunc vere non sapio ea, quae Dei sunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e349">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e359" xml:id="UUyf3f-d1e6560-Rd1e351">Bernardus, <title>super Missus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e359">Videas homines pecuniosos ad honores quosque
+              ecclesiasticos pervolare, moxque applaudere sibi sanctitatem vestium duntaxat
+              mutatione, non mentium, et dignos se aestimare dignitate, ad quam ambiendo
+              pervenerunt; quodque, si audeo dicere, adepti sunt nummis, attribuere meritis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e364">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e374" xml:id="UUyf3f-d1e6560-Rd1e366">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e374">O utinam praelati tam vigiles reperirentur ad
+              curam, quam alacres currunt ad cathedram.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e379">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e389" xml:id="UUyf3f-d1e6560-Rd1e381">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e389">Non probe satis praeesse affectas, quibus
+              prodesse non curas; et quorum non zelas salutem, subjectionem nimis ambitiose vendicas
+              tibi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e394">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e404" xml:id="UUyf3f-d1e6560-Rd1e396">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e404">Ambitio, mater hypocrisis, latebras amat, et
+              tenebras quaerit, lucis impatiens. Ambitio spurcum vitium, in imo jacet, videt tamen
+              omne sublime, sed videri ipsa refugit: nec mirum, optato namque necesse est careat,
+              nisi caveat arbitros.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e409">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e419" xml:id="UUyf3f-d1e6560-Rd1e411">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e419">Curritur in clero passim ab omni aetate et
+              ordine, a doctis pariter et indoctis, ad ecclesiasticas curas, tanquam sine curis
+              quisque victurus sit, cum ad curas pervenerit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e424">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e434" xml:id="UUyf3f-d1e6560-Rd1e426">Bernardus, super <title>Qui habitat</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e434">Radix iniquitatis ambitio, subtile malum,
+              secretum virus, pestis occulta, doli artifex, mater hypocrisis, livoris parens,
+              vitiorum origo, criminum fomes, virtutum aerugo, tinea sanctitatis, excaecatrix
+              cordium, ex remediis morbos creans, generans ex medicina languorem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e440">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e450" xml:id="UUyf3f-d1e6560-Rd1e442">Bernardus, super <title>Qui habitat</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e450">
+              <!--<i>-->Omnes quae sua sunt quaerunt, non quae Jesu Christi<!--</i>-->: ipsa quoque
+              ecclesiasticae dignitatis officia in turpem quaestum, et tenebrarum negotia transiere:
+              nec in his animarum salus, sed luxus quaeritur divitiarum. Propter hoc tondentur,
+              propter hoc frequentant ecclesias, missas celebrant, psalmos decantant. Pro
+              episcopatibus et archidiaconatibus hodie decertatur, ut ecclesiarum redditus in
+              superfluitatis et vanitatis usus dissipentur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e459">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e469" xml:id="UUyf3f-d1e6560-Rd1e461">Bernardus, <title>de Contemptu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e469">Alius undique circuit sedulus explorator,
+              blanditur, obsequitur, simulat et dissimulat, miseraque sibi suffragia mendicare non
+              erubescit, manibus et pedibus repens, si quo modo tandem se ingerere queat in
+              patrimonium Crucifixi, et bona Domini, quae sola ex omnibus inveniuntur exposita.
+              Nimirum <!--<i>-->peregre profectus est<!--</i>-->, sed in plenissimo die, ut sua
+              districte repetat, rediturus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e478">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e488" xml:id="UUyf3f-d1e6560-Rd1e480">Bernardus, <title>de Contemptu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e488">Universos in ordinibus ecclesiasticis,
+              caeterisque ad sanctuarium pertinentibus, honorem quaerentes proprium, aut divitias,
+              seu corporis voluptatem, postremo, <!--<i>-->quae sua sunt, non quae Jesu
+              Christi<!--</i>-->, manifeste prorsus, et indubitanter non ea quae Deus est charitas,
+              sed aliena a Deo et omnium radix malorum cupiditas introducit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e497">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e507" xml:id="UUyf3f-d1e6560-Rd1e499">Bernardus, <title>de Contemptu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e507">
+              <!--<i>-->Potentes potenter tormenta patientur<!--</i>-->. Ascendat superbia tua
+              semper; sequere regem tuum; omne sublime videant oculi tui; festina multiplicare
+              praebendas; inde ad archidiaconatum evola; deinde aspira ad episcopatum, nec ibi
+              quidem requiem habiturus: quoniam sic itur ad astra.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e516">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e526" xml:id="UUyf3f-d1e6560-Rd1e518">Bernardus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e526">O perversitas, o abusio filiorum Adam, qui, cum
+              ascendere difficillimum sit, descendere autem facillimum, ipsi et leviter ascendunt,
+              et descendunt difficilius, parati ad honores, ad celsitudines graduum ecclesiasticorum
+              ipsis etiam angelicis humeris formidandos.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e6560-d1e531">
+          <ref corresp="#UUyf3f-d1e6560-Qd1e541" xml:id="UUyf3f-d1e6560-Rd1e533">Bernardus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e6560-Qd1e541">Curritur passim ad sacros ordines, et reverenda
+              quoque ipsis spiritibus angelicis mysteria homines apprehendunt sine reverentia, sine
+              consideratione. Neque enim signum regni coelestis occupare, aut illius timent imperii
+              gestare coronam, in quibus avaritia regnat, ambitio imperat, sedet iniquitas, luxuria
+              dominatur, superbia principatur.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

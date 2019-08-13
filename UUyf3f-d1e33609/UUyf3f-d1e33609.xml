@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De simulatione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De simulatione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e33609">
+        <head xml:id="UUyf3f-d1e33609-Hd1e99" type="question-title">De simulatione</head>
+        <p xml:id="UUyf3f-d1e33609-d1e102">
+          <ref corresp="#UUyf3f-d1e33609-Qd1e112" xml:id="UUyf3f-d1e33609-Rd1e104">Gregorius, <title>de Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33609-Qd1e112">Omnis hypocrita, quia vitam justitiae simulans
+              justorum sibi laudem arripit, alienum est profecto quod tollit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33609-d1e117">
+          <ref corresp="#UUyf3f-d1e33609-Qd1e127" xml:id="UUyf3f-d1e33609-Rd1e119">Gregorius, <title>de Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33609-Qd1e127">Omnes hypocritae, dum bonorum vitam simulant,
+              imitationem sanctae conversationis habent, sed veritatem sanctae actionis non
+              habent.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33609-d1e132">
+          <ref corresp="#UUyf3f-d1e33609-Qd1e142" xml:id="UUyf3f-d1e33609-Rd1e134">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33609-Qd1e142">Inter hypocritas jure deputatur, qui simulatione
+              disciplinae ministerium regiminis vertit in usum dominationis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33609-d1e147">
+          <ref corresp="#UUyf3f-d1e33609-Qd1e157" xml:id="UUyf3f-d1e33609-Rd1e149">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33609-Qd1e157">Fictam humilitatem fugiens, illam sectare, quae
+              vera est, quam Christus docuit humilitatem, in qua non sit superbia inclusa. Multi
+              enim hujus virtutis umbram, veritatem pauci sequuntur. Perfacile est aliquem vestem
+              habere contemptam, salutare submissius, manus et genua deosculari, inclinato in terram
+              capite oculisque dejectis humilitatem ac mansuetudinem polliceri, lenta voce tenuique
+              sermones infringere, suspirare crebrius, et ad omne verbum peccatorem ac miserum se
+              clamare. Sed si vel levi sermone offensus fuerit, continuo videbis attollere
+              supercilium, levare cervicem, et delicatum illum oris sonum insano clamore repente
+              mutare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33609-d1e163">
+          <ref corresp="#UUyf3f-d1e33609-Qd1e173" xml:id="UUyf3f-d1e33609-Rd1e165">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33609-Qd1e173">Sancta magis esse, quam videri stude: quia nihil
+              prodest aestimari quod non sis, et duplicis peccati reatus est, non habere quod
+              creditur, et quod non habeas simulare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33609-d1e178">
+          <ref corresp="#UUyf3f-d1e33609-Qd1e188" xml:id="UUyf3f-d1e33609-Rd1e180">Hieronymus, in originali <title>super
+              Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33609-Qd1e188">Nunc rara fides est: aliud in labiis, aliud in
+              corde versatur: venenum animae linguae mella contegunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33609-d1e193">
+          <ref corresp="#UUyf3f-d1e33609-Qd1e203" xml:id="UUyf3f-d1e33609-Rd1e195">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33609-Qd1e203">Dic, hypocrita, si bonum est esse malum, ut quid
+              non vis apparere, quod es? Si autem melius est bonum esse, ut quid non vis esse quod
+              vis apparere?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33609-d1e208">
+          <ref corresp="#UUyf3f-d1e33609-Qd1e218" xml:id="UUyf3f-d1e33609-Rd1e210">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33609-Qd1e218">Inimicus manifestus melior est, quam amicus
+              fictus. Ille dum timetur, facile vitatur; iste dum non cognoscitur, praevalet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33609-d1e223">
+          <ref corresp="#UUyf3f-d1e33609-Qd1e233" xml:id="UUyf3f-d1e33609-Rd1e225">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33609-Qd1e233">Saepe per simulationem amicitia colitur, ut qui
+              non potuit aperte decipere, decipiat fraudulenter.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33609-d1e238">
+          <ref corresp="#UUyf3f-d1e33609-Qd1e248" xml:id="UUyf3f-d1e33609-Rd1e240">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33609-Qd1e248">Per adversa magis, quam per prospera
+              comprobetur, si Deus et proximus vere diligatur: quia dum adversa provenerint, tunc
+              amicus fraudulentus detegitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33609-d1e254">
+          <ref corresp="#UUyf3f-d1e33609-Qd1e264" xml:id="UUyf3f-d1e33609-Rd1e256">Augustinus, <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33609-Qd1e264">Simulatio humilitatis major superbia
+              est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33609-d1e269">
+          <ref corresp="#UUyf3f-d1e33609-Qd1e279" xml:id="UUyf3f-d1e33609-Rd1e271">Augustinus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33609-Qd1e279">Malus spiritus, spiritus stultitiae; alter
+              pejor, simulatio sapientiae. Spiritus malus, spiritus erroris; alter pejor, simulatio
+              veritatis. Spiritus malus, spiritus temeritatis; alter pejor, simulatio consilii.
+              Spiritus malus, spiritus ignaviae; alter pejor simulatio fortitudinis. Spiritus malus,
+              spiritus ignorantiae; alter pejor, simulatio scientiae. Spiritus malus, spiritus
+              impietatis; alter pejor, simulatio pietatis. Spiritus malus, spiritus elationis; alter
+              pejor, simulatio timoris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33609-d1e284">
+          <ref corresp="#UUyf3f-d1e33609-Qd1e294" xml:id="UUyf3f-d1e33609-Rd1e286">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33609-Qd1e294">Intendere quasi in Deum, sed non propter Deum,
+              hypocritae plane animae est: cujus etsi una facies decora videtur, quod ad Deum
+              qualicumque intentione respiciat; ipsa tamen simulatio omne in ea decorum exterminat,
+              et magis per totum ingerit foeditatem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33609-d1e299">
+          <ref corresp="#UUyf3f-d1e33609-Qd1e309" xml:id="UUyf3f-d1e33609-Rd1e301">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33609-Qd1e309">Minus semper malitia palam nocuit; nec unquam
+              bonus, nisi simulatione boni deceptus est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33609-d1e314">
+          <ref corresp="#UUyf3f-d1e33609-Qd1e324" xml:id="UUyf3f-d1e33609-Rd1e316">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33609-Qd1e324">Nemo magis iram meretur, quam amicum simulans
+              inimicus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33609-d1e329">
+          <ref corresp="#UUyf3f-d1e33609-Qd1e339" xml:id="UUyf3f-d1e33609-Rd1e331">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33609-Qd1e339">Non dicit hypocrita: <!--<i>-->Gloria mea
+              testimonium conscientiae meae<!--</i>-->: quia etsi judicantium secundum faciem,
+              verbo, vultu, et habitu simulatorio, eludat opinioni, sed non ejus, qui scrutatur
+              renes et corda, fallit vel evadit judicium.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33609-d1e349">
+          <ref corresp="#UUyf3f-d1e33609-Qd1e359" xml:id="UUyf3f-d1e33609-Rd1e351">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33609-Qd1e359">Omnia vitia in aperto leviora sunt. Morbi quoque
+              tunc ad sanitatem inclinant, cum ex abdito erumpunt, atque vim suam proferunt.
+              Avaritiam itaque et ambitionem, et caetera mala mentis humanae, tunc perniciosissima
+              scias esse, cum simulata sanctitate subsistunt.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

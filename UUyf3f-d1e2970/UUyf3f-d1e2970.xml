@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De muliere</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De muliere</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e2970">
+        <head xml:id="UUyf3f-d1e2970-Hd1e99" type="question-title">De muliere</head>
+        <p xml:id="UUyf3f-d1e2970-d1e102">
+          <ref corresp="#UUyf3f-d1e2970-Qd1e112" xml:id="UUyf3f-d1e2970-Rd1e104">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2970-Qd1e112">Si hora eadem, qua genuerit, actura gratias
+              mulier intret Ecclesiam, nullo peccati pondere gravatur. Voluptas enim carnis, non
+              dolor in culpa est. In carnis autem commixtione voluptas est: nam in prolis prolatione
+              gemitus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2970-d1e117">
+          <ref corresp="#UUyf3f-d1e2970-Qd1e127" xml:id="UUyf3f-d1e2970-Rd1e119">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2970-Qd1e127">Menstrua consuetudo mulieribus non culpa est,
+              videlicet quia naturaliter accidit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2970-d1e132">
+          <ref corresp="#UUyf3f-d1e2970-Qd1e142" xml:id="UUyf3f-d1e2970-Rd1e134">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2970-Qd1e142">Si in menstrua consuetudine ad sacramentum
+              dominici corporis et sanguinis accedere mulieres non praesumant, de sua recta
+              consideratione laudandae sunt. Dum vero percipiendi ex religiosae vitae consuetudine
+              ejusdem mysterii amore rapiuntur, reprimendae non sunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2970-d1e147">
+          <ref corresp="#UUyf3f-d1e2970-Qd1e157" xml:id="UUyf3f-d1e2970-Rd1e149">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2970-Qd1e157">In Sina monte Dominus ad populum locuturus, prius
+              eumdem populum abstinere a mulieribus praecepit. Et si illic ubi Dominus per creaturam
+              subditam hominibus loquebatur, tanta provisione est munditia corporis requisita, ut
+              qui verba Dei perciperent, mulieribus mixti non essent; quanto magis mulieres, quae
+              corpus Domini omnipotentis accipiunt, custodire in se munditiam carnis debent, ne ipsa
+              inaestimabilis mysterii magnitudine praegraventur?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2970-d1e163">
+          <ref corresp="#UUyf3f-d1e2970-Qd1e173" xml:id="UUyf3f-d1e2970-Rd1e165">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2970-Qd1e173">Quod femina Adae ex ejus latere facta est, etiam
+              hinc satis significatum est, quam sacra mariti et uxoris debeat esse
+              conjunctio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2970-d1e178">
+          <ref corresp="#UUyf3f-d1e2970-Qd1e188" xml:id="UUyf3f-d1e2970-Rd1e180">Augustinus,
+              <title>de Patientia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2970-Qd1e188"
+              source="http://scta.info/resource/adcd-l12-d1e1787">Non diabolus uxorem Job, cum etiam
+              filios abstulisset, tanquam nocendi imperitus reliquerat, quae quantum esset
+              necessaria tentatori jam in Eva didicerat; sed modo alterum Adam, quem per mulierem
+              caperet, non invenerat. Cautior fuit Job in doloribus, quam Adam in nemoribus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2970-d1e193">
+          <ref corresp="#UUyf3f-d1e2970-Qd1e203" xml:id="UUyf3f-d1e2970-Rd1e195">Augustinus,
+              <title>de decem Chordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2970-Qd1e203">Illa est casta et sancta femina, et vere
+              christiana, quae dolet fornicantem virum; et non dolet propter carnem, sed dolet
+              propter charitatem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2970-d1e208">
+          <ref corresp="#UUyf3f-d1e2970-Qd1e218" xml:id="UUyf3f-d1e2970-Rd1e210">Augustinus,
+              <title>de verbis Domini</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2970-Qd1e218">Quod dolendum est, multi viri vincuntur a
+              feminis: servant feminae castitatem, quam viri servare nolunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2970-d1e223">
+          <ref corresp="#UUyf3f-d1e2970-Qd1e233" xml:id="UUyf3f-d1e2970-Rd1e225">Ambrosius,
+              <title>de Virginibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2970-Qd1e233">Saltat, sed adulterae filia; quae vero pudica,
+              quae casta est, filias suas religionem docet, non saltationem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2970-d1e238">
+          <ref corresp="#UUyf3f-d1e2970-Qd1e248" xml:id="UUyf3f-d1e2970-Rd1e240">Joannes
+            Chrysostomus, <title>super Matthaeum</title>, in originali</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2970-Qd1e248">Quid est mulier, nisi amicitiae inimica,
+              ineffugabilis poena, notorium malum, naturalis tentatio, desiderabilis calamitas,
+              domesticum periculum, mali natura, boni colore depicta? Ergo si dimittere illam
+              peccatum est, tenere autem viro tormentum est, necesse est, ut aut dimittentes
+              adulterium faciamus, aut tenentes, quotidianas pugnas et amaritudines
+              habeamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2970-d1e254">
+          <ref corresp="#UUyf3f-d1e2970-Qd1e264" xml:id="UUyf3f-d1e2970-Rd1e256">Joannes
+            Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2970-Qd1e264">Sexus muliebris incautus et mollis est: incautus
+              quidem, quia non omnia quae videt, aut audit, cum sapientia et ratione considerat;
+              mollis autem, quia facile flectitur, vel de malo ad bonum, vel de bono ad
+              malum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2970-d1e269">
+          <ref corresp="#UUyf3f-d1e2970-Qd1e276" xml:id="UUyf3f-d1e2970-Rd1e271">Joannes
+            Chrysostomus, in sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2970-Qd1e276">Quid est speciosa mulier? sepulchrum dealbatum,
+              nisi fuerit casta, sobria et pudica. Pulchritudo autem est sine his virtutibus
+              praecipitium patens, venenum insipientibus compositum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2970-d1e281">
+          <ref corresp="#UUyf3f-d1e2970-Qd1e291" xml:id="UUyf3f-d1e2970-Rd1e283">Joannes
+            Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2970-Qd1e291">Nihil fortius muliere religiosa et prudente ad
+              deliniendum virum, et informandum ejus animum ad quodcumque voluerit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2970-d1e296">
+          <ref corresp="#UUyf3f-d1e2970-Qd1e306" xml:id="UUyf3f-d1e2970-Rd1e298">Hieronymus, in
+              <title>Epistola ad Oceanum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2970-Qd1e306">Janua diaboli, via iniquitatis, scorpionis
+              percussio, nocivumque genus feminarum est. Cum proximat stipula, incendit ignem:
+              flammigero igne percutit femina conscientiam pariter habitantis, exurit fundamenta
+              quoque montium.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2970-d1e311">
+          <ref corresp="#UUyf3f-d1e2970-Qd1e321" xml:id="UUyf3f-d1e2970-Rd1e313">Seneca, <title>in
+              Proverbio</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2970-Qd1e321">Malo in consilio vincunt feminae viros.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e2970-d1e326">
+          <ref corresp="#UUyf3f-d1e2970-Qd1e333" xml:id="UUyf3f-d1e2970-Rd1e328">Secundus
+            Philosophus</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e2970-Qd1e333">Mulier est hominis confusio, insaturabilis
+              bestia, sollicitudo continua, indesinens pugna, quotidianum damnum, castitatis
+              impedimentum, domus tempestatis, adulterii vas, viri et continentiae naufragium,
+              praecipuum praelium, animal pessimum, pondus gravissimum, aspis insatiabilis, humanum
+              mancipium.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

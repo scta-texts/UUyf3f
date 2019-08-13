@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De superbia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De superbia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e14047">
+        <head xml:id="UUyf3f-d1e14047-Hd1e99" type="question-title">De superbia</head>
+        <p xml:id="UUyf3f-d1e14047-d1e102">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e112" xml:id="UUyf3f-d1e14047-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e112">Septem principalia vitia de superbiae virulenta
+              radice producuntur, scilicet inanis gloria, invidia, ira, tristitia, avaritia, ventris
+              ingluvies, luxuria.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e117">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e127" xml:id="UUyf3f-d1e14047-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e127">Scimus, quod aliquando minus est in corporis
+              corruptionem cadere, quam cogitatione tacita ex deliberata elatione peccare. Sed tamen
+              minus superbia turpis creditur, minus peccatum a simplicibus judicatur; luxuriam vero
+              eo magis erubescunt homines, quo simul omnes eam turpem esse noverunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e132">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e142" xml:id="UUyf3f-d1e14047-Rd1e134">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e142">Cunctis superba apud se cogitatione tumentibus
+              inest clamor in locutione, amaritudo in silentio, dissolutio in hilaritate, furor in
+              tristitia, inhonestas in actione, honestas in imagine, erectio in incessu, rancor in
+              responsione. Horum mens semper est ad irrogandas contumelias valida, ad tolerandas
+              infirma, ad obediendum pigra, ad lacessendos vero alios importuna, ad ea quae facere
+              et debet, et praevalet, ignava, ad ea vero, quae facere non debet, nec praevalet,
+              parata.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e147">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e157" xml:id="UUyf3f-d1e14047-Rd1e149">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e157">Hoc proprium arrogantium esse vitium solet, ut
+              et pauca credant, quae ipsi multa dixerunt; et multa credant, quae ipsis pauca
+              dicuntur. Qui enim sua dicere semper volunt, aliena audire non possunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e163">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e173" xml:id="UUyf3f-d1e14047-Rd1e165">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e173">Tolerabilius Deo est, ut in infirmitate atque
+              ignorantia cum humilitate quisquis jaceat, quam cum elatione cordis alta
+              comprehendat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e178">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e188" xml:id="UUyf3f-d1e14047-Rd1e180">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e188">Adjuvare imbecillem, charitatis est; adjuvare
+              vero velle potentem, elationis est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e193">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e203" xml:id="UUyf3f-d1e14047-Rd1e195">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e203">Per elationem plerumque et usque ad senium
+              servata virginitas vitiatur: quia enim negligitur humilitas cordis, rectus judex
+              despicit etiam integritatem corporis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e208">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e218" xml:id="UUyf3f-d1e14047-Rd1e210">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e218">Difficile in se quisque inveteratam superbiam
+              deprehendit, quia nimirum hoc vitium quanto magis patimur, tanto minus
+              videmus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e223">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e233" xml:id="UUyf3f-d1e14047-Rd1e225">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e233">Arrogantes sicut inflantur laudibus, ita
+              correptionibus inflammantur, et a quolibet se, vel justo, reprehendi despiciunt,
+              moxque in malis suis fomitem defensionis exquirunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e238">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e248" xml:id="UUyf3f-d1e14047-Rd1e240">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e248">Omnino difficile est, ut elatio, quae regnat in
+              corde, non erumpat in voce.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e254">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e264" xml:id="UUyf3f-d1e14047-Rd1e256">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e264">Arrogantes grave se damnum perpeti judicant, si
+              scientiam suam loquendi brevitate constringant. Tanto enim semetipsos credunt
+              doctiores ostendere, quanto se potuerint multiplicitatem loquacitatis aperire.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e269">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e279" xml:id="UUyf3f-d1e14047-Rd1e271">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e279">Initium omnis peccati superbia est, quae natione
+              coelestis, sublimium mentes inhabitat, sub cinere et cilicio latitans.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e284">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e294" xml:id="UUyf3f-d1e14047-Rd1e286">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e294">Nihil ita a pueritia vitare conatus sum, sicut
+              tumentem animum, et erectam cervicem Dei contra se odia provocantem. Novi enim
+              Magistrum et Dominum meum in carnis humilitate dixisse: <!--<i>-->Discite a me, quia
+              mitis sum, et humilis corde<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e303">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e313" xml:id="UUyf3f-d1e14047-Rd1e305">Augustinus, in
+              <title>Regula</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e313">Alia quaecumque iniquitas in malis operibus
+              exercetur, ut fiant; superbia vero etiam bonis operibus insidiatur, ut
+              pereant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e318">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e328" xml:id="UUyf3f-d1e14047-Rd1e320">Augustinus,
+              <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e328">Mensura humilitatis cuique ex mensura ipsius
+              magnitudinis data est, cui est valde periculosa superbia, quae amplius amplioribus
+              insidiatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e333">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e343" xml:id="UUyf3f-d1e14047-Rd1e335">Augustinus,
+              <title>de Gratia Novi Testamenti</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e343">Superbia odit consortium, et quantum in ipso
+              est, solus cupit eminere omnis superbus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e349">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e359" xml:id="UUyf3f-d1e14047-Rd1e351">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e359"
+              source="http://scta.info/resource/adcd-l10-d1e1512">An forte corrigi pudet? Et hoc
+              vitium non nisi superborum est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e364">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e374" xml:id="UUyf3f-d1e14047-Rd1e366">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e374"
+              source="http://scta.info/resource/adcd-l19-d1e3115">Superbia perverse imitatur Deum:
+              odit namque cum sociis aequalitatem sub illo; sed imponere vult sociis dominationem
+              suam pro illo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e379">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e389" xml:id="UUyf3f-d1e14047-Rd1e381">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e389"
+              source="http://scta.info/resource/adcd-l19-d1e3134">Facilius servitur homini, quam
+              libidini, cum saevissimo dominatu vastet corda mortalium, ut alias omittam, libido
+              ipsa dominandi hominibus aliis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e394">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e404" xml:id="UUyf3f-d1e14047-Rd1e396">Augustinus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e404">Fit miris modis in anima hominis, ut de falsa
+              humilitate magis infletur, quam si aperitius superbiret.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e409">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e419" xml:id="UUyf3f-d1e14047-Rd1e411">Augustinus,
+              <title>de Confessionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e419">
+              <!--<i>-->Humiliasti tanquam vulneratum superbum<!--</i>-->, et tumore meo separabar
+              abs te, et nimis inflata facies claudebat oculos meos.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e428">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e438" xml:id="UUyf3f-d1e14047-Rd1e430">Augustinus,
+              <title>de Confessionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e438">Plus hostis vincitur in eo, quem plus tenet, et
+              de quo plures tenet: plus autem superbos tenet nomine nobilitatis, et de his plures
+              nomine auctoritatis. </quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e444">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e454" xml:id="UUyf3f-d1e14047-Rd1e446">Joannes
+            Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e454">Superbia in nobis existente, omnis nostra vita
+              immunda fit, etsi sobrietatem, etsi virginitatem, etsi jejunium, etsi orationes, etsi
+              eleemosynam, etsi quodcumque aliud perficiamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e459">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e469" xml:id="UUyf3f-d1e14047-Rd1e461">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e469">Superbia, sicut est origo omnium criminum, ita
+              ruina cunctarum virtutum: ipsa enim est in peccato prima, in conflictu
+              postrema.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e474">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e484" xml:id="UUyf3f-d1e14047-Rd1e476">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e484">Omnis peccans superbus est, eo quod faciendo
+              vetita, contemptui habet divina praecepta.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e489">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e499" xml:id="UUyf3f-d1e14047-Rd1e491">Bernardus,
+              <title>de duodecim Gradibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e499">Gloriosa res humilitas, qua ipsa quoque superbia
+              palliare se appetit, ne vilescat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e504">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e514" xml:id="UUyf3f-d1e14047-Rd1e506">Bernardus,
+              <title>de duodecim Gradibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e514">Arrogans de alia omni re plus sibi credit, quam
+              aliis; de seipso plus aliis credit, quam sibi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e519">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e529" xml:id="UUyf3f-d1e14047-Rd1e521">Bernardus,
+              <title>de duodecim Gradibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e529">Monachus praesumptuosus primus in conventibus
+              residet, in consiliis primus respondet, non vocatus accedit, non missus se
+              intromittit, reordinat ordinata, reficit facta. Quidquid ipse non fecit, aut
+              ordinavit, nec recte factum, nec pulchre aestimat ordinatum. Judicat judicantes,
+              praejudicat judicaturis. Si cum tempus advenerit non promoveatur ad prioratum, abbatem
+              aut invidum judicat, aut deceptum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e535">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e545" xml:id="UUyf3f-d1e14047-Rd1e537">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e545">Argumentum superbiae, privatio gratiae est:
+              <!--<i>-->humilibus<!--</i>--> enim <!--<i>-->dat Deus gratiam, superbis
+              resistit<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14047-d1e558">
+          <ref corresp="#UUyf3f-d1e14047-Qd1e568" xml:id="UUyf3f-d1e14047-Rd1e560">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14047-Qd1e568">Perniciosa paupertas, penuria meritorum;
+              praesumptio autem spiritus, fallaces divitiae: et ideo <!--<i>-->divitias et
+              paupertatem ne dederis mihi, Domine<!--</i>-->.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

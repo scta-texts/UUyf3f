@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De ira</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De ira</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e14912">
+        <head xml:id="UUyf3f-d1e14912-Hd1e99" type="question-title">De ira</head>
+        <p xml:id="UUyf3f-d1e14912-d1e102">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e112" xml:id="UUyf3f-d1e14912-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e112">De ira rixae, tumor mentis, contumeliae, clamor,
+              indignatio, blasphemiae proferuntur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e117">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e127" xml:id="UUyf3f-d1e14912-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e127">Plerumque mentem, sub obtentu justitiae; irae
+              immanitas vastat; et dum quasi saevit zelo rectitudinis, rabiem explet ira
+              furoris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e132">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e142" xml:id="UUyf3f-d1e14912-Rd1e134">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e142">Qui humanorum actuum subtili examine gressus
+              enumerat, iram sine voce, judicio; iram in voce, concilio; iram vero in voce atque
+              sermone, gehennae ignibus mancipat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e147">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e157" xml:id="UUyf3f-d1e14912-Rd1e149">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e157">Plus semper ira in vindicta exigit, quam de
+              injuria accepit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e163">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e173" xml:id="UUyf3f-d1e14912-Rd1e165">Gregorius, in
+              <title>Dialogis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e173">Tanto metuenda est ira justorum, quanto et
+              constat quia in eorum cordibus ille praesens est, qui ad inferendam ultionem, quam
+              voluerit, invalidus non est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e178">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e188" xml:id="UUyf3f-d1e14912-Rd1e180">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e188">Ira, etiam cum delinquentium culpas insequitur,
+              non debet menti nostrae quasi domina praeire; sed post rationis tergum, quasi ancilla
+              rationis, subnixius famulari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e193">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e203" xml:id="UUyf3f-d1e14912-Rd1e195">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e203">Nemo potest diligere illum, quem ex ira vel odio
+              non vult videre.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e208">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e218" xml:id="UUyf3f-d1e14912-Rd1e210">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e218">Ira si semel mentem possidere coeperit, justum
+              esse deputat etiam illud, quod crudeliter facit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e223">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e233" xml:id="UUyf3f-d1e14912-Rd1e225">Gregorius, in
+              <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e233">Illa quae mater est omnium custosque virtutum,
+              per irae vel impatientiae vitium virtus charitatis enervatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e238">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e248" xml:id="UUyf3f-d1e14912-Rd1e240">Hieronymus, in
+            originali <title>super Michaeam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e248">Propemodum naturale est, ut et nurus socrum, et
+              socrus oderit nurum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e254">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e264" xml:id="UUyf3f-d1e14912-Rd1e256">Augustinus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e264">Sicut acetum corrumpit vas, si diutius ibi
+              fuerit, sic ira corrumpit cor, si in alium diem duraverit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e269">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e279" xml:id="UUyf3f-d1e14912-Rd1e271">Augustinus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e279">Multo melius nec juste cuiquam irascimur, quam
+              velut juste irascendo, in alicujus odium irae occulta facilitate dilabimur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e284">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e294" xml:id="UUyf3f-d1e14912-Rd1e286">Augustinus,
+              <title>de Sermone Domini in monte</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e294">Si irasci non est fas fratri suo sine causa, aut
+              dicere: <!--<i>-->Raca<!--</i>-->, aut dicere: <!--<i>-->Fatue<!--</i>-->, multo minus
+              fas est animo tenere aliquid, ut in odium indignatio convertatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e307">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e317" xml:id="UUyf3f-d1e14912-Rd1e309">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e317"
+              source="http://scta.info/resource/adcd-l14-d1e2088">Iram nihil aliud esse, quam
+              ulciscendi libidinem, veteres diffinierunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e322">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e332" xml:id="UUyf3f-d1e14912-Rd1e324">Augustinus, in
+              <title>Regula</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e332">Melior est, qui quamvis ira saepe tentatur,
+              tamen impetrare festinat, ut sibi dimittat, cui se fecisse agnoscit injuriam, quam qui
+              tardius irascitur, et ad veniam petendam tardius inclinatur. Qui autem nunquam petit
+              veniam, aut non ex animo petit, sine causa est in monasterio, etiamsi inde non
+              projiciatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e337">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e344" xml:id="UUyf3f-d1e14912-Rd1e339">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e344">Si non dimiserimus ex corde, quod in nos
+              delinquitur, etiam hoc quod per poenitentiam dimissum erat, a nobis exigetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e350">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e360" xml:id="UUyf3f-d1e14912-Rd1e352">Cassiodorus, in
+              <title>Psalmos</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e360">Venialis ira est, quae non ducitur ad
+              effectum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e365">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e375" xml:id="UUyf3f-d1e14912-Rd1e367">Joannes
+            Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e375">Qui irascitur sine ratione, multis suppliciis
+              dignus erit, voluntarie seipsum in barathra perditionis ferens, et ante futuram
+              gehennam, hic jam vindictam solvens.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e380">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e390" xml:id="UUyf3f-d1e14912-Rd1e382">Joannes
+            Chrysostomus, <title>de Compunctione cordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e390">Non iracundos tantum et illatae malitiae memores
+              punit Deus tanquam reos; sed et eos, qui et irascentes aut offensos fratres placare
+              negligunt et contemnunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e395">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e405" xml:id="UUyf3f-d1e14912-Rd1e397">Joannes
+            Chrysostomus, <title>de Compunctione cordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e405">Osculum pacis porrigere tempore, quo sacramenta
+              offeruntur, in usu Ecclesiae est. Sed vereor ne plures ex nobis labiis tantummodo
+              pacem faciant, cum tamen Christus non ex ore, sed ex corde desideret, et affectu velit
+              proximum, non labiis salutari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e410">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e420" xml:id="UUyf3f-d1e14912-Rd1e412">Joannes
+            Chrysostomus, <title>de Compunctione cordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e420">Si tantummodo non laedas eum, qui te laesit,
+              avertas autem te ab eo, nec libenter eum videas, manet sine dubio vulnus in pectore,
+              et irae dolor augescit in corde.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e425">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e435" xml:id="UUyf3f-d1e14912-Rd1e427">Ambrosius,
+              <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e435">Si irascimur, quia affectus naturae est, non
+              potestatis, malum sermonem non proferamus de ore nostro, ne in culpam ruamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e441">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e451" xml:id="UUyf3f-d1e14912-Rd1e443">Ambrosius,
+              <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e451">Is qui cito injuria illata movetur, facit se
+              dignum judicari contumelia, dum vult ea indignus haberi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e14912-d1e456">
+          <ref corresp="#UUyf3f-d1e14912-Qd1e466" xml:id="UUyf3f-d1e14912-Rd1e458">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e14912-Qd1e466">Non irasci, ubi irascendum sit, nolle emendare
+              peccatum est; prius vero irasci, quam irascendum sit, peccatum peccato addere
+              est.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

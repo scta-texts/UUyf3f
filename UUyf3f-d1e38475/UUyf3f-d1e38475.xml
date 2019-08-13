@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De mortificatione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De mortificatione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e38475">
+        <head xml:id="UUyf3f-d1e38475-Hd1e99" type="question-title">De mortificatione</head>
+        <p xml:id="UUyf3f-d1e38475-d1e102">
+          <ref corresp="#UUyf3f-d1e38475-Qd1e112" xml:id="UUyf3f-d1e38475-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38475-Qd1e112">Tanto mens melius ad superna appetenda
+              componitur, quanto ab illicitis arctius corpus edomatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38475-d1e117">
+          <ref corresp="#UUyf3f-d1e38475-Qd1e127" xml:id="UUyf3f-d1e38475-Rd1e119">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38475-Qd1e127">Nisi quis a semetipso deficiat, ad eum, qui
+              supra ipsum est, non appropinquat; nec valet apprehendere quod supra ipsum est, qui
+              nescit mactare quod est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38475-d1e132">
+          <ref corresp="#UUyf3f-d1e38475-Qd1e142" xml:id="UUyf3f-d1e38475-Rd1e134">Augustinus, in <title>Regula</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38475-Qd1e142">Carnem vestram domate jejuniis, et abstinentia
+              escae et potus, quantum valetudo permittit. Quando autem aliquis non potest jejunare,
+              non tamen extra horam prandii aliquid alimentorum sumat, nisi cum aegrotat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38475-d1e147">
+          <ref corresp="#UUyf3f-d1e38475-Qd1e157" xml:id="UUyf3f-d1e38475-Rd1e149">Augustinus, <title>de Viduitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38475-Qd1e157">Facilius concupiscentia refrenatur, quae nulla
+              expectatione succenditur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38475-d1e163">
+          <ref corresp="#UUyf3f-d1e38475-Qd1e173" xml:id="UUyf3f-d1e38475-Rd1e165">Augustinus, <title>de Singularitate
+              Clericorum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38475-Qd1e173">Amputanda sunt omnia nobis, quaecumque igniferi
+              fomitis, sulphurantibus flammis scatens, fornax ebullientis carnis exaestuat; ne, vel
+              tenuis quidem scintilla servata, majora conflet incendia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38475-d1e178">
+          <ref corresp="#UUyf3f-d1e38475-Qd1e188" xml:id="UUyf3f-d1e38475-Rd1e180">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38475-Qd1e188">Mori oportet hominem in carne mundo, ne moriatur
+              in anima Christo. Nam tunc quisque vivere dicitur, si secundum saeculum moriens, in
+              solo Deo vivere delectetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38475-d1e193">
+          <ref corresp="#UUyf3f-d1e38475-Qd1e203" xml:id="UUyf3f-d1e38475-Rd1e195">Cassiodorus, <title>de Anima</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38475-Qd1e203">Vae carni quae hic superata non fuerit. Nam quae
+              in hac conversatione vincitur, illic sine dubio coronabitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38475-d1e208">
+          <ref corresp="#UUyf3f-d1e38475-Qd1e218" xml:id="UUyf3f-d1e38475-Rd1e210">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38475-Qd1e218">Durius tractandum quidem est corpus, ne
+              rebellet, ne insolescat; sic tamen ut servire sufficiat, quia ad serviendum spiritui
+              datum est: nec sic habendum est tanquam propter illud vivamus, sed tanquam sine quo
+              vivere non possumus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38475-d1e223">
+          <ref corresp="#UUyf3f-d1e38475-Qd1e233" xml:id="UUyf3f-d1e38475-Rd1e225">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38475-Qd1e233">Vetas me coelo interesse, id est, jubes me
+              vivere capite demisso? Major sum et ad majora genitus, quam ut mancipium sim mei
+              corporis: quod quidem non aliter aspicio, quam vinculum aliquod libertati meae
+              circumdatum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38475-d1e238">
+          <ref corresp="#UUyf3f-d1e38475-Qd1e248" xml:id="UUyf3f-d1e38475-Rd1e240">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38475-Qd1e248">Contemptus sui corporis, certa libertas
+              est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38475-d1e254">
+          <ref corresp="#UUyf3f-d1e38475-Qd1e264" xml:id="UUyf3f-d1e38475-Rd1e256">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38475-Qd1e264">Honestum ei vile est, cui corpus nimis carum
+              est; agatur ejus diligentissime cura, ita tamen ut, cum exiget ratio, cum dignitas,
+              cum fides, mittendum sit in ignes.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38475-d1e269">
+          <ref corresp="#UUyf3f-d1e38475-Qd1e279" xml:id="UUyf3f-d1e38475-Rd1e271">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38475-Qd1e279">Hanc sanam et salubrem formam vitae tenere, ut
+              corpori tantum indulgeas, quantum bonae valetudini satis est; durius etiam tractandum
+              est, ne animo male pareat.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

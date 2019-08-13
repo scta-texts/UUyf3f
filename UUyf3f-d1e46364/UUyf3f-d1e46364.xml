@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De aequitate</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De aequitate</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e46364">
+        <head xml:id="UUyf3f-d1e46364-Hd1e99" type="question-title">De aequitate</head>
+        <p xml:id="UUyf3f-d1e46364-d1e102">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e112" xml:id="UUyf3f-d1e46364-Rd1e104">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e112">Ita vos in ea, quae Deum offendunt, et ad
+              iracundiam provocant, districtos ac sollicitos exhibete, ut ad aliorum emendationem et
+              vindicta culpabilem feriat, et innocentem falsa opinio non affligat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e117">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e127" xml:id="UUyf3f-d1e46364-Rd1e119">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e127">Manifesta peccata non sunt occulta correctione
+              purganda, sed palam sunt arguendi, qui palam nocent: ut dum aperta objurgatione
+              sanantur, hi qui eos imitando deliquerant, corrigantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e132">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e142" xml:id="UUyf3f-d1e46364-Rd1e134">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e142">Cum increpare delinquentes noluerit, eos
+              proculdubio pastor occidit. Hac ergo consideratione compulsus, velis, nolis, locuturus
+              sum: quia omni virtute aut te cupio salvari, aut de tua morte me eripi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e147">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e157" xml:id="UUyf3f-d1e46364-Rd1e149">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e157">Sicut obstinati esse humilibus non debemus, ita
+              districti esse superbis debemus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e163">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e173" xml:id="UUyf3f-d1e46364-Rd1e165">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e173">Sicut perseveranti culpae debetur jure vindicta,
+              ita resipiscentibus est venia concedenda.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e178">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e188" xml:id="UUyf3f-d1e46364-Rd1e180">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e188">Boni te dulcem, pravi sentiant correctorem. In
+              qua videlicet correctione hunc esse ordinem noveris observandum, ut personam diligas,
+              et vitia persequaris: ne si aliter agere fortasse volueris, transeat in crudelitatem
+              correctio, et perdas quos emendare desideras.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e193">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e203" xml:id="UUyf3f-d1e46364-Rd1e195">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e203">Justitiae et rationis ordo suadet, ut qui sua a
+              successoribus desiderat mandata servari, praedecessoris sui proculdubio voluntatem et
+              statuta custodiat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e208">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e218" xml:id="UUyf3f-d1e46364-Rd1e210">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e218">Sicut in his, qui per ignorantiam fecerunt,
+              culpa aliquatenus toleranda est; ita in his fortiter insequenda, qui non metuunt
+              sciendo peccare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e223">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e233" xml:id="UUyf3f-d1e46364-Rd1e225">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e233">Effectum justa postulantibus indulgere, et vigor
+              aequitatis, et ordo exigit rationis, praesertim quando petentium voluntatem, et pietas
+              adjuvat, et veritas non relinquit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e238">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e248" xml:id="UUyf3f-d1e46364-Rd1e240">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e248">Sicut rationi contraria procul est abjicienda
+              petitio; ita in his, quae bene desiderantur, effectum non convenit negare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e254">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e264" xml:id="UUyf3f-d1e46364-Rd1e256">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e264">Minorem major praecedit, sicut honore, ita et
+              crimine: et quem major sequitur culpa, majori plectatur vindicta, et sic postea
+              poenitentia credatur esse fructuosa.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e269">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e279" xml:id="UUyf3f-d1e46364-Rd1e271">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e279">Sicut laudabile, discretumque est, reverentiam
+              et honorem debitum exhibere prioribus, ita rectitudinis et Dei timoris est, si qua in
+              eis correctione indigent, nulla dissimulatione postponere: ne totum, quod absit,
+              incipiat corpus invadere, si languor non fuerit curatus in capite.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e284">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e294" xml:id="UUyf3f-d1e46364-Rd1e286">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e294">Manifesti excessus canonica semper moderatione
+              premendi sunt: ut una res, et praeteritorum correctio, et esse regula possit
+              futurorum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e299">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e309" xml:id="UUyf3f-d1e46364-Rd1e301">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e309">Quoties contra ecclesiasticam quid gestum
+              dicitur disciplinam, ne nos ante Deum culpa ex dissimulatione redarguat, irrequisitum
+              hoc relinquere non audemus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e314">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e324" xml:id="UUyf3f-d1e46364-Rd1e316">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e324">Sicut Ecclesia proprias res amittere non debet,
+              ita eam rapacitatis ardore alienas invadere non oportet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e329">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e339" xml:id="UUyf3f-d1e46364-Rd1e331">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e339">Jurgantium controversias celeri sententia
+              terminare, et aequitati proculdubio convenit, et vigori.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e345">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e355" xml:id="UUyf3f-d1e46364-Rd1e347">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e355">Sicut ab aliis nostra exigimus, ita singulis sua
+              jura servemus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e360">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e370" xml:id="UUyf3f-d1e46364-Rd1e362">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e370">Majora crimina, et tarde credenda sunt, cum
+              audiuntur, et citius punienda sunt, cum veraciter agnoscuntur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e375">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e385" xml:id="UUyf3f-d1e46364-Rd1e377">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e385">Superiores cum per disciplinam alios feriunt,
+              sic alienam infirmitatem debent percutere, ut etiam ad suam noverint oculos
+              revocare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e390">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e400" xml:id="UUyf3f-d1e46364-Rd1e392">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e400">Aliquando subjectorum vitia prudenter
+              dissimulanda sunt, sed quia dissimulantur, indicanda; aliquando etiam aperte cognita,
+              mature toleranda; aliquando vero subtiliter et occulte perscrutanda, aliquando leniter
+              arguenda; aliquando et vehementer increpanda.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e405">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e415" xml:id="UUyf3f-d1e46364-Rd1e407">Ambrosius, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e415">Hostem ferire, victoria est; reum, aequitas;
+              innocentem, homicidium.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e420">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e430" xml:id="UUyf3f-d1e46364-Rd1e422">Augustinus, <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e430" source="http://scta.info/resource/adcd-l19-d1e3127">Melior est animi aequitas, quam
+              corporis sanitas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e436">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e446" xml:id="UUyf3f-d1e46364-Rd1e438">Augustinus, <title>de Unico baptismate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e446">Hoc justum est, ut cum mala hominum reprobamus,
+              quaecumque in illis bona Dei reperimus, approbemus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e451">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e461" xml:id="UUyf3f-d1e46364-Rd1e453">Augustinus, <title>de Unico baptismate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e461">Veritate manente, quod vitiosum, quod pravum,
+              quod falsum in unoquoque fuerit, curemus, corrigamus, emendemus, aut si non possumus,
+              detestatum damnatumque vitemus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e466">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e476" xml:id="UUyf3f-d1e46364-Rd1e468">Augustinus, <title>de Ovibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e476">Disciplina exerceatur, judicium non
+              praecipitetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e481">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e491" xml:id="UUyf3f-d1e46364-Rd1e483">Joannes Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e491">Sive inops, sive dives fuerit quis, non personas
+              attendamus, sed res scrutemur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e496">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e506" xml:id="UUyf3f-d1e46364-Rd1e498">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e506">Si quis susurro in populo diaboli sibi assumens
+              vicem, jurgia seminare, et pacem turbare velle reperiatur, quemadmodum ille discordiae
+              semper est amator et auctor; huic rigidae censurae remedio citius obvietur, eo quippe
+              pessimae, quo intimae pesti.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e511">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e521" xml:id="UUyf3f-d1e46364-Rd1e513">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e521">Malum si comprimas tuum, reputabitur tibi ad
+              gloriam; si alienum, ad justitiam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e46364-d1e527">
+          <ref corresp="#UUyf3f-d1e46364-Qd1e537" xml:id="UUyf3f-d1e46364-Rd1e529">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e46364-Qd1e537">Melius est ut pereat unus, quam unitas.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

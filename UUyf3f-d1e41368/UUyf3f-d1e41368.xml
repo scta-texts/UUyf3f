@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De religione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De religione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e41368">
+        <head xml:id="UUyf3f-d1e41368-Hd1e99" type="question-title">De religione</head>
+        <p xml:id="UUyf3f-d1e41368-d1e102">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e112" xml:id="UUyf3f-d1e41368-Rd1e104">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e112">Vos, qui viam vitae praesentis extra hominum
+              frequentiam ducitis, tanto majora certamina pati necesse est, quanto ad vos ipse
+              magister tentationum accedit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e117">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e127" xml:id="UUyf3f-d1e41368-Rd1e119">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e127">Melius est de ovili dominico morbosam ovem
+              ejicere, quam unius vitio sanas amittere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e132">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e142" xml:id="UUyf3f-d1e41368-Rd1e134">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e142">Cura est sollicitudinis adhibenda, ut quae pro
+              quiete religiosae conversationis fuerint ordinata, nec dissimulatio negligere, nec
+              quaedam valeat praesumptio perturbare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e147">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e157" xml:id="UUyf3f-d1e41368-Rd1e149">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e157">Multi sunt qui possunt religiosam vitam etiam
+              cum saeculari habitu ducere; et plerique sunt, qui nisi omnia reliquerint, salvari
+              apud Deum nullatenus possunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e163">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e173" xml:id="UUyf3f-d1e41368-Rd1e165">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e173">Religiosam vitam eligentibus congrua nos oportet
+              consideratione prospicere, ne cujusdam necessitatis occasio, aut desides faciat, aut
+              robur, quod absit, conversationis infringat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e178">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e188" xml:id="UUyf3f-d1e41368-Rd1e180">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e188">Sicut studii nostri esse condecet, a litigiis
+              foralibus monachos submovere, ut divinis ministeriis pie ac solerter invigilent; ita
+              necesse est nostra provisione, quemadmodum negotia eorum disponi debeant, ordinare, ne
+              distenta mens per varias causarum curas effluat, et ad celebrandum opus consuetum
+              enervata torpescat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e193">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e203" xml:id="UUyf3f-d1e41368-Rd1e195">Isidorus, in <title>Etymologiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e203">
+              <!--<i>-->Religio<!--</i>--> appellata est, eo quod per eam uni Deo religemus animas
+              nostras, ad cultum divinum vinculo serviendi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e212">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e222" xml:id="UUyf3f-d1e41368-Rd1e214">Augustinus, <title>de Ecclesiasticis
+              dogmatibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e222">Secreta satisfactione solvi crimina non negamus;
+              sed mutato prius saeculari habitu, et confesso religionis studio per vitae
+              correctionem, et in jugi, imo perpetuo luctu, miserante Deo, ita duntaxat, ut
+              contraria pro his, quae poenitet, agat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e227">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e237" xml:id="UUyf3f-d1e41368-Rd1e229">Augustinus, <title>de Quantitate animae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e237">Omnibus subventum velle debemus, etiam qui nos
+              laeserunt, aut laedere, aut omnino laedi volunt. Haec est vera, haec perfecta, haec
+              sola religio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e242">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e252" xml:id="UUyf3f-d1e41368-Rd1e244">Augustinus, <title>de Quantitate animae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e252">Est religio vera, qua se uni Deo anima, unde se
+              peccato velut abruperat, conciliatione religat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e258">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e268" xml:id="UUyf3f-d1e41368-Rd1e260">Augustinus, <title>de Quantitate animae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e268">Non debent velle omnes, quod paucos vident
+              amplius, non quia honorantur, sed quia tolerantur, accipere, ne contingat detestanda
+              perversitas, ut in monasterio, ubi, quantum possunt, fiunt divites laboriosi, fiant
+              pauperes delicati.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e273">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e283" xml:id="UUyf3f-d1e41368-Rd1e275">Ambrosius, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e283">Praeferenda est religio necessitudini, pietas
+              propinquitati. Ea est enim vera pietas, quae praeponit divina humanis, perpetua
+              temporalibus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e288">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e298" xml:id="UUyf3f-d1e41368-Rd1e290">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e298">Fides nunquam senescit, et religio fatigationem
+              non sentit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e303">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e313" xml:id="UUyf3f-d1e41368-Rd1e305">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e313">Nos in monasteriis recipimus omnes spe
+              meliorandi; at curia bonos facilius recipere, quam facere consuevit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e318">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e328" xml:id="UUyf3f-d1e41368-Rd1e320">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e328">Ubi non timetur reprehensor, securius accedit
+              tentator, licentius perpetratur iniquitas. In conventu vero, bona si quae facis, nemo
+              prohibet; malum autem facere si vis, non licet. Mox enim a pluribus comperitur,
+              arguitur, emendatur: sicut e contrario bonum cum omnes vident, mirantur, venerantur,
+              imitantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e333">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e343" xml:id="UUyf3f-d1e41368-Rd1e335">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e343">Moriens vix unquam aliquis a cella in infernum
+              descendit, quia vix unquam, nisi coelo praedestinatus, in ea usque ad mortem
+              persistit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e349">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e359" xml:id="UUyf3f-d1e41368-Rd1e351">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e359">Experto credite, quia haec via quanto arctior,
+              quanto molestior videtur in ingressu, tanto latior, tanto jucundior invenitur in
+              progressu.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e364">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e374" xml:id="UUyf3f-d1e41368-Rd1e366">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e374">Qui est in mundo, fugiat ad claustrum
+              negotiaturus; et qui in claustro est, non dormitet, nec torpescat per acediam, tanquam
+              piger servus et nequam. Vita enim confert meritum; locus non facit beatum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e379">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e389" xml:id="UUyf3f-d1e41368-Rd1e381">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e389">Minus damnabile est in saeculo perire, quam in
+              monasterio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e394">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e404" xml:id="UUyf3f-d1e41368-Rd1e396">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e404">Felix domus, et beata semper congregatio, ubi de
+              Maria conqueritur Martha; nam Mariam Marthae aemulari, indignum prorsus est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e409">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e419" xml:id="UUyf3f-d1e41368-Rd1e411">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e419">Regio australis est claustrum, vel eremus, in
+              quo Christus suos abscondit a contradictione linguarum, postmodum admixturus consortio
+              angelorum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e424">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e434" xml:id="UUyf3f-d1e41368-Rd1e426">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e434">Claustralis paradisus ad suavem spirantis austri
+              clementiam quasi tot floribus vernat, quot virtutibus abundat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e440">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e450" xml:id="UUyf3f-d1e41368-Rd1e442">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e450">Sicut bonum noscere, sic et velle solum perfecta
+              religio vel religiosa perfectio est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e41368-d1e455">
+          <ref corresp="#UUyf3f-d1e41368-Qd1e465" xml:id="UUyf3f-d1e41368-Rd1e457">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e41368-Qd1e465">Nihil sic horrendum, ut murmur, et dissensio in
+              congregatione.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

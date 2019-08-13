@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De eucharistia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De eucharistia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e1249">
+        <head xml:id="UUyf3f-d1e1249-Hd1e99" type="question-title">De eucharistia</head>
+        <p xml:id="UUyf3f-d1e1249-d1e102">
+          <ref corresp="#UUyf3f-d1e1249-Qd1e112" xml:id="UUyf3f-d1e1249-Rd1e104">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1249-Qd1e112">Singulariter ad absolutionem nostram oblata cum lacrymis et benignitate mentis,
+              sacri altaris hostia suffragatur: quia is, qui in se surgens a mortuis jam non
+              moritur, adhuc per hanc in suo mysterio pro nobis iterum immolatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1249-d1e117">
+          <ref corresp="#UUyf3f-d1e1249-Qd1e127" xml:id="UUyf3f-d1e1249-Rd1e119">Gregorius, in <title>Dialogis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1249-Qd1e127">Quis fidelium habere dubium possit, in ipsa immolationis hora ad sacerdotis vocem
+              coelos aperiri, in illo Jesu Christi mysterio Angelorum choros adesse, summis ima
+              sociari, terrena coelestibus jungi, unum quoddam ex visibilibus et invisibilibus
+              fieri? Sed necesse est, cum haec agimus, nosmetipsos Deo in cordis contritione
+              mactemus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1249-d1e132">
+          <ref corresp="#UUyf3f-d1e1249-Qd1e142" xml:id="UUyf3f-d1e1249-Rd1e134">Joannes Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1249-Qd1e142">Ubicumque viderint sanguinem Dominicum, fugiunt quidem daemones, concurrunt autem
+              Angeli: hic sanguis effusus, omnem orbem terrarum lavit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1249-d1e147">
+          <ref corresp="#UUyf3f-d1e1249-Qd1e154" xml:id="UUyf3f-d1e1249-Rd1e149">Joannes Chrysostomus in sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1249-Qd1e154">Indigna et fucata mente mysteriorum celebrantibus secreta, a diabolo praeparantur
+              insidiae, qui magis ac magis a se mutantur; qui non aequo animo communicare
+              festinant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1249-d1e160">
+          <ref corresp="#UUyf3f-d1e1249-Qd1e167" xml:id="UUyf3f-d1e1249-Rd1e162">Joannes Chrysostomus in sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1249-Qd1e167">Sicut corporalis cibus cum ventrem iuvenerit adversis humoribus occupatum,
+              amplius laedit, magis nocet, nullum praestat auxilium; ita et spiritualis cibus, si
+              aliquem reperit malignitate pollutum, magis eum perdit, non sua natura, sed
+              accipientis vitio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1249-d1e172">
+          <ref corresp="#UUyf3f-d1e1249-Qd1e182" xml:id="UUyf3f-d1e1249-Rd1e174">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1249-Qd1e182">Utinam omni tempore jejunare possemus, quod in <!--<i>-->Actibus
+              Apostolorum<!--</i>--> diebus Pentecostes et die Dominico apostolum Paulum, et cum eo
+              credentes fecisse legimus; Eucharistiam quoque, absque condemnatione nostri et
+              pungente conscientia, semper possemus accipere!</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1249-d1e191">
+          <ref corresp="#UUyf3f-d1e1249-Qd1e201" xml:id="UUyf3f-d1e1249-Rd1e193">Augustinus, <title>de Ecclesiasticis dogmatibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1249-Qd1e201">Quotidie Eucharistiae communionem accipere, nec laudo, nес vitupero: omnibus
+              tamen Dominicis diebus communicandum hortor, si tamen mens in affectu peccandi non
+              sit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1249-d1e206">
+          <ref corresp="#UUyf3f-d1e1249-Qd1e216" xml:id="UUyf3f-d1e1249-Rd1e208">Augustinus, <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1249-Qd1e216" source="http://scta.info/resource/adcd-l17-d1e2717">Corporis et sanguinis Christi
+              sacrificium successit omnibus illis sacrificiis Veteris Testamenti, quae immolabantur
+              in umbra futuri.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1249-d1e221">
+          <ref corresp="#UUyf3f-d1e1249-Qd1e231" xml:id="UUyf3f-d1e1249-Rd1e223">Augustinus, <title>de Civitate Dei</title> et post</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1249-Qd1e231" source="http://scta.info/resource/adcd-l17-d1e2717">Pro illis omnibus sacrificiis
+              et oblationibus, Corpus Christi offertur, et participantibus ministratur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1249-d1e236">
+          <ref corresp="#UUyf3f-d1e1249-Qd1e246" xml:id="UUyf3f-d1e1249-Rd1e238">Bernardus, in <title>legenda S. Malachiae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1249-Qd1e246">Eucharistiae plane sacramentum potens est peccata consumere, debellare obvias
+              potestates, inferre coelis revertentes de terra.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

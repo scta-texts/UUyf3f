@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De disciplina</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De disciplina</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e38651">
+        <head xml:id="UUyf3f-d1e38651-Hd1e99" type="question-title">De disciplina</head>
+        <p xml:id="UUyf3f-d1e38651-d1e102">
+          <ref corresp="#UUyf3f-d1e38651-Qd1e112" xml:id="UUyf3f-d1e38651-Rd1e104">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38651-Qd1e112">Cum sit proprium disciplinae ab illicitis
+              prohibere, et excessus culparum salubriter resecare, studiose ejus servanda censura
+              est. Nam si negligitur, cuncta in confusionem deveniunt, dum unus destruit, quidquid
+              eam custodiendo alter aedificat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38651-d1e117">
+          <ref corresp="#UUyf3f-d1e38651-Qd1e127" xml:id="UUyf3f-d1e38651-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38651-Qd1e127">Sancti viri, cum hujus mundi potestate
+              fulciuntur, tanto sub majorem mentis disciplinam se redigunt, quanto sibi per
+              impatientiam potestatis suaderi illicita quasi licentius sciunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38651-d1e132">
+          <ref corresp="#UUyf3f-d1e38651-Qd1e142" xml:id="UUyf3f-d1e38651-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38651-Qd1e142">Solus in illicitis non cadit, qui se aliquando
+              et a licitis caute restringit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38651-d1e147">
+          <ref corresp="#UUyf3f-d1e38651-Qd1e157" xml:id="UUyf3f-d1e38651-Rd1e149">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38651-Qd1e157">Intentioni animae, si exterior evagatio
+              clauditur, interior secessus aperitur. Nam quo extra se spargi propter disciplinam
+              mens non potest, eo super se intendere per profectum potest; quia et in altum crescere
+              arbor cogitur, quae per ramos distendi prohibetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38651-d1e163">
+          <ref corresp="#UUyf3f-d1e38651-Qd1e173" xml:id="UUyf3f-d1e38651-Rd1e165">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38651-Qd1e173">Mens mutabilitatis suae pondere ad aliud semper
+              impellitur, quam est; et nisi in statu suo arcta custodiae disciplina teneatur, semper
+              in deteriora dilabitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38651-d1e178">
+          <ref corresp="#UUyf3f-d1e38651-Qd1e188" xml:id="UUyf3f-d1e38651-Rd1e180">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38651-Qd1e188">Tanto apud Dominum obligatiores sumus, quanto
+              apud homines inulte peccamus. Disciplina autem nostra subditos divino judicio tanto
+              liberiores reddit, quanto hic eorum culpas sua vindicta non deserit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38651-d1e193">
+          <ref corresp="#UUyf3f-d1e38651-Qd1e203" xml:id="UUyf3f-d1e38651-Rd1e195">Ambrosius, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38651-Qd1e203">Non natura servum facit, sed insipientia; nec
+              manumissio liberum, sed disciplina.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38651-d1e208">
+          <ref corresp="#UUyf3f-d1e38651-Qd1e218" xml:id="UUyf3f-d1e38651-Rd1e210">Ambrosius, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38651-Qd1e218">Si quaeris vitam sapientiae et disciplinae:
+              colere Deum atque ei subditum esse, sapientia est; abstinere autem a peccato,
+              disciplina est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38651-d1e223">
+          <ref corresp="#UUyf3f-d1e38651-Qd1e233" xml:id="UUyf3f-d1e38651-Rd1e225">Ambrosius, <title>de Viduis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38651-Qd1e233">Prima institutionis est disciplina, culpam
+              avertere; et secunda, virtutem infundere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38651-d1e238">
+          <ref corresp="#UUyf3f-d1e38651-Qd1e248" xml:id="UUyf3f-d1e38651-Rd1e240">Cyprianus, <title>de Duodecim Abusionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38651-Qd1e248">Disciplina est ordinata morum correctio, et
+              majorum praecedentium regularis observatio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38651-d1e254">
+          <ref corresp="#UUyf3f-d1e38651-Qd1e264" xml:id="UUyf3f-d1e38651-Rd1e256">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38651-Qd1e264">O quam compositum reddit omnem puellaris
+              corporis statum, nec non mentis habitum disciplina! cervicem submittit, deponit
+              supercilia, componit vultum, ligat oculos, cohibet cachinnos, moderatur linguam,
+              frenat gulam, sedat iram, format incessum. Talibus decet pudicitiae vestem distingui
+              margaritis.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

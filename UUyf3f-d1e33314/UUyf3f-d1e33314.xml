@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De malitia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De malitia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e33314">
+        <head xml:id="UUyf3f-d1e33314-Hd1e99" type="question-title">De malitia</head>
+        <p xml:id="UUyf3f-d1e33314-d1e102">
+          <ref corresp="#UUyf3f-d1e33314-Qd1e112" xml:id="UUyf3f-d1e33314-Rd1e104">Gregorius, in <title>Dialogis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33314-Qd1e112">Sunt nonnulli, qui idcirco bona facere student,
+              ut gratiam alienae operationis obnubilent; nec pascuntur bono, quod faciunt, sed laude
+              boni, qua caeteros premunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33314-d1e117">
+          <ref corresp="#UUyf3f-d1e33314-Qd1e127" xml:id="UUyf3f-d1e33314-Rd1e119">Gregorius, in <title>Dialogis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33314-Qd1e127">Malitia remanentium meretur, ut hi qui prodesse
+              poterant, festine subtrahantur; et cum mundi finis appropinquat, electi tolluntur, ne
+              deteriora videant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33314-d1e132">
+          <ref corresp="#UUyf3f-d1e33314-Qd1e142" xml:id="UUyf3f-d1e33314-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33314-Qd1e142">Iniquorum hominum mentes cum quaedam a proximis
+              bene gesta conspiciunt, in extenso livoris sui equuleo torquentur, et gravem malitiae
+              suae poenam sustinent, cum bona in aliis tabescendo vident.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33314-d1e147">
+          <ref corresp="#UUyf3f-d1e33314-Qd1e157" xml:id="UUyf3f-d1e33314-Rd1e149">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33314-Qd1e157">Ab Omnipotenti munus ex manu non accipitur, quod
+              corde obligato in malitia profertur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33314-d1e163">
+          <ref corresp="#UUyf3f-d1e33314-Qd1e173" xml:id="UUyf3f-d1e33314-Rd1e165">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33314-Qd1e173">Habet hoc pravorum malitia, ut cum vera in se
+              flere mala renuit, fingat aliena. Nam quasi solatio facinoris utitur, si falsis
+              vocibus et vita corripientis inquinetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33314-d1e178">
+          <ref corresp="#UUyf3f-d1e33314-Qd1e188" xml:id="UUyf3f-d1e33314-Rd1e180">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33314-Qd1e188">Mens prava semper in laboribus est: quia aut
+              molitur prava quae inferat, aut metuit ne sibi ab aliis inferantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33314-d1e193">
+          <ref corresp="#UUyf3f-d1e33314-Qd1e203" xml:id="UUyf3f-d1e33314-Rd1e195">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33314-Qd1e203">Frustra indignatio, clamor et blasphemia ab
+              exterioribus tollitur, si in interioribus vitiorum mater malitia dominatur. Et
+              incassum foras nequitiae ramus inciditur, si surrectura multiplicius intus in radice
+              reservatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33314-d1e208">
+          <ref corresp="#UUyf3f-d1e33314-Qd1e218" xml:id="UUyf3f-d1e33314-Rd1e210">Ambrosius, <title>de Fuga saeculi</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33314-Qd1e218">Ubi inimicitiae sunt, ibi discordia est,
+              nocendique studium; ubi nocendi studium, ibi ponitur malitia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33314-d1e223">
+          <ref corresp="#UUyf3f-d1e33314-Qd1e233" xml:id="UUyf3f-d1e33314-Rd1e225">Augustinus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33314-Qd1e233">Benefacere Deus semper paratus est, sed hominum
+              malitia prohibetur: quia a Domino Deo sibi dari vult omnia, et non vult de his, quae
+              possidere videtur, offerre.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33314-d1e238">
+          <ref corresp="#UUyf3f-d1e33314-Qd1e248" xml:id="UUyf3f-d1e33314-Rd1e240">Hieronymus, in originali <title>super Oseam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33314-Qd1e248">Prudentia absque bonitate malitia est, et
+              simplicitas absque ratione stultitia nominatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33314-d1e254">
+          <ref corresp="#UUyf3f-d1e33314-Qd1e264" xml:id="UUyf3f-d1e33314-Rd1e256">Bernardus, <title>de Amore Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33314-Qd1e264">Malitia est sapor mali.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e33314-d1e269">
+          <ref corresp="#UUyf3f-d1e33314-Qd1e279" xml:id="UUyf3f-d1e33314-Rd1e271">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e33314-Qd1e279">Alius supra se ambulat in magnis et mirabilibus;
+              alius extra se inutili curiositate vagatur; alius sub se in carne ambulat, et non
+              potest placere Deo; alius contra se diligens iniquitatem, et odio habens animam suam.
+              Omnis enim qui saevit in proximum, magis laedit seipsum, eo quod longe pejus sit
+              inferre violentiam, quam sufferre.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

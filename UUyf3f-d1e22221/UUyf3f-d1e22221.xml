@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De fortitudine</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De fortitudine</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e22221">
+        <head xml:id="UUyf3f-d1e22221-Hd1e99" type="question-title">De fortitudine</head>
+        <p xml:id="UUyf3f-d1e22221-d1e102">
+          <ref corresp="#UUyf3f-d1e22221-Qd1e112" xml:id="UUyf3f-d1e22221-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22221-Qd1e112">Justorum fortitudo est carnem vincere, propriis
+              voluptatibus contraire, delectationem vitae praesentis extinguere, hujus mundi aspera
+              pro aeternis praemiis amare, prosperitatis blandimenta contemnere, adversitatis metum
+              corde superare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22221-d1e117">
+          <ref corresp="#UUyf3f-d1e22221-Qd1e127" xml:id="UUyf3f-d1e22221-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22221-Qd1e127">Qui in auctoris sui amore roborantur, quo magis
+              in concupita Dei fortitudine convalescunt, eo a propria virtute deficiunt; et quo
+              robustius aeterna appetunt, eo fortius a temporalibus salubri defectione
+              lassantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22221-d1e132">
+          <ref corresp="#UUyf3f-d1e22221-Qd1e142" xml:id="UUyf3f-d1e22221-Rd1e134">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22221-Qd1e142">Tanto unusquisque ad fortitudinem profecisse
+              verius demonstratur, quanto aliena mala aequanimius tolerat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22221-d1e147">
+          <ref corresp="#UUyf3f-d1e22221-Qd1e157" xml:id="UUyf3f-d1e22221-Rd1e149">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22221-Qd1e157">Mores meos bene habes cognitos, quia diu porto;
+              sed, si semel deliberavero non portare, contra omnia pericula laetus vado.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22221-d1e163">
+          <ref corresp="#UUyf3f-d1e22221-Qd1e173" xml:id="UUyf3f-d1e22221-Rd1e165">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22221-Qd1e173">Nihil eo fortius, qui vincit diabolum; nihil
+              imbecillius, quam qui a carne superatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22221-d1e178">
+          <ref corresp="#UUyf3f-d1e22221-Qd1e188" xml:id="UUyf3f-d1e22221-Rd1e180">Hieronymus, in
+            originali <title>super Isaiam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22221-Qd1e188">Fortitudo atque constantia via regia est, a qua
+              declinat ad dexteram, qui temerarius est et pertinax; ad sinistram, qui formidolosus
+              est et pavidus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22221-d1e193">
+          <ref corresp="#UUyf3f-d1e22221-Qd1e203" xml:id="UUyf3f-d1e22221-Rd1e195">Augustinus,
+              <title>ad Hieronymum</title>, de sententia Jacobi Apostoli</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22221-Qd1e203">Qui vera virtute fortis est, nec timere audet,
+              nec inconsulte timet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22221-d1e208">
+          <ref corresp="#UUyf3f-d1e22221-Qd1e218" xml:id="UUyf3f-d1e22221-Rd1e210">Ambrosius,
+              <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22221-Qd1e218">Est fortis, qui se in dolore aliquo consolatur.
+              Et revera jure ea fortitudo vocatur, cum unusquisque seipsum vincit, iram continet,
+              nullis illecebris emollitur atque inflectitur, non adversis perturbatur, non
+              extollitur secundis, et quasi vento quodam variarum rerum circumfertur
+              mutatione.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22221-d1e223">
+          <ref corresp="#UUyf3f-d1e22221-Qd1e233" xml:id="UUyf3f-d1e22221-Rd1e225">Ambrosius,
+              <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22221-Qd1e233">Non in inferenda, sed depellenda injuria, lex
+              virtutis est. Qui enim non repellit a socio injuriam, si potest, tam est in vitio,
+              quam ille qui facit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22221-d1e238">
+          <ref corresp="#UUyf3f-d1e22221-Qd1e248" xml:id="UUyf3f-d1e22221-Rd1e240">Ambrosius,
+              <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22221-Qd1e248">Fortitudo invicta est ad labores, fortis ad
+              pericula, rigidior adversus voluptates, dura adversus illecebras, quibus aurem deferre
+              nesciat, nec, ut dicitur, ave dicat, pecuniam negligat, avaritiam fugiat, tanquam
+              labem quamdam quae virtutem effeminet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22221-d1e254">
+          <ref corresp="#UUyf3f-d1e22221-Qd1e264" xml:id="UUyf3f-d1e22221-Rd1e256">Ambrosius,
+              <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22221-Qd1e264">Fortitudo animum corpusque confirmat, nec
+              perturbari sinit timore aliquo, vel dolore.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22221-d1e269">
+          <ref corresp="#UUyf3f-d1e22221-Qd1e279" xml:id="UUyf3f-d1e22221-Rd1e271">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22221-Qd1e279">Sapiens et fortis ad omnem incursum munitus et
+              intentus, non si paupertas, non si luctus, non si ignominia, non si dolor impetum
+              faciat, pedem referet intrepidus, et contra illa ibit, et inter illa stabit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e22221-d1e284">
+          <ref corresp="#UUyf3f-d1e22221-Qd1e294" xml:id="UUyf3f-d1e22221-Rd1e286">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e22221-Qd1e294">Sapiens virtutem, si licebit, in divitiis
+              explicabit; sin minus, in paupertate: in patria, si poterit; sin minus, in exilio: si
+              poterit, imperator; sin minus, miles: si poterit, integer; sin minus, debilis.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

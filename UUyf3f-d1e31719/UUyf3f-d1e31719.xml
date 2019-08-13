@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De voluptate</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De voluptate</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e31719">
+        <head xml:id="UUyf3f-d1e31719-Hd1e99" type="question-title">De voluptate</head>
+        <p xml:id="UUyf3f-d1e31719-d1e102">
+          <ref corresp="#UUyf3f-d1e31719-Qd1e112" xml:id="UUyf3f-d1e31719-Rd1e104">Gregorius, <title>in Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31719-Qd1e112">Qui nunc male se voluptatibus dilatat, eum post
+              in suppliciis poena coangustat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31719-d1e117">
+          <ref corresp="#UUyf3f-d1e31719-Qd1e127" xml:id="UUyf3f-d1e31719-Rd1e119">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31719-Qd1e127">Si pro luxu animi, atque voluptate carnis,
+              dominico die quis lavari appetit, hoc fieri nec reliquo quolibet die concedimus. Si
+              autem pro necessitate corporis, hoc nec dominico die prohibemus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31719-d1e132">
+          <ref corresp="#UUyf3f-d1e31719-Qd1e142" xml:id="UUyf3f-d1e31719-Rd1e134">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31719-Qd1e142">Miseriae deliciis, et deliciae miseriis
+              commutantur. In nostro arbitrio est, vel divitem sequi, vel Lazarum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31719-d1e147">
+          <ref corresp="#UUyf3f-d1e31719-Qd1e157" xml:id="UUyf3f-d1e31719-Rd1e149">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31719-Qd1e157">Difficile, imo impossibile est, ut praesentibus
+              quis, et futuris fruatur bonis: ut hic ventrem, ibi mentem impleat: ut de deliciis
+              transeat ad delicias: ut in utroque saeculo primus sit: ut in coelo et in terra
+              appareat gloriosus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31719-d1e163">
+          <ref corresp="#UUyf3f-d1e31719-Qd1e173" xml:id="UUyf3f-d1e31719-Rd1e165">Bernardus, <title>de Contemptu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31719-Qd1e173">Nunc et trahit sua quemque voluptas, et odorem
+              turpis lucri sectantes, <!--<i>-->quaestum aestimant pietatem<!--</i>-->: quorum
+              damnatio certa est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31719-d1e182">
+          <ref corresp="#UUyf3f-d1e31719-Qd1e192" xml:id="UUyf3f-d1e31719-Rd1e184">Boetius, <title>de Consolatione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31719-Qd1e192">Tristes esse voluptatum exitus, quisquis
+              reminisci libidinum suarum volet, intelliget: quae si beatos explicare possent, nihil
+              causae est, quin pecudes quoque beatae esse dicantur, quarum omnis ad explendam
+              corporalem lasciviam festinat intentio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31719-d1e197">
+          <ref corresp="#UUyf3f-d1e31719-Qd1e204" xml:id="UUyf3f-d1e31719-Rd1e199">Glossa interlinearis</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31719-Qd1e204">Nihil voluptuosum, nihil suave placet Deo; sed
+              quod habet aliquid mordacitatis et severitatis: unde pascha cum amaritudinibus
+              manducatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31719-d1e209">
+          <ref corresp="#UUyf3f-d1e31719-Qd1e216" xml:id="UUyf3f-d1e31719-Rd1e211">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31719-Qd1e216">Voluptas insatiabilis est, et habita famem, non
+              satietatem parit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31719-d1e221">
+          <ref corresp="#UUyf3f-d1e31719-Qd1e231" xml:id="UUyf3f-d1e31719-Rd1e223">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31719-Qd1e231">Voluptates praecipue exturba, et invisissimas
+              habe: latronum more in hoc nos amplectuntur, ut strangulent.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

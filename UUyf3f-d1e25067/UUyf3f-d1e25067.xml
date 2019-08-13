@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De obedientia bona</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De obedientia bona</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e25067">
+        <head xml:id="UUyf3f-d1e25067-Hd1e99" type="question-title">De obedientia bona</head>
+        <p xml:id="UUyf3f-d1e25067-d1e102">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e112" xml:id="UUyf3f-d1e25067-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e112">Sola obedientia est, quae fidei meritum
+              possidet, sine qua infidelis quisque convincitur, etiamsi fidelis esse
+              videatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e117">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e127" xml:id="UUyf3f-d1e25067-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e127">Per obedientiam voluntas propria mactatur. Tanto
+              igitur quisque Deum citius placat, quanto ante ejus conspectum, repressa arbitrii sui
+              superbia, gladio praecepti se immolat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e132">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e142" xml:id="UUyf3f-d1e25067-Rd1e134">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e142">Nunquam per obedientiam malum fieri debet;
+              aliquando autem debet per obedientiam bonum quod agitur, intermitti. Neque enim mala
+              in Paradiso arbor extitit, quam Deus homini, ne contingeret, interdixit. Sed, ut in
+              melius per obedientiae meritum homo bene conditus cresceret, dignum fuerat, ut et hunc
+              etiam a bono aliquo prohiberet: quatenus tanto verius hoc, quod ageret, bonum esse
+              cognosceret, quanto, a bono cessans, auctori suo se subditum humilius
+              exhiberet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e147">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e157" xml:id="UUyf3f-d1e25067-Rd1e149">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e157">Notandum quod dicitur: <!--<i>-->Ex omni ligno
+              Paradisi edite, de ligno autem scientiae boni et mali ne comederitis<!--</i>-->. Qui
+              enim ab uno bono subjectos vetat, necesse est multa concedat, ne obedientis mens
+              funditus intereat, si a bonis omnibus omnino repulsa jejunat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e167">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e177" xml:id="UUyf3f-d1e25067-Rd1e169">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e177">Obedientia sola virtus est, quae virtutes
+              caeteras menti inserit, insertasque custodit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e182">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e192" xml:id="UUyf3f-d1e25067-Rd1e184">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e192">Si obedientiae palmam apprehendere nitimur,
+              prosperis hujus saeculi ex sola jussione, adversis autem ex devotione
+              militemus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e197">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e207" xml:id="UUyf3f-d1e25067-Rd1e199">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e207">Debet obedientia, et in adversis aliquid ex suo
+              habere, et in prosperis aliquid ex suo omnino non habere: quatenus et in adversis
+              tanto sit gloriosior, quanto divinae ordinationi etiam ex desiderio sui jungitur: et
+              in prosperis tanto sit verior, quanto a praesenti ipsa, quam divinitus percepit
+              gloriam, funditus mente separatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e212">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e222" xml:id="UUyf3f-d1e25067-Rd1e214">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e222">Obedientia non servili metu, sed charitatis
+              affectu servanda est; non timore poenae, sed amore justitiae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e227">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e237" xml:id="UUyf3f-d1e25067-Rd1e229">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e237">Pensate quantum cunctis expedit, ei quem nobis
+              gratia divina praetulit, integerrimam semper in omnibus obedientiam praebere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e242">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e252" xml:id="UUyf3f-d1e25067-Rd1e244">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e252">Vide, ut omnia absque imminutione custodias:
+              quia de his, quae pro servanda justitia scribo, ego absolvor, et tu si negligis,
+              obligaris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e258">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e268" xml:id="UUyf3f-d1e25067-Rd1e260">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e268">In obedientia valde est utile, si id quod
+              disciplinae vigor imponit, nullo cogente humilitas laudanda servaverit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e273">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e283" xml:id="UUyf3f-d1e25067-Rd1e275">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e283">Ille recte loquitur, qui prius obediendo
+              fecerit, quae loquendo admonet esse facienda.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e288">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e298" xml:id="UUyf3f-d1e25067-Rd1e290">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e298">Mandata Dei pro jussione facere, servientis et
+              obedientis est; diligendo autem facere, obedientis et amantis est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e303">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e313" xml:id="UUyf3f-d1e25067-Rd1e305">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e313"
+              source="http://scta.info/resource/adcd-l19-d1e3124">Pax hominis et Dei est ordinata in
+              fide sub aeterna lege obedientia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e318">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e328" xml:id="UUyf3f-d1e25067-Rd1e320">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e328"
+              source="http://scta.info/resource/adcd-l14-d1e2072">Obedientia in creatura rationali,
+              mater quodam modo est omnium custosque virtutum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e333">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e343" xml:id="UUyf3f-d1e25067-Rd1e335">Augustinus,
+              <title>de Opere Monachorum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e343">Citius exauditur una obedientis oratio, quam
+              decem millia contemptorum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e349">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e359" xml:id="UUyf3f-d1e25067-Rd1e351">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e359">Non erit caro subjecta animae, nec vitium
+              rationi, si animus non est subjectus Conditori. Tunc autem recte subjiciuntur nobis
+              omnia quae sub nobis sunt, si nos subjicimur ei, a quo nobis illa subjecta
+              sunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e364">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e374" xml:id="UUyf3f-d1e25067-Rd1e366">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e374">Bonum est obedire majoribus, parere perfectis,
+              et post regulas Scripturarum, vitae suae tramitem ab aliis discere, nес praeceptore
+              uti pessimo, scilicet praesumptione sua.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e379">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e389" xml:id="UUyf3f-d1e25067-Rd1e381">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e389">Servias fratribus, hospitum pedes laves, passus
+              injuriam taceas, praepositum monasterii timeas ut dominum, diligas ut parentem, credas
+              tibi salutare quidquid ille praeceperit, nec de majoris sententia judices, cujus
+              officium est obedire, et implere quae justa sunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e394">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e404" xml:id="UUyf3f-d1e25067-Rd1e396">Ambrosius,
+              <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e404">Disce, homo, Deo esse subjectus, ut non quod
+              ipse vis, eligas, sed quod Deo scis esse placiturum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e409">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e419" xml:id="UUyf3f-d1e25067-Rd1e411">Cyprianus,
+              <title>de Duodecim Abusionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e419">Obedientia, quae omnium disciplinarum mater est,
+              magna exercitatione indiget, quae sui normam studii a Christo Domino sumpsit: qui
+              obediens Patri usque ad mortem crucis, ignominiam libenter sustinuit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e424">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e434" xml:id="UUyf3f-d1e25067-Rd1e426">Bernardus,
+              <title>de Praecepto et Dispensatione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e434">Quidquid vice Dei praecipit homo, quod non sit
+              tamen certum displicere Deo, haud secus omnino accipiendum est, quam si praecipiat
+              Deus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e440">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e450" xml:id="UUyf3f-d1e25067-Rd1e442">Bernardus,
+              <title>de Praecepto et Dispensatione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e450">Generalis haec regula teneatur, ut in
+              difficilioribus quidem agendis, obedientia gratior, quam gravior praevaricatio
+              judicetur; et in facilioribus minusque onerosis, contemptus damnabilior, quam actus
+              laudabilior aestimetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e455">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e465" xml:id="UUyf3f-d1e25067-Rd1e457">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e465">Hoc advertendum, quod quaedam sunt pura bona,
+              quaedam pura mala; et in his nullam deberi hominibus obedientiam: quoniam nec illa
+              omittenda sunt, etiam cum prohibentur; nec ista, cum jubentur, committenda. Porro
+              inter haec sunt media quaedam, quae pro modo, loco, tempore, vel persona, et mala
+              possunt esse, et bona: et in his lex posita est obedientiae; tanquam in ligno
+              scientiae boni et mali, quod erat in medio Paradisi. In his profecto fas non est
+              nostrum sensum sententiae praescribere magistrorum: in his omnino praelatorum nec
+              jussio, nec prohibitio contemnenda.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e470">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e480" xml:id="UUyf3f-d1e25067-Rd1e472">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e480">O monachum obedientissimum, qui ex quibuslibet
+              seniorum verbulis ne unum quidem iota praetervolat; non attendit, quale sit quod
+              praecipitur, contentus quia praecipitur! Et haec est obedientia sine mora.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e485">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e495" xml:id="UUyf3f-d1e25067-Rd1e487">Bernardus,
+              <title>de Contemptu mundi</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e495">Age, eia age, qui relinquere omnia disponis, te
+              quoque primum inter relinquenda numerare memento: imo vero maxime et principaliter
+              abnega teipsum, si deliberas sequi eum, qui exinanivit propter te semetipsum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e500">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e510" xml:id="UUyf3f-d1e25067-Rd1e502">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e510">Obedientia quinquepartita est: prima, opus
+              rectum, quia non est obedientia contra Deum; secunda, voluntarium, quia quod fit ex
+              necessitate, non est bonum; tertia, purum, ut intentio pura sit, quia si oculus
+              simplex est, totum corpus lucidum est; quarta, discretum, ne quid nimis, aut minus:
+              qui enim recte offert, si non recte dividat, peccat; quinta, firmum, id est,
+              perseverans, quae omnia claudit, et continet: nullum enim bonum sine perseverantia
+              coronatur. Ut autem perseverantiam habeat murus obedientiae, inhaerere sibi debent
+              propugnacula patientiae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e515">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e525" xml:id="UUyf3f-d1e25067-Rd1e517">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e525">Redde reverentiam et obedientiam praelato:
+              quarum altera cordis, altera corporis est. Nec enim sufficit exterius obtemperare
+              majoribus nostris, nisi ex intimo cordis affectu sublimiter sentiamus de eis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e531">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e541" xml:id="UUyf3f-d1e25067-Rd1e533">Benedictus, in
+              <title>Regula</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e541">Obedientia tunc acceptabilis erit Deo, et dulcis
+              hominibus, si quod jubetur, non trepide, non tarde, non tepide, aut cum murmure, aut
+              cum responso nolentis efficiatur: quia obedientia, quae majoribus praebetur, Deo
+              exhibetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e546">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e556" xml:id="UUyf3f-d1e25067-Rd1e548">Benedictus, in
+              <title>Regula</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e556">Obedientiae bonum non solum abbati exhibendum
+              est ab omnibus, sed etiam sibi invicem obediant fratres, scientes per hanc obedientiae
+              viam se ituros ad Deum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e25067-d1e561">
+          <ref corresp="#UUyf3f-d1e25067-Qd1e568" xml:id="UUyf3f-d1e25067-Rd1e563">Glossa
+            interlinearis</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e25067-Qd1e568">Obedientia est complenda sine mora, et
+              observanda.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

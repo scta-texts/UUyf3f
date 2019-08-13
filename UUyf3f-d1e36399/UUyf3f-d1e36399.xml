@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De acceptione personae</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De acceptione personae</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e36399">
+        <head xml:id="UUyf3f-d1e36399-Hd1e99" type="question-title">De acceptione personae</head>
+        <p xml:id="UUyf3f-d1e36399-d1e102">
+          <ref corresp="#UUyf3f-d1e36399-Qd1e112" xml:id="UUyf3f-d1e36399-Rd1e104">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36399-Qd1e112">Judicare digne de subditis nequeunt, qui in
+              subditorum causis sua vel odia, vel gratiam sequuntur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36399-d1e117">
+          <ref corresp="#UUyf3f-d1e36399-Qd1e127" xml:id="UUyf3f-d1e36399-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36399-Qd1e127">Quia ab internis atque invisibilibus oculos
+              claudimus, et visibilibus pascimur, plerumque hominem non ex eo quod ipse est, sed ex
+              his quae circa ipsum sunt, veneramur: cumque non intuemur quid ipse sit, sed quid
+              possit, in acceptione personarum, non ex personis, sed ex rebus adjacentibus
+              ducimur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36399-d1e132">
+          <ref corresp="#UUyf3f-d1e36399-Qd1e142" xml:id="UUyf3f-d1e36399-Rd1e134">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36399-Qd1e142">Judices iniqui errant a veritate sententiae, dum
+              intendunt in qualitate personae; et exulcerant saepe justos, dum improbe defendunt
+              iniquos.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36399-d1e147">
+          <ref corresp="#UUyf3f-d1e36399-Qd1e157" xml:id="UUyf3f-d1e36399-Rd1e149">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36399-Qd1e157">Dives muneribus cito corrumpit judicem; pauper
+              autem, dum non habet quod offerat, non solum audiri contemnitur, sed etiam contra
+              veritatem opprimitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36399-d1e163">
+          <ref corresp="#UUyf3f-d1e36399-Qd1e173" xml:id="UUyf3f-d1e36399-Rd1e165">Hieronymus, in Glossa <title>Malachiae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36399-Qd1e173">Inter omnia peccata sacerdotum, quasi maximum
+              notatur, quod non causas, sed personas considerant, et, despecto justo paupere,
+              injustos divites honorant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36399-d1e178">
+          <ref corresp="#UUyf3f-d1e36399-Qd1e188" xml:id="UUyf3f-d1e36399-Rd1e180">Hieronymus, in Glossa <title>Isaiae</title>, super
+            illud</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36399-Qd1e188">
+              <!--<i>-->Quare atteritis<!--</i>-->: Nostri principes, cum pauperes delinquentes
+              publice arguant et confundant, divitibus pejora peccantibus nec nutum faciunt, in
+              quorum domibus rapina pauperum, dum Ecclesiae opes sibi thesaurizant, et eas in
+              delicias abutuntur, quae ad sustentationem pauperum dantur, et sibi reservant, vel
+              propinquis distribuunt, et aliorum inopias, suas vel suorum divitias faciunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36399-d1e197">
+          <ref corresp="#UUyf3f-d1e36399-Qd1e207" xml:id="UUyf3f-d1e36399-Rd1e199">Hieronymus, in homilia super <title>Amos</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36399-Qd1e207">Quicumque aut consanguinitate aut amicitia, et e
+              contrario, vel hostili odio, vel inimicitiis in judicando ducitur, pervertit judicium
+              Christi, qui est justitia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36399-d1e212">
+          <ref corresp="#UUyf3f-d1e36399-Qd1e222" xml:id="UUyf3f-d1e36399-Rd1e214">Ambrosius, <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36399-Qd1e222">Gratia absit, causae merita discernantur: nihil
+              sic opinionem, imo fidem gravat, quam si in judicando potentiori dones causam
+              inferioris, vel pauperem innocentem arguas et divitem excuses reum culpae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36399-d1e227">
+          <ref corresp="#UUyf3f-d1e36399-Qd1e237" xml:id="UUyf3f-d1e36399-Rd1e229">Ambrosius, <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36399-Qd1e237">Pronum genus hominum favere
+              honoratoribus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36399-d1e242">
+          <ref corresp="#UUyf3f-d1e36399-Qd1e252" xml:id="UUyf3f-d1e36399-Rd1e244">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36399-Qd1e252">Non parvi te reum peccati aestimes, si facies
+              peccatorum sumis, et non potius causas judicas meritorum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e36399-d1e258">
+          <ref corresp="#UUyf3f-d1e36399-Qd1e268" xml:id="UUyf3f-d1e36399-Rd1e260">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e36399-Qd1e268">Hoc laboramus errore, sic nobis imponitur, quod
+              neminem aestimamus eo quo est, sed etiam adjicimus illi et ea, quibus adornatus est.
+              Atqui cum voles veram hominis aestimationem inire, et scire qualis sit, nudum inspice:
+              ponat patrimonium, ponat honores, et alia fortunae mendacia; corpus ipsum exuat;
+              animum intuere, qualis, quantusque sit, alieno, an suo magnus.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

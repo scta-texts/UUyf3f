@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De charitate</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De charitate</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e19402">
+        <head xml:id="UUyf3f-d1e19402-Hd1e99" type="question-title">De charitate</head>
+        <p xml:id="UUyf3f-d1e19402-d1e102">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e112" xml:id="UUyf3f-d1e19402-Rd1e104">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e112">Credat mihi charitas tua, quia valde
+              contristatus sum de tristitia tua, ас si in te injuriam ipse pertulissem. Dominicis
+              enim mandatis praecipimur, proximos sicut nosmetipsos diligere, eorumque languoribus,
+              tanquam propriis infirmitatibus, condolere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e117">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e127" xml:id="UUyf3f-d1e19402-Rd1e119">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e127">O quam bona est charitas, quae absentia per
+              imaginem, praesentia sibimetipsis exhibet per amorem, divisa unit, confusa ordinat,
+              inaequalia sociat, et imperfecta consummat!</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e132">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e142" xml:id="UUyf3f-d1e19402-Rd1e134">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e142">Magistra bonorum omnium charitas, nihil sapit
+              extraneum, nihil asperum, nihil confusum: ita exercet corda, et corroborat, ut nihil
+              grave, nihil difficile, sed fiat totum dulce quod agitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e147">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e157" xml:id="UUyf3f-d1e19402-Rd1e149">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e157">Dum nos vobis per orationis opem conjungimus,
+              quasi ambulantes per lubricum, vicissim manum nobis tenemus: fitque ex magna
+              provisione charitatis, ut eo singulorum robustius charitas perfigatur, quo et alter
+              altero magis innititur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e163">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e173" xml:id="UUyf3f-d1e19402-Rd1e165">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e173">Dum unum in redemptoris nostri corpore membrum
+              sumus, sicut in culpa tua dilaceror, ita quoque in bona actione laetificor.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e178">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e188" xml:id="UUyf3f-d1e19402-Rd1e180">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e188">Inimici dilectio tunc veraciter custoditur, cum
+              nec de ejus profectu dejicimur, nес de ruina illius laetamur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e193">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e203" xml:id="UUyf3f-d1e19402-Rd1e195">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e203">Charitatem recte praedicator egregius vinculum
+              perfectionis vocat: quia virtutes quidem caeterae perfectionem generant, sed tamen eas
+              charitas ita ligat, ut ab amantis mente dissolvi jam nequeant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e208">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e218" xml:id="UUyf3f-d1e19402-Rd1e210">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e218">Charitatis cum sit proprium nutrire concordiam,
+              servare composita, dissociata conjungere, prava corrigere, et virtutes caeteras
+              perfectionis suae munimine solidare, quisquis in ejus radice se inseruerit, nес a
+              viriditate deficit, nес a fructu inanescit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e223">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e233" xml:id="UUyf3f-d1e19402-Rd1e225">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e233">Nec abesse credendus est, qui per dilectionis
+              vinculum animis inhaeret.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e238">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e248" xml:id="UUyf3f-d1e19402-Rd1e240">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e248">Virtuti mortis dilectio comparatur, quia nimirum
+              mentem, quam semel ceperit, a dilectione mundi funditus occidit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e254">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e264" xml:id="UUyf3f-d1e19402-Rd1e256">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e264">Quod valde mens amat, etiam in sermone
+              replicat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e269">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e279" xml:id="UUyf3f-d1e19402-Rd1e271">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e279">Probatio sanctitatis non est signa facere, sed
+              unumquemque ut se diligere, de Deo autem vera cognoscere, de proximo vero meliora quam
+              de semetipso sentire.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e284">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e294" xml:id="UUyf3f-d1e19402-Rd1e286">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e294">Per amorem Dei amor proximi gignitur, et per
+              amorem proximi amor Dei nutritur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e299">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e309" xml:id="UUyf3f-d1e19402-Rd1e301">Gregorius, in
+              <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e309">Nostra sunt etiam illa bona, quae imitari non
+              possumus, sed in aliis amamus, et amantium fiunt quaecumque amantur in nobis. Hinc
+              ergo pensent invidi, charitas quantae virtutis est, quae alieni laboris opera, nostra
+              sine labore facit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e314">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e324" xml:id="UUyf3f-d1e19402-Rd1e316">Gregorius, in
+              <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e324">Vis amoris hoc agere in animo solet, ut quem
+              ipse semper cogitat, nullum alium credat ignorare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e329">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e339" xml:id="UUyf3f-d1e19402-Rd1e331">Gregorius, in
+              <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e339">Minus proximum amare convincitur, qui non cum eo
+              in necessitate illius etiam ea, quae sibi sunt necessaria, partitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e345">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e355" xml:id="UUyf3f-d1e19402-Rd1e347">Gregorius, in
+              <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e355">Si quis quemlibet amat, sed propter Deum non
+              amat, charitatem non habet, sed habere se simulat, sive putat. Charitas autem vera
+              est, cum et in Deo diligitur amicus, et propter Deum diligitur inimicus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e360">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e370" xml:id="UUyf3f-d1e19402-Rd1e362">Gregorius, in
+              <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e370">De dilectione Conditoris lingua, mens, et vita
+              requirantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e375">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e385" xml:id="UUyf3f-d1e19402-Rd1e377">Gregorius, in
+              <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e385">Nunquam est Dei amor otiosus: operatur etenim
+              magna, si est; si vero operari renuit, amor non est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e390">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e400" xml:id="UUyf3f-d1e19402-Rd1e392">Gregorius, in
+              <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e400">Si quod impendi nobis recte volumus, hoc aliis
+              impartimur, et quod nobis fieri nolumus, hoc aliis facere devitamus, tunc charitatis
+              jura illaesa servamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e405">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e415" xml:id="UUyf3f-d1e19402-Rd1e407">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e415">Tantum quisque portat proximum, quantum amat. Si
+              enim amas, portas; si desistis amare, desistis tolerare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e420">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e430" xml:id="UUyf3f-d1e19402-Rd1e422">Gregorius,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e430">Charitas sancta cor pacificat, mentem in
+              tentationibus roborat; et ut sedes sapientiae sit anima justi, quietem tribuit, et
+              locum praeparat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e436">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e446" xml:id="UUyf3f-d1e19402-Rd1e438">Ambrosius,
+              <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e446">Non minus vos diligo, quos in Evangelio genui,
+              quam si conjugio suscepissem. Non enim vehementior est natura ad diligendum, quam
+              gratia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e451">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e461" xml:id="UUyf3f-d1e19402-Rd1e453">Ambrosius,
+              <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e461">Plus certe diligere debemus, quos perpetuo
+              nobiscum putamus futuros, quam quos tantum in hoc saeculo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e466">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e476" xml:id="UUyf3f-d1e19402-Rd1e468">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e476">Quamvis nonnulli fide atque operibus sanctitatis
+              videantur esse participes, tamen quia privantur charitate fraternae dilectionis,
+              nullum habent incrementum virtutis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e481">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e491" xml:id="UUyf3f-d1e19402-Rd1e483">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e491">Nihil amantibus durum, nullus difficilis labor
+              in amore. Amemus et nos Christum, et facile videbitur omne difficile.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e496">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e506" xml:id="UUyf3f-d1e19402-Rd1e498">Hieronymus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e506">Hoc habet proprium impatiens amor, ut quem
+              desiderat, semper invenire se credat: ignorat siquidem judicium, ratione multoties
+              caret, nescit modum, nec aliud cogitare potest, quam quod diligit. Amor non accipit de
+              impossibilitate solatium, neque ex difficultate remedium.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e511">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e521" xml:id="UUyf3f-d1e19402-Rd1e513">Augustinus,
+              <title>de Doctrina Christiana</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e521">Quatuor sunt diligenda: unum, quod supra nos
+              est; alterum, quod nos sumus; tertium, quod juxta nos est; quartum, quod infra nos
+              est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e527">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e537" xml:id="UUyf3f-d1e19402-Rd1e529">Augustinus,
+              <title>de Doctrina Christiana</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e537">Ille juste et sancte vivit, qui rerum integer
+              aestimator est. Ipse autem est, qui ordinatam habet dilectionem, ne aut diligat quod
+              non est diligendum, aut non diligat quod est diligendum; aut amplius diligat quod
+              minus est diligendum; aut aeque diligat quod minus vel amplius diligendum est; aut
+              minus vel amplius, quod aeque diligendum est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e542">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e552" xml:id="UUyf3f-d1e19402-Rd1e544">Augustinus,
+              <title>de Doctrina Christiana</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e552">Omnis peccator in quantum peccator est, non est
+              diligendus; et omnis homo, in quantum homo est, diligendus est propter Deum; Deus
+              autem propter seipsum. Et si Deus omni homine amplius diligendus est, amplius quisque
+              Deum debet diligere, quam seipsum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e557">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e567" xml:id="UUyf3f-d1e19402-Rd1e559">Augustinus,
+              <title>de Doctrina Christiana</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e567">Omnes aeque diligendi sunt; sed cum omnibus
+              prodesse non possis, his potissimum consulendum est, qui pro locorum, vel temporum,
+              vel quarumlibet rerum opportunitatibus, constrictius tibi quasi quadam sorte
+              junguntur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e572">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e582" xml:id="UUyf3f-d1e19402-Rd1e574">Augustinus,
+              <title>de Catechizandis rudibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e582">Diligamus Deum, quoniam prior dilexit nos, et
+              filio suo unico non pepercit, sed pro nobis omnibus tradidit eum. Si amare pigebat,
+              saltem redamare non pigeat: nulla enim est major ad amorem invitatio, quam praevenire
+              amando; et nimis durus est animus, qui dilectionem si nolebat impendere, noluit
+              rependere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e587">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e597" xml:id="UUyf3f-d1e19402-Rd1e589">Augustinus,
+              <title>de Catechizandis rudibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e597">Maxime propterea Christus advenit, ut
+              cognosceret homo quantum Deus diligat eum; et ideo cognosceret, ut ejus dilectione, a
+              quo prior dilectus est, inardesceret.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e602">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e612" xml:id="UUyf3f-d1e19402-Rd1e604">Augustinus,
+              <title>de Perfectione justitiae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e612">Perfecta charitas foras mittit timorem, et facit
+              praecepti sarcinam levem, non solum non prementem onere ponderum, verum etiam
+              sublevantem vice pennarum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e618">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e628" xml:id="UUyf3f-d1e19402-Rd1e620">Augustinus,
+              <title>de Viduitatis bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e628">Nullo modo sunt onerosi labores amantium; sed
+              etiam ipsi delectant, sicut venantium, aucupantium, et piscantium.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e633">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e643" xml:id="UUyf3f-d1e19402-Rd1e635">Augustinus,
+              <title>de Viduitatis bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e643">In eo, quod amatur, aut non laboratur, aut etiam
+              labor amatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e648">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e658" xml:id="UUyf3f-d1e19402-Rd1e650">Augustinus,
+              <title>de Trinitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e658" source="http://scta.info/resource/adt-l8-d1e993"
+              >Qui amat homines, aut quia justi sunt, aut ut justi sint, amare debet. Sic enim
+              seipsum amare debet, aut quia justus est, aut ut justus sit: sic enim diligit proximum
+              tanquam seipsum sine ullo periculo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e663">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e673" xml:id="UUyf3f-d1e19402-Rd1e665">Augustinus,
+              <title>de Trinitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e673"
+              source="http://scta.info/resource/adt-l9-d1e1074">Nemo aliquid volens facit, quod non
+              in corde suo prius dixerit. Quod verbum amore concipitur, sive creaturae, sive
+              Creatoris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e678">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e688" xml:id="UUyf3f-d1e19402-Rd1e680">Augustinus,
+              <title>de Moribus Ecclesiae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e688">Nihil est tam durum atque ferreum, quod non
+              amoris igne vincatur: quo cum se anima rapit in Deum, super omnem carnis naturam,
+              libera et admiranda volitabit pennis pulcherrimis et integerrimis, quibus ad Dei
+              amplexum amor castus innititur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e693">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e703" xml:id="UUyf3f-d1e19402-Rd1e695">Augustinus,
+              <title>de Moribus Ecclesiae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e703">Solus se novit diligere, qui Deum
+              diligit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e709">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e719" xml:id="UUyf3f-d1e19402-Rd1e711">Augustinus,
+              <title>de Moribus Ecclesiae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e719">Qui diligit proximum, agit quantum potest, ut
+              salvus corpore, salvusque animo sit; sed cura corporis ad salutem animi referenda
+              est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e724">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e734" xml:id="UUyf3f-d1e19402-Rd1e726">Augustinus,
+              <title>de Spiritu et Littera</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e734">Sciri aliquid et credi, et tamen non diligi
+              potest: diligi autem quod neque scitur, neque creditur, non potest.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e739">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e749" xml:id="UUyf3f-d1e19402-Rd1e741">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e749"
+              source="http://scta.info/resource/adcd-l14-d1e2000">Perfectum odium debet malis, qui
+              secundum Deum vivit: sic, ut nec propter vitium oderit hominem, nec amet vitium
+              propter hominem; sed oderit vitium, amet hominem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e754">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e764" xml:id="UUyf3f-d1e19402-Rd1e756">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e764"
+              source="http://scta.info/resource/adcd-l14-d1e2000">Mihi videtur, quod definitio
+              brevis et vera virtutis, est ordo amoris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e769">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e779" xml:id="UUyf3f-d1e19402-Rd1e771">Augustinus,
+              <title>de Conjugiis adulterinis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e779">Multa sunt facienda non jubente lege, sed libera
+              voluntate: et ea sunt in nostris officiis gratiora, quae cum liceret nobis etiam non
+              impendere, causa tamen dilectionis impendimus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e784">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e794" xml:id="UUyf3f-d1e19402-Rd1e786">Augustinus,
+              <title>de Soliloquiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e794">Impatiens animus, nec lachrymis modus fit, nisi
+              amori detur quod amatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e800">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e810" xml:id="UUyf3f-d1e19402-Rd1e802">Augustinus,
+              <title>de Verbis Apostoli</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e810">Nihil sic probat amicum, quemadmodum oneris
+              portatio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e815">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e825" xml:id="UUyf3f-d1e19402-Rd1e817">Augustinus,
+              <title>super primam Canonicum Joannis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e825">Talis est quisque, qualis ejus dilectio est.
+              Terram diligis? terra es. Deum diligis? quid dicam? Deus es. <!--<i>-->Ego<!--</i>-->,
+              inquit, <!--<i>-->dixi: Dii estis<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e838">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e848" xml:id="UUyf3f-d1e19402-Rd1e840">Augustinus,
+              <title>super primam Canonicum Joannis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e848">Charitas ut perficiatur, nascitur; cum fuerit
+              nata, nutritur; cum fuerit nutrita, roboratur; cum fuerit roborata, perficitur; cum ad
+              perfectum venerit, quid dicit? <!--<i>-->Mihi vivere Christus est, et mori
+              lucrum<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e857">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e867" xml:id="UUyf3f-d1e19402-Rd1e859">Augustinus,
+              <title>super primam Canonicum Joannis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e867">Dilige, et quod vis fac. Sive taceas, dilectione
+              tace; sive clames, dilectione clama; sive emendes, dilectione emenda; sive parcas,
+              dilectione parce.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e872">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e882" xml:id="UUyf3f-d1e19402-Rd1e874">Augustinus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e882">Diligentia charitatis, freneticum castigare,
+              lethargicum stimulare, ambos amare: ambo offenduntur, sed ambo diliguntur: ambo
+              molestari, quandiu aegri sunt, indignantur; sed ambo sanati, gratulantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e887">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e897" xml:id="UUyf3f-d1e19402-Rd1e889">Augustinus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e897">
+              <!--<i>-->Diliges Dominum Deum tuum ex toto corde tuo, et ex tota anima tua, et ex
+              tota mente tua, et diliges proximum tuum sicut teipsum<!--</i>-->. Hic Physica,
+              quoniam omnes omnium naturarum causae in Deo creatore sunt. Hic Ethica, quoniam vita
+              bona et honesta non aliunde formatur, quam cum ea, quae diligenda sunt, quemadmodum
+              diligenda sunt, diliguntur, hoc est Deus, et proximus. Hic Logica, quoniam veritas
+              lumenque animae rationalis non nisi Deus est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e907">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e917" xml:id="UUyf3f-d1e19402-Rd1e909">Augustinus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e917">In hac dilectione virtus non est, nisi diligere
+              quod diligendum est. Id eligere, prudentia est; nullis inde averti molestiis,
+              fortitudo est; nullis illecebris, temperantia est; nulla superbia, justitia est. Quid
+              autem eligamus, quod praecipue diligamus, nisi quo nihil melius invenimus? Hoc Deus
+              est, cui si aliquid diligendo vel praeponimus, vel aequamus, nosipsos diligere
+              nescimus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e922">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e932" xml:id="UUyf3f-d1e19402-Rd1e924">Augustinus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e932">Tanto nobis melius est, quanto nos magis in
+              illum imus, quo nihil melius est. Imus autem non ambulando, sed amando: quem tanto
+              habebimus praesentiorem, quanto eumdem amorem, quo in eum tendimus, poterimus habere
+              puriorem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e937">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e947" xml:id="UUyf3f-d1e19402-Rd1e939">Augustinus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e947">Non faciunt bonos, vel malos mores, nisi boni,
+              vel mali amores.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e952">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e962" xml:id="UUyf3f-d1e19402-Rd1e954">Augustinus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e962">Debet homo proximum diligere tanquam seipsum, ut
+              quem poterit hominem, vel beneficentiae consolatione, vel doctrinae informatione, vel
+              disciplinae coercitione, secum ducat ad colendum Deum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e967">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e977" xml:id="UUyf3f-d1e19402-Rd1e969">Augustinus, in
+            libris <title>Confessionum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e977">Minus, Domine, te amat, qui aliquid tecum amat,
+              quod non propter te amat. О amor, qui semper ardes, et nunquam extingueris! Charitas,
+              Deus meus, accende me. Continentiam jubes; da quod jubes, et jube, quod vis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e982">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e992" xml:id="UUyf3f-d1e19402-Rd1e984">Augustinus, in
+            libris <title>Confessionum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e992">Domine, amore tuo percussisti cor meum, et amavi
+              te: sed et coelum, et terra, et omnia quae in eis sunt, ecce undique mihi dicunt, ut
+              amem te; nec cessant dicere omnibus, ut inexcusabiles sint.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e998">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1008" xml:id="UUyf3f-d1e19402-Rd1e1000">Augustinus, in
+            libris <title>Confessionum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1008">Pondus non ad ima tantum est, sed ad locum
+              suum. Ignis enim sursum tendit, deorsum lapis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1013">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1023" xml:id="UUyf3f-d1e19402-Rd1e1015">Augustinus, in
+            libris <title>Confessionum</title> et infra</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1023">Minus ordinata, inquieta sunt; ordinantur, et
+              quiescunt. Pondus meum amor meus: eo feror, quocumque feror. Dono tuo accendimur, et
+              sursum ferimur: inardescimus, et imus; ascendimus ascensiones in corde, et cantamus
+              canticum graduum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1028">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1038" xml:id="UUyf3f-d1e19402-Rd1e1030">Augustinus, in
+            libris <title>Confessionum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1038">Deus meus, quid amo, cum te amo? Non speciem
+              corporis, non decus temporis, nec candorem lucis, non dulces melodias cantilenarum
+              omnimodarum, non florum, et unguentorum, et aromatum suavem olentiam, non manna, et
+              mella, non membra carnis amplexibus acceptabilia: non haec amo, cum amo Deum meum. Et
+              tamen amo quamdam lucem, et quamdam vocem, et quemdam odorem, quemdam cibum, et
+              quemdam amplexum, cum amo Deum meum lucem, vocem, odorem, cibum, amplexum interioris
+              hominis mei, ubi fulget animae meae, quod non rapit tempus; et ubi olet, quod non
+              spargit flatus; et ubi sapit, quod non minuit edacitas; et ubi haeret, quod non
+              divellit satietas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1043">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1053" xml:id="UUyf3f-d1e19402-Rd1e1045">Augustinus,
+              <title>de Laude charitatis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1053">Divinarum scripturarum multiplicem abundantiam,
+              latissimamque doctrinam sine ullo errore comprehendit, et sine ullo labore custodit,
+              cujus cor plenum est charitate, dicente Apostolo: <!--<i>-->Plenitudo legis est
+              charitas<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1062">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1072" xml:id="UUyf3f-d1e19402-Rd1e1064">Augustinus,
+              <title>de Laude charitatis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1072">Ille tenet, et quod patet, et quod latet in
+              divinis sermonibus, qui charitatem tenet in moribus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1077">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1087" xml:id="UUyf3f-d1e19402-Rd1e1079">Augustinus,
+              <title>de Laude charitatis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1087">Fratres, sectamini charitatem, dulce et salubre
+              vinculum mentium, sine qua dives pauper est, et cum qua pauper dives est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1093">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1103" xml:id="UUyf3f-d1e19402-Rd1e1095">Augustinus,
+              <title>de Laude charitatis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1103">Charitas in adversitatibus tolerat, in
+              prosperitatibus temperat; in duris passionibus fortis, in bonis operibus hilaris; in
+              tentatione tutissima, in hospitalitate latissima; inter veros fratres laetissima,
+              inter falsos patientissima.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1108">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1118" xml:id="UUyf3f-d1e19402-Rd1e1110">Augustinus,
+              <title>de Laude charitatis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1118">Charitas casta fuit in Susanna erga virum; in
+              Anna, post virum; in Maria, praeter virum; libera in Paulo ad arguendum; humilis in
+              Petro ad obediendum; humana in Christianis ad confitendum; divina in Christo ad
+              ignoscendum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1123">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1133" xml:id="UUyf3f-d1e19402-Rd1e1125">Augustinus,
+              <title>de Laude charitatis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1133">Charitas inter opprobria secura est; inter
+              odia, benefica; inter iras, placida; inter insidias, innocens; in iniquitate, gemens;
+              in veritate, respirans; in virtute, congratulans.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1138">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1148" xml:id="UUyf3f-d1e19402-Rd1e1140">Augustinus, in
+              <title>Meditationibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1148">Non melius, nec decentius, quam per dilectionem
+              rependi potest, quod per dilectionem datum est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1153">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1163" xml:id="UUyf3f-d1e19402-Rd1e1155">Auctor
+              <title>de Spiritu et Anima</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1163">Miser ego, quantum deberem diligere Deum meum,
+              qui me fecit cum non eram, redemit cum perieram! Non eram, et de nihilo me fecit, non
+              lapidem, non arborem, non avem, aut aliquod de animalibus, sed voluit me esse hominem:
+              dedit mihi vivere, sentire, discernere, et intelligere. Perieram, et ad mortalem
+              descendit, mortalitatem suscepit, mortem sustinuit, mortem vicit, et sic me
+              restauravit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1168">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1178" xml:id="UUyf3f-d1e19402-Rd1e1170">Auctor
+              <title>de Spiritu et Anima</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1178">Multa sunt in me, de quibus coram Deo erubesco,
+              et pro quibus valde illi displicere timeo: nec pro omnibus his, quod illi impendam
+              habeo, nisi tantum ut diligam. Non enim melius, etc., ut supra.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1184">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1194" xml:id="UUyf3f-d1e19402-Rd1e1186">Auctor
+              <title>de Spiritu et Anima</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1194">Amat Deus, ut ametur; et cum amat, nihil aliud
+              vult quam amari. Sciens ipso amore beatos, qui se amaverint, per amorem venit ad
+              homines, venit in homines, factus est homo, et <!--<i>-->deliciae illius esse cum
+              filiis hominum<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1203">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1213" xml:id="UUyf3f-d1e19402-Rd1e1205">Joannes
+            Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1213">Omnis species justitiae in malis invenitur; sed
+              sola gratia verae charitatis non invenitur, nisi in servis Dei.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1218">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1228" xml:id="UUyf3f-d1e19402-Rd1e1220">Joannes
+            Chrysostomus, <title>de Compunctione cordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1228">Hic amantium mos est, ut amorem suum silentio
+              tegere nequeant; sed necessariis suis et caris efferunt, et рrоdunt, et flammas amoris
+              intra pectus cohibere non possunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1233">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1243" xml:id="UUyf3f-d1e19402-Rd1e1235">Joannes
+            Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1243">Etsi fratres insanabiliter aegrotaverint,
+              maneamus curantes, et portemus ad invicem onera: ita enim implebimus legem Christi, et
+              promissis potiemur bonis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1248">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1258" xml:id="UUyf3f-d1e19402-Rd1e1250">Joannes
+            Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1258">Vitam nihil ita facit claram, ut amor.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1263">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1273" xml:id="UUyf3f-d1e19402-Rd1e1265">Bernardus,
+              <title>de Amore Dei</title>, loquens de verbo illo Lucae</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1273">
+              <!--<i>-->Diliges Dominum<!--</i>-->, etc.: Quatuor in Deum a nobis et toti exiguntur
+              affectus. In eo quod dicit: <!--<i>-->Ex toto corde tuo<!--</i>-->, totam sibi
+              vendicat voluntatem; <!--<i>-->in tota anima<!--</i>-->, totum amorem; <!--<i>-->in
+              omnibus viribus<!--</i>-->, virtutem designat charitatis; <!--<i>-->in tota
+              mente<!--</i>-->, fruitionem sapientiae. Primum autem horum, scilicet voluntas, ad
+              Deum animam movet, amor promovet, charitas contemplatur, sapientia fruitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1299">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1309" xml:id="UUyf3f-d1e19402-Rd1e1301">Bernardus,
+              <title>de Amore Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1309">Nihil aliud est amor, quam vehemens et bene
+              ordinata voluntas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1314">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1324" xml:id="UUyf3f-d1e19402-Rd1e1316">Bernardus,
+              <title>de Amore Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1324">Te, Domine, velle, et vehementer velle, quod
+              est te amare, et singulariter amare: quia amari non dignaris cum aliqua alia re, sive
+              carnali, sive spirituali, sive terrestri, sive coelesti, quae non ametur pro te. Hoc
+              demum est non velle nisi bonum, hoc est habere quaecumque vult omnia; quia habet te
+              quis, in quantum amat te.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1329">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1339" xml:id="UUyf3f-d1e19402-Rd1e1331">Bernardus,
+              <title>de Diligendo Deo</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1339">Causa diligendi Deum Deus est, modus est sine
+              modo diligere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1344">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1354" xml:id="UUyf3f-d1e19402-Rd1e1346">Bernardus,
+              <title>de Diligendo Deo</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1354">Vide quo modo, imo quam sine modo a nobis Deus
+              amari meruit: qui prior ipse dilexit nos, tantus, et tantum et gratis, tantillos et
+              tales.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1359">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1369" xml:id="UUyf3f-d1e19402-Rd1e1361">Bernardus,
+              <title>de Diligendo Deo</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1369">Non sine praemio diligitur Deus, etsi absque
+              praemii intuitu sit diligendus. Vacua namque vera charitas esse non potest, nec tamen
+              mercenaria est, <!--<i>-->quippe non quaerit quae sua sunt<!--</i>-->: affectus est,
+              non contractus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1378">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1388" xml:id="UUyf3f-d1e19402-Rd1e1380">Bernardus,
+              <title>de Diligendo Deo</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1388">Quidquid propter aliud amare videaris, id plane
+              amas, quo amoris finis pertendit, non per quod tendit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1394">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1404" xml:id="UUyf3f-d1e19402-Rd1e1396">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1404">Quantitas uniuscujusque animae aestimatur ex
+              mensura charitatis, quam habet: ut, verbi gratia, quae multum charitatis habet magna
+              sit; quae parum, parva; quae vero nihil, nihil, dicente Apostolo: <!--<i>-->Si
+              charitatem non habuero, nihil sum<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1413">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1423" xml:id="UUyf3f-d1e19402-Rd1e1415">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1423">Nec ignoro, quia <!--<i>-->honor regis judicium
+              diligit<!--</i>-->; sed praeceps amor nес judicium praestolatur, nес consilio
+              temperatur, nес pudore fraenatur, nес rationi subjicitur. Rogo, supplico, flagito,
+              <!--<i>-->osculetur me osculo oris sui<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1436">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1446" xml:id="UUyf3f-d1e19402-Rd1e1438">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1446">Ubi amor est, labor non est, sed sapor.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1451">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1461" xml:id="UUyf3f-d1e19402-Rd1e1453">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1461">Non abduci blanditiis, non seduci fallaciis,
+              nec injuriis frangi, toto corde, tota anima, tota virtute diligere est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1466">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1476" xml:id="UUyf3f-d1e19402-Rd1e1468">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1476">Valde mihi amandus est, per quem sum, vivo, et
+              sapio, si ingratus non sum, et indignus. Dignus plane est morte, qui tibi, Domine,
+              recusat vivere, et mortuus est; et qui tibi non sapit, desipit: et qui curat esse,
+              nisi propter te, pro nihilo est, et nihil est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1481">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1491" xml:id="UUyf3f-d1e19402-Rd1e1483">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1491">
+              <!--<i>-->Spiritus est Deus<!--</i>-->, et concupiscit decorem animae illius, quam
+              forte adverterit in spiritu ambulantem, et curam carnis non perficientem in desiderio,
+              praesertim cum sui amore flagrantem conspexerit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1501">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1511" xml:id="UUyf3f-d1e19402-Rd1e1503">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1511">Fateor, non sustinui pondus diei et aestus; sed
+              jugum suave, et onus leve pro beneplacito patrisfamilias porto. Opus meum vix unius
+              horae; et si plus, prae amore non sentio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1516">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1526" xml:id="UUyf3f-d1e19402-Rd1e1518">Bernardus,
+              <title>de duodecim Gradibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1526">Vere dulcis, et suavis cibus charitas, quae
+              fessos allevat, debiles roborat, moestos laetificat, denique
+              <!--<i>-->jugum<!--</i>--> veritatis facit <!--<i>-->suave, et onus
+              leve<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1539">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1549" xml:id="UUyf3f-d1e19402-Rd1e1541">Bernardus,
+              <title>de Praecepto et Dispensatione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1549">Fons vitae charitas est; nес vivere animam
+              dixerim, quae de illo non hauserit. Haurire porro quo modo potest, nisi fuerit
+              praesens ipsi fonti, qui charitas est, quae Deus est? Praesens ergo Deo est, qui amat
+              Deum, in quantum amat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1554">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1564" xml:id="UUyf3f-d1e19402-Rd1e1556">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1564">Bona mater charitas, quae sive foveat infirmos,
+              sive exerceat provectos, sive arguat inquietos, diversis diversa exhibens, sicut
+              filios diligit universos.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1569">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1579" xml:id="UUyf3f-d1e19402-Rd1e1571">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1579">Servite in charitate illa, quae timorem
+              expellit, labores non sentit, meritum non intuetur, praemium non requirit, et tamen
+              plus omnibus urget.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1584">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1594" xml:id="UUyf3f-d1e19402-Rd1e1586">Bernardus, in
+              <title>Apologia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1594">O quanta fiducia charitatis! Alius operatur,
+              non amans; et alius amat, nihil operans: ille quidem opus suum perdit; istius vero
+              charitas nunquam excidit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1600">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1607" xml:id="UUyf3f-d1e19402-Rd1e1602">Glossa
+            interlinearis</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1607">Omnia facilia amanti.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e19402-d1e1612">
+          <ref corresp="#UUyf3f-d1e19402-Qd1e1619" xml:id="UUyf3f-d1e19402-Rd1e1614">Glossa
+            interlinearis</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e19402-Qd1e1619">Nullum permittit Deus cadere, qui ei servit
+              vero amore.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

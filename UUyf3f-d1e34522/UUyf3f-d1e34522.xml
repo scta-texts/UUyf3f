@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De ignorantia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De ignorantia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e34522">
+        <head xml:id="UUyf3f-d1e34522-Hd1e99" type="question-title">De ignorantia</head>
+        <p xml:id="UUyf3f-d1e34522-d1e102">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e112" xml:id="UUyf3f-d1e34522-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e112">Nescire, ignorantia est; sed scire noluisse,
+              superbia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e117">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e127" xml:id="UUyf3f-d1e34522-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e127">Quo nosipsos minus agnoscimus, eo illos, quos
+              reprehendere nitimur, plus videmus. Communia haec mala sunt, quae saepe a subditis in
+              praelatos, saepe a praelatis in subditos committuntur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e132">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e142" xml:id="UUyf3f-d1e34522-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e142">Nemo bene judicat, qui ignorat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e147">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e157" xml:id="UUyf3f-d1e34522-Rd1e149">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e157">Seclusum ab internis gaudiis genus humanum,
+              exigente culpa, mentis oculos perdidit; et quo meritorum passibus gradiatur, nescit.
+              Saepe enim est donum gratiae, quod iram deputat: et saepe divinae districtionis ira
+              est, quod gratiam putat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e163">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e173" xml:id="UUyf3f-d1e34522-Rd1e165">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e173">Quae potest esse pastoris excusatio, si lupus
+              oves comedit, et pastor nescit?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e178">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e188" xml:id="UUyf3f-d1e34522-Rd1e180">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e188">Quotiescumque tam de baptismo aliquorum, vel de
+              confirmatione, quam de ecclesiarum consecratione dubium habetur, et nec scriptis nec
+              testibus certa ratio habetur, utrum baptizati, vel confirmati, sive ecclesiae
+              consecratae sint: baptizentur tales ac confirmentur, atque ecclesiae canonice
+              dedicentur, ne talis dubitatio ruina fidelibus fiat: quoniam non monstratur iteratum,
+              quod non certis indiciis ostenditur rite peractum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e193">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e203" xml:id="UUyf3f-d1e34522-Rd1e195">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e203">Non potest eis esse excusatio condemnationis
+              ignorantia veritatis, quibus fuit inveniendi facultas, si fuisset quaerendi voluntas.
+              Nam si veritas salus est et vita cognoscentium se, magis debet quaeri, quam
+              quaerere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e208">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e218" xml:id="UUyf3f-d1e34522-Rd1e210">Isidorus, in <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e218">Ignorantia mater errorum est; ignorantia
+              vitiorum nutrix.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e223">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e233" xml:id="UUyf3f-d1e34522-Rd1e225">Augustinus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e233">Melior est fidelis ignorantia, quam temeraria
+              scientia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e238">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e248" xml:id="UUyf3f-d1e34522-Rd1e240">Augustinus, <title>de Gratia et Libero
+              Arbitrio</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e248">Ideo divina praecepta data sunt, ut homo
+              excusationem de ignorantia non haberet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e254">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e264" xml:id="UUyf3f-d1e34522-Rd1e256">Augustinus, <title>de Trinitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e264">Error est, pro alio, alterius
+              approbatio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e269">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e279" xml:id="UUyf3f-d1e34522-Rd1e271">Augustinus, <title>de Trinitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e279" source="http://scta.info/resource/adt-l9-d1e1090">Rem prorsus ignotam amare, omnino
+              nullus potest.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e284">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e294" xml:id="UUyf3f-d1e34522-Rd1e286">Augustinus, <title>de Vita beata</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e294">Recte dicimus eorum animos, qui nullis
+              disciplinis eruditi sunt, nihilque bonarum artium hauserunt, jejunos atque famelicos
+              esse.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e299">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e309" xml:id="UUyf3f-d1e34522-Rd1e301">Augustinus, <title>de Coniugiis adulterinis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e309">Sunt peccata ignorantium, quamvis minora
+              peccatis scientium.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e314">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e324" xml:id="UUyf3f-d1e34522-Rd1e316">Augustinus, <title>de Coniugiis adulterinis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e324">Certe nullius crimen maculat nescientem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e329">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e339" xml:id="UUyf3f-d1e34522-Rd1e331">Bernardus, <title>de Contemptu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e339">Quando excusare ignorantia possit hominem, qui
+              se magistrum infantium, et doctorem insipientium profitetur? Ignorans utique
+              ignorabitur, et multos ignorare faciet, et ignorari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e345">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e355" xml:id="UUyf3f-d1e34522-Rd1e347">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e355">Dico omnes ignorare Deum, qui nolunt converti ad
+              eum: neque enim ob aliud proculdubio renuunt, nisi quia gravem et severum imaginantur,
+              qui pius est; durum et implacabilem, qui misericors est; ferum et terribilem, qui
+              amabilis est. Et mentitur iniquitas sibi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e360">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e370" xml:id="UUyf3f-d1e34522-Rd1e362">Bernardus, <title>de Duodecim gradibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e370">Frustra sibi de infirmitate vel ignorantia
+              blandiuntur, qui ut liberius peccent, libenter ignorant; vel infirmantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e375">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e385" xml:id="UUyf3f-d1e34522-Rd1e377">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e385">Multa scienda nesciuntur, aut sciendi incuria,
+              aut discendi desidia, aut verecundia inquirendi: et quidem hujusmodi ignorantia non
+              habet excusationem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e390">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e400" xml:id="UUyf3f-d1e34522-Rd1e392">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e400">Noveris licet omnia mysteria, noveris lata
+              terrae, alta coeli, profunda maris; si te nescieris, eris similis aedificanti sine
+              fundamento ruinam, non structuram.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e405">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e415" xml:id="UUyf3f-d1e34522-Rd1e407">Boetius, <title>de Consolatione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e415">Humanae naturae ista conditio est, ut si se
+              nosse desierit, infra bestias redigatur; si vero cum caeteris rebus semetipsum
+              agnoscat, excellat easdem. Nam caeteris animantibus, sese ignorare, natura est;
+              hominibus, vitio venit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34522-d1e420">
+          <ref corresp="#UUyf3f-d1e34522-Qd1e430" xml:id="UUyf3f-d1e34522-Rd1e422">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34522-Qd1e430">Non est extrinsecus malum nostrum, sed intra nos
+              est, in visceribus sedet, et ideo difficulter ad sanitatem pervenimus, quia nos
+              aegrotare nescimus.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De recidivatione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De recidivatione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e30768">
+        <head xml:id="UUyf3f-d1e30768-Hd1e99" type="question-title">De recidivatione</head>
+        <p xml:id="UUyf3f-d1e30768-d1e102">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e112" xml:id="UUyf3f-d1e30768-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e112">In unoquoque lapsu, a minimis semper incipitur,
+              et succrescentibus, ad graviora pervenitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30768-d1e117">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e127" xml:id="UUyf3f-d1e30768-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e127">Saepe committunt homines mala quae sciunt; et
+              idcirco permittuntur decipi, ut cadant etiam in mala quae nesciunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30768-d1e132">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e142" xml:id="UUyf3f-d1e30768-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e142">Auget reatum culpae sequentis, praeconium
+              gloriae praecedentis. Nam uniuscujusque casus tanto majoris est criminis, quanto,
+              priusquam caderet, majoris potuit esse virtutis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30768-d1e147">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e157" xml:id="UUyf3f-d1e30768-Rd1e149">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e157">Incassum bonum agitur, si ante terminum vitae
+              deseratur; quia et frustra currit, qui, priusquam ad metas veniat, deficit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30768-d1e163">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e173" xml:id="UUyf3f-d1e30768-Rd1e165">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e173">Si, quod videtur, bonum gerendum sollicita
+              intentione non crescit, etiam quod fuerat bene gestum, decrescit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30768-d1e178">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e188" xml:id="UUyf3f-d1e30768-Rd1e180">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e188">Qui fortiori studio intenderit, retrospicere
+              convincitur, si relictis bonis amplioribus ad minima retorquetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30768-d1e193">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e203" xml:id="UUyf3f-d1e30768-Rd1e195">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e203">Sicut qui a fide recedit, apostata est, ita qui
+              ad perversum opus, quod deserit, redit, ab omnipotenti Deo absque ulla dubietate
+              apostata deputabitur, etiam si fidem tenere videatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30768-d1e208">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e218" xml:id="UUyf3f-d1e30768-Rd1e210">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e218">Minoris excessus est veritatem non cognoscere,
+              quam in ea agnita non manere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30768-d1e223">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e233" xml:id="UUyf3f-d1e30768-Rd1e225">Augustinus, <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e233" source="http://scta.info/resource/adcd-l14-d1e2079">Audeo dicere, superbis esse utile
+              cadere in aliquod apertum manifestumque peccatum, unde sibi displiceant, qui jam sibi
+              placendo ceciderant. Salubrius enim Petrus sibi displicuit, quando flevit, quam sibi
+              placuit quando praesumpsit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30768-d1e238">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e248" xml:id="UUyf3f-d1e30768-Rd1e240">Augustinus, in libro <title>de Viduitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e248">In viduali et virginali continentia, excellentia
+              muneris amplioris expetitur: qua expetita, et electa, et voti debito oblata, jam non
+              solum capescere nuptias, sed etiam si non nubatur, velle nubere damnabile est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30768-d1e254">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e264" xml:id="UUyf3f-d1e30768-Rd1e256">Augustinus, in libro <title>de Viduitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e264">Cum quisque non reddit quod non imperio
+              compulsus, sed consilio commonitus vovit, tanto magis fraudati voti auget iniquitatem,
+              quanto minus habet vovendi necessitatem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30768-d1e269">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e279" xml:id="UUyf3f-d1e30768-Rd1e271">Augustinus, in libro <title>de Viduitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e279">Plane non dubitaverim dicere lapsas animas a
+              charitate sanctiore, quae vovetur Deo, adulteris esse pejores.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30768-d1e284">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e294" xml:id="UUyf3f-d1e30768-Rd1e286">Augustinus, in libro <title>de Verbis
+              Apostoli</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e294">Semper adde, semper ambula, semper profice, noli
+              in via retardare, noli retro redire, noli deviare. Remanet enim, qui non proficit;
+              retro redit, qui ad ea relabitur, unde jam recesserat; deviat, qui apostatat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30768-d1e299">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e309" xml:id="UUyf3f-d1e30768-Rd1e301">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e309">De Dei virgine facta es corruptio satanae: de
+              sponsa Christi, facta es scortum execrabile: de templo Dei, fanum immunditiae: de
+              habitaculo Spiritus sancti, tugurium diaboli: quae prius incedebas cum fiducia ut
+              columba, nunc lates in tenebris, ut stellio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30768-d1e314">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e324" xml:id="UUyf3f-d1e30768-Rd1e316">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e324">Quemadmodum ad virtutum tendentes culmen non a
+              summis inchoant, sed a modicis, ut sic sensim ad altiora pertingant; ita et qui
+              dilabuntur ad vitia, non statim a magnis criminibus incipiunt, sed a modicis
+              assuescunt, et sic ad maxima proruunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30768-d1e329">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e339" xml:id="UUyf3f-d1e30768-Rd1e331">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e339">Multis argumentis insidiatur diabolus eis, qui
+              renuntiant saeculo, ut ejus se iterum amori substernant: gravius autem illos
+              concupiscentiis saeculi ferit, quos post renuntiationem ad mundi amorem
+              reduxerit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30768-d1e345">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e355" xml:id="UUyf3f-d1e30768-Rd1e347">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e355">Habet quidem Christus multos milites, qui
+              fortissime coeperunt, steterunt, vicerunt; paucos autem qui, de fuga conversi, rursus
+              se periculo ingesserint, quod declinaverant, rursusque fugarent hostes, quos
+              fugiebant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30768-d1e360">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e370" xml:id="UUyf3f-d1e30768-Rd1e362">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e370">Beatus es, si pugnando moriaris, quia mortuus
+              mox coronaberis: vae autem tibi declinando pugnam; perdis enim victoriam simul et
+              coronam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30768-d1e375">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e385" xml:id="UUyf3f-d1e30768-Rd1e377">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e385">Si proficere currere est, ubi non proficere, ibi
+              et currere desinis: ubi vero non currere, ibi et deficere incipis: hinc plane
+              colligitur, quia nolle proficere, non nisi deficere est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30768-d1e390">
+          <ref corresp="#UUyf3f-d1e30768-Qd1e400" xml:id="UUyf3f-d1e30768-Rd1e392">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30768-Qd1e400">Septies cadit justus, et septies
+              <!--<i>-->resurgit<!--</i>-->, si tamen cadit in die, ut se cadere videat, et
+              cecidisse sciat, et resurgere cupiat, et requirat manum adjuvantis, et dicat:
+              <!--<i>-->Domine, in voluntate tua praestitisti decori meo virtutem: avertisti faciem
+              tuam a me, et factus sum conturbatus<!--</i>-->.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

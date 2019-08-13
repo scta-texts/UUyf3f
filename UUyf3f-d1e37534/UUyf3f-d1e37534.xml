@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De exercitio</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De exercitio</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e37534">
+        <head xml:id="UUyf3f-d1e37534-Hd1e99" type="question-title">De exercitio</head>
+        <p xml:id="UUyf3f-d1e37534-d1e102">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e112" xml:id="UUyf3f-d1e37534-Rd1e104">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e112">Apud Dominum non gradus elegantior, sed vitae
+              melioris actio comprobatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e117">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e127" xml:id="UUyf3f-d1e37534-Rd1e119">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e127">Qui ecclesiasticis famulantur obsequiis,
+              ecclesiastica, ut possibilitas exigit, debent adipisci subsidia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e132">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e142" xml:id="UUyf3f-d1e37534-Rd1e134">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e142">Justitiam, quam mente geritis, oportet coram
+              hominibus luce operum demonstretis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e147">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e157" xml:id="UUyf3f-d1e37534-Rd1e149">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e157">Cum opus crescit, praemii fiducia proficit; cum
+              vero opus torpuerit, spes a remuneratione lassescit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e163">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e173" xml:id="UUyf3f-d1e37534-Rd1e165">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e173">Iste in hac vita justorum labor est, ut
+              semetipsos inveniant; invenientes flendo atque corrigendo ad meliora
+              perducant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e178">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e188" xml:id="UUyf3f-d1e37534-Rd1e180">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e188">Sicut malis securitas praesens labor est, ita
+              bonis praesens labor perpetuam securitatem parit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e193">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e203" xml:id="UUyf3f-d1e37534-Rd1e195">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e203">Sancti viri minime exultant cum cognoscunt quae
+              faciant, sed cum faciunt quae cognoverunt: et si intelligendo congaudent muneri
+              largitoris, moerentes tamen considerant debitum operis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e208">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e218" xml:id="UUyf3f-d1e37534-Rd1e210">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e218">Activa vita est panem esurienti tribuere, verbum
+              sapientiae nescientem docere, errantem corrigere, ad humilitatis viam superbientem
+              proximum revocare, infirmantis curam gerere, et commissi nobis qualiter subsistere
+              valeant, dispensare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e223">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e233" xml:id="UUyf3f-d1e37534-Rd1e225">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e233">Considerandum nobis est opus nostrum quale sit,
+              quae cogitatio in opere, quae intentio in cogitatione.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e238">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e248" xml:id="UUyf3f-d1e37534-Rd1e240">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e248">Quid jam de Scriptura sacra didiceris, et
+              quantum proximum tacitus ames, in latitudine boni operis ostendes.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e254">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e264" xml:id="UUyf3f-d1e37534-Rd1e256">Gregorius, in <title>Dialogis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e264">Opus ex dono est, non donum ex opere. Omne
+              quippe opus dona praeveniunt, quamvis ex subsequenti opere ipsa etiam dona
+              succrescunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e269">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e279" xml:id="UUyf3f-d1e37534-Rd1e271">Isidorus, in <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e279">Praecave otium; non diligas otium; non ducas
+              vitam in otio: fatiga corpus laboribus; exerce operis cujuslibet studium.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e284">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e294" xml:id="UUyf3f-d1e37534-Rd1e286">Isidorus, in <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e294">Gravius libido urit, quem otiosum invenerit.
+              Cedit autem libido rebus, cedit operi, cedit industriae et labori.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e299">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e309" xml:id="UUyf3f-d1e37534-Rd1e301">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e309">Nihil juvat, quod inter bonum et malum sensu
+              prudentiore discernimus, nisi opere aut male cogitata caveamus, aut bona inchoata
+              faciamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e314">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e324" xml:id="UUyf3f-d1e37534-Rd1e316">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e324">Dei servum sine intermissione legere, orare, et
+              operari oportet, ne forte mentem otio deditam spiritus fornicationis surripiat. Cedit
+              enim labori voluptas; animum autem vacantem cito praeoccupat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e329">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e339" xml:id="UUyf3f-d1e37534-Rd1e331">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e339">Qui habent spiritum Dei, non sunt contenti
+              sedere otiosi; sed ipse spiritus, qui est in eis, urget eos aliquod bonum
+              apprehendere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e345">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e355" xml:id="UUyf3f-d1e37534-Rd1e347">Joannes Chrysostomus, <title>de Compunctione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e355">Merces major tibi augetur, quando non spe
+              mercedis operaris, sed studio placendi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e360">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e370" xml:id="UUyf3f-d1e37534-Rd1e362">Augustinus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e370">Noli esse piger in opere, cujus mercedem
+              desideras. Si quem et tu ipse mercenarium conduxisses, non ante mercedem numerares,
+              quam in opere exerceres.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e375">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e385" xml:id="UUyf3f-d1e37534-Rd1e377">Augustinus, <title>de Baptismo parvulorum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e385">Propter hoc de paradiso emissus Adam contra Eden
+              habitavit, id est contra sedem deliciarum, ut significaret, quod in laboribus, qui
+              sunt deliciis contrarii, erudienda est caro peccati.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e390">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e400" xml:id="UUyf3f-d1e37534-Rd1e392">Augustinus, <title>de Opere monachorum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e400">Nullo modo decet, ut in ea vita, ubi senatores
+              fiunt laboriosi, ibi fiant opifices otiosi; et quo veniunt, relictis deliciis, qui
+              fuerunt praediorum domini, ibi sint rustici delicati.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e405">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e412" xml:id="UUyf3f-d1e37534-Rd1e407">Augustinus, in glossa super I Tim., v</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e412">Qui ad pedes fratrum inclinatur, in corde vel
+              excitatur, vel, si jam inerat, confirmatur humilitatis affectus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e417">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e427" xml:id="UUyf3f-d1e37534-Rd1e419">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e427">Si labor terret, merces invitet: unusquisque
+              enim secundum suum laborem mercedem accipiet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e433">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e443" xml:id="UUyf3f-d1e37534-Rd1e435">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e443">Non ex foliis, non ex floribus, sed ex fructu
+              arbor bona, malave cognoscitur: denique: <!--<i>-->A fructibus eorum cognoscetis
+              eos<!--</i>-->: opera ergo, et non verba, discernunt inter filios Dei, et filios
+              diffidentiae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e452">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e462" xml:id="UUyf3f-d1e37534-Rd1e454">Bernardus, <title>de Amore Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e462">Quamvis adhuc non videat oculus, non cesset
+              operari manus: ut qui proficere vult in magno, fidelis sit in minimo; et in eo, quod
+              ex Conditoris largitate jam praerogatum habet, vis potestatis officium exhibeat bonae
+              voluntatis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e37534-d1e467">
+          <ref corresp="#UUyf3f-d1e37534-Qd1e477" xml:id="UUyf3f-d1e37534-Rd1e469">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e37534-Qd1e477">Satis multum temporis sparsimus, incipiamus vasa
+              in senectute colligere: in freto viximus, moriamur in portu.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

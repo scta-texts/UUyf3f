@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De perserverantia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De perserverantia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e23103">
+        <head xml:id="UUyf3f-d1e23103-Hd1e99" type="question-title">De perserverantia</head>
+        <p xml:id="UUyf3f-d1e23103-d1e102">
+          <ref corresp="#UUyf3f-d1e23103-Qd1e112" xml:id="UUyf3f-d1e23103-Rd1e104">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23103-Qd1e112">Magna est contra peccatum virtus poenitentiae,
+              si quis in eadem poenitentia perseveret.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23103-d1e117">
+          <ref corresp="#UUyf3f-d1e23103-Qd1e127" xml:id="UUyf3f-d1e23103-Rd1e119">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23103-Qd1e127">Illa Deo nostro semper opera grata sunt, quae a
+              bonis, quae coeperint, non recedunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23103-d1e132">
+          <ref corresp="#UUyf3f-d1e23103-Qd1e142" xml:id="UUyf3f-d1e23103-Rd1e134">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23103-Qd1e142">In cunctis vigilanter debet se mens
+              circumspicere, atque in ipsa circumspectionis suae providentia perseverare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23103-d1e147">
+          <ref corresp="#UUyf3f-d1e23103-Qd1e157" xml:id="UUyf3f-d1e23103-Rd1e149">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23103-Qd1e157">Bene coepta cunctis diebus agenda sunt, ut cum
+              malum pugnando repellitur, ipsa boni victoria constantiae manu teneatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23103-d1e163">
+          <ref corresp="#UUyf3f-d1e23103-Qd1e173" xml:id="UUyf3f-d1e23103-Rd1e165">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23103-Qd1e173">Mirum non est, si quis bona inchoet; sed valde
+              mirabile est, si intentione recta in bono opere perduret.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23103-d1e178">
+          <ref corresp="#UUyf3f-d1e23103-Qd1e188" xml:id="UUyf3f-d1e23103-Rd1e180">Augustinus,
+              <title>de Correptione et Gratia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23103-Qd1e188">Praedestinatorum fides, quae per dilectionem
+              operatur, profecto aut omnino non deficiet, aut, si qui sunt quorum deficit, reparatur
+              antequam vita ista finiatur; et deleta, quae intercucurrerat, iniquitate, usque in
+              finem perseverantia deputatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23103-d1e193">
+          <ref corresp="#UUyf3f-d1e23103-Qd1e203" xml:id="UUyf3f-d1e23103-Rd1e195">Augustinus,
+              <title>de Conjugiis adulterinis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23103-Qd1e203">Quae rectissime voventur, cum homines voverunt,
+              nulla conditione rumpenda sunt, quae sine ulla conditione voverunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23103-d1e208">
+          <ref corresp="#UUyf3f-d1e23103-Qd1e218" xml:id="UUyf3f-d1e23103-Rd1e210">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23103-Qd1e218">Tunc Deo placet nostra conversatio, quando bonum
+              quod inchoamus, perseveranti fine complemus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23103-d1e223">
+          <ref corresp="#UUyf3f-d1e23103-Qd1e233" xml:id="UUyf3f-d1e23103-Rd1e225">Isidorus, in
+              <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23103-Qd1e233">Salus inchoantibus promittitur; praemium
+              perseverantibus datur. Non est beatus qui bonum facit; sed qui incessabiliter facit:
+              <!--<i>-->Qui<!--</i>--> enim <!--<i>-->perseveraverit usque in finem, salvus
+              erit<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23103-d1e246">
+          <ref corresp="#UUyf3f-d1e23103-Qd1e256" xml:id="UUyf3f-d1e23103-Rd1e248">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23103-Qd1e256">Perseverantia sola meretur viribus gloriam,
+              virtutibus coronam. Prorsus absque perseverantia nec qui pugnat victoriam, nec palmam
+              victor consequitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23103-d1e262">
+          <ref corresp="#UUyf3f-d1e23103-Qd1e272" xml:id="UUyf3f-d1e23103-Rd1e264">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23103-Qd1e272">Perseverantia vigor virium, virtutum consummatio
+              est, nutrix ad meritum, mediatrix ad praemium, soror patientiae, constantiae filia,
+              amica pacis, amicitiarum nodus, unanimitatis vinculum, propugnaculum
+              sanctitatis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23103-d1e277">
+          <ref corresp="#UUyf3f-d1e23103-Qd1e287" xml:id="UUyf3f-d1e23103-Rd1e279">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23103-Qd1e287">Tolle perseverantiam, nec obsequium mercedem
+              habet, nec beneficium gloriam, nec laudem fortitudo. Denique non qui coeperit, sed
+              <!--<i>-->qui perseveraverit usque in finem, salvus erit<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23103-d1e296">
+          <ref corresp="#UUyf3f-d1e23103-Qd1e306" xml:id="UUyf3f-d1e23103-Rd1e298">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23103-Qd1e306">Non vivit, qui superbia inflatur, qui luxuria
+              inquinatur, qui caeteris quibuscumque inficitur pestibus; quoniam non est hoc vivere,
+              sed magis vitam confundere, et appropinquare usque ad portas mortis. Bonam autem vitam
+              ego puto, et mala pati, et bona facere, et sic perseverare usque ad mortem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23103-d1e311">
+          <ref corresp="#UUyf3f-d1e23103-Qd1e321" xml:id="UUyf3f-d1e23103-Rd1e313">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23103-Qd1e321">Plus operis in eo, ut proposita custodias, quam
+              ut honesta proponas. Perseverandum est, et assiduo studio robur addendum, donec bona
+              mens sit, quod bona voluntas est.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

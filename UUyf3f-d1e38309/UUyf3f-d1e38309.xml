@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De discussione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De discussione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e38309">
+        <head xml:id="UUyf3f-d1e38309-Hd1e99" type="question-title">De discussione</head>
+        <p xml:id="UUyf3f-d1e38309-d1e102">
+          <ref corresp="#UUyf3f-d1e38309-Qd1e112" xml:id="UUyf3f-d1e38309-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38309-Qd1e112">Justi viri, cum districtionem venturi judicis
+              contemplantur, peccata sua ad memoriam reducunt: deflent, quae commiserunt: districte
+              se judicant, ne judicentur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38309-d1e117">
+          <ref corresp="#UUyf3f-d1e38309-Qd1e127" xml:id="UUyf3f-d1e38309-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38309-Qd1e127">Dominum tanto quis securius expectat, quanto
+              quotidie viam suam suspectus examinat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38309-d1e132">
+          <ref corresp="#UUyf3f-d1e38309-Qd1e142" xml:id="UUyf3f-d1e38309-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38309-Qd1e142">Electi intra sinum cordis adversum se, quidquid
+              se impugnat, enumerant: ibi ante oculos suos omne, quod defleant, coacervant: ibi
+              quidquid per iram districti judicis discerni possit, intuentur: ibi tot patiuntur
+              supplicia, quod pati timent; nec deest in hoc judicio mente concepto omne ministerium,
+              quod punire reos suos plenius debeat. Nam conscientia accusat, ratio judicat, timor
+              ligat, dolor excruciat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38309-d1e147">
+          <ref corresp="#UUyf3f-d1e38309-Qd1e157" xml:id="UUyf3f-d1e38309-Rd1e149">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38309-Qd1e157">Qui semetipsum prius non judicat, quid in alio
+              recte judicet, ignorat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38309-d1e163">
+          <ref corresp="#UUyf3f-d1e38309-Qd1e173" xml:id="UUyf3f-d1e38309-Rd1e165">Joannes Chrysostomus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38309-Qd1e173">Quando accubueris super stratum tuum, et neminem
+              infestum pateris, antequam veniat tibi somnus, profer in medium codicem conscientiam
+              tuam, et reminiscere peccata tua, si quid in verbo seu in facto, vel in cogitatione
+              peccasti.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38309-d1e178">
+          <ref corresp="#UUyf3f-d1e38309-Qd1e188" xml:id="UUyf3f-d1e38309-Rd1e180">Augustinus, <title>de vera Religione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38309-Qd1e188">
+              <!--<i>-->Spiritualis homo omnia judicat<!--</i>-->, quia super omnia est, quando cum
+              Deo est: cum illo est autem, quando purissime intelligit, et tota charitate, quod
+              intelligit, diligit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38309-d1e197">
+          <ref corresp="#UUyf3f-d1e38309-Qd1e207" xml:id="UUyf3f-d1e38309-Rd1e199">Augustinus, <title>de Verbis Domini</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38309-Qd1e207">Nihil est, quod sic quisque cogitare debeat,
+              nisi ut in semetipsum oculos convertat, se discat, se discutiat, se inspiciat, se
+              quaerat, et se inveniat: quod displicet, necet; et quod placet, optet et
+              plantet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38309-d1e212">
+          <ref corresp="#UUyf3f-d1e38309-Qd1e222" xml:id="UUyf3f-d1e38309-Rd1e214">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38309-Qd1e222">
+              <!--<i>-->Spiritualis homo omnia dijudicat, et ipse a nemine judicatur<!--</i>-->:
+              judicabo proinde mala, judicabo et bona. Mala melioribus curabo corrigere actibus,
+              diluere lacrymis, punire jejuniis, caeterisque sanctae laboribus disciplinae. In bonis
+              de me sentiam humiliter, et juxta praeceptum Domini, servum me inutilem
+              reputabo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38309-d1e231">
+          <ref corresp="#UUyf3f-d1e38309-Qd1e241" xml:id="UUyf3f-d1e38309-Rd1e233">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38309-Qd1e241">Babyloniorum manifesta sunt peccata praecedentia
+              judicium, et non egent scrutinio sed supplicio: mea autem, qui videor monachus et
+              hierosolymita, peccata certe occulta sunt, nomine et habitu monachali obumbrata: et
+              idcirco necesse erit subtili ea investigari discussione.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38309-d1e246">
+          <ref corresp="#UUyf3f-d1e38309-Qd1e256" xml:id="UUyf3f-d1e38309-Rd1e248">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38309-Qd1e256">Quod homines de aliis libentissime faciunt, de
+              te apud te male existima. Assuesce et dicere verum, et audire.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e38309-d1e262">
+          <ref corresp="#UUyf3f-d1e38309-Qd1e272" xml:id="UUyf3f-d1e38309-Rd1e264">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e38309-Qd1e272">Clamo mecum ipse: Numera annos tuos, et pudebit
+              eadem velle, quae volueras puer. Hoc denique tibi citra mortis diem praesta: moriantur
+              ante te vitia.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De laetitia (in De gratiosis)</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De laetitia (in De gratiosis)</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e47523">
+        <head xml:id="UUyf3f-d1e47523-Hd1e99" type="question-title">De laetitia (in De
+          gratiosis)</head>
+        <p xml:id="UUyf3f-d1e47523-d1e102">
+          <ref corresp="#UUyf3f-d1e47523-Qd1e112" xml:id="UUyf3f-d1e47523-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47523-Qd1e112">Sancti viri, cum multa se proficere virtutum
+              prosperitate considerant, quodam dispensationis supernae moderamine, exerceri se etiam
+              tentationibus exultant: quia tanto robustius acceptam virtutum gloriam custodiunt,
+              quanto tentationis impulsu concussi, infirmitatem suam humilius cognoscunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47523-d1e117">
+          <ref corresp="#UUyf3f-d1e47523-Qd1e127" xml:id="UUyf3f-d1e47523-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47523-Qd1e127">Quo se interioribus gaudiis animus robustius
+              inserit, eo minus exterius dolores sentit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47523-d1e132">
+          <ref corresp="#UUyf3f-d1e47523-Qd1e142" xml:id="UUyf3f-d1e47523-Rd1e134">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47523-Qd1e142">Ille veraciter patientiam servat, qui et ad
+              tempus aliena mala sine dolore tolerat, et eadem retractans pertulisse se talia
+              exultat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47523-d1e147">
+          <ref corresp="#UUyf3f-d1e47523-Qd1e157" xml:id="UUyf3f-d1e47523-Rd1e149">Gregorius, in <title>Dialogis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47523-Qd1e157">Qualis quisque apud se lateat, contumelia illata
+              probat. Nam sicut superbi honoribus, sic plerumque humiles sua despectione
+              gratulantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47523-d1e163">
+          <ref corresp="#UUyf3f-d1e47523-Qd1e173" xml:id="UUyf3f-d1e47523-Rd1e165">Augustinus, <title>de Verbis Domini</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47523-Qd1e173">Quando gaudetur in Domino, non gaudetur in
+              saeculo: vincat gaudium in Domino, donec finiatur gaudium in saeculo: gaudium in
+              Domino semper augeatur, gaudium in saeculo semper minuatur, donec finiatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47523-d1e178">
+          <ref corresp="#UUyf3f-d1e47523-Qd1e188" xml:id="UUyf3f-d1e47523-Rd1e180">Augustinus, <title>de Confessionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47523-Qd1e188">Est gaudium quod non datur impiis, sed eis qui
+              te gratis colunt, Domine; quorum gaudium tu ipse es, et ipsa est beata vita gaudere ad
+              te, de te, propter te: ipsa est, et non est altera.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47523-d1e193">
+          <ref corresp="#UUyf3f-d1e47523-Qd1e203" xml:id="UUyf3f-d1e47523-Rd1e195">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47523-Qd1e203">Nihil sollicitius providendum est, quam ut
+              solemnem diem non tam ciborum abundantia, quam spiritus exultatione celebremus: quia
+              valde absurdum est, nimia saturitate velle honorare martyrem, quem scimus Deo
+              placuisse jejuniis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47523-d1e208">
+          <ref corresp="#UUyf3f-d1e47523-Qd1e218" xml:id="UUyf3f-d1e47523-Rd1e210">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47523-Qd1e218">Revera illud solum et verum est gaudium, quod
+              non de creatura, sed de Creatore concipitur, et quod cum possederis, nemo tollet a te:
+              cui comparata omnis aliunde jucunditas moeror est, omnis suavitas dolor est, omne
+              dulce amarum, omne decorum foedum, omne postremo quodcumque aliud delectare possit,
+              molestum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47523-d1e223">
+          <ref corresp="#UUyf3f-d1e47523-Qd1e233" xml:id="UUyf3f-d1e47523-Rd1e225">Bernardus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47523-Qd1e233">
+              <!--<i>-->Non est regnum Dei esca et potus, sed justitia, et pax, et gaudium in
+              Spiritu sancto<!--</i>-->. Sic fatui filii Adam, et praecipiti saltu justitiam
+              transilientes, et pacem, rem finalem, in principium convertere, et pervertere vultis.
+              Nemo est, qui gaudere non velit: non stabit, et non erit istud; quia sicut
+              <!--<i>-->non est pax impiis<!--</i>-->, sic nec gaudere, <!--<i>-->dicit
+              Dominus<!--</i>-->. <!--<i>-->Non sic impii, non sic<!--</i>-->: prius est justitiam
+              facere, inquirere pacem, et persequi eam, et sic apprehendere gaudium, imo a gaudio
+              comprehendi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e47523-d1e254">
+          <ref corresp="#UUyf3f-d1e47523-Qd1e264" xml:id="UUyf3f-d1e47523-Rd1e256">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e47523-Qd1e264">Ad verum gaudium specta, et de tuo gaude. Quid
+              autem est hoc, <!--<i>-->de tuo<!--</i>-->? de teipso, et optima tui parte;
+              corpusculum quoque, etsi nihil potest fieri sine ipso, magis necessariam rem evaderem,
+              quam magnam.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De consuetudine</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De consuetudine</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e31063">
+        <head xml:id="UUyf3f-d1e31063-Hd1e99" type="question-title">De consuetudine</head>
+        <p xml:id="UUyf3f-d1e31063-d1e102">
+          <ref corresp="#UUyf3f-d1e31063-Qd1e112" xml:id="UUyf3f-d1e31063-Rd1e104">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31063-Qd1e112">Usitata culpa obligat mentem, ut nequaquam
+              surgere possit ad rectitudinem. Conatur enim, et labitur: quia ubi diu sponte
+              perstitit, ibi, etiam cum noluerit, coacta cadit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31063-d1e117">
+          <ref corresp="#UUyf3f-d1e31063-Qd1e127" xml:id="UUyf3f-d1e31063-Rd1e119">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31063-Qd1e127">Frontem cordis in impudentiam atterit culpa
+              frequens: ut quo crebrius committitur, eo de illa committentis animus minus
+              verecundetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31063-d1e132">
+          <ref corresp="#UUyf3f-d1e31063-Qd1e142" xml:id="UUyf3f-d1e31063-Rd1e134">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31063-Qd1e142">Si pravae rei aditus, antequam diu patescat, non
+              clauditur, usu fit latior, et erit consuetudine licitum, quod ratione et lege constat
+              esse prohibitum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31063-d1e147">
+          <ref corresp="#UUyf3f-d1e31063-Qd1e154" xml:id="UUyf3f-d1e31063-Rd1e149">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31063-Qd1e154">Difficile surgit, quem moles malae consuetudinis
+              premit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31063-d1e160">
+          <ref corresp="#UUyf3f-d1e31063-Qd1e170" xml:id="UUyf3f-d1e31063-Rd1e162">Isidorus, in <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31063-Qd1e170">Assiduitas mores facit, et jugis usus in naturam
+              se vertit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31063-d1e175">
+          <ref corresp="#UUyf3f-d1e31063-Qd1e185" xml:id="UUyf3f-d1e31063-Rd1e177">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31063-Qd1e185">Cogitatio prava delectationem parit, delectatio
+              consensionem, consensio actionem, actio consuetudinem, et consuetudo
+              necessitatem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31063-d1e190">
+          <ref corresp="#UUyf3f-d1e31063-Qd1e200" xml:id="UUyf3f-d1e31063-Rd1e192">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31063-Qd1e200">Dum facta quaedam non gravia libere ac sine metu
+              committimus, ad pejora scelera, et horrenda, peccati consuetudine labimur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31063-d1e205">
+          <ref corresp="#UUyf3f-d1e31063-Qd1e215" xml:id="UUyf3f-d1e31063-Rd1e207">Augustinus, <title>de Libero Arbitrio</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31063-Qd1e215">Ratio aestimat luce veritatis, ut recto judicio
+              subdat majora majoribus; usus autem consuetudine commoditatis plerumque inclinatur, ut
+              ea pluris aestimet, quae veritas minora convincit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31063-d1e220">
+          <ref corresp="#UUyf3f-d1e31063-Qd1e230" xml:id="UUyf3f-d1e31063-Rd1e222">Augustinus, <title>contra Julianum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31063-Qd1e230">Contra istam genitalium concupiscentiam, quae
+              ingenita nobis est per originale peccatum, vehementius viduas, quam virgo; vehementius
+              meretrix, cum casta esse voluerit, quam quae semper casta confligit; et tanto amplius
+              in ea superanda voluntas laborabit, quanto majores ei consuetudo vires dedit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31063-d1e235">
+          <ref corresp="#UUyf3f-d1e31063-Qd1e245" xml:id="UUyf3f-d1e31063-Rd1e237">Augustinus, in Glossa <title>super Psalmos</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31063-Qd1e245">Facilius est retrahi ab ingressu, quam ab
+              arrepto itinere pravae consuetudinis revocari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31063-d1e251">
+          <ref corresp="#UUyf3f-d1e31063-Qd1e261" xml:id="UUyf3f-d1e31063-Rd1e253">Joannes Chrysostomus, <title>de Compunctione
+              cordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31063-Qd1e261">Consuetudine contemnendi, dum de praeteritis
+              dolor nullus est, facilius supervenientibus malis locum damus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31063-d1e266">
+          <ref corresp="#UUyf3f-d1e31063-Qd1e276" xml:id="UUyf3f-d1e31063-Rd1e268">Ambrosius, <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31063-Qd1e276">Usus cito inflectit naturam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e31063-d1e281">
+          <ref corresp="#UUyf3f-d1e31063-Qd1e291" xml:id="UUyf3f-d1e31063-Rd1e283">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e31063-Qd1e291">Mali mala sua, quod malorum ultimum est, amant.
+              Tunc autem consummata est infelicitas, ubi turpia non solum delectant, sed etiam
+              placent; et desinit esse remedio locus, ubi quae fuerunt vitia mores fiunt.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

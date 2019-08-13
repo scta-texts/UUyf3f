@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De luxuria</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De luxuria</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e15996">
+        <head xml:id="UUyf3f-d1e15996-Hd1e99" type="question-title">De luxuria</head>
+        <p xml:id="UUyf3f-d1e15996-d1e102">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e112" xml:id="UUyf3f-d1e15996-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e112">De luxuria caecitas mentis, inconsideratio,
+              inconstantia, praecipitatio, amor sui, odium Dei, affectus praesentis saeculi, horror,
+              vel desperatio futuri generatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e117">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e127" xml:id="UUyf3f-d1e15996-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e127">Nulla ante Dei oculos justitiae pietatisque sunt
+              opera, quae corruptionis contagio monstrantur immunda.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e132">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e142" xml:id="UUyf3f-d1e15996-Rd1e134">Gregorius, in
+              <title>Dialogis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e142">Carnalis delectatio mentem, quam inficit,
+              obscurat, ut videre verae lucis claritatem non valeat; sed unde inferius delectatur,
+              inde caliginem ad superna patiatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e147">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e157" xml:id="UUyf3f-d1e15996-Rd1e149">Augustinus,
+              <title>de Fide ad Petrum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e157">Quia dum sibi invicem vir mulierque miscentur ut
+              filios gignant, sine libidine non est parentum concubitus, et ob hoc filiorum ex eorum
+              carne nascentium non potest sine peccato esse conceptus, et peccatum in parvulos non
+              transmittit propagatio, sed libido.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e163">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e173" xml:id="UUyf3f-d1e15996-Rd1e165">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e173">Luxuriae imagines, quas in veritate gessimus,
+              saepe dormientibus nobis in animo apparent; sed innoxiae, si non concupiscendo
+              occurrunt, id est, si non consentimus vigilantes.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e178">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e188" xml:id="UUyf3f-d1e15996-Rd1e180">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e188">Qui nocturna illusione polluitur, etsi extra
+              memoriam turpium cogitationum sese praesentiat inquinatum, tamen hoc, ut tentaretur,
+              culpae suae tribuat, suamque immunditiam statim fletibus tergat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e193">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e203" xml:id="UUyf3f-d1e15996-Rd1e195">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e203">Deus nonnunquam dejicit occultam mentis
+              superbiam per carnis manifestam ruinam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e208">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e218" xml:id="UUyf3f-d1e15996-Rd1e210">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e218">Inter septem vitia, fornicatio maximum est
+              scelus, quia per carnis immunditiam templum Dei violat, et tollens membra Christi,
+              facit membra meretricis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e223">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e233" xml:id="UUyf3f-d1e15996-Rd1e225">Joannes
+            Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e233">Vitium libidinis facile ex vacantia et otio
+              nascitur. Nam definitio amoris haec est: Animae vacantis passio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e238">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e248" xml:id="UUyf3f-d1e15996-Rd1e240">Joannes
+            Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e248">Per omnem actum carnalem, homo animalibus
+              similis invenitur, maxime autem per usum libidinis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e254">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e264" xml:id="UUyf3f-d1e15996-Rd1e256">Joannes
+            Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e264">Porci sunt, qui vitam suam coenosae libidini et
+              voluptatibus saeculi manciparunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e269">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e279" xml:id="UUyf3f-d1e15996-Rd1e271">Hieronymus, in
+            originali <title>super Oseam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e279">Sicut vinum et ebrietas eum, qui biberit, mentis
+              suae impotem facit, ita fornicatio ac voluptas pervertit sensum, animumque debilitat,
+              et de rationali homine, brutum efficit animal.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e284">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e294" xml:id="UUyf3f-d1e15996-Rd1e286">Hieronymus, in
+            originali <title>super Oseam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e294">Sicut gulae servientes habent ventrem Deum, ita
+              qui libidini serviunt, habent Deum Beelphegor.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e299">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e309" xml:id="UUyf3f-d1e15996-Rd1e301">Hieronymus, in
+            originali <title>super Naum</title>, explicans verba illa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e309">Corruent in corporibus suis: Multi propter res
+              venereas in corpore debilitati sunt, et cum perditione animae carnem quoque frangunt,
+              cui serviunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e314">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e324" xml:id="UUyf3f-d1e15996-Rd1e316">Glossa in
+              <title>Proverbia</title>, super illud</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e324">Pretium scorti: Brevis voluptas fornicationis,
+              et perpetua poena fornicationis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e329">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e336" xml:id="UUyf3f-d1e15996-Rd1e331">Glossa
+            interlinearis</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e336">Luxuria consumit omnia bona gratiae et
+              naturae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e342">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e352" xml:id="UUyf3f-d1e15996-Rd1e344">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e352">Luxuria voluptas fragilis est, brevis, fastidio
+              objecta; quo avidius acta est, ocius in contrarium recidens; cujus subinde necesse
+              est, aut poeniteat, aut pudeat; in qua nihil est magnificum, aut quod naturam hominis
+              diis proximi deceat; res humilis membrorum turpium aut vilium ministerio, exitu
+              foeda.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e357">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e367" xml:id="UUyf3f-d1e15996-Rd1e359">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e367">Nihil tam mortiferum ingeniis, quam
+              luxuria.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e372">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e382" xml:id="UUyf3f-d1e15996-Rd1e374">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e382">Vis magna mentis, blandusque animi calor, amor
+              est; juventa gignitur, luxa et otio nutritur inter laeta fortunae bona: quem si fovere
+              atque alere desistas, cadit, brevique vires perdit extinctus suas; illicita amantur,
+              et excidit quidquid; quisquis in primo obstitit, pepulitque amorem, tutus ac victor
+              redit: qui blandiendo dulce nutrivit malum, sero recusat ferre, quod subiit
+              jugum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e387">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e394" xml:id="UUyf3f-d1e15996-Rd1e389">Hieronymus</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e394">Appetitus fornicationis anxietas est, satietas
+              poenitentia. Et Paulus apostolus ait: <title>Qui fornicatur, in corpus suum
+                peccat</title>.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e402">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e409" xml:id="UUyf3f-d1e15996-Rd1e404">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e409">In fornicationis opere totus homo absorbetur a
+              carne qui fornicatur, ut jam homo non possit animus suus esse, sed simul totus homo
+              possit dici caro.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e15996-d1e414">
+          <ref corresp="#UUyf3f-d1e15996-Qd1e424" xml:id="UUyf3f-d1e15996-Rd1e416">Et dicit quaedam
+            Glossa <title>super Leviticum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e15996-Qd1e424">Quod cum daemones de omni peccato gaudeant,
+              praecipue tamen gaudent de fornicatione, quia ibi corpus et anima maculatur: et ideo
+              maxime cavendum.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

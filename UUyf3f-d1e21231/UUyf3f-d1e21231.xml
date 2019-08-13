@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De memoria</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De memoria</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e21231">
+        <head xml:id="UUyf3f-d1e21231-Hd1e99" type="question-title">De memoria</head>
+        <p xml:id="UUyf3f-d1e21231-d1e102">
+          <ref corresp="#UUyf3f-d1e21231-Qd1e112" xml:id="UUyf3f-d1e21231-Rd1e104">Gregorius, in
+              <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21231-Qd1e112">Cum bona, fratres, agitis, semper ad memoriam
+              mala acta revocate, ut dum caute culpa conspicitur, nunquam de bono opere incaute
+              animus laetetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21231-d1e117">
+          <ref corresp="#UUyf3f-d1e21231-Qd1e127" xml:id="UUyf3f-d1e21231-Rd1e119">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21231-Qd1e127">Cogitationum illecebras, linguae incontinentiam,
+              delictorum opera ad memoriam revocemus; et dum licet, et tempus habemus, magno planctu
+              iniquitatum nostrarum maculas deleamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21231-d1e132">
+          <ref corresp="#UUyf3f-d1e21231-Qd1e142" xml:id="UUyf3f-d1e21231-Rd1e134">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21231-Qd1e142">Cum mala committimus, frustra tunc ad memoriam
+              bona nostra transacta revocamus, quoniam in perpetratione malorum nulla debet esse
+              fiducia bonorum praeteritorum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21231-d1e147">
+          <ref corresp="#UUyf3f-d1e21231-Qd1e157" xml:id="UUyf3f-d1e21231-Rd1e149">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21231-Qd1e157">Tunc nobis misericordiae Dei mirae fiunt, cum
+              nobis ad memoriam miseriae nostrae revocantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21231-d1e163">
+          <ref corresp="#UUyf3f-d1e21231-Qd1e173" xml:id="UUyf3f-d1e21231-Rd1e165">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21231-Qd1e173">Patienter illatam injuriam tolerat, qui pie
+              meminit, quod fortasse adhuc habeat, in quo debeat ipse tolerari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21231-d1e178">
+          <ref corresp="#UUyf3f-d1e21231-Qd1e188" xml:id="UUyf3f-d1e21231-Rd1e180">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21231-Qd1e188">Cum voluptas lubrica tentat in prosperis, haec
+              ipsa sunt prospera aculeo tentationis opponenda, ut eo erubescamus prava committere,
+              quo nos a Deo meminimus gratuita bona percepisse.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21231-d1e193">
+          <ref corresp="#UUyf3f-d1e21231-Qd1e200" xml:id="UUyf3f-d1e21231-Rd1e195">Gregorius, super
+            illud Job</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21231-Qd1e200">
+              <title>Ubi eras, quando ponebam fundamenta terrae?</title>: Ac si justificato
+              peccatori aperte veritas dicat: Virtutes a me acceptas tibi non tribuas. Noli contra
+              me de meo munere extolli. Recole ubi te inveni, quando meo te timore solidavi. Ut ergo
+              ego in te non destruam quod construxi, ipse non cesses considerare quod in te
+              reperi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21231-d1e208">
+          <ref corresp="#UUyf3f-d1e21231-Qd1e218" xml:id="UUyf3f-d1e21231-Rd1e210">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21231-Qd1e218">Quisquis peccatorum memoria compungitur ad
+              lamenta, tunc Dei se visitari sciat praesentia, quando ex eo quod se admisisse
+              recolit, interius erubescit, suoque judicio poenitendo jam punit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21231-d1e223">
+          <ref corresp="#UUyf3f-d1e21231-Qd1e233" xml:id="UUyf3f-d1e21231-Rd1e225">Augustinus,
+              <title>de Trinitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21231-Qd1e233" source="http://scta.info/resource/adt-l3-d1e463"
+              >Mihi utile est, ut meminerim virium mearum, fratresque meos admoneam ut meminerint
+              suarum, ne ultra quam tutum est, progrediatur humana infirmitas. </quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21231-d1e238">
+          <ref corresp="#UUyf3f-d1e21231-Qd1e248" xml:id="UUyf3f-d1e21231-Rd1e240">Ambrosius, in
+              <title>Apologia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21231-Qd1e248">Sapiens si epuletur, si cogitet, si oret ac
+              deprecetur, ante oculos ejus semper error est propius, et momentis omnibus pulsat
+              culpa conscientiam, nec quiescere, nec oblivisci sinit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21231-d1e254">
+          <ref corresp="#UUyf3f-d1e21231-Qd1e264" xml:id="UUyf3f-d1e21231-Rd1e256">Joannes
+            Chrysostomus, <title>super Epistolam ad Hebraeos</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21231-Qd1e264">Nullum invenitur delictorum tale remedium, sicut
+              eorum continuata memoria.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21231-d1e269">
+          <ref corresp="#UUyf3f-d1e21231-Qd1e279" xml:id="UUyf3f-d1e21231-Rd1e271">Bernardus,
+              <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21231-Qd1e279">Inter alia consideranda, qualis sis, et qualis
+              fueris, ad memoriam revocandum est: conferenda sunt enim posteriora prioribus, et
+              priora sequentibus, utrumne profeceris in virtute, in sapientia, in intellectu, in
+              suavitate morum, aut ab his forte, quod absit, defeceris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21231-d1e284">
+          <ref corresp="#UUyf3f-d1e21231-Qd1e294" xml:id="UUyf3f-d1e21231-Rd1e286">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21231-Qd1e294">Iturus ad somnum, semper aliquid tecum defer in
+              memoria, vel cogitatione, in quo placide obdormias, quod nonnunquam etiam somniare
+              juvet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21231-d1e299">
+          <ref corresp="#UUyf3f-d1e21231-Qd1e309" xml:id="UUyf3f-d1e21231-Rd1e301">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21231-Qd1e309">Is qui Christo passo pie compatitur, compungitur
+              et movetur facile ad memoriam eorum quae pertulit, atque istius suavitate devotionis
+              pascitur et confortatur ad quaeque salubria, honesta, pia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e21231-d1e314">
+          <ref corresp="#UUyf3f-d1e21231-Qd1e324" xml:id="UUyf3f-d1e21231-Rd1e316">Seneca, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e21231-Qd1e324">Aliquis vir bonus eligendus est, atque semper
+              ante oculos habendus, ut sic tanquam illo spectante, vivamus, et omnia tanquam illo
+              vidente faciamus. O felicem, qui sic aliquem vereri potest, ut ad memoriam quoque ejus
+              se componat atque ordinet!</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

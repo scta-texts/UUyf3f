@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De renuntiatione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De renuntiatione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e40901">
+        <head xml:id="UUyf3f-d1e40901-Hd1e99" type="question-title">De renuntiatione</head>
+        <p xml:id="UUyf3f-d1e40901-d1e102">
+          <ref corresp="#UUyf3f-d1e40901-Qd1e112" xml:id="UUyf3f-d1e40901-Rd1e104">Gregorius, in <title>Dialogis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40901-Qd1e112">Despiciendus a nobis hic mundus foret, etiamsi
+              blandiretur, si rebus prosperis demulceret animum. At postquam tot flagellis premitur,
+              tanta adversitate fatigatur, tot nobis quotidie dolores ingeminat, quid nobis aliud,
+              quam ne diligatur, clamat?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40901-d1e117">
+          <ref corresp="#UUyf3f-d1e40901-Qd1e127" xml:id="UUyf3f-d1e40901-Rd1e119">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40901-Qd1e127">Fructus mundi ruina est. Ad hoc enim crescit, ut
+              cadat; ad hoc germinat, ut quodcumque germinaverit, cladibus consumat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40901-d1e132">
+          <ref corresp="#UUyf3f-d1e40901-Qd1e142" xml:id="UUyf3f-d1e40901-Rd1e134">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40901-Qd1e142">Si nihil in hoc mundo iam amando possidetis,
+              etiam possidendo cuncta reliquistis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40901-d1e147">
+          <ref corresp="#UUyf3f-d1e40901-Qd1e157" xml:id="UUyf3f-d1e40901-Rd1e149">Isidorus, in <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40901-Qd1e157">Semper interna quiete frueris, si te a strepitu
+              terrenarum actionum subtraxeris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40901-d1e163">
+          <ref corresp="#UUyf3f-d1e40901-Qd1e173" xml:id="UUyf3f-d1e40901-Rd1e165">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40901-Qd1e173">Sicut difficile est arborem juxta viam positam
+              fructus suos usque ad maturitatem servare, sic difficile est virum fidelem juxta istum
+              mundum viventem, in actibus ejus justitiam immaculatam usque ad finem tenere. Recede
+              de via, et plantare in loco secreto, ut nec mundus tecum habeat aliquid commune, nec
+              tu cum mundo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40901-d1e178">
+          <ref corresp="#UUyf3f-d1e40901-Qd1e188" xml:id="UUyf3f-d1e40901-Rd1e180">Joannes Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40901-Qd1e188">Qui pecuniarum concupiscentiam deriserunt, hi
+              maxime sunt qui Deum, ut oportet, diligunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40901-d1e193">
+          <ref corresp="#UUyf3f-d1e40901-Qd1e203" xml:id="UUyf3f-d1e40901-Rd1e195">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40901-Qd1e203">Vincula hujus mundi habent asperitatem veram,
+              jucunditatem falsam, certum dolorem, incertam voluptatem, durum laborem, timidam
+              quietem, rem plenam miseriae, spem beatitudinis inanem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40901-d1e208">
+          <ref corresp="#UUyf3f-d1e40901-Qd1e218" xml:id="UUyf3f-d1e40901-Rd1e210">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40901-Qd1e218">Quid prodest acquirere in hoc saeculo quodlibet
+              temporale et transitorium, sive sit pecunia, sive sit voluptas ventris et gutturis,
+              sive sit honor in laude humana? Nonne omnia fumus et ventus? Nonne omnia transeunt et
+              currunt? Et vae his, qui haeserint transeuntibus; quoniam simul transeunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40901-d1e223">
+          <ref corresp="#UUyf3f-d1e40901-Qd1e233" xml:id="UUyf3f-d1e40901-Rd1e225">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40901-Qd1e233">Utilius terrena opulentia tenetur humiliter,
+              quam superbe relinquitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40901-d1e238">
+          <ref corresp="#UUyf3f-d1e40901-Qd1e248" xml:id="UUyf3f-d1e40901-Rd1e240">Augustinus, <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40901-Qd1e248">In omnibus dolens, aut sua relinquat, aut saltem
+              illa quae sine admixtione mali non sunt administrata, ut mercatura, et militia, et
+              alia quae utentibus sunt nociva, ut administrationes saecularium potestatum, nisi his
+              utatur ex obedientiae licentia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40901-d1e254">
+          <ref corresp="#UUyf3f-d1e40901-Qd1e264" xml:id="UUyf3f-d1e40901-Rd1e256">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40901-Qd1e264">Voci Dei, tu, dulciori super mel et favum, si
+              praeparas aurem interiorem, fuge curam exteriorem, ut expedito et vacante interno
+              sensu, dicas tu cum Samuele: <!--<i>-->Loquere, Domine, quia audit servus
+              tuus<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40901-d1e273">
+          <ref corresp="#UUyf3f-d1e40901-Qd1e283" xml:id="UUyf3f-d1e40901-Rd1e275">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40901-Qd1e283">Si sapis, si habes cor, si tecum est lumen
+              oculorum, desine jam et ea sequi, quae et consequi miserum est. Beatus, qui post illa
+              non abiit, quae possessa onerant, amata inquinant, amissa cruciant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40901-d1e288">
+          <ref corresp="#UUyf3f-d1e40901-Qd1e298" xml:id="UUyf3f-d1e40901-Rd1e290">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40901-Qd1e298">Generositas sanguinis, proceritas corporis,
+              forma elegans, juvenilis decor, praedia, palatia, immensa supellex, infulaeque
+              dignitatum, adde et sapientiam mundi, de mundo sunt haec, et mundus, quod suum est,
+              diligit. Sed quousque? Non solum enim non semper, ut qui non semper erit; verum nec
+              diu quidem. Diu siquidem ista in te mundus habere non poterit, et te quidem ipsum in
+              brevi non habiturus. Nam <!--<i>-->breves dies hominis sunt<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40901-d1e307">
+          <ref corresp="#UUyf3f-d1e40901-Qd1e317" xml:id="UUyf3f-d1e40901-Rd1e309">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40901-Qd1e317">Subito procedenti de umbra ad solem, de otio ad
+              laborem, grave cernitur omne quod incipit. Sed cum ab his dissuescere, et ad illa se
+              paulisper assuescere coeperit, usus tollit difficultatem, invenitque facile esse, quod
+              difficile antea putavit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40901-d1e322">
+          <ref corresp="#UUyf3f-d1e40901-Qd1e332" xml:id="UUyf3f-d1e40901-Rd1e324">Bernardus, <title>de Contemptu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40901-Qd1e332">
+              <!--<i>-->Ecce nos reliquimus omnia<!--</i>-->. Bene, optime, et non ad insipientiam
+              tibi. Nam et mundus transit, et concupiscentia ejus; et relinquere haec magis expedit,
+              quam ab eis relinqui.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40901-d1e341">
+          <ref corresp="#UUyf3f-d1e40901-Qd1e351" xml:id="UUyf3f-d1e40901-Rd1e343">Bernardus, <title>de Contemptu</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40901-Qd1e351">
+              <!--<i>-->Secuti sumus te<!--</i>-->: nimirum quia <!--<i>-->exultavit ut gigas ad
+              currendam viam suam<!--</i>-->. Nec currentem sequi poteras oneratus; sed nec inutilis
+              commutatio, pro eo qui super omnia est, omnia reliquisse: <!--<i>-->omnia<!--</i>-->
+              sane dixerim: non tantum possessiones, sed etiam cupiditates, et eas maxime.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40901-d1e369">
+          <ref corresp="#UUyf3f-d1e40901-Qd1e379" xml:id="UUyf3f-d1e40901-Rd1e371">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40901-Qd1e379">Convolate ad urbes refugii, ubi possitis et de
+              praeteritis agere poenitentiam, et in praesenti obtinere gratiam, et futuram gloriam
+              fiducialiter praestolari. Non vos retardet conscientia peccatorum, quia ubi illa
+              abundaverit, superabundare gratia consuevit. Non potentiae austeritas ipsa deterreat:
+              neque enim condignae sunt passiones hujus temporis ad praeteritam culpam, quae
+              remittitur; non ad praesentem consolationem, quae immittitur; non ad futuram gloriam,
+              quae promittitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40901-d1e384">
+          <ref corresp="#UUyf3f-d1e40901-Qd1e394" xml:id="UUyf3f-d1e40901-Rd1e386">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40901-Qd1e394">Quid, si periclitaretur castitas in deliciis,
+              humilitas in divitiis, pietas in negotiis, veritas in multiloquio, charitas in hoc
+              nequam saeculo? Fugite de medio Babylonis; fugite, salvate animas vestras.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40901-d1e399">
+          <ref corresp="#UUyf3f-d1e40901-Qd1e409" xml:id="UUyf3f-d1e40901-Rd1e401">Bernardus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40901-Qd1e409">Nil credentibus impossibile; nil amantibus
+              difficile; nil asperum mitibus; nil humilibus arduum reperitur: quibus et gratia
+              confert auxilium, et obediendi devotio lenit imperium.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

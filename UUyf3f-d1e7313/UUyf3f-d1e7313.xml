@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De advocatis</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De advocatis</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e7313">
+        <head xml:id="UUyf3f-d1e7313-Hd1e99" type="question-title">De advocatis</head>
+        <p xml:id="UUyf3f-d1e7313-d1e102">
+          <ref corresp="#UUyf3f-d1e7313-Qd1e112" xml:id="UUyf3f-d1e7313-Rd1e104">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e7313-Qd1e112">Justus advocatus injustas causas nullo modo
+              accipit, nec verba dare pro injustitia consentit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e7313-d1e117">
+          <ref corresp="#UUyf3f-d1e7313-Qd1e127" xml:id="UUyf3f-d1e7313-Rd1e119">Gregorius, super illud <title>Job</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e7313-Qd1e127">
+              <!--<i>-->De convallibus ista rapientes, cum singula reperissent, ad ea cum clamore
+              currebant<!--</i>-->: In valle repertis singulis cum clamore occurrere, ex subortis
+              causarum occasionibus, etiam pro parva stirpe litigare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e7313-d1e136">
+          <ref corresp="#UUyf3f-d1e7313-Qd1e146" xml:id="UUyf3f-d1e7313-Rd1e138">Augustinus, <title>de Verbis Domini</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e7313-Qd1e146">Usque adeo cupiditatis inolevit malum, ut jam ex
+              consuetudine vendantur leges, corrumpantur jura, sententia ipsa venalis sit, et nulla
+              jam causa possit esse sine causa.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e7313-d1e151">
+          <ref corresp="#UUyf3f-d1e7313-Qd1e161" xml:id="UUyf3f-d1e7313-Rd1e153">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e7313-Qd1e161">Quotidie perstrepunt in palatio leges, sed
+              Justiniani, non Domini.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e7313-d1e167">
+          <ref corresp="#UUyf3f-d1e7313-Qd1e177" xml:id="UUyf3f-d1e7313-Rd1e169">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e7313-Qd1e177">Certe <!--<i>-->lex Domini immaculata, convertens
+              animas<!--</i>-->. Hae autem non tam leges, quam lites sunt, et cavillationes
+              subvertentes judicium.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e7313-d1e186">
+          <ref corresp="#UUyf3f-d1e7313-Qd1e196" xml:id="UUyf3f-d1e7313-Rd1e188">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e7313-Qd1e196">Miror, quemadmodum religiosae aures tuae audire
+              sustinent hujusmodi disputationes advocatorum, et pugnas verborum, quae magis ad
+              subversionem, quam ad inventionem proficiunt veritatis. Corrige pravum morem, et
+              praecide linguas vaniloquas, et labia dolosa claude.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e7313-d1e201">
+          <ref corresp="#UUyf3f-d1e7313-Qd1e211" xml:id="UUyf3f-d1e7313-Rd1e203">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e7313-Qd1e211">Advocati sunt, qui docuerunt linguas suas loqui
+              mendacium; diserti, adversus justitiam; eruditi, pro falsitate; sapientes sunt, ut
+              faciant malum; eloquentes, ut impugnent verum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e7313-d1e216">
+          <ref corresp="#UUyf3f-d1e7313-Qd1e226" xml:id="UUyf3f-d1e7313-Rd1e218">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e7313-Qd1e226">Iniqua omnis appellatio, ad quam justitiae inopia
+              non coegit. Appellare, non ut graves, sed si graveris, licet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e7313-d1e231">
+          <ref corresp="#UUyf3f-d1e7313-Qd1e241" xml:id="UUyf3f-d1e7313-Rd1e233">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e7313-Qd1e241">Qui non gravatus appellat, liquet quia aut
+              gravare intendit, aut tempus redimere.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

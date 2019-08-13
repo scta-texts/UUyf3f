@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De honore</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De honore</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e35609">
+        <head xml:id="UUyf3f-d1e35609-Hd1e99" type="question-title">De honore</head>
+        <p xml:id="UUyf3f-d1e35609-d1e102">
+          <ref corresp="#UUyf3f-d1e35609-Qd1e112" xml:id="UUyf3f-d1e35609-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35609-Qd1e112">Plus in hoc mundo honor, quam despectio occupat;
+              magis prosperitatis sublimitas, quam necessitatis adversitas gravat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35609-d1e117">
+          <ref corresp="#UUyf3f-d1e35609-Qd1e127" xml:id="UUyf3f-d1e35609-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35609-Qd1e127">Transit, quod extollitur; permanet, quod
+              punitur; et qui honoratur in via, in perventione damnabitur; et quasi per amoena prata
+              ad carcerem pervenit, qui per praesentis vitae prospera ad interitum tendit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35609-d1e132">
+          <ref corresp="#UUyf3f-d1e35609-Qd1e142" xml:id="UUyf3f-d1e35609-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35609-Qd1e142">Tantorum pondera unusquisque sustinere
+              compellitur, quantis hoc mundo principatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35609-d1e147">
+          <ref corresp="#UUyf3f-d1e35609-Qd1e157" xml:id="UUyf3f-d1e35609-Rd1e149">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35609-Qd1e157">Tumoris elatio, non ordo potestatis in crimine
+              est. Potentiam enim Deus tribuit, elationem vero potentiae malitia nostrae mentis
+              invenit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35609-d1e163">
+          <ref corresp="#UUyf3f-d1e35609-Qd1e173" xml:id="UUyf3f-d1e35609-Rd1e165">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35609-Qd1e173">Numerari culpae nequeunt, quae habendae
+              potestatis amore perpetrantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35609-d1e178">
+          <ref corresp="#UUyf3f-d1e35609-Qd1e188" xml:id="UUyf3f-d1e35609-Rd1e180">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35609-Qd1e188">Penset quisque quid subjectus egerit, et repente
+              cognoscet si praelatus bona agere, quae proposuerit, possit: quia nequaquam valet in
+              culmine humilitatem discere, qui in imis positus non desiit superbire.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35609-d1e193">
+          <ref corresp="#UUyf3f-d1e35609-Qd1e203" xml:id="UUyf3f-d1e35609-Rd1e195">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35609-Qd1e203">Saepe suscepta cura regiminis cor per diversa
+              intuendo diverberat; et impar quisque invenitur ad singula, dum confusa mente
+              dividitur ad multa.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35609-d1e208">
+          <ref corresp="#UUyf3f-d1e35609-Qd1e218" xml:id="UUyf3f-d1e35609-Rd1e210">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35609-Qd1e218">In alto loco positis, saepe dum exterius ab
+              hominibus honor tribuitur, ad ima animus mergitur, quia curis discerpentibus
+              gravatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35609-d1e223">
+          <ref corresp="#UUyf3f-d1e35609-Qd1e233" xml:id="UUyf3f-d1e35609-Rd1e225">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35609-Qd1e233">Nec cuilibet, favente gratia, ultra quam
+              meretur, impartior: nec ulli hoc, quod sui juris est, ambitu stimulante denegabo; sed
+              fratres meos honorare per omnia cupio, sicque studeo honore singulos subvehi, dum non
+              sit quod alteri jure ab altero possit opponi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35609-d1e238">
+          <ref corresp="#UUyf3f-d1e35609-Qd1e248" xml:id="UUyf3f-d1e35609-Rd1e240">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35609-Qd1e248">Nec honorem reputo, in quo fratres meos honorem
+              suum perdere cognosco.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35609-d1e254">
+          <ref corresp="#UUyf3f-d1e35609-Qd1e264" xml:id="UUyf3f-d1e35609-Rd1e256">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35609-Qd1e264">Minorem major praecedit, sicut honore, ita et
+              crimine.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35609-d1e269">
+          <ref corresp="#UUyf3f-d1e35609-Qd1e279" xml:id="UUyf3f-d1e35609-Rd1e271">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35609-Qd1e279">Saepe per honores quorumdam mutantur et mores;
+              et quos ante conglutinatos charitate habuerunt, postquam ad culmen honoris venerint,
+              amicos habere despiciunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35609-d1e284">
+          <ref corresp="#UUyf3f-d1e35609-Qd1e294" xml:id="UUyf3f-d1e35609-Rd1e286">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35609-Qd1e294">Non debet honoris ducatum suscipere, qui nescit
+              subditos tramite vitae melioris praeire. Neque enim quisque ad hoc praeficitur, ut
+              subditorum culpas corrigat, et ipse vitiis serviat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35609-d1e299">
+          <ref corresp="#UUyf3f-d1e35609-Qd1e309" xml:id="UUyf3f-d1e35609-Rd1e301">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35609-Qd1e309">Non cogito in ecclesiasticis honoribus tempora
+              ventosa transigere; sed cogito me Principi pastorum omnium rationem de commissis
+              ovibus redditurum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35609-d1e314">
+          <ref corresp="#UUyf3f-d1e35609-Qd1e324" xml:id="UUyf3f-d1e35609-Rd1e316">Augustinus, <title>de Pastoribus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35609-Qd1e324">Quisquis ita praepositus est, ut in eo quod
+              praepositus est, gaudeat, et honorem suum quaerat, et commoda sua sola respiciat; se
+              pascit, non oves.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35609-d1e329">
+          <ref corresp="#UUyf3f-d1e35609-Qd1e339" xml:id="UUyf3f-d1e35609-Rd1e331">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35609-Qd1e339">Potestate accepta malle in malo quam in bono
+              uti, abuti est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35609-d1e345">
+          <ref corresp="#UUyf3f-d1e35609-Qd1e355" xml:id="UUyf3f-d1e35609-Rd1e347">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35609-Qd1e355">Non dignum est, ut inde exigas honorem, unde
+              refugis laborem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35609-d1e360">
+          <ref corresp="#UUyf3f-d1e35609-Qd1e370" xml:id="UUyf3f-d1e35609-Rd1e362">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35609-Qd1e370">Fratres, revereamur episcopos, sed vereamur
+              labores eorum. Si labores pensamus, non affectamus honores.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e35609-d1e375">
+          <ref corresp="#UUyf3f-d1e35609-Qd1e382" xml:id="UUyf3f-d1e35609-Rd1e377">Glossa</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e35609-Qd1e382">Quanto gradus altior, tanto casus
+              gravior.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

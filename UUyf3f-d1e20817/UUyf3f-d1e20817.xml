@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De quatuor cardinalibus virtutibus</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De quatuor cardinalibus virtutibus</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e20817">
+        <head xml:id="UUyf3f-d1e20817-Hd1e99" type="question-title">De quatuor cardinalibus
+          virtutibus</head>
+        <p xml:id="UUyf3f-d1e20817-d1e102">
+          <ref corresp="#UUyf3f-d1e20817-Qd1e112" xml:id="UUyf3f-d1e20817-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e20817-Qd1e112">Prudentia, temperantia, fortitudo, atque
+              justitia, tanto perfectae sunt singulae, quanto vicissim sibimet junctae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e20817-d1e117">
+          <ref corresp="#UUyf3f-d1e20817-Qd1e127" xml:id="UUyf3f-d1e20817-Rd1e119">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e20817-Qd1e127">Unusquisque tantum prudens est, quantum
+              temperans, fortis et justus; tantum temperans, quantum prudens, fortis, et justus;
+              tantum fortis, quantum prudens, temperans, et justus; tantum justus, quantum prudens,
+              temperans, et fortis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e20817-d1e132">
+          <ref corresp="#UUyf3f-d1e20817-Qd1e142" xml:id="UUyf3f-d1e20817-Rd1e134">Augustinus,
+              <title>de Trinitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e20817-Qd1e142"
+              source="http://scta.info/resource/adt-l14-d1e1605">Illud, quod agit justitia in
+              subveniendo miseris, quod prudentia in praecavendis insidiis, quod fortitudo in
+              perferendis molestiis, quod temperantia in coercendis delectationibus pravis, non ibi
+              erit, ubi nihil omnino mali erit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e20817-d1e147">
+          <ref corresp="#UUyf3f-d1e20817-Qd1e157" xml:id="UUyf3f-d1e20817-Rd1e149">Augustinus,
+              <title>de Moribus Ecclesiae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e20817-Qd1e157">Illas quatuor virtutes, quarum utinam ita in
+              mentibus vis, ut nomina in ore sunt omnium, sic etiam diffinire non dubitem, ut
+              temperantia sit amor integrum se praebens ei quod amatur; fortitudo, amor facile
+              tolerans omnia propter id quod amatur; justitia, amor soli amato serviens, et
+              propterea recte dominans; prudentia, amor ea quibus adjuvatur, ab eis quibus
+              impeditur, sagaciter seligens.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e20817-d1e163">
+          <ref corresp="#UUyf3f-d1e20817-Qd1e173" xml:id="UUyf3f-d1e20817-Rd1e165">Augustinus,
+              <title>de Moribus Ecclesiae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e20817-Qd1e173">Mihi videtur, quod definitio brevis, et vera
+              virtutis, est ordo amoris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e20817-d1e178">
+          <ref corresp="#UUyf3f-d1e20817-Qd1e188" xml:id="UUyf3f-d1e20817-Rd1e180">Isidorus, in
+              <title>Etymologiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e20817-Qd1e188">Prudentia est in rebus, qua a bonis mala
+              discernuntur; fortitudo est, qua adversa aequanimiter tolerantur; temperantia est, qua
+              libido concupiscentiaque rerum refraenatur; justitia, qua recte judicando, sua cuique
+              distribuuntur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e20817-d1e193">
+          <ref corresp="#UUyf3f-d1e20817-Qd1e203" xml:id="UUyf3f-d1e20817-Rd1e195">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e20817-Qd1e203">Vis scire quales quaerat Dominus ornatus? habeto
+              justitiam, prudentiam, temperantiam, fortitudinem: nihil hoc monili pretiosius, nihil
+              hac gemmarum varietate distinctius.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e20817-d1e208">
+          <ref corresp="#UUyf3f-d1e20817-Qd1e218" xml:id="UUyf3f-d1e20817-Rd1e210">Hieronymus, in
+            originali <title>super Naum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e20817-Qd1e218">Quo modo quatuor, quibus pugnamus, et tegimur,
+              sunt scuta virtutum, prudentia, justitia, temperantia, fortitudo; ita e contrario
+              quatuor vitia sunt, stultitia, iniquitas, luxuria, formulo, quibus ab hoste
+              percutimur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e20817-d1e223">
+          <ref corresp="#UUyf3f-d1e20817-Qd1e233" xml:id="UUyf3f-d1e20817-Rd1e225">Bernardus,
+              <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e20817-Qd1e233">Justitia quaerit, prudentia invenit, fortitudo
+              vindicat, temperantia possidet.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

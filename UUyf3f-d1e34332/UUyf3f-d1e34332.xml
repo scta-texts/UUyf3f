@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De oblivione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De oblivione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e34332">
+        <head xml:id="UUyf3f-d1e34332-Hd1e99" type="question-title">De oblivione</head>
+        <p xml:id="UUyf3f-d1e34332-d1e102">
+          <ref corresp="#UUyf3f-d1e34332-Qd1e112" xml:id="UUyf3f-d1e34332-Rd1e104">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34332-Qd1e112">Nulla nos prosperitas blandiens seducat: quia
+              stultus viator est, qui in itinere amoena prata conspiciens, obliviscitur ire quo
+              debet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34332-d1e117">
+          <ref corresp="#UUyf3f-d1e34332-Qd1e127" xml:id="UUyf3f-d1e34332-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34332-Qd1e127">Stulti cum prudentium facta conspiciunt, haec
+              eis esse omnia reprehensibilia videntur: quia suae imperitiae et infirmitatis obliti,
+              tanto intensius de alienis judicant, quanto sua profundius ignorant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34332-d1e132">
+          <ref corresp="#UUyf3f-d1e34332-Qd1e142" xml:id="UUyf3f-d1e34332-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34332-Qd1e142">In istis visibilibus quae intuetur cor nostrum,
+              extra se spargitur; et quid de se intrinsecus agatur obliviscitur, dum extrinsecus
+              occupatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34332-d1e147">
+          <ref corresp="#UUyf3f-d1e34332-Qd1e157" xml:id="UUyf3f-d1e34332-Rd1e149">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34332-Qd1e157">Sincera in dilectione, nec vires absentia, nec
+              locum habet oblivio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34332-d1e163">
+          <ref corresp="#UUyf3f-d1e34332-Qd1e173" xml:id="UUyf3f-d1e34332-Rd1e165">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34332-Qd1e173">Saepe nonnulli, velut obliti quod fratribus
+              animarum causa praelati sunt, toto cordis annisu saecularibus causis
+              inserviunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34332-d1e178">
+          <ref corresp="#UUyf3f-d1e34332-Qd1e188" xml:id="UUyf3f-d1e34332-Rd1e180">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34332-Qd1e188">Ex se debet unusquisque colligere, qualiter
+              alienae hunc oporteat imbecillitati misereri, ne contra infirmitatem proximi, si ad
+              increpationis vocem ferventius rapiatur, oblitus sui esse videatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34332-d1e193">
+          <ref corresp="#UUyf3f-d1e34332-Qd1e203" xml:id="UUyf3f-d1e34332-Rd1e195">Augustinus, <title>de Libero Arbitrio</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34332-Qd1e203">Melior est animus, cum obliviscitur sui, prae
+              charitate incommutabilis Dei, vel seipsum penitus in illius comparatione
+              contemnit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34332-d1e208">
+          <ref corresp="#UUyf3f-d1e34332-Qd1e218" xml:id="UUyf3f-d1e34332-Rd1e210">Augustinus, <title>de Confessione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34332-Qd1e218">Quis dabit, Domine, mihi, ut venias in cor meum,
+              et inebries illud, ut obliviscar mala mea, et unum bonum meum amplectar te?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34332-d1e223">
+          <ref corresp="#UUyf3f-d1e34332-Qd1e233" xml:id="UUyf3f-d1e34332-Rd1e225">Augustinus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34332-Qd1e233">Percutitur hac animadversione peccator, ut
+              moriens obliviscatur sui, qui, dum viveret, oblitus est Dei.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34332-d1e238">
+          <ref corresp="#UUyf3f-d1e34332-Qd1e248" xml:id="UUyf3f-d1e34332-Rd1e240">Ambrosius, in <title>Apologia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34332-Qd1e248">Sentire vitalis vigoris ac muneris est: unde et
+              ille qui errorem suum non cognoscit, insanit, furit, desipit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34332-d1e254">
+          <ref corresp="#UUyf3f-d1e34332-Qd1e264" xml:id="UUyf3f-d1e34332-Rd1e256">Bernardus, super <title>Missus est</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34332-Qd1e264">Videas plerosque in Ecclesia Dei de ignobilibus
+              nobiles, de pauperibus divites factos subito, intumescere, pristinae oblivisci
+              abjectionis, genus quoque suum erubescere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34332-d1e269">
+          <ref corresp="#UUyf3f-d1e34332-Qd1e279" xml:id="UUyf3f-d1e34332-Rd1e271">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34332-Qd1e279">Parum est nostris vigilibus, quod non servant
+              nos, nisi et perdant: alto quippe demersi oblivionis somno, ad nullum dominicae
+              comminationis tonitruum expergiscuntur, ut suum ipsorum periculum expavescant. Inde
+              est, ut non parcant suis, qui non parcunt sibi, perimentes pariter, et
+              pereuntes.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34332-d1e284">
+          <ref corresp="#UUyf3f-d1e34332-Qd1e294" xml:id="UUyf3f-d1e34332-Rd1e286">Bernardus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34332-Qd1e294">Quantos videmus quasi oblitos sui, et peccatorum
+              suorum, Dei quoque et beneficiorum ejus immemores, sic non redimere, sed amittere
+              tempus, ut de moribus et affectionibus suis ultima apud ipsos vix mentio fiat!</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De contritione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De contritione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e17552">
+        <head xml:id="UUyf3f-d1e17552-Hd1e99" type="question-title">De contritione</head>
+        <p xml:id="UUyf3f-d1e17552-d1e102">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e112" xml:id="UUyf3f-d1e17552-Rd1e104">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e112">Illum quem conspicis delicta fletu delere, in
+              conspectu divinitatis non dubites misericordiam consequi: quia nullum peccantem
+              reversum ad se despicit, qui peccatores sanguine suo redimere venit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e117">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e127" xml:id="UUyf3f-d1e17552-Rd1e119">Gregorius,
+              <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e127">Mala, quae nos egisse meminimus, fletibus
+              puniamus, ut per lamenta poenitentiae perveniamus ad carmen vitae: ne si affligi modo
+              poenitendo nolumus, vae postmodum sine fine sentiamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e132">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e142" xml:id="UUyf3f-d1e17552-Rd1e134">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e142">Quo uberius culpa defletur, eo altior cognitio
+              veritatis attingitur: quia ad videndum internum lumen, polluta dudum conscientia,
+              lacrymis baptizata renovatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e147">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e157" xml:id="UUyf3f-d1e17552-Rd1e149">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e157">Si nos virtus compunctionis in intimis afficit,
+              omnis strepitus pravae suggestionis obmutescit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e163">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e173" xml:id="UUyf3f-d1e17552-Rd1e165">Gregorius, in
+              <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e173">Quasi sus in lutosa aqua semetipsum volvit, qui
+              dum fletibus suis vitae munditiam subtrahit, ante Dei oculos sordidas etiam ipsas
+              lacrymas facit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e178">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e188" xml:id="UUyf3f-d1e17552-Rd1e180">Gregorius, in
+              <title>Pastorali</title>)</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e188">Qui admissa plangit, nec tamen deserit, tanto
+              graviori culpae se subjicit, quanto et ipsam, quam flendo impetrare potuit, veniam
+              contemnit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e193">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e203" xml:id="UUyf3f-d1e17552-Rd1e195">Augustinus,
+              <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e203">Sicut comes poenitentiae dolor est, ita lacrymae
+              testes doloris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e208">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e218" xml:id="UUyf3f-d1e17552-Rd1e210">Augustinus,
+              <title>de vera et falsa Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e218">Qui se cognoscunt, sicut semper peccant, ita
+              semper plorant; in tota vita sua, quae est tentatio super terram, plorant totam vitam
+              suam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e223">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e233" xml:id="UUyf3f-d1e17552-Rd1e225">Augustinus,
+              <title>de vera et falsa Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e233">Nunquam aliquem Dominus sanavit, quem omnino non
+              liberavit. Totum enim hominem sanavit in sabbato, quia et corpus ab infirmitate, et
+              animam ab omni peccati contagione liberavit, indicans poenitentem oportere simul de
+              omni crimine dolere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e238">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e248" xml:id="UUyf3f-d1e17552-Rd1e240">Augustinus,
+              <title>de vera et falsa Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e248">Satis durus est, cujus mentis dolorem oculi
+              carnis nequeunt declarare: sed sciat culpabiliter se durum, qui deflet damna corporis,
+              vel mortem amici, et dolorem peccati non ostendit lacrymis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e254">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e264" xml:id="UUyf3f-d1e17552-Rd1e256">Augustinus,
+              <title>de vera et falsa Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e264">Quem poenitet, omnino poeniteat, et dolorem
+              lacrymis ostendat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e269">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e279" xml:id="UUyf3f-d1e17552-Rd1e271">Augustinus, in
+            libro <title>Meditationum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e279">Da mihi, Domine, in hoc exilio panem doloris et
+              lacrymarum, quem esurio super omnem copiam deliciarum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e284">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e294" xml:id="UUyf3f-d1e17552-Rd1e286">Augustinus, in
+            libro <title>Meditationum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e294">Sit poenitentia continua, amara comes aetatis
+              meae, continuus dolor, insatiabilis terror vitae meae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e299">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e309" xml:id="UUyf3f-d1e17552-Rd1e301">Augustinus, in
+            libro <title>Meditationum</title> et infra</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e309">Si non sum dignus oculos ad coelum levare
+              orando, certe non sum indignus eos vel saltem excaecare plorando.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e314">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e324" xml:id="UUyf3f-d1e17552-Rd1e316">Augustinus, in
+              <title>Confessionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e324">Amore amoris tui, Domine, facio istud, recolens
+              vias meas nequissimas in amaritudine recogitationis meae, ut tu dulcescas mihi,
+              dulcedo non fallax, dulcedo felix et secura, et colligens me a dispersione, in qua
+              frustatim sum discissus, dum ab uno te aversus, in multa evanui.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e329">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e339" xml:id="UUyf3f-d1e17552-Rd1e331">Joannes
+            Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e339">Nihil ita conglutinat, et unit Deo, ut
+              poenitentis lacrymae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e345">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e355" xml:id="UUyf3f-d1e17552-Rd1e347">Joannes
+            Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e355">Quemadmodum quae propter mundum est laetitia,
+              tristitiam habet cohaeredem; et quae secundum Deum sunt lacrymae, laetitiam assumunt
+              continuam et immarcessibilem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e360">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e370" xml:id="UUyf3f-d1e17552-Rd1e362">Joannes
+            Chrysostomus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e370">Nemo ad Deum aliquando flens accessit, qui non,
+              quod postulavit, accepit: nullus ab eo beneficia dolenter optavit, qui non impetraret
+              quod voluit: ipse enim est qui consolatur flentes, curat dolentes, informat
+              poenitentes.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e375">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e385" xml:id="UUyf3f-d1e17552-Rd1e377">Joannes
+            Chrysostomus, libro <title>de Compunctione cordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e385">Sicut impossibile est ut ignis inflammetur in
+              aqua, ita impossibile est compunctionem vigere in deliciis: contraria enim haec
+              invicem sibi sunt, et peremptoria. Illa enim mater fletus, haec mater risus: illa cor
+              constringit, istae dissolvunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e390">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e400" xml:id="UUyf3f-d1e17552-Rd1e392">Joannes
+            Chrysostomus, libro <title>de Compunctione cordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e400">Sola est compunctio, quae facit hominem
+              horrescere purpuram, desiderare cilicium, amare lacrymas, fugere risum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e405">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e415" xml:id="UUyf3f-d1e17552-Rd1e407">Joannes
+            Chrysostomus, libro <title>de Compunctione cordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e415">Haec est humilitati cordis vera compunctio:
+              magna agere, et humilia loqui; juste operari, et super peccatis timere ac
+              tremere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e420">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e430" xml:id="UUyf3f-d1e17552-Rd1e422">Isidorus, de
+              <title>Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e430">Compunctio cordis est humilitas mentis cum
+              lacrymis, exoriens de recordatione peccati, et timore judicii.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e436">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e446" xml:id="UUyf3f-d1e17552-Rd1e438">Isidorus, de
+              <title>Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e446">Lacrymae poenitentiae apud Deum pro baptismate
+              reputantur; unde quamlibet sint magna delicta, et quantumvis gravia, non tamen in
+              illis Domini misericordia desperanda.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e451">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e461" xml:id="UUyf3f-d1e17552-Rd1e453">Ambrosius,
+              <title>de Excessu Satyri</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e461">Non solus dolor lacrymas habet; habet et
+              laetitia lacrymas suas, et pietas fletum excitat, et oratio stratum rigat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e466">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e476" xml:id="UUyf3f-d1e17552-Rd1e468">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e476">Alta suspiria testantur tristitiam
+              animorum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e481">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e491" xml:id="UUyf3f-d1e17552-Rd1e483">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e491">Dies mei sicut umbra declinaverunt, et sine
+              fructu praeterierunt, impossibile est ut revocem: placeat tibi, Domine, ut recogitem
+              eos in amaritudine animae meae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e496">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e506" xml:id="UUyf3f-d1e17552-Rd1e498">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e506">Abscindatur ferro acutae compunctionis ulcus
+              inveteratae consuetudinis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e511">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e521" xml:id="UUyf3f-d1e17552-Rd1e513">Bernardus,
+              <title>de Contemptu mundi</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e521">Felices lacrymae, quas benigna manus Conditoris
+              absterget; et beati oculi, qui in talibus liquefieri fletibus elegerunt magis, quam in
+              superbiam elevari, quam omne sublime videre, quam avaritiae et petulantiae
+              famulari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e527">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e537" xml:id="UUyf3f-d1e17552-Rd1e529">Bernardus,
+              <title>de duodecim Gradibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e537">Quos veritas sibi innotescere, ac per hoc
+              vilescere facit, necesse est, ut cuncta, quae amare solebant, et ipsi sibi
+              amarescant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e542">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e552" xml:id="UUyf3f-d1e17552-Rd1e544">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e552">Miserere animae tuae, qui Deum tibi vis
+              misereri: lava per singulas noctes lectum tuum lacrymis tuis, stratum tuum rigare
+              memento; si compateris tibi ipsi, si laboras in gemitu poenitentiae, primus enim is
+              gradus misericordiae est, misericordiam utique consequeris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e557">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e567" xml:id="UUyf3f-d1e17552-Rd1e559">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e567">Si non plangis, plane non sentis animae vulnera,
+              conscientiae laesionem; sed nес futura satis gaudia concupiscis, si non quotidie
+              postulas ea cum lacrymis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17552-d1e572">
+          <ref corresp="#UUyf3f-d1e17552-Qd1e582" xml:id="UUyf3f-d1e17552-Rd1e574">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17552-Qd1e582">Primum opus fidei per dilectionem operantis
+              cordis compunctio est, in qua plene de intus ejiciuntur daemonia, cum ab affectu
+              cordis eradicantur peccata.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

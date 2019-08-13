@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De connexione uirtutum, de continentia et charitate</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De connexione uirtutum, de continentia et charitate</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e48623">
+        <head xml:id="UUyf3f-d1e48623-Hd1e99" type="question-title">De connexione uirtutum, de
+          continentia et charitate</head>
+        <p xml:id="UUyf3f-d1e48623-d1e102">
+          <ref corresp="#UUyf3f-d1e48623-Qd1e112" xml:id="UUyf3f-d1e48623-Rd1e104">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48623-Qd1e112">Antiquus inimicus castitatem in nobis, si sine
+              charitate fuerit, non timet: quia nec ipse carne premitur, ut in ejus luxuria
+              dissolvatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48623-d1e117">
+          <ref corresp="#UUyf3f-d1e48623-Qd1e127" xml:id="UUyf3f-d1e48623-Rd1e119">Augustinus, <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48623-Qd1e127">Si nuptias contempsistis filiorum hominum, ex
+              quibus gigneretis filios hominum, toto corde amate speciosum forma prae filiis
+              hominum. Vacare vobis liberum est conjugalibus vinculis; sed non vacare vobis liberum
+              est a vinculo charitatis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48623-d1e132">
+          <ref corresp="#UUyf3f-d1e48623-Qd1e142" xml:id="UUyf3f-d1e48623-Rd1e134">Augustinus, <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48623-Qd1e142">Inspicite vulnera pendentis, cicatrices
+              resurgentis, sanguinem morientis, pretium credentis, commercium redimentis. Haec
+              quanti valeant cogitate; haec in statera charitatis appendite, et quidquid amoris
+              nuptiis vestris impedendum habebatis, illi rependite.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48623-d1e147">
+          <ref corresp="#UUyf3f-d1e48623-Qd1e157" xml:id="UUyf3f-d1e48623-Rd1e149">Augustinus, <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48623-Qd1e157">Illa virgo conjugatae merito praeponitur, quae
+              nec multitudini se amandam proponit, cum amorem unius ex multitudine inquirit; nec se
+              uni componit, uno jam invento, cogitans quae mundi sunt, quomodo placeat viro: sed
+              speciosum forma prae filiis hominum sic amavit, ut quia eum sicut Maria concipere
+              carne non posset, ei corde concepto etiam carnem integram custodiret.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48623-d1e163">
+          <ref corresp="#UUyf3f-d1e48623-Qd1e173" xml:id="UUyf3f-d1e48623-Rd1e165">Augustinus, <title>de Bono conjugali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48623-Qd1e173">Quid? inquiunt; si omnes velint ab omni
+              concubitu continere, unde subsistet genus humanum? Utinam omnes hoc vellent, duntaxat
+              in charitate de corde puro, et conscientia bona, et fide non ficta: multo citius Dei
+              civitas compleretur, et acceleraretur terminus saeculi. Quid enim aliud hortari
+              apparet Apostolum, ubi ait, cum inde loqueretur: <!--<i>-->Vellem omnes homines esse
+              sicut me?<!--</i>-->
+            </quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48623-d1e182">
+          <ref corresp="#UUyf3f-d1e48623-Qd1e192" xml:id="UUyf3f-d1e48623-Rd1e184">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48623-Qd1e192">Castitas sine charitate, lampas sine oleo est:
+              subtrahe oleum, lampas non lucet: tolle charitatem, castitas non placet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48623-d1e197">
+          <ref corresp="#UUyf3f-d1e48623-Qd1e207" xml:id="UUyf3f-d1e48623-Rd1e199">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48623-Qd1e207">Quo modo claritas, ut aiunt, Lunae non nisi a
+              Sole est, sic absque charitate, seu justitia, continentiae meritum nullum est.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

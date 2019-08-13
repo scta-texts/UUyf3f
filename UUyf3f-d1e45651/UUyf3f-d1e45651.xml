@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De dignitate</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De dignitate</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e45651">
+        <head xml:id="UUyf3f-d1e45651-Hd1e99" type="question-title">De dignitate</head>
+        <p xml:id="UUyf3f-d1e45651-d1e102">
+          <ref corresp="#UUyf3f-d1e45651-Qd1e112" xml:id="UUyf3f-d1e45651-Rd1e104">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45651-Qd1e112">Ad hoc locorum gradus rationis ordo distinxit,
+              et judicia esse constituit, ut nec praepositi in opprimendos se frustra valeant
+              occupare subditos, nec subjectis iterum contra suos praepositos effraenata sit
+              resultandi licentia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45651-d1e117">
+          <ref corresp="#UUyf3f-d1e45651-Qd1e127" xml:id="UUyf3f-d1e45651-Rd1e119">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45651-Qd1e127">Ad hoc divinae dispensationis provisio gradus et
+              diversos constituit ordines esse distinctos, ut dum reverentiam minores potioribus
+              exhiberent, et potiores minoribus dilectionem impenderent, una concordiae fieret ex
+              diversitate connexio, et recte officiorum gereretur administratio singulorum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45651-d1e132">
+          <ref corresp="#UUyf3f-d1e45651-Qd1e142" xml:id="UUyf3f-d1e45651-Rd1e134">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45651-Qd1e142">Quia homo quod sibi tribuitur, quo judicio
+              disponatur, ignorat, nec ad appetendum locum superiorem procax insistere, nec ad
+              repellendum contumax debet inveniri.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45651-d1e147">
+          <ref corresp="#UUyf3f-d1e45651-Qd1e157" xml:id="UUyf3f-d1e45651-Rd1e149">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45651-Qd1e157">Virtutibus pollens coactus ad regimen veniat;
+              virtutibus vacuus, nec coactus accedat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45651-d1e163">
+          <ref corresp="#UUyf3f-d1e45651-Qd1e173" xml:id="UUyf3f-d1e45651-Rd1e165">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45651-Qd1e173">Cum rerum necessitas exposcit, pensandum valde
+              est, ad culmen quisquis regiminis qualiter veniat; atque ad hoc rite perveniens,
+              qualiter vivat; et bene vivens, qualiter doceat; et recte docens, infirmitatem suam
+              quotidie quanta consideratione cognoscat: ne aut humilitas accessum fugiat, aut
+              perventioni vita contradicat, aut vitam doctrina destituat, aut doctrinam praesumptio
+              extollat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45651-d1e178">
+          <ref corresp="#UUyf3f-d1e45651-Qd1e188" xml:id="UUyf3f-d1e45651-Rd1e180">Gregorius, in <title>Dialogis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45651-Qd1e188">Usus rectae conversationis est, ut praeesse non
+              audeat, qui subesse non didicerit; nec obedientiam subjectis imperet, quam praelatis
+              non novit exhibere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45651-d1e193">
+          <ref corresp="#UUyf3f-d1e45651-Qd1e203" xml:id="UUyf3f-d1e45651-Rd1e195">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45651-Qd1e203">Illi debent curam pastoralem suscipere, qui in
+              suo corde sciunt fluxa luxuriae domare: ut cum aliis fortia praedicant, ipsi
+              desideriis mollibus enerviter non succumbant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45651-d1e208">
+          <ref corresp="#UUyf3f-d1e45651-Qd1e218" xml:id="UUyf3f-d1e45651-Rd1e210">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45651-Qd1e218">Nolenti mihi atque renitenti, cum grave esset
+              altaris ministerium, etiam pondus est curae pastoralis injunctum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45651-d1e223">
+          <ref corresp="#UUyf3f-d1e45651-Qd1e233" xml:id="UUyf3f-d1e45651-Rd1e225">Isidorus, <title>de Summo bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45651-Qd1e233">Vir ecclesiasticus, et crucifigi mundo per
+              mortificationem propriae carnis debet, et dispensationem ecclesiastici ordinis, si ex
+              Dei voluntate provenerit, volens quidem, sed humilis gubernandum suscipiat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45651-d1e238">
+          <ref corresp="#UUyf3f-d1e45651-Qd1e248" xml:id="UUyf3f-d1e45651-Rd1e240">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45651-Qd1e248">Non otiose toties repetitum est:
+              <!--<i>-->Petre, amas me<!--</i>-->, in commissione ovium. Ego quidem id significatum
+              provide puto, ac si dixisset illi Jesus: Nisi testimonium tibi perhibente conscientia,
+              quod me ames et valde perfecte ames, hoc est, plus quam tua, plus quam tuos, plus
+              etiam quam te, ut hujus repetitionis meae numerus impleatur, nequaquam suscipies curam
+              hanc, ne intromittas de ovibus meis, pro quibus utique meus effusus est
+              sanguis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45651-d1e258">
+          <ref corresp="#UUyf3f-d1e45651-Qd1e268" xml:id="UUyf3f-d1e45651-Rd1e260">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45651-Qd1e268">In praelatione opus est viro forti, spirituali,
+              et fideli: forti, ad propulsandas injurias; spirituali, ad deprehendendas insidias;
+              fideli, qui non, quae sua sunt, quaerat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e45651-d1e273">
+          <ref corresp="#UUyf3f-d1e45651-Qd1e283" xml:id="UUyf3f-d1e45651-Rd1e275">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e45651-Qd1e283">In alto positum non alta sapere, difficile est,
+              et omnino inusitatum; et quanto inusitatius, tanto gloriosius.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

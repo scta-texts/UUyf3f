@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De praelatis bonis</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De praelatis bonis</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e3527">
+        <head xml:id="UUyf3f-d1e3527-Hd1e99" type="question-title">De praelatis bonis</head>
+        <p xml:id="UUyf3f-d1e3527-d1e102">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e112" xml:id="UUyf3f-d1e3527-Rd1e104">Gregorius, <title>in Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e112">Pia pastorum mens, quia non propriam gloriam, sed
+              auctoris quaerit, ab omnibus vult adjuvari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e117">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e127" xml:id="UUyf3f-d1e3527-Rd1e119">Gregorius, <title>in Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e127">Nolenti mihi atque reverenti, cum grave esset
+              altaris mysterium, etiam pondus est curae pastoralis injunctum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e132">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e142" xml:id="UUyf3f-d1e3527-Rd1e134">Gregorius, in <title>Dialogo</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e142">Petri vicem et ligando et solvendo obtinent, qui
+              locum sancti regiminis fide et moribus tenent.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e147">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e157" xml:id="UUyf3f-d1e3527-Rd1e149">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e157">Rector semper cogitatione sit mundus, quatenus
+              hunc nulla immunditia polluat, qui hoc suscipit officium, ut in alienis quoque
+              cordibus pollutionis maculas tergat. <!--<i>-->Mundamini<!--</i>-->, etc.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e167">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e177" xml:id="UUyf3f-d1e3527-Rd1e169">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e177">Sit rector actione praecipuus, ut vitae viam
+              subditis vivendo denuntiet, et grex, qui pastoris vocem moresque sequitur, per exempla
+              melius, quam per verba gradiatur. <!--<i>-->Super montem excelsum<!--</i>-->,
+              etc.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e186">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e196" xml:id="UUyf3f-d1e3527-Rd1e188">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e196">Sit rector discretus in silentio, utilis in
+              verbo, ne aut tacenda proferat, aut proferenda reticescat. Nam sicut incauta locutio
+              in errorem protrahit, ita indiscretum silentium hos, qui erudiri poterant, in errore
+              derelinquit. De primo in <!--<i>-->Numeris<!--</i>-->: <!--<i>-->Vas quod
+              non<!--</i>-->, etc. De secundo in <!--<i>-->Isaia<!--</i>-->: <!--<i>-->Canes
+              muti<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e217">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e227" xml:id="UUyf3f-d1e3527-Rd1e219">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e227">Sit rector singulis compassione proximus, prae
+              cunctis contemplatione suspensus, ut et per pietatis viscera in se infirmitatem
+              caeterorum transferat, et per speculationis altitudinem semetipsum quoque invisibilia
+              appetendo transcendat. In <!--<i>-->Genesi<!--</i>-->, de angelis ascendentibus et
+              descendentibus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e236">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e246" xml:id="UUyf3f-d1e3527-Rd1e238">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e246">Sit rector bene agentibus per humilitatem socius,
+              contra delinquentium vitia per zelum justitiae erectus, ut et bonis in nullo se
+              praeferat, et, cum pravorum culpa exigit, potestatem sui prioratus agnoscat. In
+              Epistola <!--<i>-->ad Hebraeos<!--</i>--> dicitur, quod tria erant in arca, scilicet
+              manna dulcedinis, virga disciplinae, et tabulae scientiae legis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e255">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e265" xml:id="UUyf3f-d1e3527-Rd1e257">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e265">Tales sese, qui praesunt, exhibeant, quibus eorum
+              subjecti occulta quaeque sua prodere non erubescant: ut cum tentationum fluctus parvi
+              tolerant, ad pastoris sui mentem, quasi ad matris suae sinum recurrant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e270">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e280" xml:id="UUyf3f-d1e3527-Rd1e272">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e280">Debet rector subtili examine bona malaque
+              discernere, et quae, vel quibus, quando et qualiter congruant studiose cogitare, nil
+              proprium quaerere, sed sua commoda propinquorum bona reputare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e286">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e296" xml:id="UUyf3f-d1e3527-Rd1e288">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e296">Qui ad sollicitudinem regendarum animarum se
+              accingit, restat ut, quibus aeterna praedicat, ad providenda quoque eis temporalium
+              necessitatum subsidia invigilet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e301">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e311" xml:id="UUyf3f-d1e3527-Rd1e303">Gregorius, in <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e311">Causae pensandae sunt, et tunc ligandi atque
+              solvendi potestas exercenda. Videndum, quae culpa praecesserit, aut quae sit
+              poenitentia secuta post culpam: ut quos omnipotens Deus per compunctionis gratiam
+              visitat, illos pastoris sententia absolvat. Tunc enim vera est absolutio praesidentis,
+              cum interni arbitrium sequitur judicis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e316">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e326" xml:id="UUyf3f-d1e3527-Rd1e318">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e326">Praelatorum bonitas subjectorum salubris est
+              regula.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e331">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e341" xml:id="UUyf3f-d1e3527-Rd1e333">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e341">Sic nos fidelibus subditis tenere disciplinam
+              debemus, sicut boni patres carnalibus filiis solent, quos et pro culpis verberibus
+              feriunt, et tamen ipsos, quos doloribus affligunt, et habere haeredes
+              quaerunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e346">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e356" xml:id="UUyf3f-d1e3527-Rd1e348">Augustinus, <title>de Pastoribus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e356">Glorientur pastores; sed <!--<i>-->qui gloriatur,
+              in Domino glorietur<!--</i>-->. Hoc est Christum in subditis pascere; hoc est in
+              Christo pascere; hoc est propter Christum et propter subditos sibi non
+              parcere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e365">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e375" xml:id="UUyf3f-d1e3527-Rd1e367">Augustinus, <title>de Pastoribus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e375">De bonis ovibus fiunt boni pastores.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e381">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e391" xml:id="UUyf3f-d1e3527-Rd1e383">Augustinus, <title>de Pastoribus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e391">Habemus duo quaedam: unum quod christiani sumus;
+              alteram quod praepositi sumus. Illud quod christiani sumus, propter nos est; quod
+              praepositi sumus, propter alios est. In eo quod christiani sumus, attenditur utilitas
+              nostra; in eo quod praepositi sumus, nonnisi aliena.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e396">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e406" xml:id="UUyf3f-d1e3527-Rd1e398">Ambrosius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e406">Quod sumus professione, actione potius, quam
+              nomine demonstremus, ut nomen congruat actioni, actio respondeat nomini. Ne sit nomen
+              inane, et crimen immane. Ne sit honor sublimis, et vita proclivis. Ne sit deifica
+              professio, et illicita actio. Ne sit religiosus amictus, et irreligiosus profectus. Ne
+              sit gradus excelsus, et deformis excessus. Ne habeatur in ecclesia cathedra sublimior,
+              et conscientia sacerdotis reperiatur humilior. Ne locutionem simulemus columbinam, et
+              mentem habeamus caninam. Ne professionem monstremus ovinam, et ferocitatem habeamus
+              lupinam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e411">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e421" xml:id="UUyf3f-d1e3527-Rd1e413">Ambrosius, <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e421">Decet omnes censura frugalitatis, continentiae
+              auctoritas, et maxime eum qui honore praestat, ne praeeminentem virum thesauri
+              possideant sui, et pecuniis serviat, qui praeest liberis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e426">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e436" xml:id="UUyf3f-d1e3527-Rd1e428">Ambrosius, <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e436">Quomodo potes eum judicare consilio superiorem,
+              quem videas inferiorem moribus? Supra me debet esse, cui me committere paro.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e441">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e451" xml:id="UUyf3f-d1e3527-Rd1e443">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e451">Vis apparere sanctus, circa tuam vitam esto
+              austerus, circa aliorum benignus; audiant te homines parva mandantem, et gravia
+              facientem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e456">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e466" xml:id="UUyf3f-d1e3527-Rd1e458">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e466">Si erramus modicam poenitentiam imponentes, nonne
+              melius est propter misericordiam dare rationem, quam propter crudelitatem succumbere
+              poenitentem?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e472">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e482" xml:id="UUyf3f-d1e3527-Rd1e474">Isidorus, in <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e482">Talem te redde subditis, ut magis ameris quam
+              timearis. Reverentia enim ex amore procedit, odium vero timor efficit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e487">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e497" xml:id="UUyf3f-d1e3527-Rd1e489">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e497">Nec praeceps eris in sententia, nec vehemens in
+              vindicta; non in corrigendis remissior, non in parcendis severior, non pusillanimis in
+              expectandis; non superfluus in victu, non notabilis in vestitu; non citus ad
+              promittendum, non tardus ad reddendum; non prodigus dator, non tenax ad
+              largiendum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e502">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e512" xml:id="UUyf3f-d1e3527-Rd1e504">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e512">Non vos felices, quia praeestis et non prodestis;
+              imo, si non prodestis, vos infelices putate. Ut autem secure praeesse possitis,
+              subesse et vos, si cui debetis, non indignemini. Indignatio quippe subjectionis,
+              praelationis reddit indignum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e517">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e527" xml:id="UUyf3f-d1e3527-Rd1e519">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e527">Si rebus raritas pretium facit, nil in Ecclesia
+              Dei pretiosius, nil optabilius est bono utilique pastore. Nempe rara avis est
+              ista.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e532">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e542" xml:id="UUyf3f-d1e3527-Rd1e534">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e542">In alto noli altum sapere; sed humilibus
+              consentire, nil Deo carius, nil rarius apud homines.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e547">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e557" xml:id="UUyf3f-d1e3527-Rd1e549">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e557">Sciant boni fidelesque praepositi languentium
+              sibi creditam curam animarum, non pompam rerum saecularium: cumque internum murmur
+              cujuspiam illarum querulae vocis indicio deprehendunt, et si etiam in ipsos usque ad
+              convicia et contumelias prorumpentes, medicos se, et non dominos agnoscentes, parant
+              confestim adversus frenesim animae, non vindictam, sed medicinam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e563">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e573" xml:id="UUyf3f-d1e3527-Rd1e565">Bernardus, <title>de Praecepto et
+              dispensatione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e573">Ponant praepositi metam obedientiae subditorum ex
+              votis labiorum suorum, non suorum desideriorum, monentes eos, non cogentes ad
+              celsiora; condescendentes eis, cum necesse fuerit, ad remissiora; non cadentes cum eis
+              ad deteriora.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e578">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e588" xml:id="UUyf3f-d1e3527-Rd1e580">Bernardus, <title>de Praecepto et
+              dispensatione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e588">Nil me praelatus prohibeat eorum quae promisi,
+              nec plus exigat quam promisi. Vota mea non augeat sine mea voluntate, nec minuat sine
+              certa necessitate.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e593">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e603" xml:id="UUyf3f-d1e3527-Rd1e595">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e603">Praesis ut provideas, ut consulas, ut procures,
+              ut serves. Praesis ut prosis; praesis ut <!--<i>-->fidelis servus et prudens, quem
+              constituit Dominus super familiam suam<!--</i>-->. Ad quid? <!--<i>-->ut des illis
+              escam in tempore, hoc est, ut dispenses, non imperes<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e616">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e626" xml:id="UUyf3f-d1e3527-Rd1e618">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e626">Si te agnoscis sapientibus et insipientibus non
+              dominatorem, sed debitorem, conandum summopere tibi, et tota vigilantia considerandum,
+              quomodo et qui non sapiunt, sapiant, et qui desipuere, resipiscant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e631">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e638" xml:id="UUyf3f-d1e3527-Rd1e633">Bernardus, in secunda parte Epistolarum</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e638">Pascere tripliciter debemus: exemplo
+              conversationis, verbo praedicationis, fructu orationis; et pascere ad mandatum
+              Christi, ut nemo sibi hunc sumat honorem, sed <title>qui vocatus fuerit a Deo tanquam
+                Aaron</title>.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e3527-d1e646">
+          <ref corresp="#UUyf3f-d1e3527-Qd1e653" xml:id="UUyf3f-d1e3527-Rd1e648">Bernardus, in sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e3527-Qd1e653">Quoties praelatus pro uno ex minimis Dei
+              spirituale studium intermittit, toties pro eo spiritualiter animam suam ponit.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De continentia gustus</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De continentia gustus</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e23564">
+        <head xml:id="UUyf3f-d1e23564-Hd1e99" type="question-title">De continentia gustus</head>
+        <p xml:id="UUyf3f-d1e23564-d1e102">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e112" xml:id="UUyf3f-d1e23564-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e112">Per abstinentiam vitia sunt extinguenda, non
+              саrо; et tanto quisque sibimet debet moderamine praeesse, ut et ad culpam caro non
+              superbiat, et tamen ad effectum rectitudinis in opere subsistat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23564-d1e117">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e127" xml:id="UUyf3f-d1e23564-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e127">Virtus abstinentiae aut omnino nulla est, si
+              tantum quisque corpus suum non edomat, quantum valet; aut valde inordinata est, si
+              corpus atterit plusquam ferre valet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23564-d1e132">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e142" xml:id="UUyf3f-d1e23564-Rd1e134">Gregorius, in
+              <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e142">Incassum per abstinentiam corpus atteritur, si
+              inordinatis dimissa motibus mens vitiis dissipatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23564-d1e147">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e157" xml:id="UUyf3f-d1e23564-Rd1e149">Gregorius, in
+              <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e157">Qui a Paradisi gaudiis per cibum cecidimus, ad
+              haec, in quantum possumus, per abstinentiam resurgamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23564-d1e163">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e173" xml:id="UUyf3f-d1e23564-Rd1e165">Augustinus, de
+              <title>Confessionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e173">Hoc me docuisti, Domine, ut quemadmodum
+              medicamenta, sic alimenta sumpturus accedam. Sed dum ad quietem satietatis ex
+              indigentiae molestia transeo, in ipso transitu mihi insidiatur laqueus
+              concupiscentiae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23564-d1e178">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e188" xml:id="UUyf3f-d1e23564-Rd1e180">Augustinus,
+              <title>de Bono conjugali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e188">Ad hoc justi cum opus est prandent, ut tanquam
+              boni domini, quod bonum, et justum, et aequum est servis suis, id est corporibus suis
+              praebeant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23564-d1e193">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e203" xml:id="UUyf3f-d1e23564-Rd1e195">Augustinus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e203">Jejunium purgat mentem, sublevat sensum, carnem
+              spiritui subjicit, cor facit contribulatum et humiliatum, quod Deus non
+              spernit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23564-d1e208">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e218" xml:id="UUyf3f-d1e23564-Rd1e210">Augustinus, in
+            libro <title>de Jejunio sabbati</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e218">Sicut, quod ait Apostolus, verum est:
+              <!--<i>-->Malum est homini qui per offensionem manducat<!--</i>-->; ita malum est
+              homini qui per offensionem jejunat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23564-d1e227">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e237" xml:id="UUyf3f-d1e23564-Rd1e229">Joannes
+            Chrysostomus, in <title>Acta Apostolorum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e237">Indigentia, sicut sanitatis, ita delectationis
+              est mater.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23564-d1e242">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e252" xml:id="UUyf3f-d1e23564-Rd1e244">Joannes
+            Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e252">Qui jejunat, et peccat, non ad gloriam Dei
+              jejunat nec se humiliat, sed substantiae suae parcit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23564-d1e258">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e268" xml:id="UUyf3f-d1e23564-Rd1e260">Ambrosius, in
+              <title>Hexaemeron</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e268">Jejuni hominis sputum si serpens gustaverit,
+              moritur. Vides quanta vis jejunii sit, ut ex sputo jejunus homo terrenum serpentem
+              interficiat: quanto magis ergo serpentem spiritualem per jejunii virtutem!</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23564-d1e273">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e283" xml:id="UUyf3f-d1e23564-Rd1e275">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e283">Modicus ас temperatus cibus, et carni et animae
+              utilis est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23564-d1e288">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e298" xml:id="UUyf3f-d1e23564-Rd1e290">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e298">Nonnulli, pudicam vitam appetentes, in medio
+              itinere corruunt, dum solam abstinentiam carnium sufficere putant, et leguminibus
+              onerant stomachum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23564-d1e303">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e313" xml:id="UUyf3f-d1e23564-Rd1e305">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e313">Parcus cibus et venter semper esuriens triduanis
+              jejuniis praefertur; et multo melius est quotidie parum, quam raro satis sumere.
+              Pluvia enim illa optima est, quae sensim descendit in terram; subitus autem et nimius
+              imber in praceps arva subvertit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23564-d1e318">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e328" xml:id="UUyf3f-d1e23564-Rd1e320">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e328">Abstinentia et vivificat et occidit: vivificat
+              animam, et corpus necat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23564-d1e333">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e343" xml:id="UUyf3f-d1e23564-Rd1e335">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e343">Jejunia cum operibus bonis Deo acceptabilia
+              sunt. Qui a cibis abstinent, et prava agunt, daemones imitantur, quibus esca non est,
+              et nequitia semper est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23564-d1e349">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e359" xml:id="UUyf3f-d1e23564-Rd1e351">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e359">Spernitur a Deo jejunium, quod in vesperum
+              repletione ciborum reficitur. Neque enim reputanda est abstinentia, ubi fuerit ventris
+              saturitas subsecuta.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23564-d1e364">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e374" xml:id="UUyf3f-d1e23564-Rd1e366">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e374">Observandus est sumendi modus et tempus, cibi
+              quantitas et qualitas; fugienda quoque sunt superflua et adulterina condimenta.
+              Observandus est modus, ut non effundat, qui comedit, animam suam super omnem cibum;
+              tempus, ne ante horam; qualitas, qualibus utitur; communitas fraternitatis, excepta
+              causa manifestae infirmitatis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23564-d1e379">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e389" xml:id="UUyf3f-d1e23564-Rd1e381">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e389">Si gula sola peccavit, sola quoque jejunet, et
+              sufficit; si vero peccaverunt et membra caetera, quare non jejunent et ipsa? Jejunet
+              ergo oculus, qui depraedatus est animam; jejunet auris, jejunet lingua, jejunet manus,
+              jejunet etiam anima ipsa (supple, a propria voluntate).</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23564-d1e394">
+          <ref corresp="#UUyf3f-d1e23564-Qd1e404" xml:id="UUyf3f-d1e23564-Rd1e396">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23564-Qd1e404">Jejunium non solum est abolitio peccatorum, sed
+              extirpatio vitiorum; nec solum obtinet veniam, sed meretur et gratiam; nec solum delet
+              peccata praeterita quae commisimus, sed etiam repellit futura quae committere
+              poteramus.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

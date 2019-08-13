@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De stultitia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De stultitia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e34839">
+        <head xml:id="UUyf3f-d1e34839-Hd1e99" type="question-title">De stultitia</head>
+        <p xml:id="UUyf3f-d1e34839-d1e102">
+          <ref corresp="#UUyf3f-d1e34839-Qd1e112" xml:id="UUyf3f-d1e34839-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34839-Qd1e112">Incautis saepe ad peccati finem vertitur etiam
+              hoc, quod pro solo studio mercedis inchoatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34839-d1e117">
+          <ref corresp="#UUyf3f-d1e34839-Qd1e127" xml:id="UUyf3f-d1e34839-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34839-Qd1e127">Quantalibet doctrina mens polleat, gravis ejus
+              imperitia est velle docere meliorem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34839-d1e132">
+          <ref corresp="#UUyf3f-d1e34839-Qd1e142" xml:id="UUyf3f-d1e34839-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34839-Qd1e142">Saepe reprobi, per hoc quod unum vel minimum
+              bonum suum incaute conspiciunt, mala multa et gravia, in quibus demersi sunt, non
+              agnoscunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34839-d1e147">
+          <ref corresp="#UUyf3f-d1e34839-Qd1e157" xml:id="UUyf3f-d1e34839-Rd1e149">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34839-Qd1e157">Quia, testante Paulo, <!--<i>-->sapientia hujus
+              mundi stultitia est apud Deum<!--</i>-->, tanto quisque amplius intus stultus fit,
+              quanto conatur exterius sapiens videri.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34839-d1e167">
+          <ref corresp="#UUyf3f-d1e34839-Qd1e177" xml:id="UUyf3f-d1e34839-Rd1e169">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34839-Qd1e177">Ego et minores meos, quos ab illicitis prohibeo,
+              in bonis imitari paratus sum. Stultus enim est, qui in eo se primum aestimat, ut bona,
+              quae viderit, discere contemnant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34839-d1e182">
+          <ref corresp="#UUyf3f-d1e34839-Qd1e192" xml:id="UUyf3f-d1e34839-Rd1e184">Augustinus, <title>de Libero arbitrio</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34839-Qd1e192">Stultitia est, rerum appetendarum et vitandarum,
+              non quaelibet, sed vitiosa ignorantia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34839-d1e197">
+          <ref corresp="#UUyf3f-d1e34839-Qd1e207" xml:id="UUyf3f-d1e34839-Rd1e199">Augustinus, <title>de Libero arbitrio</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34839-Qd1e207">Si prudentes dicuntur, qui omnibus modis agunt,
+              ut differant mortem, et vivant paucos dies; quam stulti sic vivunt, ut perdant
+              aeternam vitam?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34839-d1e212">
+          <ref corresp="#UUyf3f-d1e34839-Qd1e222" xml:id="UUyf3f-d1e34839-Rd1e214">Augustinus, <title>de Octoginta tribus
+              quaestionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34839-Qd1e222">Quidquid casu fit, temere fit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34839-d1e227">
+          <ref corresp="#UUyf3f-d1e34839-Qd1e237" xml:id="UUyf3f-d1e34839-Rd1e229">Augustinus, <title>de Vita beata</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34839-Qd1e237">Major et miserabilior egestas nulla est, quam
+              egere sapientia; et qui sapientia non eget, nulla re omnino egere potest. Est ergo
+              animi egestas nihil aliud, quam stultitia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34839-d1e242">
+          <ref corresp="#UUyf3f-d1e34839-Qd1e252" xml:id="UUyf3f-d1e34839-Rd1e244">Augustinus, <title>de Ordine disciplinae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34839-Qd1e252">Quisquis ea sola novit, quae corporis sensibus
+              attingit, non solum cum Deo non esse mihi videtur, sed nec secum quidem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34839-d1e258">
+          <ref corresp="#UUyf3f-d1e34839-Qd1e268" xml:id="UUyf3f-d1e34839-Rd1e260">Bernardus, <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34839-Qd1e268">In his stulto labore consumeris, quae non sunt
+              nisi afflictio spiritus, evisceratio mentis, evacuatio gratiae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34839-d1e273">
+          <ref corresp="#UUyf3f-d1e34839-Qd1e283" xml:id="UUyf3f-d1e34839-Rd1e275">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34839-Qd1e283">Stultus quod vivit, mortem potius quam vitam
+              esse censuerim. Quomodo vita cum sterilitate?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34839-d1e288">
+          <ref corresp="#UUyf3f-d1e34839-Qd1e298" xml:id="UUyf3f-d1e34839-Rd1e290">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34839-Qd1e298">Inter caetera mala hoc quoque habet stultitia
+              proprium: semper incipit vivere. Quid est autem turpius, quam senex vivere
+              incipiens?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34839-d1e303">
+          <ref corresp="#UUyf3f-d1e34839-Qd1e313" xml:id="UUyf3f-d1e34839-Rd1e305">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34839-Qd1e313">Omnis stultitia laborat fastidio sui.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e34839-d1e318">
+          <ref corresp="#UUyf3f-d1e34839-Qd1e328" xml:id="UUyf3f-d1e34839-Rd1e320">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e34839-Qd1e328">Nihil stultitia pacati habet: tam superne illi
+              metus est, quam infra. Utrumque trepidat latus: sequuntur pericula, et occurrunt: ad
+              omnia pavet, imparata est, et ipsis terretur auxiliis.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De poenitentia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De poenitentia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e17201">
+        <head xml:id="UUyf3f-d1e17201-Hd1e99" type="question-title">De poenitentia</head>
+        <p xml:id="UUyf3f-d1e17201-d1e102">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e112" xml:id="UUyf3f-d1e17201-Rd1e104">Gregorius, in
+              <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e112">Poenitentiam agere, est et perpetrata mala
+              plangere, et plangenda non perpetrare. Nam qui sic alia deplorat, ut tamen alia
+              committat, adhuc poenitentiam agere, aut ignorat, aut dissimulat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e117">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e127" xml:id="UUyf3f-d1e17201-Rd1e119">Augustinus,
+              <title>de Mirabilibus sacrae Scripturae</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e127">Qui per poenitentiam peccata diluerit, angelicae
+              felicitatis consors in aeternum erit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e132">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e142" xml:id="UUyf3f-d1e17201-Rd1e134">Augustinus, in
+            libro <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e142">Convertitur, qui jam totus et omnino vertitur,
+              qui jam non tantum poenas non timet, sed ad bonum Deum redire festinat. Quae conversio
+              si contigerit alicui etiam in fine, desperandum non est de peccatorum suorum
+              remissione: sed quoniam vix vel raro est tam justa conversio, timendum est de sero
+              poenitente.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e147">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e157" xml:id="UUyf3f-d1e17201-Rd1e149">Augustinus, in
+            libro <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e157">Pietas fidei expostulat credere, quod omnes
+              eleemosynae totius Ecclesiae, et orationes, et opera justitiae et misericordiae
+              succurrant recognoscenti mortem suam, ad conversionem suam. Ideoque nemo poenitere
+              digne potest, quem non sustineat unitas Ecclesiae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e163">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e173" xml:id="UUyf3f-d1e17201-Rd1e165">Augustinus, in
+            libro <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e173">Poenitens omnes fructus suae poenitentiae parvos
+              habeat; nunquam sufficiat; semper doleat; semper coram Domino, ante quem peccavit,
+              erubescat, et dolorem cum vita finiat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e178">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e188" xml:id="UUyf3f-d1e17201-Rd1e180">Augustinus, in
+            libro <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e188">Ubi dolor finitur, deficit et
+              poenitentia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e193">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e203" xml:id="UUyf3f-d1e17201-Rd1e195">Augustinus, in
+            libro <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e203">Poenitens semper doleat, et de dolore
+              gaudeat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e208">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e218" xml:id="UUyf3f-d1e17201-Rd1e210">Augustinus, in
+            libro <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e218">Poenitens consideret qualitatem, et quantitatem
+              criminis, in loco, in tempore, in perseverantia, in varietate, in conditione personae,
+              et quali hoc fecerit tentatione, et in ipsius vitii multiplici executione.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e223">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e233" xml:id="UUyf3f-d1e17201-Rd1e225">Augustinus, in
+            libro <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e233">Poenitentia est quaedam dolentis vindicta,
+              puniens in se quod dolet commisisse; qui autem dolet quod detinetur in mortali
+              corpore, desiderat quod amat, plorat quod retardat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e238">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e248" xml:id="UUyf3f-d1e17201-Rd1e240">Augustinus, in
+            libro <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e248">
+              <!--<i>-->Qui me confessus fuerit coram hominibus<!--</i>-->, id est, omnis
+              quantumcumque et quotiescumque peccator cujuscumque ordinis, etiam si fuerit peccator
+              sacerdos, <!--<i>-->confitebor et ego eum<!--</i>-->: nam <!--<i>-->qui invocaverit
+              nomen Domini<!--</i>-->, id est, secundum quod nominatur Dominus, id est, qui
+              invocaverit eum ad se serviendo, et non contradicendo, ut forsitan saepe fecit,
+              <!--<i>-->omnis<!--</i>-->, id est quicumque sit ille peccator, <!--<i>-->salvus
+              erit<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e274">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e284" xml:id="UUyf3f-d1e17201-Rd1e276">Augustinus, in
+            libro <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e284">Poenitentia languores sanat, leprosos curat,
+              mortuos suscitat, sanitatem auget et conservat; claudis gressum, aridis copiam, caecis
+              restituit visum, vitia fugat, virtutes exornat, mentem munit et roborat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e289">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e299" xml:id="UUyf3f-d1e17201-Rd1e291">Augustinus,
+              <title>de Quinque Responsionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e299">Petrum nisi Dominus respexisset, nunquam
+              poenitentia motus amare flevisset. Poenitentia ergo res est optima, et perfecta, quae
+              defectus revocat ad perfectum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e304">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e314" xml:id="UUyf3f-d1e17201-Rd1e306">Augustinus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e314">Si tunc vis agere poenitentiam, quando jam
+              peccare non potes, peccata te dimiserunt, non tu illa.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e319">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e329" xml:id="UUyf3f-d1e17201-Rd1e321">Augustinus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e329">Si res aliena, propter quam peccatum est, cum
+              reddi possit, non redditur, non agitur poenitentia, sed fingitur. Si autem veraciter
+              agitur, non remittitur peccatum, nisi restituatur ablatum, si tamen restitui
+              potest.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e334">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e344" xml:id="UUyf3f-d1e17201-Rd1e336">Isidorus, in
+              <title>Etymologiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e344">Poenitentia appellata est, quasi
+              <!--<i>-->punientia<!--</i>-->, eo quod ipse homo in se poenitendo punit quod male
+              admisit. Nam nihil aliud agunt, qui veraciter poenitent, nisi ut id, quod male
+              fecerint, impunitum esse non sinant. Eo quippe modo sibi non parcentibus, ille parcit,
+              cujus altum justumque judicium nullus contemptor evadit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e353">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e363" xml:id="UUyf3f-d1e17201-Rd1e355">Isidorus, de
+              <title>Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e363">Poenitentia est medicamentum vulneris, spes
+              salutis, per quam peccatores salvantur, per quam Deus ad misericordiam provocatur,
+              quae non tempore pensatur, sed profunditate luctus et lacrymarum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e369">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e379" xml:id="UUyf3f-d1e17201-Rd1e371">Isidorus, in
+              <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e379">Inanis est poenitentia, quam sequens coinquinat
+              culpa.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e384">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e394" xml:id="UUyf3f-d1e17201-Rd1e386">Cyprianus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e394">O poenitentia, quae peccata miserante Deo
+              remittis, et paradisum reseras; quae contritum sanas, omnem tristem exhilaras, vitam
+              de interitu revocas, statum restauras, honorem renovas, fiduciam reformas, gratiamque
+              abundantiorem refundis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e399">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e409" xml:id="UUyf3f-d1e17201-Rd1e401">Cyprianus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e409">О poenitentia, quid de te novi referam? omnia
+              ligata tu solvis, omnia soluta tu reseras, omnia adversa tu mitigas, omnia contrita
+              sanas, omnia confusa tu lucidas, omnia desperata tu animas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e414">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e424" xml:id="UUyf3f-d1e17201-Rd1e416">Cyprianus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e424">Poenitentia respuit avaritiam, horret luxuriam,
+              fugat furorem, firmat amorem, calcat superbiam, continet linguam, componit mores, odit
+              malitiam, excludit invidiam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e429">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e439" xml:id="UUyf3f-d1e17201-Rd1e431">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e439">
+              <!--<i>-->Qui amat animam suam, perdet eam<!--</i>-->, sive ponendo ut martyr, sive
+              affligendo ut poenitens.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e448">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e458" xml:id="UUyf3f-d1e17201-Rd1e450">Bernardus,
+              <title>de Duodecim gradibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e458">Qui veraciter poenitet, laborem poenitentiae non
+              abhorret; sed quidquid sibi pro culpa, quam odit, injungitur, tacita conscientia
+              patienter amplectitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e17201-d1e464">
+          <ref corresp="#UUyf3f-d1e17201-Qd1e474" xml:id="UUyf3f-d1e17201-Rd1e466">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e17201-Qd1e474">Si vis agere poenitentiam, oportet membra
+              punire, corpus affligere te ipsum judicare, ut non incidas in manus Dei viventis.
+              Justum id quidem; sed ne quid nimis; alioquin reprimendus est fervor immoderatus, ne
+              noceat unitati, serviat indiscretioni.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

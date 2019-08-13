@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De connexione uirtutum, de continentia et humilitate</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De connexione uirtutum, de continentia et humilitate</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e48730">
+        <head xml:id="UUyf3f-d1e48730-Hd1e99" type="question-title">De connexione uirtutum, de
+          continentia et humilitate</head>
+        <p xml:id="UUyf3f-d1e48730-d1e102">
+          <ref corresp="#UUyf3f-d1e48730-Qd1e112" xml:id="UUyf3f-d1e48730-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48730-Qd1e112">Sic mentem necesse est per munditiam erigi, ut
+              tamen sollicite debeat in humilitate substerni.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48730-d1e117">
+          <ref corresp="#UUyf3f-d1e48730-Qd1e127" xml:id="UUyf3f-d1e48730-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48730-Qd1e127">Per humilitatis custodiam servanda est munditia
+              castitatis: si enim pie spiritus sub Deo premitur, caro illicite super spiritum non
+              levatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48730-d1e132">
+          <ref corresp="#UUyf3f-d1e48730-Qd1e142" xml:id="UUyf3f-d1e48730-Rd1e134">Augustinus, <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48730-Qd1e142">Sapientes virgines esse decet, ne lampades earum
+              extinguantur: quo modo sapientes, nisi <!--<i>-->non alta sapientes, sed humilibus
+              consentientes<!--</i>-->?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48730-d1e151">
+          <ref corresp="#UUyf3f-d1e48730-Qd1e161" xml:id="UUyf3f-d1e48730-Rd1e153">Augustinus, <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48730-Qd1e161">Quia perpetua continentia, et maxime virginitas,
+              magnum bonum est in sanctis Dei, vigilantissime cavendum est, ne superbia
+              corrumpatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48730-d1e167">
+          <ref corresp="#UUyf3f-d1e48730-Qd1e177" xml:id="UUyf3f-d1e48730-Rd1e169">Augustinus, <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48730-Qd1e177">Facilius sequuntur Agnum, et si non quocumque
+              ierit, certe quousque potuerint, conjugati humiles, quam superbientes
+              virgines.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48730-d1e182">
+          <ref corresp="#UUyf3f-d1e48730-Qd1e192" xml:id="UUyf3f-d1e48730-Rd1e184">Augustinus, <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48730-Qd1e192">Neque simulare debet virgo humilitatem, sed
+              exhibere. Simulatio humilitatis major superbia est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48730-d1e197">
+          <ref corresp="#UUyf3f-d1e48730-Qd1e207" xml:id="UUyf3f-d1e48730-Rd1e199">Augustinus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48730-Qd1e207">Melior est quidem virginalis sanctitas, quam
+              pudicitia conjugalis; quis dubitet? tamen, si tu tenueris superbiam, et tua mater
+              humilitatem, melior mater erit quam filia: non dubito praeferre humilem mulierem
+              superbae virgini.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48730-d1e212">
+          <ref corresp="#UUyf3f-d1e48730-Qd1e222" xml:id="UUyf3f-d1e48730-Rd1e214">Ambrosius, <title>super Lucam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48730-Qd1e222">Decet ut quanto castior virgo, tanto humilior
+              sit; noverit deferre senioribus; sit magistra ejus humilitas, in qua est professio
+              castitatis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48730-d1e227">
+          <ref corresp="#UUyf3f-d1e48730-Qd1e237" xml:id="UUyf3f-d1e48730-Rd1e229">Bernardus, super <title>Missus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48730-Qd1e237">Pulchra commixtio virginitatis et humilitatis:
+              nec mediocriter placet Deo illa anima, in qua humilitas commendat virginitatem, et
+              virginitas exornat humilitatem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48730-d1e242">
+          <ref corresp="#UUyf3f-d1e48730-Qd1e252" xml:id="UUyf3f-d1e48730-Rd1e244">Bernardus, super <title>Missus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48730-Qd1e252">Potes sine virginitate salvari; non potes sine
+              humilitate: potest, inquam, placere humilitas, quae virginitatem deplorat amissam;
+              sine humilitate autem, audeo dicere, nec virginitas Mariae placuisset.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e48730-d1e258">
+          <ref corresp="#UUyf3f-d1e48730-Qd1e268" xml:id="UUyf3f-d1e48730-Rd1e260">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e48730-Qd1e268">Continentia non habet meritum apud Deum, quae
+              gloriam requirit humanam. Ideoque maxime opus est etiam puritate intentionis, qua soli
+              Deo mens nostra, et placere appetat, et valeat inhaerere.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

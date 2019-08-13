@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De lectione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De lectione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e44678">
+        <head xml:id="UUyf3f-d1e44678-Hd1e99" type="question-title">De lectione</head>
+        <p xml:id="UUyf3f-d1e44678-d1e102">
+          <ref corresp="#UUyf3f-d1e44678-Qd1e112" xml:id="UUyf3f-d1e44678-Rd1e104">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44678-Qd1e112">Si ad consolationem nostram sacra Scriptura
+              parata est, tanto magis debemus legere, quanto nos conspicimus sub tribulationum fasce
+              lassari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44678-d1e117">
+          <ref corresp="#UUyf3f-d1e44678-Qd1e127" xml:id="UUyf3f-d1e44678-Rd1e119">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44678-Qd1e127">Idcirco pictura in ecclesiis adhibetur, ut hi,
+              qui litteras nesciunt, saltem in parietibus videndo, legant, quae legere in codicibus
+              non valent.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44678-d1e132">
+          <ref corresp="#UUyf3f-d1e44678-Qd1e142" xml:id="UUyf3f-d1e44678-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44678-Qd1e142">Scriptura sacra mentis oculis quasi quoddam
+              speculum opponitur, ut interna nostra facies in ipsa videatur. Ibi enim foeda, ibi
+              pulchra nostra cognoscimus; ibi sentimus quantum proficimus; ibi docemur a profectu
+              quam longe distamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44678-d1e147">
+          <ref corresp="#UUyf3f-d1e44678-Qd1e157" xml:id="UUyf3f-d1e44678-Rd1e149">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44678-Qd1e157">Scriptura narrat gesta sanctorum, et ad
+              imitationem provocat corda infirmorum; dumque illorum victricia facta commemorat,
+              contra vitiorum praelia debilia nostra confirmat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44678-d1e163">
+          <ref corresp="#UUyf3f-d1e44678-Qd1e173" xml:id="UUyf3f-d1e44678-Rd1e165">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44678-Qd1e173">Quasi quaedam fit lectio mentis nostrae, species
+              considerata creaturae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44678-d1e178">
+          <ref corresp="#UUyf3f-d1e44678-Qd1e188" xml:id="UUyf3f-d1e44678-Rd1e180">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44678-Qd1e188">Plerumque res quaelibet per historiam virtus
+              est, per significationem culpa.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44678-d1e193">
+          <ref corresp="#UUyf3f-d1e44678-Qd1e203" xml:id="UUyf3f-d1e44678-Rd1e195">Ambrosius, <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44678-Qd1e203">Cur non illa tempora, quibus ab ecclesia vacas,
+              lectioni impendas? cur non Christum revisas, Christum alloquaris, Christum audias?
+              Illum alloquimur, cum oramus; illum audimus, cum divina legimus oracula.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44678-d1e208">
+          <ref corresp="#UUyf3f-d1e44678-Qd1e218" xml:id="UUyf3f-d1e44678-Rd1e210">Ambrosius, in <title>Hexameron</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44678-Qd1e218">Scriptura divina salutem suggerit, vitae odorem
+              fragrat, ut suavitatem legens capias, non praecipitii crimen incurras.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44678-d1e223">
+          <ref corresp="#UUyf3f-d1e44678-Qd1e233" xml:id="UUyf3f-d1e44678-Rd1e225">Hieronymus, in originali <title>super
+              Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44678-Qd1e233">Difficile homines potentes, et nobiles, et
+              divites, et multo his difficilius eloquentes credunt Deo: obcaecatur enim mens eorum
+              divitiis, et opibus, atque luxuria; et circumdati divitiis, non possunt videre
+              virtutes simplicitatemque Scripturae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44678-d1e238">
+          <ref corresp="#UUyf3f-d1e44678-Qd1e248" xml:id="UUyf3f-d1e44678-Rd1e240">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44678-Qd1e248">Ama scientiam Scripturarum, et carnis vitia non
+              amabis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44678-d1e254">
+          <ref corresp="#UUyf3f-d1e44678-Qd1e264" xml:id="UUyf3f-d1e44678-Rd1e256">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44678-Qd1e264">Orationi lectio, lectioni succedat oratio; et
+              breve videbitur omne tempus, quod tantis dierum varietatibus occupatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44678-d1e269">
+          <ref corresp="#UUyf3f-d1e44678-Qd1e279" xml:id="UUyf3f-d1e44678-Rd1e271">Isidorus, <title>de Summo bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44678-Qd1e279">Sanctarum Scripturarum altitudo quasi montes
+              pascuae sunt, ad quos dum quisque justorum conscenderit, pascuae indeficientis
+              refectionem invenisse se gaudebit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44678-d1e284">
+          <ref corresp="#UUyf3f-d1e44678-Qd1e294" xml:id="UUyf3f-d1e44678-Rd1e286">Isidorus, <title>de Summo bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44678-Qd1e294">Geminum confert bonum sanctarum lectio
+              Scripturarum: sive quia intellectum mentis erudit, sive quia a mundi vanitatibus
+              abstractum hominem ad amorem Dei perducit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44678-d1e299">
+          <ref corresp="#UUyf3f-d1e44678-Qd1e309" xml:id="UUyf3f-d1e44678-Rd1e301">Isidorus, in <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44678-Qd1e309">Lectio docet quid caveas, lectio ostendit quo
+              tendas, lectione sensus augetur, et intellectus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44678-d1e314">
+          <ref corresp="#UUyf3f-d1e44678-Qd1e324" xml:id="UUyf3f-d1e44678-Rd1e316">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44678-Qd1e324">Tanta est christianarum profunditas litterarum,
+              ut in eis quotidie proficerem, si eas solas ab ineunte pueritia usque ad decrepitam
+              senectutem maximo otio, summo studio, meliore ingenio conarer addiscere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44678-d1e329">
+          <ref corresp="#UUyf3f-d1e44678-Qd1e339" xml:id="UUyf3f-d1e44678-Rd1e331">Joannes Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44678-Qd1e339">Non propterea datae sunt Scripturae, ut in
+              libris eas habeamus solum, sed ut in cordibus conglutinemus eas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44678-d1e345">
+          <ref corresp="#UUyf3f-d1e44678-Qd1e355" xml:id="UUyf3f-d1e44678-Rd1e347">Joannes Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44678-Qd1e355">Si turpiloquium sordidat, et daemones vocat,
+              manifestum est quoniam spiritualis lectio sanctificat, et Spiritus affert gratiam:
+              divinae enim sunt incantationes Scripturae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e44678-d1e360">
+          <ref corresp="#UUyf3f-d1e44678-Qd1e370" xml:id="UUyf3f-d1e44678-Rd1e362">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e44678-Qd1e370">Ante carnem disciplinae studiis edomitam, et
+              emancipatam Spiritui, ante spretam et abjectam saeculi pompam et sarcinam, indigne ab
+              impuris lectio sacrae Scripturae praesumitur: quomodo nempe lux incassum circumfundit
+              oculos caecos vel clausos, ita <!--<i>-->animalis homo non percipit ea quae sunt
+              spiritus Dei<!--</i>-->.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

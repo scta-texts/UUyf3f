@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De negligentia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De negligentia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e30297">
+        <head xml:id="UUyf3f-d1e30297-Hd1e99" type="question-title">De negligentia</head>
+        <p xml:id="UUyf3f-d1e30297-d1e102">
+          <ref corresp="#UUyf3f-d1e30297-Qd1e112" xml:id="UUyf3f-d1e30297-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30297-Qd1e112">Si curare parva negligimus, insensibiliter
+              seducti, statim audenter etiam majora perpetramus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30297-d1e117">
+          <ref corresp="#UUyf3f-d1e30297-Qd1e127" xml:id="UUyf3f-d1e30297-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30297-Qd1e127">Plerumque de bonis per incuriae vitium mala
+              nascuntur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30297-d1e132">
+          <ref corresp="#UUyf3f-d1e30297-Qd1e142" xml:id="UUyf3f-d1e30297-Rd1e134">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30297-Qd1e142">Iniquorum mentes, qui damna sua considerare
+              negligunt, integritatem suam quasi nescientes perdunt. Amittunt namque a corde
+              innocentiam, ab ore veritatem, a carne continentiam, et per accessum temporis ab
+              aetate vitam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30297-d1e147">
+          <ref corresp="#UUyf3f-d1e30297-Qd1e157" xml:id="UUyf3f-d1e30297-Rd1e149">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30297-Qd1e157">Cum divina praecepta nos moneant, proximos sicut
+              nosmetipsos diligere debere, non parvae negligentiae est praecepta Dei despicere, et
+              quod sibi quis metuit, alii non timere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30297-d1e163">
+          <ref corresp="#UUyf3f-d1e30297-Qd1e173" xml:id="UUyf3f-d1e30297-Rd1e165">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30297-Qd1e173">Si a circumspectionis sollicitudine cor
+              destituitur, vulneribus aperitur; quia hostis callidus tanto liberius pectus percutit,
+              quanto nudum a providentiae lorica deprehendit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30297-d1e178">
+          <ref corresp="#UUyf3f-d1e30297-Qd1e188" xml:id="UUyf3f-d1e30297-Rd1e180">Augustinus, <title>de verbis Domini</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30297-Qd1e188">Sic homines negligunt vitam suam, ut nolint
+              habere malam rem nisi ipsam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30297-d1e193">
+          <ref corresp="#UUyf3f-d1e30297-Qd1e203" xml:id="UUyf3f-d1e30297-Rd1e195">Augustinus, <title>de Natura et Gratia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30297-Qd1e203">Cum ubique sit praesens, qui multis modis per
+              creaturam sibi servientem aversum vocet, doceat credentem, conselatur sperantem,
+              diligentem adhortetur, conantem adjuvet, exaudiat deprecantem: non tibi deputatur ad
+              culpam, quod invitus ignoras, sed quod negligis quaerere, quod ignoras; neque illud
+              quod vulnerata membra non colligis, sed quod volentem sanare contemnis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30297-d1e208">
+          <ref corresp="#UUyf3f-d1e30297-Qd1e218" xml:id="UUyf3f-d1e30297-Rd1e210">Joannes Chrysostomus, <title>de Compunctione
+              Cordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30297-Qd1e218">Si forte in corpore parum aliquid morbi
+              pulsaverit, statim et medicos adhibemus, et pecuniam profundimus, et omni observantia,
+              quae competunt, gerimus; nec prius cessatur, quam quae molesta sunt mitigentur. Anima
+              vero cum quotidie vulneretur, cum per singula lanietur, uratur praecipitetur, et modis
+              omnibus pereat, nec parva quidem pro ea nos cura sollicitat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30297-d1e223">
+          <ref corresp="#UUyf3f-d1e30297-Qd1e233" xml:id="UUyf3f-d1e30297-Rd1e225">Joannes Chrysostomus, <title>de Compunctione
+              Cordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30297-Qd1e233">Non anima pro corpore, sed corpus pro anima
+              factum est: qui ergo, quod primum et melius est, negligit, et quod inferius est,
+              extollit, utrumque corrumpit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30297-d1e238">
+          <ref corresp="#UUyf3f-d1e30297-Qd1e248" xml:id="UUyf3f-d1e30297-Rd1e240">Joannes Chrysostomus, <title>de Compunctione
+              Cordis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30297-Qd1e248">Certum est, quod omnes pariter corrumpat, et
+              absumat incuria: dum nemo est, qui vel opportuna praebeat, vel importuna
+              prohibeat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30297-d1e254">
+          <ref corresp="#UUyf3f-d1e30297-Qd1e264" xml:id="UUyf3f-d1e30297-Rd1e256">Joannes Chrysostomus, <title>super Joannem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30297-Qd1e264">Omni rei magis parcere debes, quam tempori:
+              aurum enim si contempseris, poteris rursus vel idipsum, vel aliud recuperare; tempus
+              vero si perdideris, difficile id resumes.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30297-d1e269">
+          <ref corresp="#UUyf3f-d1e30297-Qd1e279" xml:id="UUyf3f-d1e30297-Rd1e271">Bernardus, in <title>Meditationibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30297-Qd1e279">Quanto diutius nos Deus expectat, ut emendemur;
+              tanto districtius judicabit, si neglexerimus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30297-d1e284">
+          <ref corresp="#UUyf3f-d1e30297-Qd1e294" xml:id="UUyf3f-d1e30297-Rd1e286">Bernardus, <title>de Contemptu Mundi</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30297-Qd1e294">Nihil pretiosius tempore; sed, heu! nihil hodie
+              vilius aestimatur: transeunt dies salutis, et nemo recogitat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30297-d1e299">
+          <ref corresp="#UUyf3f-d1e30297-Qd1e309" xml:id="UUyf3f-d1e30297-Rd1e301">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30297-Qd1e309">Non curant carnales quaerere, quantum desiderant
+              invenire; cupientes consequi, sed non exequi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e30297-d1e314">
+          <ref corresp="#UUyf3f-d1e30297-Qd1e324" xml:id="UUyf3f-d1e30297-Rd1e316">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e30297-Qd1e324">Nemo se judicat quidquam debere, qui tempus
+              accepit, cum inter multa hoc unum est, cum nec gratus quidem potest reddere.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

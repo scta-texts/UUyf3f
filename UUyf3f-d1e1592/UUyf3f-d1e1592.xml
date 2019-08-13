@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De beata Maria</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De beata Maria</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e1592">
+        <head xml:id="UUyf3f-d1e1592-Hd1e99" type="question-title">De beata Maria</head>
+        <p xml:id="UUyf3f-d1e1592-d1e102">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e112" xml:id="UUyf3f-d1e1592-Rd1e104">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e112">Dum unigenitus Dei existens ante saecula ex
+              Mariae utero natus est homo, investigabili miraculo facta est et ancilla hominis per
+              divinitatem, et mater Verbi per carnem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e117">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e131" xml:id="UUyf3f-d1e1592-Rd1e119">Gregorius, in
+              <title>Moralibus</title>, loquens de verbo illo, <!--<i>-->Lucae<!--</i>-->
+            primo</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e131">
+              <!--<i>-->Virtus altissimi obumbrabit tibi<!--</i>-->: Quia umbra non aliter
+              exprimitur nisi per lumen et corpus, virtus Altissimi obumbravit Mariae, quia in ejus
+              utero lux incorporea corpus sumpsit: ex qua videlicet obumbratione, omne in se
+              refrigerium mentis accepit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e140">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e150" xml:id="UUyf3f-d1e1592-Rd1e142">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e150">Christus non operante coitu, sed Spiritu sancto
+              superveniente, conceptus est. Natus autem materna viscera et foecunda exhibuit, et
+              incorrupta servavit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e155">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e165" xml:id="UUyf3f-d1e1592-Rd1e157">Ambrosius,
+              <title>de Virginibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e165">Talis fuit Maria, ut ejus unius vita, omnium
+              disciplina sit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e171">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e181" xml:id="UUyf3f-d1e1592-Rd1e173">Ambrosius,
+              <title>de Virginibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e181">Quicumque sibi Mariae exoptat praemium, ejus
+              imitetur exemplum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e186">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e196" xml:id="UUyf3f-d1e1592-Rd1e188">Ambrosius,
+              <title>de Virginibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e196">Vidit Maria resurrectionem Domini, et prima
+              vidit, et credidit; vidit et Maria Magdalena, quamvis adhuc ista nutaret.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e201">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e211" xml:id="UUyf3f-d1e1592-Rd1e203">Ambrosius,
+              <title>de Virginibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e211">Virgo erat Maria non solum corpore, sed et mente,
+              quae nullo doli ambitu sincerum adulteraret affectum, corde humilis, verbis gravis,
+              animo prudens, loquendi parcior, legendi studiosior, non in incerto divitiarum, sed in
+              prece pauperum spem ponens, intenta operi, verecunda sermone.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e216">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e226" xml:id="UUyf3f-d1e1592-Rd1e218">Ambrosius,
+              <title>de Virginibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e226">Quando laesit Maria vultu parentes? quando
+              dissensit a propinquis? quando fastidivit humilem? quando derisit debilem? quando
+              vitavit inopem? Eos solum solita erat coetus virorum invisere, quos misericordia non
+              erubesceret, non praeteriret verecundia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e231">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e241" xml:id="UUyf3f-d1e1592-Rd1e233">Ambrosius,
+              <title>de Virginibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e241">Nihil torvum in oculis Mariae, nihil in verbis
+              procax, nihil in actu inverecundum, non gestus fractior, non incessus lascivior, non
+              vox petulantior, ut ipsa corporis species simulacrum fuerit mentis, figura
+              probitatis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e246">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e256" xml:id="UUyf3f-d1e1592-Rd1e248">Augustinus,
+              <title>Contra quinque Haereses</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e256">Sicut in transitu Mariae non est corrupta
+              virginitas, sic in ea non est maculata majestas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e262">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e272" xml:id="UUyf3f-d1e1592-Rd1e264">Augustinus,
+              <title>Contra quinque Haereses</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e272">Unde sordes in Maria, quae nec concipiendo,
+              libidinem, nec pariendo, passa est dolorem? Unde sordes in domo, ad quam nullus
+              habitator accessit? Solus ad eam Fabricator ejus et Dominus venit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e277">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e287" xml:id="UUyf3f-d1e1592-Rd1e279">Augustinus,
+              <title>Contra quinque Haereses</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e287">Eva inobediens meruit poenam; Maria obediendo
+              consecuta est gratiam: illa gustando prohibitum, maledicta; haec, credendo Angelo,
+              benedicta.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e292">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e302" xml:id="UUyf3f-d1e1592-Rd1e294">Augustinus,
+              <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e302">Beatior Maria percipiendo fidem Christi, quam
+              concipiendo carnem Christi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e307">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e317" xml:id="UUyf3f-d1e1592-Rd1e309">Augustinus,
+              <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e317">Materna propinquitas nihil Mariae profuisset,
+              nisi felicius Christum corde, quam carne gestasset. Ipsa quoque virginitas ideo
+              gratior et acceptior, quia non eam conceptus Christus viro violaturo, quam
+              conservaret, ipse praeripuit; sed priusquam conciperetur, jam Deo dicatam, de qua
+              nasceretur, elegit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e322">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e332" xml:id="UUyf3f-d1e1592-Rd1e324">Augustinus,
+              <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e332">
+              <!--<i>-->Quomodo<!--</i>-->, inquit, <!--<i>-->fiet istud, quoniam virum non
+              cognosco?<!--</i>--> Quod profecto non diceret, nisi Deo virginem se ante vovisset.
+              Sed quia hoc Israelitatum mores adhuc recusabant, desponsata est viro justo, non
+              violenter ablaturo, sed potius contra violentos custodituro quod illa jam
+              voverat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e345">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e352" xml:id="UUyf3f-d1e1592-Rd1e347">Augustinus, in
+            sermonibus</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e352">Vera ratione censeo confitendum, Mariam in
+              Christo et apud Christum esse: in Christo, quia <title>in ipso vivimus; movemur, et
+                sumus</title>; apud Christum, gloriosae ad aeternitatis gaudia assumptam,
+              benignitate Christi honoratius susceptam caeteris, atque ad communem vilitatem non
+              esse adductam post mortem, putredinis videlicet, vermis, et pulveris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e361">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e368" xml:id="UUyf3f-d1e1592-Rd1e363">Beatus
+            Bartholomaeus, ut habetur in legenda</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e368">Haec prima inter feminas hoc constituit in corde
+              suo, ut diceret Deo: Domine, offero tibi virginitatem meam cum hoc a nullo homine, nec
+              verbo didicisset, nec exemplo ad imitationem invitata fuisset.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e373">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e380" xml:id="UUyf3f-d1e1592-Rd1e375">Hieronymus, in
+            sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e380">Sicut in comparatione Dei nemo bonus, ita etiam
+              in comparatione Matris Domini nulla feminarum invenitur perfecta, quamvis virtutibus
+              eximia comprobetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e385">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e392" xml:id="UUyf3f-d1e1592-Rd1e387">Hieronymus, in
+            sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e392">Totam repleverat Spiritus sancti gratia, totam
+              incanduerat divinus amor: ita ut in ea nihil esset, quod mundanus violaret affectus;
+              sed ardor continuus et ebrietas perfusi amoris.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e397">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e404" xml:id="UUyf3f-d1e1592-Rd1e399">Hieronymus, in
+            sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e404">Quidquid in Maria gestum est, totum puritas et
+              simplicitas, totum veritas et gratia fuit, totum misericordia et justitia, quae de
+              coelo prospexit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e409">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e416" xml:id="UUyf3f-d1e1592-Rd1e411">Hieronymus, in
+            sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e416">Maria, quia mente passa est, plus quam martyr
+              fuit: nimirum quoniam ejus dilectio amplius fortis quam mors; quia mortem Christi suam
+              fecit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e421">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e428" xml:id="UUyf3f-d1e1592-Rd1e423">Hieronymus, in
+            sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e428">Si Spiritu Dei omnis virtus angelorum constat,
+              beatam et gloriosam Virginem, in quam supervenit Spiritus sanctus et Deus totus, ita
+              ut portaretur novem mensibus in ejus utero, creditur ampliora promeruisse virtutum
+              privilegia, et percepisse gratiam ab angelis etiam collaudatam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e434">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e441" xml:id="UUyf3f-d1e1592-Rd1e436">Hieronymus, in
+            sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e441">Si in domo Patris mansiones multae sunt, credimus
+              splendidiorem domum Matri Filium praestitisse, quam olim aedificavit sibi domum
+              subnixam columnis septem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e446">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e456" xml:id="UUyf3f-d1e1592-Rd1e448">Joannes
+            Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e456">О inaestimabilis laus Mariae! Magis credebat
+              Joseph castitati ejus, quam utero ejus, et plus credidit gratiae quam naturae.
+              Conceptionem manifestam videbat, et fornicationem suspicari non poterat: possibilius
+              esse credebat mulierem sine viro posse concipere, quam Mariam posse peccare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e461">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e471" xml:id="UUyf3f-d1e1592-Rd1e463">Joannes
+            Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e471">Comessatrix aut vinolenta nunquam Maria fuit, non
+              levis, non otiosa, non cantatrix, non turpium verborum amatrix, sicut solent plerumque
+              puellae, quae libenter talia, aut loquuntur, aut audiunt; non super virum oculos suos
+              extulit, aut infixit aspectum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e476">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e486" xml:id="UUyf3f-d1e1592-Rd1e478">Isidorus, <title>de
+              Novo Testamento</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e486">Maria, quae interpretatur
+              <!--<i>-->domina<!--</i>--> sive <!--<i>-->illuminatrix<!--</i>-->, clara stirpe
+              David, virga Jesse, hortus conclusus, fons signatus, mater Domini, templum Dei vivi,
+              sacrarium Spiritus sancti.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e499">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e506" xml:id="UUyf3f-d1e1592-Rd1e501">Beda, in
+            homiliis</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e506">Jure angelico aspectu simul et affatu meruit
+              perfrui, quae angelicam vitam studuit imitari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e511">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e518" xml:id="UUyf3f-d1e1592-Rd1e513">Beda, in
+            homiliis</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e518">Decebat ut, sicut per superbiam Evae mors
+              intravit, ita per humilitatem Mariae panderetur introitus vitae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e524">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e531" xml:id="UUyf3f-d1e1592-Rd1e526">Joannes
+            Damascenus</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e531">Maria in domo Dei plantata, et impinguata Spiritu
+              sancto, ut oliva fructifera omnis virtutis habitaculum facta est, ab omni vitae hujus
+              vitio et carnali desiderio mente desistens, et ita virginem animam observans cum
+              corpore, quod decebat eam Deum in sinu suo suscipere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e536">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e546" xml:id="UUyf3f-d1e1592-Rd1e538">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e546">Sagitta electa est amor Christi, quae Mariae
+              animam non modo confixit, sed etiam totaliter pertransivit: ut nullam in pectore
+              virginali particulam vacuam amore relinqueret; sed toto corde, tota anima, tota
+              virtute diligeret, et esset gratia plena.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e551">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e561" xml:id="UUyf3f-d1e1592-Rd1e553">Bernardus,
+              <title>super Missus est</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e561">In periculis, in augustiis, in rebus dubiis,
+              Mariam cogita, Mariam invoca; non recedat ab ore, non recedat a corde; et ut impetres
+              orationis suffragium, non deseras conversationis exemplum. Ipsam enim sequens, non
+              devias; ipsam rogans, non desperas; ipsam cogitans, non erras; ipsa tenente, non
+              corruis; ipsa protegente, non metuis; ipsa duce, non fatigaris; ipsa propitia, securas
+              ad gratiam pervenis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e566">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e576" xml:id="UUyf3f-d1e1592-Rd1e568">Bernardus,
+              <title>super Missus est</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e576">Quod Moysi monstratum est in rubo et igne, Aaron
+              in virga et flore, Gedeon in vellere et rore, hoc aperte Salomon praevidit in forti
+              muliere et ejus pretio; apertius praescivit Hieremias de femina et viro; apertissime
+              Isaias declaravit de virgine et Deo; et Gabriel tandem exhibuit ipsam virginem
+              salutando.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e581">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e591" xml:id="UUyf3f-d1e1592-Rd1e583">Bernardus,
+              <title>super Missus est</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e591">
+              <!--<i>-->Ipsa conteret caput tuum<!--</i>-->, etc. Cui haec victoria servata est,
+              nisi Mariae? Ipsa proculdubio caput contrivit venenatum, quae omnimodam maligni
+              spiritus suggestionem tam de carnis illecebra, quam de mentis superbia deduxit ad
+              nihilum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e600">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e610" xml:id="UUyf3f-d1e1592-Rd1e602">Bernardus,
+              <title>super Missus est</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e610">
+              <!--<i>-->Audi, filia, et vide<!--</i>-->, etc. Inclinavit Maria aurem suam, videlicet
+              ad obedientiam, et cor suum ad disciplinam, et oblita est populum suum et domum patris
+              sui: quia nec populum augere prolis successione, nec domui patris sui relinquere
+              curavit haeredem; sed quidquid honoris in populo, quidquid de paterna domo rerum
+              terrenarum habere potuisset, omnia arbitrata est quasi stercora, ut Christum
+              lucrifaceret.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e620">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e630" xml:id="UUyf3f-d1e1592-Rd1e622">Bernardus,
+              <title>super Missus est</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e630">Ipsa est nobilis illa stella ex Jacob orta, cujus
+              radius universum orbem illuminat, cujus splendor in supernis praefulget, et inferos
+              penetrat, terram etiam perlustrans, et calefaciens magis mentes quam corpora, fovet
+              mentes, et excoquit vitia.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e635">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e645" xml:id="UUyf3f-d1e1592-Rd1e637">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e645">Fuit procul dubio Mater Domini ante sancta, quam
+              nata, nec fallitur omnino sancta Ecclesia sanctum reputans ipsum nativitatis
+              diem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e650">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e660" xml:id="UUyf3f-d1e1592-Rd1e652">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e660">Decuit reginam virginum singularis privilegio
+              sanctitatis absque omni peccato ducere vitam, quae dum peccati mortisque pareret
+              peremptorem, munus vitae et justitiae omnibus obtineret.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e665">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e675" xml:id="UUyf3f-d1e1592-Rd1e667">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e675">Si ante conceptum suum sanctificari minime
+              potuit, quoniam non erat; sed nес in ipso conceptu, propter peccatum quod inerat;
+              restat quod post conceptum in utero jam existens, sanctificationem accepisse
+              credatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e680">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e687" xml:id="UUyf3f-d1e1592-Rd1e682">Bernardus, in
+            sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e687">Sileat misericordiam tuam, o beata Virgo, si quis
+              invocatam te in necessitatibus suis sibi meminerit defuisse. Nos quidem servuli tui
+              caeteris in virtutibus congaudemus tibi; sed in hac potius nobis ipsis. Laudamus enim
+              virginitatem tuam, et humilitatem miramur; sed misericordia miseris sapit dulcius,
+              quia misericordiam complectimur charius, recordamur saepius, crebrius invocamus. Haec
+              est enim illa, quae totius mundi reparationem obtinuit, et salutem omnibus
+              impetravit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e692">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e699" xml:id="UUyf3f-d1e1592-Rd1e694">Bernardus, in
+            sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e699">Quis misericordiae tuae, o benedicta,
+              longitudinem, latitudinem, sublimitatem et profundum queat investigare? Nam longitudo
+              ejus usque ad novissimum diem invocantibus eam subvenit universis. Latitudo ejus
+              replet orbem terrarum, ut tua quoque misericordia plena sit omnis terra. Sic et
+              sublimitas ejus civitatis supernae invenit restaurationem; et profundum ejus
+              sedentibus in tenebris et in umbra mortis obtinuit redemptionem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e705">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e712" xml:id="UUyf3f-d1e1592-Rd1e707">Bernardus, in
+            sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e712">Maria omnibus omnia facta est; sapientibus et
+              insipientibus copiosissima charitate debitricem se fecit, omnibus misericordiae sinum
+              aperuit, ut de plenitudine illius accipiant universi: captivus redemptionem, aeger
+              curationem, tristis consolationem, peccator veniam, justus gratiam, Angelus laetitiam,
+              denique tota Trinitas gloriam, Filii persona carnis humanae substantiam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e717">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e724" xml:id="UUyf3f-d1e1592-Rd1e719">Bernardus, in
+            sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e724">Fuit beata Virgo fortis in proposito, temperans
+              in silentio, prudens in interrogatione, justa in confessione.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e729">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e736" xml:id="UUyf3f-d1e1592-Rd1e731">Bernardus, in
+            sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e736">In te sola, beata Virgo, rex ille dives et
+              praedives exinanitur, et excelsus humiliatur, et immensus abbreviatur, et ab angelis
+              minoratur, verus denique Deus et Dei filius incarnatur. Sed quo fructu? Nempe ut omnes
+              ejus paupertate locupletemur, ejus humilitate sublevemur, ejus minoratione
+              magnificemur, ejus incarnatione adhaerentes Deo, incipiamus unus esse spiritus cum
+              eo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e741">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e748" xml:id="UUyf3f-d1e1592-Rd1e743">Bernardus, in
+            sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e748">Mariam salutans Angelus, non solum plenam gratia,
+              sed etiam adhuc superventurum in eam asserit Spiritum sanctum. Ad quid, nisi ut,
+              adveniente jam Spiritu, plena sibi; eodem superveniente, nobis quoque superplena et
+              supereffluens fieret?</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e753">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e760" xml:id="UUyf3f-d1e1592-Rd1e755">Bernardus, in
+            sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e760">Advocatam praemisit peregrinatio nostra, quae
+              tanquam judicis mater, et mater misericordiae, suppliciter et efficaciter salutis
+              nostrae negotia pertractabit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e765">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e772" xml:id="UUyf3f-d1e1592-Rd1e767">Bernardus, in
+            sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e772">Filioli, Maria peccatorum scala, Maria mea maxima
+              fiducia est, haec tota ratio spei meae. Quid enim? Potestne filius aut repellere te,
+              aut sustinere repulsam, non audire, aut non audiri filius? Neutrum plane.
+                <title>Invenisti</title>, ait Angelus, <!--<i>-->gratiam<!--</i>-->; et sola est
+              gratia, qua egemus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e785">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e792" xml:id="UUyf3f-d1e1592-Rd1e787">Bernardus, in
+            sermone</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e792">Non in sola Mariae taciturnitate commendatur ejus
+              humilitas; sed evidentius resonat in sermone. Audierat: <title>Quod ex te nascetur
+                sanctum, vocabitur Filius Dei</title>, et nihil aliud quam ancillam ejus se esse
+              fatetur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e800">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e810" xml:id="UUyf3f-d1e1592-Rd1e802">Anselmus, <title>de
+              Conceptu virginali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e810">Decebat enim ut illius hominis conceptio de matre
+              purissima fieret; ut ea puritate qua major sub Deo nequit intelligi virgo illa
+              niteret, cui Deus pater unicum filium, quem de corde suo aequalem sibi genuit, et
+              tanquam seipsum diligebat, ita dare disponebat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e815">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e825" xml:id="UUyf3f-d1e1592-Rd1e817">Anselmus, in libro
+              <title>Orationum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e825">Sicut, о beatissima, omnis a te aversus, et a te
+              despectus, necesse est ut intereat; ita ad te omnis conversus, et a te respectus,
+              impossibile est ut pereat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e830">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e840" xml:id="UUyf3f-d1e1592-Rd1e832">Anselmus, in libro
+              <title>Orationum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e840">O femina mirabiliter singularis, et singulariter
+              mirabilis, per quam elementa renovantur, inferna remediantur, homines salvantur,
+              angeli redintegrantur. O femina plena et superplena gratia, de cujus plenitudinis
+              exundantia respersa sic revirescit omnis creatura! O virgo benedicta, per cujus
+              benedictionem benedicitur omnis creatura, non solum creatura a creatore, sed etiam
+              creator a creatura!</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e1592-d1e845">
+          <ref corresp="#UUyf3f-d1e1592-Qd1e855" xml:id="UUyf3f-d1e1592-Rd1e847">Anselmus, circa
+              <title>Soliloquium</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e1592-Qd1e855">Loquamur, Domina, beneficiis tuis plenum esse
+              mundum: inferna penetrant, coelos superant: per plenitudinem enim gratiae tuae, et
+              quae in inferno erant se laetantur liberata, et quae supra caelum sunt se gaudent
+              restaurata.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

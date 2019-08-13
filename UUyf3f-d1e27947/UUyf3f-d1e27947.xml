@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De peccatis linguae, de nugis</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De peccatis linguae, de nugis</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e27947">
+        <head xml:id="UUyf3f-d1e27947-Hd1e99" type="question-title">De peccatis linguae, de
+          nugis</head>
+        <p xml:id="UUyf3f-d1e27947-d1e102">
+          <ref corresp="#UUyf3f-d1e27947-Qd1e112" xml:id="UUyf3f-d1e27947-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27947-Qd1e112">Otiosum verbum est, quod aut ratione justae
+              necessitatis, aut intentione piae utilitatis caret.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27947-d1e117">
+          <ref corresp="#UUyf3f-d1e27947-Qd1e127" xml:id="UUyf3f-d1e27947-Rd1e119">Ambrosius,
+              <title>super Beati immaculati</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27947-Qd1e127">Non mediocre periculum est, cum habeas tanta
+              eloquia Dei, et opera, quae fecit in <!--<i>-->Genesi<!--</i>-->, in
+              <!--<i>-->Exodo<!--</i>-->, in <!--<i>-->Levitico<!--</i>-->,
+              <!--<i>-->Numeris<!--</i>-->, <!--<i>-->Deuteronomio<!--</i>-->, <!--<i>-->Jesu
+              Nave<!--</i>-->, <!--<i>-->Judicum<!--</i>-->, <!--<i>-->libro Regum<!--</i>--> atque
+              <!--<i>-->Esdrae<!--</i>-->, et quae dixit, et quae fecit in
+              <!--<i>-->Evangelio<!--</i>-->, in <!--<i>-->Actibus Apostolorum<!--</i>-->; si, illis
+              praetermissis, loquaris quae saeculi sunt, audias quae vana sunt et otiosa.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27947-d1e176">
+          <ref corresp="#UUyf3f-d1e27947-Qd1e186" xml:id="UUyf3f-d1e27947-Rd1e178">Isidorus, in
+              <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27947-Qd1e186">Sermo vanus, vanae conscientiae judex est. Mores
+              enim hominis lingua pandit; et qualis sermo ostenditur, talis et animus
+              comprobatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27947-d1e191">
+          <ref corresp="#UUyf3f-d1e27947-Qd1e201" xml:id="UUyf3f-d1e27947-Rd1e193">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27947-Qd1e201">Vani sermones in ore Christiani non debent
+              inveniri. Nam sicut malos mores bona colloquia corrigunt, ita prava colloquia bonos
+              mores corrumpunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27947-d1e207">
+          <ref corresp="#UUyf3f-d1e27947-Qd1e217" xml:id="UUyf3f-d1e27947-Rd1e209">Joannes
+            Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27947-Qd1e217">Omnis sermo vanus qui dicitur, immundo spiritu
+              dictante profertur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27947-d1e222">
+          <ref corresp="#UUyf3f-d1e27947-Qd1e232" xml:id="UUyf3f-d1e27947-Rd1e224">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27947-Qd1e232">Quidquid non aedificat audientes, in periculum
+              vertitur loquentium.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27947-d1e237">
+          <ref corresp="#UUyf3f-d1e27947-Qd1e247" xml:id="UUyf3f-d1e27947-Rd1e239">Bernardus, in
+              <title>Apologia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27947-Qd1e247">
+              <!--<i>-->Vobis convenientibus in unum<!--</i>-->, ut Apostoli verbis utar,
+              <!--<i>-->jam non est dominicam coenam manducare<!--</i>-->: panem quippe coelestem
+              nemo est qui requirat, nemo qui tribuat: nihil de Scripturis sacris quisquam loquitur,
+              nihil de salute agitur animarum; sed nugae, risus, et verba multa proferuntur in
+              ventum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27947-d1e260">
+          <ref corresp="#UUyf3f-d1e27947-Qd1e270" xml:id="UUyf3f-d1e27947-Rd1e262">Bernardus,
+              <title>de Praecepto et Dispensatione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27947-Qd1e270">Stultiloquia et vaniloquia nunquam nisi contra
+              mandata Dei usurpantur. Peccata quippe sunt: et Deus prohibet omne peccatum; et tamen
+              venialia, non criminalia reputantur, excepto, cum per contemptum vertuntur in usum et
+              consuetudinem; et tunc non peccati species, sed peccantis intentio pensatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27947-d1e275">
+          <ref corresp="#UUyf3f-d1e27947-Qd1e285" xml:id="UUyf3f-d1e27947-Rd1e277">Bernardus,
+              <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27947-Qd1e285">Fugienda otiositas mater nugarum, noverca
+              virtutum. Inter saeculares quippe nugae sunt, in ore sacerdotis blasphemiae: interdum
+              tamen si incidant, ferendae fortassis, referendae nunquam: magis interveniendum caute
+              et prudenter nugacitati.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27947-d1e290">
+          <ref corresp="#UUyf3f-d1e27947-Qd1e300" xml:id="UUyf3f-d1e27947-Rd1e292">Bernardus,
+              <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27947-Qd1e300">Consecrasti os tuum Evangelio; nugis igitur jam
+              os aperire illicitum est; assuescere vero nugas loqui, sacrilegum est. <!--<i>-->Labia
+              sacerdotis<!--</i>-->, ait Propheta, <!--<i>-->custodiunt scientiam, et ex ore ejus
+              requirunt legem<!--</i>-->, non nugas, aut fabulas.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e27947-d1e314">
+          <ref corresp="#UUyf3f-d1e27947-Qd1e324" xml:id="UUyf3f-d1e27947-Rd1e316">Bernardus,
+              <title>de Consideratione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e27947-Qd1e324">Verbum scurrile ab ore procul sit, et procul ab
+              aure relegandum est. Foede enim ad cachinnos moveris; sed foedius alios moves.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

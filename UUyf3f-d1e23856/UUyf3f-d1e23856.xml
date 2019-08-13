@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De continentia tactus</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De continentia tactus</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e23856">
+        <head xml:id="UUyf3f-d1e23856-Hd1e99" type="question-title">De continentia tactus</head>
+        <p xml:id="UUyf3f-d1e23856-d1e102">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e112" xml:id="UUyf3f-d1e23856-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e112">Nulla sunt caetera bona, si occulti judicis
+              oculis, castitatis testimonio non approbantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e117">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e127" xml:id="UUyf3f-d1e23856-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e127">Nulla est castitas carnis quam non commendat
+              suavitas mentis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e132">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e142" xml:id="UUyf3f-d1e23856-Rd1e134">Gregorius, in
+              <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e142">Quos onus licitum conjugii non gravat, nequaquam
+              pondus illicitum terrenae sollicitudinis premat; sed tanto eos paratiores dies ultima,
+              quanto expeditiores, inveniat: ne quo meliora agere vacantes possunt, sed tamen
+              negligunt, eo supplicia deteriora mereantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e147">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e157" xml:id="UUyf3f-d1e23856-Rd1e149">Gregorius, in
+              <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e157">Custodienda est munditia corporis in studiis
+              bonae actionis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e163">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e173" xml:id="UUyf3f-d1e23856-Rd1e165">Ambrosius,
+              <title>de Viduitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e173">Castitas solitudinem quaerit: pudica secretum:
+              impudica conventum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e178">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e188" xml:id="UUyf3f-d1e23856-Rd1e180">Ambrosius, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e188">Prima castitatis victoria, est facultatem
+              cupiditatis vincere; quia lucri studium, tentatio pudoris est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e193">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e203" xml:id="UUyf3f-d1e23856-Rd1e195">Augustinus,
+              <title>de Virginitate sancta</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e203">Sicut nemo impudice utitur corpore, nisi spiritu
+              prius concepta nequitia; ita nemo pudicitiam servat in corpore, nisi spiritui prius
+              insita castitate.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e208">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e218" xml:id="UUyf3f-d1e23856-Rd1e210">Augustinus,
+              <title>de Ecclesiasticis Dogmatibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e218">Melior est continentia nuptiis; sed non sibi
+              sola sufficit ad beatitudinem, si pro solo amore pudicitiae retinetur; sed si et hoc
+              cum affectu causa vacandi Domino eligitur: alioquin divortium magis conjugii videbitur
+              esse, quam appetitus castitatis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e223">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e233" xml:id="UUyf3f-d1e23856-Rd1e225">Augustinus,
+              <title>de Soliloquiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e233">Quantum uxorem velis pingere, atque cumulare
+              bonis omnibus, nihil mihi tam fugiendum, quam concubitum esse decrevi. Nihil enim
+              sentio, quod magis ex arce virtutis dejiciat animum virilem, quam blandimenta feminea,
+              corporumque ille contactus, sine quo uxor haberi non potest.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e238">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e248" xml:id="UUyf3f-d1e23856-Rd1e240">Augustinus,
+              <title>de Civitate Dei</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e248"
+              source="http://scta.info/resource/adcd-l1-d1e108">Ita non amittitur corporis sanctitas
+              manente animi sanctitate, etiam corpore oppresso, sicut amittitur et corporis
+              sanctitas, violata animi sanctitate, etiam corpore intacto.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e254">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e264" xml:id="UUyf3f-d1e23856-Rd1e256">Augustinus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e264">Quidquid in carne nec commisit, nec permisit
+              libido patientis, solius erit culpa facientis; omnisque illa violentia non pro
+              corruptionis turpitudine, sed pro passionis vulnere reputabitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e269">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e279" xml:id="UUyf3f-d1e23856-Rd1e271">Joannes
+            Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e279">Omnes virtutes spirituales res sunt angelicae;
+              praecipue tamen castitas res est angelica: per hanc enim solum singulariter homines
+              angelis similantur, et vincitur natura virtutibus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e284">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e294" xml:id="UUyf3f-d1e23856-Rd1e286">Joannes
+            Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e294">Illa est gloriosa continentia, non quam
+              transgredi non potest necessitas, vel debilitas corporis, sed quam complectitur
+              voluntas sancti propositi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e299">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e309" xml:id="UUyf3f-d1e23856-Rd1e301">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e309">Grandis virtutis est et sollicitae diligentiae,
+              superare quod nata sis, in carne non carnaliter vivere, tecum pugnare quotidie, et
+              inclusum hostem Argi, ut fabulae ferunt, centum oculis observare.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e314">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e324" xml:id="UUyf3f-d1e23856-Rd1e316">Hieronymus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e324">Magnus est pudicitiae labor, sed majus est
+              praemium: temporalis custodia, sed remuneratio aeterna.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e329">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e339" xml:id="UUyf3f-d1e23856-Rd1e331">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e339">Amanda est pulchritudo castitatis, cujus
+              degustata delectatio dulcior invenitur, quam carnis. Castitas enim fructus est
+              suavitatis, pulchritudo inviolata sanctorum: castitas securitas mentis, sanitas
+              corporis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e345">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e355" xml:id="UUyf3f-d1e23856-Rd1e347">Isidorus, in
+              <title>Etymologiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e355">Continens non solum in castitate dicitur, sed et
+              in cibo, et in potu, in ira quoque et vexatione mentis, et detrahendi libidine. Nam
+              continens dicitur, quod se a multis abstineat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e360">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e370" xml:id="UUyf3f-d1e23856-Rd1e362">Cyprianus,
+              <title>de duodecim Abusionibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e370">Pudicitia nobilium ornamentum est, exaltatio
+              humilium, nobilitas ignobilium, pulchritudo debilium, prosperitas laborantium, solamen
+              moestorum, augmentum omnis pulchritudinis, decus religionis, defensio criminum,
+              multiplicatio meritorum, Dei creatoris omnium amica.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e375">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e385" xml:id="UUyf3f-d1e23856-Rd1e377">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e385">Quid castitate decorius, quae mundum de immundo
+              conceptum semine, de hoste domesticum, angelum denique de homine facit? Differunt
+              quidem inter se homo pudicus, et angelus; sed felicitate, non virtute. Nam etsi
+              castitas illius felicior, hujus tamen cognoscitur esse fortior.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e390">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e400" xml:id="UUyf3f-d1e23856-Rd1e392">Bernardus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e400">Sola est castitas, quae in hoc mortalitatis et
+              loco et tempore, statum quemdam immortalis gloriae repraesentat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e23856-d1e405">
+          <ref corresp="#UUyf3f-d1e23856-Qd1e415" xml:id="UUyf3f-d1e23856-Rd1e407">Bernardus, in
+              <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e23856-Qd1e415">Continendum est in veritate: quidam enim
+              continent ex necessitate, non habentes, aut loci, aut temporis, aut instrumentorum
+              opportunitatem; quidam ex vanitate, propter favorem videlicet hominum, vel aliquod
+              temporale commodum; quidam ex veritate, soli Deo placere cupientes.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

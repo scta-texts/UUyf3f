@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De ingratitudine</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De ingratitudine</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e32750">
+        <head xml:id="UUyf3f-d1e32750-Hd1e99" type="question-title">De ingratitudine</head>
+        <p xml:id="UUyf3f-d1e32750-d1e102">
+          <ref corresp="#UUyf3f-d1e32750-Qd1e112" xml:id="UUyf3f-d1e32750-Rd1e104">Gregorius, in <title>Registro</title>, de imperatore
+            Mauritio</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32750-Qd1e112">Valde mihi durum videtur, ut ab ejus servitio
+              milites suos prohibeat, qui et ei omnia tribuit, et dominari eum non solum militibus,
+              sed etiam sacerdotibus concessit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32750-d1e117">
+          <ref corresp="#UUyf3f-d1e32750-Qd1e127" xml:id="UUyf3f-d1e32750-Rd1e119">Joannes Chrysostomus, <title>super Matthaeum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32750-Qd1e127">Omne bonum quod non ex amore ipsius boni faciunt
+              homines, ingratum est ante Deum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32750-d1e132">
+          <ref corresp="#UUyf3f-d1e32750-Qd1e142" xml:id="UUyf3f-d1e32750-Rd1e134">Augustinus, <title>de Viduitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32750-Qd1e142">Multi habent multa dona, et Deum nesciendo, a
+              quo habent, impia vanitate jactantur. Nemo autem est donis Dei beatus, qui donanti
+              extiterit ingratus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32750-d1e147">
+          <ref corresp="#UUyf3f-d1e32750-Qd1e157" xml:id="UUyf3f-d1e32750-Rd1e149">Augustinus, <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32750-Qd1e157">Ingratus extitit, qui plenus virtutibus Deum
+              omnino non timuit. In hoc enim quisque peccator fit culpabilior, quo est Deo
+              acceptior.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32750-d1e163">
+          <ref corresp="#UUyf3f-d1e32750-Qd1e173" xml:id="UUyf3f-d1e32750-Rd1e165">Augustinus, <title>de Spiritu et Littera</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32750-Qd1e173">Erit anima ingrata, si, quod illi ex Deo est,
+              sibi tribuit, praecipueque justitiam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32750-d1e178">
+          <ref corresp="#UUyf3f-d1e32750-Qd1e188" xml:id="UUyf3f-d1e32750-Rd1e180">Bernardus, super <title>Qui habitat</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32750-Qd1e188">Confitenti humiliter, et devote gratias agenti,
+              non immerito ampliora beneficia promittuntur. Nam qui fidelis invenitur in modico,
+              jure constituitur super multa; sicut e contrario accipiendis indignus est, qui fuerit
+              de acceptis ingratus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32750-d1e193">
+          <ref corresp="#UUyf3f-d1e32750-Qd1e203" xml:id="UUyf3f-d1e32750-Rd1e195">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32750-Qd1e203">Ingratus reputabitur, cum discussio venerit, qui
+              non poterit dicere cum David: <!--<i>-->Cantabiles mihi erant justificationes tuae, in
+              loco peregrinationis meae<!--</i>-->.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32750-d1e212">
+          <ref corresp="#UUyf3f-d1e32750-Qd1e222" xml:id="UUyf3f-d1e32750-Rd1e214">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32750-Qd1e222">Numquid non perit, quod datur ingrato?
+              Ingratitudo enim inimica est gratiae, perditio animae, exinanitio meritorum, virtutum
+              dispersio, beneficiorum perditio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32750-d1e227">
+          <ref corresp="#UUyf3f-d1e32750-Qd1e237" xml:id="UUyf3f-d1e32750-Rd1e229">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32750-Qd1e237">Ingratitudo ventus est urens, fontem siccans
+              pietatis, rorem misericordiae, et fluenta omnis gratiae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32750-d1e242">
+          <ref corresp="#UUyf3f-d1e32750-Qd1e252" xml:id="UUyf3f-d1e32750-Rd1e244">Bernardus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32750-Qd1e252">Ingratitudo vias obstruit gratiae, et ubi fuerit
+              illa, gratia accessum non invenit, locum non habet. Hinc mihi, carissimi, dolor
+              continuus est, multaque tristitia cordi meo, quod nonnullos tam pronos ad levitatem,
+              ad risum, ad verba otiosa et scurrilia video, ut pertimescam valde, ne forte plus quam
+              expediat divinae misericordiae immemores et ingrati super tam multis beneficiis suis,
+              aliquando deserantur a gratia, quam non habent ut gratiam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32750-d1e258">
+          <ref corresp="#UUyf3f-d1e32750-Qd1e268" xml:id="UUyf3f-d1e32750-Rd1e260">Bernardus, in <title>Sermone</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32750-Qd1e268">Omnino nos sola a profectu conversationis
+              impedit ingratitudo nostra: dum quodammodo perditum reputans qui dedit, quod ingratus
+              accepit, cavet sibi de caetero ne tanto plura amitteret, quanto plura ingrato
+              conferret.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e32750-d1e273">
+          <ref corresp="#UUyf3f-d1e32750-Qd1e283" xml:id="UUyf3f-d1e32750-Rd1e275">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e32750-Qd1e283">Quisquis de accipiendo semper cogitat, oblitus
+              accepti est; nec ullum habet malum cupiditas majus, quam quod ingrata est.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

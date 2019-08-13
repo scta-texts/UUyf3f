@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De satisfactione</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De satisfactione</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e18387">
+        <head xml:id="UUyf3f-d1e18387-Hd1e99" type="question-title">De satisfactione</head>
+        <p xml:id="UUyf3f-d1e18387-d1e102">
+          <ref corresp="#UUyf3f-d1e18387-Qd1e112" xml:id="UUyf3f-d1e18387-Rd1e104">Gregorius, in
+              <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18387-Qd1e112">Neque Deus nostris cruciatibus pascitur, sed
+              delictorum morbos medicamentis contrariis medetur, ut qui voluptatibus delectati
+              discessimus, rursum fletibus amaricati redeamus; et qui per illicita diffluendo
+              cecidimus, etiam a licitis nosmetipsos restringendo surgamus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18387-d1e117">
+          <ref corresp="#UUyf3f-d1e18387-Qd1e127" xml:id="UUyf3f-d1e18387-Rd1e119">Gregorius, in
+              <title>Homiliis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18387-Qd1e127">Dum a retributione ultionis ultimae esse quaedam
+              temporis securitas videtur, debemus pensare malum quod sequitur, pensantes gemere,
+              gementes vitare; ea, quae commisimus, peccata indesinenter aspicere, aspicientes
+              flere, flentes abstergere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18387-d1e132">
+          <ref corresp="#UUyf3f-d1e18387-Qd1e142" xml:id="UUyf3f-d1e18387-Rd1e134">Augustinus, in
+              <title>Regula</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18387-Qd1e142">Quicumque convitio, vel maledicto, vel etiam
+              criminis objectu aliquem laeserit, meminerit satisfactione quam citius curare quod
+              fecit; et ille, qui laesus est, sine disceptatione dimittere. Si autem invicem se
+              laeserint, invicem sibi debita relaxare debebunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18387-d1e147">
+          <ref corresp="#UUyf3f-d1e18387-Qd1e157" xml:id="UUyf3f-d1e18387-Rd1e149">Augustinus,
+              <title>de Ecclesiasticis Dogmatibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18387-Qd1e157">Poenitentia vera est poenitenda non admittere,
+              et admissa deflere. Satisfactio poenitentiae est, causas peccatorum excidere, nec
+              earum suggestionibus aditum praebere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18387-d1e163">
+          <ref corresp="#UUyf3f-d1e18387-Qd1e173" xml:id="UUyf3f-d1e18387-Rd1e165">Augustinus,
+              <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18387-Qd1e173">Ponat se poenitens omnino in potestate judicis,
+              in arbitrio sacerdotis, nihil sibi reservans sui, ut omnia, eo jubente paratus sit
+              facere pro recipienda vita animae, quaecumque faceret pro evitanda corporis
+              morte.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18387-d1e178">
+          <ref corresp="#UUyf3f-d1e18387-Qd1e188" xml:id="UUyf3f-d1e18387-Rd1e180">Augustinus,
+              <title>de Poenitentia</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18387-Qd1e188">Qui multos offendit peccando, multos oportet
+              placare satisfaciendo.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18387-d1e193">
+          <ref corresp="#UUyf3f-d1e18387-Qd1e203" xml:id="UUyf3f-d1e18387-Rd1e195">Augustinus, in
+              <title>Enchiridio</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18387-Qd1e203">De quotidianis levibusque peccatis, sine quibus
+              haec vita non ducitur, quotidiana oratio fidelium satisfacit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18387-d1e208">
+          <ref corresp="#UUyf3f-d1e18387-Qd1e218" xml:id="UUyf3f-d1e18387-Rd1e210">Augustinus, in
+              <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18387-Qd1e218">Nihil aliud facit, quem veraciter poenitet, nisi
+              ut id, quod male fecerat, impunitum esse non sinat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18387-d1e223">
+          <ref corresp="#UUyf3f-d1e18387-Qd1e230" xml:id="UUyf3f-d1e18387-Rd1e225">Ambrosius, super
+            Lucam</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18387-Qd1e230">Nemo diffidat, nemo veterum conscius delictorum
+              praemia divina desperet: novit enim Deus mutare sententiam, si tu noveris emendare
+              delictum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18387-d1e235">
+          <ref corresp="#UUyf3f-d1e18387-Qd1e245" xml:id="UUyf3f-d1e18387-Rd1e237">Ambrosius, super
+              <title>Beati immaculati</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18387-Qd1e245">Tanta vis emendatae conversationis est, ut in
+              quamdam redeat pueritiae spiritualis aetatem, quae vias erroris ignoret; et crimen,
+              etiamsi velit, non possit admittere, quae desinit usum peccandi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18387-d1e251">
+          <ref corresp="#UUyf3f-d1e18387-Qd1e261" xml:id="UUyf3f-d1e18387-Rd1e253">Isidorus, in
+              <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18387-Qd1e261">Cinis es, et in cinerem reverteris: vivas ergo
+              semper lugens, semper moerens, semper suspiria cordis emittens.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18387-d1e266">
+          <ref corresp="#UUyf3f-d1e18387-Qd1e276" xml:id="UUyf3f-d1e18387-Rd1e268">Isidorus,
+              <title>de summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18387-Qd1e276">Ille poenitentiam digne agit, qui reatum suum
+              satisfactione legitima plangit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18387-d1e281">
+          <ref corresp="#UUyf3f-d1e18387-Qd1e291" xml:id="UUyf3f-d1e18387-Rd1e283">Isidorus,
+              <title>de summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18387-Qd1e291">Quamvis per poenitentiam propitiatio peccatorum
+              sit, sine metu tamen homo esse non debet, quia poenitentiae satisfactio divino tantum
+              pensatur judicio, non humano.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18387-d1e296">
+          <ref corresp="#UUyf3f-d1e18387-Qd1e306" xml:id="UUyf3f-d1e18387-Rd1e298">Bernardus,
+              <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18387-Qd1e306">Humilis et verecunda debet esse satisfactio, per
+              quam emendatur superba transgressio.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e18387-d1e311">
+          <ref corresp="#UUyf3f-d1e18387-Qd1e321" xml:id="UUyf3f-d1e18387-Rd1e313">Glossa
+              <title>super Psalmos</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e18387-Qd1e321">Est quaedam confusio temporalis, quae est ad
+              horam, quae quidem prodest, scilicet perturbatio animi respicientis peccata sua, et
+              respectione horrentis, et horrore erubescentis, et rubore corrigentis.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

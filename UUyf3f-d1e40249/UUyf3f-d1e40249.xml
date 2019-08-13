@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De amicitia</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De amicitia</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e40249">
+        <head xml:id="UUyf3f-d1e40249-Hd1e99" type="question-title">De amicitia</head>
+        <p xml:id="UUyf3f-d1e40249-d1e102">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e112" xml:id="UUyf3f-d1e40249-Rd1e104">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e112">Cum quis in prosperitate diligitur, incertum est
+              valde, utrum prosperitas, an persona diligatur; amissio autem felicitatis interrogat
+              vim dilectionis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e117">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e127" xml:id="UUyf3f-d1e40249-Rd1e119">Gregorius, in <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e127">Qui ex adversitate proximum despicit, aperte
+              convincitur, quod hunc in prosperis non amavit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e132">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e142" xml:id="UUyf3f-d1e40249-Rd1e134">Gregorius, in <title>Dialogis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e142">Inter amantes se amicos, magnum charitatis
+              familiaritas ausum praebet.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e147">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e157" xml:id="UUyf3f-d1e40249-Rd1e149">Gregorius, in <title>Pastorali</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e157">Ab illo, qui summe rectus est, eo ipso jam
+              discrepat, quo perversorum amicitiis vita nostra concordat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e163">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e173" xml:id="UUyf3f-d1e40249-Rd1e165">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e173">Amicorum amissio nos tanto debet tolerabilius
+              contristare, quanto amissuros nos illos conditio mortalis exposcit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e178">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e188" xml:id="UUyf3f-d1e40249-Rd1e180">Gregorius, in <title>Registro</title>)</ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e188">Ut aliquid saecularis auctoritatis loquar, cum
+              amicis omnia tractanda sunt, sed prius de ipsis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e193">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e203" xml:id="UUyf3f-d1e40249-Rd1e195">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e203">Nemo potest diligere, quos non vult
+              videre.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e208">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e218" xml:id="UUyf3f-d1e40249-Rd1e210">Isidorus, in <title>Etymologiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e218">Amicus, quasi <!--<i>-->animi<!--</i>--> vel
+              <!--<i>-->amicitiae<!--</i>--> custos per derivationem, dictus autem proprie amicus ab
+              <!--<i>-->hamo<!--</i>-->, id est a catena charitatis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e235">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e245" xml:id="UUyf3f-d1e40249-Rd1e237">Isidorus, <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e245">Non sunt fideles in amicitia, quos munus, non
+              gratia copulat: hi cito deserunt, nisi semper acceperint. Dilectio enim, quae munere
+              glutinatur, eo suspenso dissolvitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e250">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e260" xml:id="UUyf3f-d1e40249-Rd1e252">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e260">Nemo potest veraciter amicus esse hominis, nisi
+              fuerit ipsius primitus veritatis: quod si gratis non fiat, nullo fieri pacto
+              potest.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e266">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e276" xml:id="UUyf3f-d1e40249-Rd1e268">Augustinus, <title>de Catechizandis Rudibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e276">Nulla est major ad amorem invitatio, quam
+              praevenire amando. Et nimis durus est animus, qui dilectionem si nolebat impendere,
+              noluit rependere.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e281">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e291" xml:id="UUyf3f-d1e40249-Rd1e283">Augustinus, in <title>Soliloquiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e291">Illam amicitiae legem justissimam esse arbitror,
+              qua praescribitur, ut non minus, ita nec plus quis amicum, quam seipsum
+              diligat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e296">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e306" xml:id="UUyf3f-d1e40249-Rd1e298">Augustinus, in <title>Soliloquiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e306">Tanto magis amo amicos meos, quanto magis bene
+              utuntur anima rationali, vel certe quantum desiderant ea bene uti.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e311">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e321" xml:id="UUyf3f-d1e40249-Rd1e313">Ambrosius, <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e321">Pietatis custos amicitia est, et aequalitatis
+              magistra, ut superior inferiori se exhibeat aequalem, et inferior superiori
+              fidelem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e326">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e336" xml:id="UUyf3f-d1e40249-Rd1e328">Ambrosius, <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e336">Amicitia nescit superbiam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e341">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e351" xml:id="UUyf3f-d1e40249-Rd1e343">Ambrosius, <title>de Officiis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e351">Virtus est amicitia, non quaestus: non pecunia
+              paratur, sed gratia: non pollicitatione pretiorum, sed concertatione
+              benevolentiae.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e357">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e367" xml:id="UUyf3f-d1e40249-Rd1e359">Joannes Chrysostomus, <title>de Compunctione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e367">Ubi amicitia permanet, nihil facile creditur,
+              nil facile recipitur, quod dissidium possit operari.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e372">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e382" xml:id="UUyf3f-d1e40249-Rd1e374">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e382">In amicis non res quaeritur, sed voluntas; quia
+              alterum et ab inimicis saepe praebetur, alterum sola charitas tribuit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e387">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e397" xml:id="UUyf3f-d1e40249-Rd1e389">Hieronymus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e397">Vera illa necessitudo est, et Christi glutino
+              copulata, quam non utilitas rei familiaris, non praesentia tantum corporum, non
+              subdola et palpans adulatio, sed Dei timor, et divinarum Scripturarum studia
+              conciliant.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e402">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e412" xml:id="UUyf3f-d1e40249-Rd1e404">Hieronymus, in originali <title>super
+              Michaeam</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e412">Delicata est amicitia, quae amicorum felicitatem
+              et divitias sequitur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e417">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e427" xml:id="UUyf3f-d1e40249-Rd1e419">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e427">Habet vera amicitia nonnunquam objurgationem,
+              adulationem nunquam.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e432">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e442" xml:id="UUyf3f-d1e40249-Rd1e434">Glossa in <title>Ecclesiasticum</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e442">Plena et perfecta amicitia inter perfectos
+              viros, ejusdemque virtutis, perseverare potest, et ad hanc quibusdam gradibus
+              pervenitur. Primus est mundanorum contemptus. Secundus, ne quis se sapientem et
+              consultum judicans, sibi quam amico credere malit. Tertius, ut omnia, quae utilia et
+              necessaria aestimat, bono charitatis et pacis proponat. Quartus, ut omnino desinat ab
+              ira. Quintus, ut iram fratris etiam irrationabilem sedare cupiat: quia alterius
+              tristitia perniciosa est, sicut propria, nisi eam, quantum in te est, etiam de fratris
+              mente depellas. Postremus gradus est omnium vitiorum peremptorius, ut de hoc mundo
+              credas te quotidie migraturum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e448">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e458" xml:id="UUyf3f-d1e40249-Rd1e450">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e458">Qui utilitatis causa assumptus est, tandiu
+              placebit, quandiu utilis erit. Hac re florentes amicorum turba circumsidet; circa
+              eversos solitudo est, et inde amici fugiunt ubi probantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e463">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e473" xml:id="UUyf3f-d1e40249-Rd1e465">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e473">Amicum paro, ut habeam pro quo mori possim; ut
+              habeam quem in exilium sequar; cujus me morti et opponam, et impendam. Detrahit
+              amicitiae majestatem suam, qui illam parat ad bonos casus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e40249-d1e478">
+          <ref corresp="#UUyf3f-d1e40249-Qd1e488" xml:id="UUyf3f-d1e40249-Rd1e480">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e40249-Qd1e488">Amicos optime res secundae parant; adversae
+              certissime probant.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

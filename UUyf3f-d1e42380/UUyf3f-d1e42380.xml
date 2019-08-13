@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De bonitate</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De bonitate</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e42380">
+        <head xml:id="UUyf3f-d1e42380-Hd1e99" type="question-title">De bonitate</head>
+        <p xml:id="UUyf3f-d1e42380-d1e102">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e112" xml:id="UUyf3f-d1e42380-Rd1e104">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e112">Omne bonum, quod agimus, per intentionem semper
+              ad coelestia levemus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e117">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e127" xml:id="UUyf3f-d1e42380-Rd1e119">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e127">Hi veraciter boni sunt, qui in bonitate
+              persistere etiam inter malos possunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e132">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e142" xml:id="UUyf3f-d1e42380-Rd1e134">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e142">Quantum vos in bono profecistis, tantum bona
+              etiam de alienis sentitis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e147">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e157" xml:id="UUyf3f-d1e42380-Rd1e149">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e157">Bona Deo accepta non sunt, quae ante oculos ejus
+              malorum admixtione maculantur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e163">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e173" xml:id="UUyf3f-d1e42380-Rd1e165">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e173">Bona quae hominibus innotescunt, sine periculo
+              vix esse possunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e178">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e188" xml:id="UUyf3f-d1e42380-Rd1e180">Gregorius, in <title>Dialogis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e188">Multa videntur bona, sed non sunt, quia bono
+              animo non fiunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e193">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e203" xml:id="UUyf3f-d1e42380-Rd1e195">Gregorius, in <title>Dialogis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e203">Vitae vera aestimatio in virtute est operum, non
+              in ostensione signorum. Nam sunt plerique, qui et signa non faciunt, signa tamen
+              facientibus dispares non sunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e208">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e218" xml:id="UUyf3f-d1e42380-Rd1e210">Gregorius, <title>super Ezechielem</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e218">Bonum valde est quod justus tribuit, quando male
+              agentibus libera voce contradicit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e223">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e233" xml:id="UUyf3f-d1e42380-Rd1e225">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e233">Bonarum mentium est, et ibi aliquo modo culpas
+              suas agnoscere, ubi culpa non est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e238">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e248" xml:id="UUyf3f-d1e42380-Rd1e240">Gregorius, in <title>Registro</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e248">Vestrum sine dubio bonum facitis, si bona
+              volentibus opem fertis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e254">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e264" xml:id="UUyf3f-d1e42380-Rd1e256">Augustinus, <title>de Verbis Domini</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e264">Potes aurum perdere et nolens, potes domum,
+              potes honores, potes ipsam casu salutem; bonum vero, quo vere bonus es, nec invitus
+              accipis, nec invitus amittis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e269">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e279" xml:id="UUyf3f-d1e42380-Rd1e271">Augustinus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e279">Quis est in hac vita sine aliquo peccato? Sed
+              eum dicimus bonum, cujus praevalent bona; illumque optimum, qui peccat
+              minimum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e284">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e294" xml:id="UUyf3f-d1e42380-Rd1e286">Augustinus, <title>de Natura boni</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e294">Et omne bonum a Deo est: omnis ergo natura a Deo
+              est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e299">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e309" xml:id="UUyf3f-d1e42380-Rd1e301">Augustinus, <title>de Natura boni</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e309">Omnia quanto magis moderata, speciosa, ordinata
+              sunt, tanto magis bona sunt; quanto autem minus moderata, minus speciosa, minus
+              ordinata sunt, minus bona sunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e314">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e324" xml:id="UUyf3f-d1e42380-Rd1e316">Augustinus, <title>de Virginitate</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e324">Aliquando alter fructuosus est donis
+              paucioribus, sed potioribus; alter inferioribus, sed pluribus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e329">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e339" xml:id="UUyf3f-d1e42380-Rd1e331">Augustinus, <title>de Libero arbitrio</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e339">Bonum est aliquid homo: et melius quam pecus, ex
+              eo quod praecepti capax: et hoc melius, cum praeceptum jam cepit: rursum hoc melius,
+              cum praecepto paruit: et his omnibus melius, cum aeternae lumine sapientiae beatus
+              est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e345">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e355" xml:id="UUyf3f-d1e42380-Rd1e347">Joannes Chrysostomus, <title>de Militia
+              Christiana</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e355">Non agamus similem infidelibus vitam; sed a
+              quibus fide discernimur, ab eorum studiis, etiam et moribus dividamur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e360">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e370" xml:id="UUyf3f-d1e42380-Rd1e362">Joannes Chrysostomus, in <title>Sermonibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e370">Pietati hoc proprium est, ut in tenebris
+              fulgeat; impietas autem, etsi in lumine fuerit, tenebrescit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e375">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e385" xml:id="UUyf3f-d1e42380-Rd1e377">Bernardus, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e385">Minime pro certo est bonus, qui melior esse non
+              vult; et ubi incipis nolle fieri melior, ibi desinis etiam esse bonus.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e390">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e400" xml:id="UUyf3f-d1e42380-Rd1e392">Bernardus, <title>super Cantica</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e400">Non mediocris titulus profecto virtutis, inter
+              pravos vivere bonum, et inter malignantes innocentiae retinere candorem et morum
+              lenitatem.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e405">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e415" xml:id="UUyf3f-d1e42380-Rd1e407">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e415">Tranquillitas animi, et expulsis erroribus
+              absoluta libertas, quaeris quae sit ista? Non homines timere; non turpia velle, nec
+              nimia; in seipsum maximam habere potestatem: inaestimabile bonum est suum
+              fleri.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e420">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e430" xml:id="UUyf3f-d1e42380-Rd1e422">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e430">Nulla sine Deo mens bona est.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e436">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e446" xml:id="UUyf3f-d1e42380-Rd1e438">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e446">Pars magna bonitatis est velle fieri
+              bonum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e42380-d1e451">
+          <ref corresp="#UUyf3f-d1e42380-Qd1e461" xml:id="UUyf3f-d1e42380-Rd1e453">Seneca, in <title>Epistola</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e42380-Qd1e461">Animus nunquam major est, quam ubi aliena
+              seposuit, et fecit sibi pacem nihil timendo, fecit sibi divitias nihil
+              concupiscendo.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

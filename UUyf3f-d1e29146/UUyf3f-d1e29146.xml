@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>De peccatis linguae, de mendacio</title>
+        <author>Ps-Bonaventure</author>
+        <editor>Christopher Nighman</editor>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder; Contribution to source identification</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>De peccatis linguae, de mendacio</title>
+          <date when="2019-08-13">August 13, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              >Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness/>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0"
+        url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-08-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="UUyf3f-d1e29146">
+        <head xml:id="UUyf3f-d1e29146-Hd1e99" type="question-title">De peccatis linguae, de
+          mendacio</head>
+        <p xml:id="UUyf3f-d1e29146-d1e102">
+          <ref corresp="#UUyf3f-d1e29146-Qd1e112" xml:id="UUyf3f-d1e29146-Rd1e104">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29146-Qd1e112">Deus mendacio nostro non eget, quia veritas
+              fulciri non quaerit auxilio falsitatis.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29146-d1e117">
+          <ref corresp="#UUyf3f-d1e29146-Qd1e127" xml:id="UUyf3f-d1e29146-Rd1e119">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29146-Qd1e127">Summopere cavendum est omne mendacium: quamvis
+              nonnunquam sit aliquod genus mendacii culpae levioris, scilicet, si quisquam
+              beneficium praestando mentiatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29146-d1e132">
+          <ref corresp="#UUyf3f-d1e29146-Qd1e142" xml:id="UUyf3f-d1e29146-Rd1e134">Gregorius, in
+              <title>Moralibus</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29146-Qd1e142">Incaute sunt humiles, qui se mendacio
+              illaqueant, dum arrogantiam vitant; imo mentiendo superbiunt, qui contra veritatem se
+              erigunt, quam relinquunt.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29146-d1e147">
+          <ref corresp="#UUyf3f-d1e29146-Qd1e157" xml:id="UUyf3f-d1e29146-Rd1e149">Isidorus, in
+              <title>Synonymis</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29146-Qd1e157">Cave mendacium in omnibus: mendacio enim fides
+              tollitur, error inducitur, veritas aboletur. Nullum mendacium potest esse
+              justum.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29146-d1e163">
+          <ref corresp="#UUyf3f-d1e29146-Qd1e173" xml:id="UUyf3f-d1e29146-Rd1e165">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29146-Qd1e173">Testis falsidicus tribus est personis obnoxius:
+              primum quidem Deo, quem perjurando contemnit; consequenter judici, quem mentiendo
+              fallit; postremo innocenti, quem falso testimonio laedit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29146-d1e178">
+          <ref corresp="#UUyf3f-d1e29146-Qd1e188" xml:id="UUyf3f-d1e29146-Rd1e180">Isidorus,
+              <title>de Summo Bono</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29146-Qd1e188">Nonnunquam pejus est mendacium meditari, quam
+              loqui: nam interdum quisque incautus solet ex praecipitatione loqui mendacium;
+              meditari autem non potest nisi per studium.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29146-d1e193">
+          <ref corresp="#UUyf3f-d1e29146-Qd1e203" xml:id="UUyf3f-d1e29146-Rd1e195">Augustinus, in
+              <title>Enchiridion</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29146-Qd1e203">Utique verba propterea sunt instituta, non per
+              quae invicem se homines fallant; sed per quae in alterius quisque notitiam
+              cogitationes suas perferat.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29146-d1e208">
+          <ref corresp="#UUyf3f-d1e29146-Qd1e218" xml:id="UUyf3f-d1e29146-Rd1e210">Augustinus, in
+              <title>Enchiridion</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29146-Qd1e218">Mihi videtur omne mendacium esse peccatum
+              quidem; sed multum interesse quo animo, et de quibus rebus quisque mentiatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29146-d1e223">
+          <ref corresp="#UUyf3f-d1e29146-Qd1e233" xml:id="UUyf3f-d1e29146-Rd1e225">Augustinus, in
+              <title>Enchiridion</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29146-Qd1e233">Omne mendacium ideo dicendum est esse peccatum,
+              quia homo, non solum quando scit ipse quid verum sit, sed et si quando errat et
+              fallitur sicut homo, hoc debet loqui quod animo gerit, sive illud verum sit, sive
+              putet, et non sit.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29146-d1e238">
+          <ref corresp="#UUyf3f-d1e29146-Qd1e248" xml:id="UUyf3f-d1e29146-Rd1e240">Augustinus, in
+            libro <title>de Mendacio</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29146-Qd1e248">Mendacium est falsa significatio vocis cum
+              intentione fallendi.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29146-d1e254">
+          <ref corresp="#UUyf3f-d1e29146-Qd1e264" xml:id="UUyf3f-d1e29146-Rd1e256">Augustinus,
+              <title>de Vera Religione</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29146-Qd1e264">Inest omni mentienti voluntas fallendi, etiam si
+              ei non credatur.</quote>
+          </cit>
+        </p>
+        <p xml:id="UUyf3f-d1e29146-d1e269">
+          <ref corresp="#UUyf3f-d1e29146-Qd1e279" xml:id="UUyf3f-d1e29146-Rd1e271">Augustinus,
+              <title>de Doctrina Christiana</title>
+          </ref>
+          <cit>
+            <quote xml:id="UUyf3f-d1e29146-Qd1e279">Nemo mentiens, in eo quod mentitur, servat
+              fidem. Nam hoc vult utique, ut cui mentitur sibi fidem adhibeat, quam tamen ei
+              mentiendo non servat. Omnis autem fidei violator iniquus est.</quote>
+          </cit>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
