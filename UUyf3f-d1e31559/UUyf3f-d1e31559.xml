@@ -61,15 +61,18 @@
           </cit>
         </p>
         <p xml:id="UUyf3f-d1e31559-d1e117">
-          <ref corresp="#UUyf3f-d1e31559-Qd1e127" xml:id="UUyf3f-d1e31559-Rd1e119">Augustinus, <title>de Confessionibus</title>
+          <ref corresp="#UUyf3f-d1e31559-Qd1e127" xml:id="UUyf3f-d1e31559-Rd1e119">
+            Augustinus, <title>de Confessionibus</title>
           </ref>
           <cit>
-            <quote xml:id="UUyf3f-d1e31559-Qd1e127">Non erat quid responderem tibi, Domine, dicenti
+            <quote xml:id="UUyf3f-d1e31559-Qd1e127" source="http://scta.info/resource/aconf-l8-d1e150">
+              Non erat quid responderem tibi, Domine, dicenti
               mihi: <!--<i>-->Surge, qui dormis, et exsurge a mortuis, et illuminabit te
               Christus<!--</i>-->: et undique ostendenti te vera dicere, non erat omnino quid
               responderem veritate convictus, nisi tantum verba lenta et somnolenta: Ecce modo, sine
               modo, sine paululum. Sed <!--<i>-->modo<!--</i>--> et <!--<i>-->modo<!--</i>--> non
-              habebat modum, et <!--<i>-->sine paululum<!--</i>--> in longum ibat.</quote>
+              habebat modum, et <!--<i>-->sine paululum<!--</i>--> in longum ibat.
+            </quote>
           </cit>
         </p>
         <p xml:id="UUyf3f-d1e31559-d1e148">

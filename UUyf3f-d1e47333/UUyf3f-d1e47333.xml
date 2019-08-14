@@ -121,12 +121,16 @@
           </cit>
         </p>
         <p xml:id="UUyf3f-d1e47333-d1e223">
-          <ref corresp="#UUyf3f-d1e47333-Qd1e233" xml:id="UUyf3f-d1e47333-Rd1e225">Augustinus, <title>de Confessionibus</title>
+          <ref corresp="#UUyf3f-d1e47333-Qd1e233" xml:id="UUyf3f-d1e47333-Rd1e225">
+            Augustinus, 
+            <title>de Confessionibus</title>
           </ref>
           <cit>
-            <quote xml:id="UUyf3f-d1e47333-Qd1e233">Nemo securus esse debet in ista vita, quae tota
+            <quote xml:id="UUyf3f-d1e47333-Qd1e233" source="http://scta.info/resource/aconf-l10-d1e339">
+              Nemo securus esse debet in ista vita, quae tota
               tentatio nominatur, ut qui fieri potuit ex deteriori melior, non fiat etiam ex meliore
-              deterior: una spes, una fiducia, una firma promissio, Deus, misericordia tua.</quote>
+              deterior: una spes, una fiducia, una firma promissio, Deus, misericordia tua.
+            </quote>
           </cit>
         </p>
         <p xml:id="UUyf3f-d1e47333-d1e238">
