@@ -95,20 +95,24 @@
           <ref corresp="#UUyf3f-d1e4620-Qd1e173" xml:id="UUyf3f-d1e4620-Rd1e165">Augustinus, <title>de Doctrina Christiana</title>
           </ref>
           <cit>
-            <quote xml:id="UUyf3f-d1e4620-Qd1e173">Qui dicendo nititur persuadere quod bonum est,
+            <quote xml:id="UUyf3f-d1e4620-Qd1e173" source="http://scta.info/resource/addc-l4-d1e382">
+              Qui dicendo nititur persuadere quod bonum est,
               nihil horum trium spernens, ut scilicet doceat, ut delectet, et flectat; oret atque
-              agat, ut intelligenter, libenter, obedienter audiatur.</quote>
-          </cit>
+              agat, ut intelligenter, libenter, obedienter audiatur
+            </quote>
+          </cit>.
         </p>
         <p xml:id="UUyf3f-d1e4620-d1e178">
           <ref corresp="#UUyf3f-d1e4620-Qd1e188" xml:id="UUyf3f-d1e4620-Rd1e180">Augustinus, <title>de Doctrina Christiana</title>
           </ref>
           <cit>
-            <quote xml:id="UUyf3f-d1e4620-Qd1e188">Habet, ut obedienter audiatur, quantacumque
+            <quote xml:id="UUyf3f-d1e4620-Qd1e188" source="http://scta.info/resource/addc-l4-d1e574">
+              Habet, ut obedienter audiatur, quantacumque
               granditate dictionis, majus pondus vita docentis. Nam qui sapienter et eloquenter
               dicit, vivit autem nequiter, erudit quidem multos discendi studiosos, quamvis animae
-              suae sit inutilis.</quote>
-          </cit>
+              suae sit inutilis
+            </quote>
+          </cit>.
         </p>
         <p xml:id="UUyf3f-d1e4620-d1e193">
           <ref corresp="#UUyf3f-d1e4620-Qd1e203" xml:id="UUyf3f-d1e4620-Rd1e195">Ambrosius, <title>de Virginibus</title>

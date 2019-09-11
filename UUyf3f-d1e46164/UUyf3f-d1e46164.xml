@@ -138,9 +138,11 @@
           <ref corresp="#UUyf3f-d1e46164-Qd1e248" xml:id="UUyf3f-d1e46164-Rd1e240">Augustinus, <title>de Doctrina Christiana</title>
           </ref>
           <cit>
-            <quote xml:id="UUyf3f-d1e46164-Qd1e248">Quid locis, et tempori, et personis conveniat,
-              diligenter attendendum est, ne temere flagitia reprehendamus.</quote>
-          </cit>
+            <quote xml:id="UUyf3f-d1e46164-Qd1e248" source="http://scta.info/resource/addc-l3-d1e279">
+              Quid locis, et tempori, et personis conveniat,
+              diligenter attendendum est, ne temere flagitia reprehendamus
+            </quote>
+          </cit>.
         </p>
         <p xml:id="UUyf3f-d1e46164-d1e254">
           <ref corresp="#UUyf3f-d1e46164-Qd1e264" xml:id="UUyf3f-d1e46164-Rd1e256">Joannes Chrysostomus, <title>super Matthaeum</title>

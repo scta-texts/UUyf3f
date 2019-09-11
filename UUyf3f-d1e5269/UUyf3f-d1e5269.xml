@@ -134,9 +134,11 @@
           <ref corresp="#UUyf3f-d1e5269-Qd1e248" xml:id="UUyf3f-d1e5269-Rd1e240">Augustinus, <title>de Doctrina christiana</title>
           </ref>
           <cit>
-            <quote xml:id="UUyf3f-d1e5269-Qd1e248">Fit ut homines eum non obedienter audiant, qui
+            <quote xml:id="UUyf3f-d1e5269-Qd1e248" source="http://scta.info/resource/addc-l4-d1e579">
+              Fit ut homines eum non obedienter audiant, qui
               seipsum non audit; et Dei verbum, quod eis praedicatur, simul cum ipso praedicatore
-              contemnant.</quote>
+              contemnant
+            </quote>.
           </cit>
         </p>
         <p xml:id="UUyf3f-d1e5269-d1e254">
